@@ -1,0 +1,3271 @@
+[
+  {
+    "message": "Unlimited 10/12 (Seg)"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Aconteceu algo?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Duvido que isso agrade ao seu paladar... mas por favor, sintam-se à vontade para comer, se quiserem...」"
+  },
+  {
+    "message": "...Bolinhos de arroz?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por favor, não há necessidade de tanta hospitalidade.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Não posso oferecer muito, mas... pelo menos, posso proporcionar isto...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Muito obrigado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-Obrigado...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu mesma conservei os vegetais em conserva, então duvido que agradem aos seus gostos refinados, mas...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Aceitaremos de bom grado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Obrigado.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ah, sim... Isto está delicioso.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Ora vejam... Tantos elogios para algo tão simples...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Não passamos de simples soldados. Não há necessidade de tais formalidades...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Ahh... Bem, tenho certeza de que tem seus motivos para dizer isso, minha Jovem... Só queria ter mais para lhe oferecer...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...A senhora já fez mais do que o suficiente.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Perdoe-nos a bagunça, mas... gostaria de entrar? Está um pouco frio aqui fora...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não. Agradecemos a oferta, mas temos uma missão a cumprir. Este ar frio da noite também deve ser difícil para a senhora, portanto, por favor, retorne para sua casa.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não se preocupe conosco.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Entendo... Então vou me retirar...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Algo errado?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...O Japão ainda está seguro?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Posso morrer em paz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã!? O que você está dizendo!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Fique com a mente em paz. Nós... Seus filhos protegerão o Japão sem falta.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Nesse caso, eu realmente não tenho arrependimentos... Tudo o que resta é morrer aqui...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Há muitos que lutaram desesperadamente para proteger o Japão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Essas pessoas decidiram arriscar suas vidas para proteger a terra em que viviam por vontade própria. Ninguém precisou pedir nada a elas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pelo Japão... Pelo bem do país delas, hein...?」"
+  },
+  {
+    "message": "Definitivamente aprendemos que esse tipo de mentalidade nacionalista é... ruim, para dizer o mínimo. Mas isso foi no meu viejo mundo."
+  },
+  {
+    "message": "Esse tipo de pensamento nos meteu em uma guerra terrível. Incontáveis pessoas jogaram suas vidas fora em ataques suicidas ou bombardeios kamikaze..."
+  },
+  {
+    "message": "Para ser honesto, ainda acho difícil acreditar... que o Japão e a América realmente entraram em guerra um dia."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não estou tentando dar nenhuma interpretação especial ao significado por trás de 'Japão' ou 'país'...」"
+  },
+  {
+    "message": "A Meiya é parenta do Xogum, então ela tem que tomar cuidado com como escolhe as palavras..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Este bolinho de arroz... Como você acha que ela o fez?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "message": "Que diabo? Essa mudança de assunto foi meio abrupta."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quase ninguém vive por aqui mais... Alimentos de qualquer tipo não devem ser fáceis de conseguir...」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Todos nós vivemos apoiando uns aos outros. Em tempos de necessidade, não hesitamos em fazer sacrifícios pelo bem dos outros...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que eu quero proteger são as pessoas. Os próprios corações e almas do povo japonês... Quero proteger a vontade deles... e o próprio espírito que vive em nós há gerações...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ent... endo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Acredito que é isso que faz um país... O que nos torna o Japão. Não existe tal coisa como um país sem o seu povo...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Acho que entendi."
+  },
+  {
+    "message": "Quando penso em um país, geralmente o reduzo apenas ao governo daquele país."
+  },
+  {
+    "message": "Mas a Meiya vê as coisas de um jeito totalmente diferente..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Acho que estou entendendo agora... Foi por isso que você disse que aquela velha era importante para você?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim. Cada homem, mulher e criança neste país é precioso para mim.」"
+  },
+  {
+    "message": "Será que ela pensa assim... porque faz parte da linhagem do Xogum?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá, mas... se você deixar ela aqui, ela vai... ela vai morrer. As crenças dela não vão impedir a erupção.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se aquela velha importa tanto assim para você... como pode simplesmente deixar ela jogar a vida fora?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Para ser franca... se ela escolhe a morte em vez da vida, eu não considero isso um problema.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Calma, o quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A mera sobrevivência não é o objetivo supremo da nossa existência... E 'estar vivo' não é a mesma coisa que ser 'mantido vivo'.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... Se ela morrer...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É uma questão de ser ou não o que a pessoa deseja. De ter ou não a capacidade de afetar o resultado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha, para constar, eu até entendo o que você está tentando dizer. Mas...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru, eu quero que você pense bem nisso... Imagine se aquilo que você mais preza fosse arrancado de você contra a sua vontade.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Como seria essa sensação?」"
+  },
+  {
+    "message": "...Aquilo que eu mais prezo..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Sem hesitar por um segundo sequer, algo que se encaixa perfeitamente nessa descrição surge na minha cabeça."
+  },
+  {
+    "message": "...O outro mundo..."
+  },
+  {
+    "message": "Não... O meu mundo..."
+  },
+  {
+    "message": "O mundo que eu conheço... O mundo onde a Sumika está... Onde todos os meus velhos amigos estão..."
+  },
+  {
+    "message": "Fui cortado daquele mundo contra a minha vontade."
+  },
+  {
+    "message": "Não posso me dar ao luxo de pensar que estou preso aqui... A única coisa que me mantém vivo é a vontade de encontrar o caminho de volta para casa. TEM que haver um jeito!"
+  },
+  {
+    "message": "Mas... existem pessoas por aí para quem perder essas coisas significaria o fim. Como a pessoa na casa bem na nossa frente. E as pessoas na base desta montanha."
+  },
+  {
+    "message": "E há muitas outras que já encontraram um fim assim... Como as vítimas dos ataques dos BETA no oeste do Japão... e incontáveis outras ao redor do mundo."
+  },
+  {
+    "message": "Ter tudo tirado de você... Não há dor maior do que essa."
+  },
+  {
+    "message": "Quer dizer, isso é cristalino... mas eu não sei de que outra forma colocar."
+  },
+  {
+    "message": "Não adianta ficar filosofando sobre a natureza do sofrimento nem nada disso. Quando coisas terríveis acontecem, elas fazem a gente se sentir de forma terrível."
+  },
+  {
+    "message": "Simples assim."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... Seria incrivelmente doloroso, disso eu não tenho dúvida.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Compreende agora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mais ou menos.」"
+  },
+  {
+    "message": "Agora que penso nisso... Ela é muito mais soldado do que eu. Dada a sua posição, ela deveria entender melhor do que ninguém que ordens são absolutas."
+  },
+  {
+    "message": "Por outro lado, ela também faz parte da família do Xogum... Talvez seja por isso que ela está com essas dúvidas..."
+  },
+  {
+    "message": "Devem ser esses os tipos de dilemas com os quais ela tem lutado a vida toda..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tem minha gratidão...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é... Vamos esperar por ela até o último minuto. Mas em troca, se a situação apertar, a gente só relata que ela era uma teimosa completa que não quis nos ouvir. Combinado?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim... Tenho certeza de que ela nos perdoará por isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza então. Vou lá me esforçar ao máximo para persuadi-la... Quer dizer, vou capotar no meu Fubuki.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uou...!?」"
+  },
+  {
+    "message": "M-Mas que diacho!?"
+  },
+  {
+    "message": "Um-Um terremoto!?"
+  },
+  {
+    "message": "Não! Esse tremor é muito pior do que um simples terremoto!"
+  },
+  {
+    "message": "──Ah!"
+  },
+  {
+    "message": "Tá-Tá de sacanagem comigo!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O vulcão entrou em erupção!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Merda!」"
+  },
+  {
+    "message": "Que horas são...? 3 da manhã!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「20702 e 06! Respondam!」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「20702 e 06! Respondam!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Aqui é a 02. A 06 e os civis estão ilesos.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Certo, bom trabalho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aqui é a 06... Que diabo tá acontecendo aqui!?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...A cúpula de lava explodiu. Houve um deslizamento de rochas colossal naface norte da montanha, mas felizmente o Vale Omagari o desviou em direção a Tannose.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Por pouco não morremos enquanto dormíamos..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「A face norte também está sofrendo com fluxos de lava no momento, avançando a doze metros por segundo!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Coloquem os civis sob custódia forçada e recuem imediatamente! Seus Fubukis podem até aguentar um deslizamento, mas não foram projetados para resistir a lava e detritos vulcânicos!」"
+  },
+  {
+    "message": "──Parece que a hora finalmente chegou!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「02, 06, respondam!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uou...!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que canal criptografado de novo!?\n...O que você tá pensando!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Peço que explique a situação à senhora e confirme as intenções dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E quanto a você!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Se for possível convencê-la a evacuar, por favor, leve-a com você e recue na minha frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera um segundo! Você não vai tentar fazer alguma coisa com aquela lava sozinha, vai!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Temos que saber a decisão dela primeiro! Se ela concordar em evacuar, você nem precisa fazer isso!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mesmo que ela concorde, devemos garantir que ela tenha um lar para retornar. E se ela se mantiver firme, essa é razão a mais para impedir isso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você perdeu o juízo!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu lhe peço!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah! Ei! Meiya! Meiyaaa!!!」"
+  },
+  {
+    "message": "Meu Deus, meu Deus, meu Deus!!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「02, 06, respondam!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Essa idiota!! O que ela está pensando!?」"
+  },
+  {
+    "message": "Tanto respeito pela decisão dela! É óbvio que você nunca teve intenção de deixá-la morrer, droga!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「06, o que está acontecendo!? O que aconteceu!?」"
+  },
+  {
+    "message": "...Merda! A linha abriu de novo!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aqui é o 06, hã... Bem... A velha está fazendo o maior escândalo de última hora! Estamos cuidando disso. Câmbio!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Seus idiotas! Tirem ela daí agora mesmo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, vai ser meio problemático fazer isso também... Enfim, obrigado pelo aviso! Tenho que ir agora, câmbio e desligo!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que... Ei! 06! ──Shirogane!!」"
+  },
+  {
+    "message": "──Shirogane, responda! 02! 06!!"
+  },
+  {
+    "message": "──Aqui é o 01, movendo-me para dar cobertura!"
+  },
+  {
+    "message": "──05, juntando-se ao 01!"
+  },
+  {
+    "message": "──Aqui é o QG, não há necessidade de reforços."
+  },
+  {
+    "message": "──Aqui é o 01, sugerindo reconsideração!"
+  },
+  {
+    "message": "──Aqui é o QG, repito. Sem necessidade de reforços. Só corremos o risco de aumentar as baixas."
+  },
+  {
+    "message": "...Droga! Agora vocês deixaram todo mundo preocupado pra caralho com a gente!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Meiya!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Takeru!? O que você──!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Cala a boca! Que porra você acha que pode fazer sozinha!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Os terremotos frequentes e o recente deslizamento de terra destruíram os penhascos em ambos os lados do Vale Omagari, o que significa que ele não é mais o caminho de menor resistência.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que isso importa!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Essa lava normalmente fluiria em direção a Tannose, mas nesse ritmo ela seguirá direto para o distrito norte da Velha Tengen!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu usarei este escudo para conter o fluxo de lava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não seja estúpida!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A armadura suplementar multifuncional resiste a temperaturas de até 1500 graus, e impactos de até──」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Essa não é a questão! Você não pode mudar a direção do fluxo desse jeito! Encare os fatos, sua idiota!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nitwit!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Chega dessa discussão idiota! Agora não é hora! O que você acha que vai conseguir fazer com um único TSF!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Só saberemos quando tentarmos!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, cala a boca! Só saia DAQUI!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Whoa!!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Kghah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Merda... Merda!! Meiya! Meiya!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Está tudo bem! ...Acionando propulsores vernier!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga!!」"
+  },
+  {
+    "message": "Cuidado! Lá em cima!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「SAI DAÍ!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*ofjo*...*ofjo*... Essa por pouco... Caramba...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Você está bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... E você?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Parece que sim... O que aconteceu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que... a gente acabou no meio de um deslizamento ou algo assim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo... Bem, felizmente... isso deve nos dar um pouco de tempo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não vai resolver o problema, e você sabe disso. Anda, vamos voltar logo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ficar bravo não vai mudar nada. Vamos voltar para a casa por enquanto. De qualquer forma, temos que verificar se nossas Fubukis sofreram danos. Elas podem nem estar seguras para voltar atravessando a montanha.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Muito bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba... Elas estão completamente pretas.」"
+  },
+  {
+    "message": "Está escurecendo lá fora também. Fica muito difícil dizer qual é o estado real dos TSFs."
+  },
+  {
+    "message": "Sinceramente... talvez não tenhamos outra escolha a não ser voltar para a base para fazer reparos."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, o que está acontecendo?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Encontrei um mau funcionamento no meu sistema de sensores... e a capa do meu monitor externo não parece estar se limpando direito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você ainda consegue ter visibilidade?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não. Estou praticamente cega da uma à cinco horas. Precisaremos lavar a sujeira.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai, cara...」"
+  },
+  {
+    "message": "Não temos tempo para isso agora!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E do lado direito... A junta do cotovelo e o pulso foram danificados. Devem ter sido atingidos por detritos vulcânicos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga... Acho que nem um TSF consegue vencer o poder da mãe natureza.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E o seu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece estar bem, tirando um transmissor defeituoso. Alguém lá em cima deve gostar muito de mim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso foi uma piada...」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Vocês com certeza deixaram essas coisas bem sujas...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De fato... Acontece de haver um poço ou algum outro suprimento de água por aqui? Se sim, nos permitiria usá-lo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cara, sério!? Não me diga que a gente só vai ficar aqui sentado lavando essas coisas!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De fato vamos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sua idiota! O que você vai fazer, jogar baldes de água neles, ou o quê!? Talvez fosse possível se tivéssemos uma bomba ou algo assim, mas nós realmente não temos tempo para isso!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não me chame de idiota! Você está──」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu tenho um poço e uma bomba, se quiserem usar...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso seria muito apreciado.」"
+  },
+  {
+    "message": "...Não pode ser."
+  },
+  {
+    "name": "Idosa",
+    "message": "「Embora, infelizmente, não tenhamos eletricidade... e o gerador esteja sem combustível...」"
+  },
+  {
+    "message": "...Como eu sabia?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Poderia me mostrar este gerador?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Sim, fica ali atrás da construção principal...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se importaria se o emprestássemos?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「De modo algum...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru, por favor, use sua Fubuki para fazer a chupeta nele.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá de brincadeira, né!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ela diz que o gerador fica atrás da casa dela. Se fizermos a ligação direta, deve funcionar... Conto com você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom, tá bom.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Se me lembro bem, tenho uma mangueira velha no paiol... Deve ser longa o suficiente para o que precisam. Vou buscar para vocês agora mesmo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Oh, então permita-me acompanhá-la.」"
+  },
+  {
+    "message": "...Como sempre, a velha não mostra nenhum sinal de sair deste lugar, e a Meiya não planeja fazer nada quanto a isso... O que eu vou fazer?"
+  },
+  {
+    "message": "Se não recuarmos logo, sabe-se lá o que vai acontecer com a gente."
+  },
+  {
+    "message": "...Apesar de que, agora que os TSFs estão tão sujos... não é como se pudéssemos esconder o que aconteceu."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*Suspiro*... A Marimo-chan vai matar a gente...」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "Aquele terremoto foi, ahm. Bem forte, na verdade."
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ah, droga!!」"
+  },
+  {
+    "message": "──O paiol!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──P-Pessoal... Sério, não fazem isso comigo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Meiya! ──Senhora!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Me responda! ──Meiya! ──Senhora!!」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Eu estou bem...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...!?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Por aqui, rápido! A jovem... A perna dela ficou presa embaixo de um pilar quando ela me empurrou para um lugar seguro!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Gh...!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Meiya!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Ai, céus, como uma tragédia dessas pôde acontecer... Oh, deveria ter sido eu em vez dela...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu estou bem... Não se preocupe...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Ai, meu Deus... Por que faria uma coisa dessas por uma velha tola como eu...? Eu... Eu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem certeza de que tá bem?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim, eu estou...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nnkh...!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sua idiota! Você não tá bem porcaria nenhuma!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Kgh... urgh...」"
+  },
+  {
+    "message": "Droga, droga, droga! Será que ela quebrou a perna!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi mal, vou ter que rasgar isso aqui!」"
+  },
+  {
+    "message": "──Se bem me lembro... apertar o botão de resgate na base do ombro aciona a circulação de um produto químico que deve permitir rasgar este traje."
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Pare! Não há necessidade de despolimerizá-lo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Mas!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu estou bem... Não tenho ferimentos...!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Nossa senhora... Vou buscar ataduras e remédios agora mesmo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-Não, a senhora não precisa! É perigoso demais.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu vou ficar bem... Esperem aí mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso deve bastar... Agora, para a próxima área...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Me perdoe.」"
+  },
+  {
+    "message": "Não há nada de errado com o osso... Parece que foi só uma torção."
+  },
+  {
+    "message": "O galpão inteiro desabou em cima dela e tudo o que ela sofreu foi uma entorse... Esses trajes fortificados são incríveis."
+  },
+  {
+    "message": "Mas parece que... nem foi o desabamento que causou a torção. Parece mais que foi a pressão contínua depois disso."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Seu tornozelo tá doendo?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Está bem.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Vocês não deveriam tirar os sapatos de alguém com o tornozelo torcido. O inchaço vai impedir que consigam colocá-los de volta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Boa sacada... É a sabedoria dos mais velho, né? Enfim, como estão os ombros? Não tá com muito frio?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Eu estou bem.」"
+  },
+  {
+    "message": "Eu realmente não queria tirar as ombreiras, já que elas controlam os sistemas circulatório e de suporte vital, mas..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se a gente não aliviar um pouco o seu peso, vamos colocar carga demais nesse pé.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Perdão. Estou sendo um peso para ambos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá tudo bem, sério... Não fica falando essas coisas. Você só vai fazer a vovozinha se prostrar de novo.」"
+  },
+  {
+    "message": "Houve muita humilhação envolvida quando ela entregou as ataduras e o remédio."
+  },
+  {
+    "message": "Eu dispensaria mais daquele constrangimento."
+  },
+  {
+    "name": "Idosa",
+    "message": "「Não consigo acreditar... que minha tolice tenha trazido ferimentos a você... Como posso esperar me redimir...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos se preocupar com isso depois, senhora... nesse ritmo, acho que a sua casa vai desabar. A gente realmente deveria te tirar daqui.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Soldado, isso vai acontecer quando tiver que acontecer... Então, por favor, saia deste lugar. Não se preocupe com uma velha tola como eu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tem certeza absoluta de que não quer evacuar?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Se eu fizesse isso, nunca mais poderia voltar, não é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... seus filhos não ficariam mais felizes em te ver viva...?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se fosse eu, com certeza ia querer que minha mãe sobrevivesse.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Er... A senhora tá bem?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi? Não está se sentindo bem?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Meus... Meus filhos... já não estão mais neste mundo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "message": "...O quê?"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Nenhum dos restos mortais deles me foi devolvido... Mas os dois documentos que algum general de alta patente mandou de volta... estão no altar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...M-Mas... a senhora não disse... que era por isso que queria ficar? Não estava esperando eles voltarem para casa?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Minha cabeça me diz que eles não vão voltar... mas no meu coração... pedacinhos de papel não são o bastante para me convencer... de que eles realmente se foram...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu ainda acredito... que agora mesmo, meus filhos estão dando tudo de si pelo país... em algum lugar por aí.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Mesmo que... os corpos deles tenham ido embora, seus espíritos ainda estão lutando por este país. Eles vão lutar até estarmos em paz mais uma vez...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Mas... mesmo que tudo o que reste sejam os espíritos deles, você não acha que eles podem querer voltar para casa algum dia? Meu coração se despedaçaria se eles voltassem e encontrassem todo mundo gone...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Mas...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「É por isso que... mesmo que você diga que eu vou morrer... eu não vou sair deste lugar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... Mas mesmo assim...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Gh... Take...ru... Não tão forte... Afrouxa o aperto...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu só...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Gh!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Aaah! Desse jeito não, soldado!\nTem que ser mais frouxo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...D-Desculpa...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru.」"
+  },
+  {
+    "message": "Eu simplesmente não entendo... Como você pode... simplesmente deixar-se morrer por um motivo desses?"
+  },
+  {
+    "message": "Isso não é... o que seus filhos teriam querido, não é?"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Devo dizer... que tenho certa inveja...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Mas talvez seja imprudência... dizer uma coisa dessas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Inveja... de quê...?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Hoje em dia... até as mulheres podem lutar no campo de batalha...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Elas não precisam mais ficar para trás apenas esperando... Elas podem fazer mais do que apenas lamentar quando perdem algo querido... Estão pilotando máquinas gigantescas como esta... Podem lutar por si mesmas agora...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Talvez eu não devesse dizer algo assim na sua frente, Alteza... mas não importa o quanto o país precise delas... Eu não acredito que exista um único pai ou mãe neste mundo que fique realmente feliz em mandar os filhos para a guerra.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Embora eu saiba que possa ser presa... só por dizer uma coisa dessas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós nunca faríamos isso com a senhora...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...De qualquer forma... acho que dá para dizer que esta aqui é a minha própria batalha pessoal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer... esperar aqui?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Esperar é tão doloroso. Eu sabia que seria. Mas não há mais nada que eu possa fazer... Então, se esta vai ser a minha batalha, vou levá-la até o fim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu sei que é muita egoísmo da minha parte... Mas quando penso no quanto meus filhos lutaram... e no pouco que resta da minha própria vida, é tudo o que posso fazer.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então... você também esteve em guerra, todo esse tempo...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Bem, não é hora para conversas assim. É perigoso aqui fora, então vocês dois devem fugir... Afinal, soldados têm suas próprias batalhas para lutar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Seria muita tolice se colocarem em perigo só para ouvir as palavras de uma velha como eu... Por favor, fujam.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Sou tão grata... por terem vindo até aqui por alguém como eu, minha Jovem. E o senhor também, meu soldado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Senhora...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Me empreste a sua Fubuki.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera... Você vai mesmo tentar realizar o desejo dela? Tem CERTEZA disso?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Tenho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sua Fubuki já está bem danificada... Sabe que vão te dar uma bronca enorme quando voltarmos, né?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Estou preparada para pagar esse preço.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente não estava aqui para proteger o nosso país? Não deveríamos tentar proteger milhões de pessoas em vez de apenas uma?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu sei que estou me contradizendo... Não precisa jogar na minha cara.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cê acha mesmo que dá conta sozinha?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não importa o quanto eu esteja confiante. Eu disse que vou fazer isso, e vou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Em outras palavras, você se sentiria melhor se eu estivesse lá...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu-Eu não disse nada disso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, você basicamente tá dizendo que não sabe se consegue sozinha, mas mesmo assim vai tentar?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu consigo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba, você tá parecendo um disco arranhado. Só quero ouvir uma palavrinha!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O-O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qual é... Só fala a palavra mágica, e eu cubro a sua retaguarda totalmente...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*suspiro*... Devia saber que era inútil esperar isso de você... Enfim, tanto faz. Eu vou com você.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não posso recuar sem você, e se te levasse à força, você provavelmente me mataria... Não é como se eu tivesse muita escolha.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Basicamente, só precisamos impedir que a lava passe por aqui, não é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não podemos pará-la apenas com nossa armadura suplementar. E aquele deslizamento de terra só nos compra um pouco de tempo, na melhor das hipóteses.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu tenho um plano... e gostaria de determinar se é viável ou não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, pode mandar...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Q-O que você está fazendo!? Seu tolo imprudente!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「M-Minha perna... Dói... V-Você sabe que estou ferida!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É verdade... Foi mal, foi mal.\nEntão tá, vou te levar nas costas.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-...Não diga desse jeito!\n──Me leve até a minha Fubuki, agora mesmo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá, tá.」"
+  },
+  {
+    "message": "Como ordens, princesa..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...N-Não sorria desse jeito!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá, tá. O que você disser.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pronto.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...N-Não diga que estou pesada, mesmo que esteja pensando nisso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu sei...」"
+  },
+  {
+    "message": "Mas o... que...?"
+  },
+  {
+    "message": "Por que eu tenho a sensação de que isso já aconteceu antes...?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Não... Não pode ser..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Seu imbecil! Não fique em silêncio também...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá, tá.」"
+  },
+  {
+    "message": "Foi só impressão minha...?"
+  },
+  {
+    "message": "Já está amanhecendo..."
+  },
+  {
+    "message": "Estamos chegando perto do limite de tempo."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como está? Ainda nada feito?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Parece que o transmissor da sua Fubuki é uma causa perdida. Nenhuma das minhas chamadas obteve resposta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não ouvi nada... Bem, o sinal não vai ser tão forte, mas é só redirecionar para o meu traje fortificado.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E quanto ao seu link de dados? Ainda está ativo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Nenhum problema com isso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Então abra o mapa da topografia local.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Beleza.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Graças ao deslizamento no Vale Omagari, o fluxo de lava foi temporariamente desviado em direção a Tannose...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É uma questão de tempo até transbordar para cá, então... E aí? Qual é o plano?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você está vendo o leito de rio seco no distrito de Tannose?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ah, então esta linha marca um leito de rio? Sim, estou vendo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Em teoria, tudo o que precisamos fazer é guiar o fluxo de lava para lá...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi aonde quer chegar... É, pode funcionar... Mas aquele vale foi bloqueado pelo deslizamento e pelas rochas, não foi?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Exatamente o problema. Acredito que precisamos fazer algo a respeito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, já que é meio que lá que ele se divide para o Vale Omagari...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Depois daquele deslizamento, nossos dados topográficos da área não são mais precisos o suficiente para confiarmos neles.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... O que significa que precisamos confirmar a situação primeiro. Vou dar uma olhada.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Espere. Eu vou também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ãh... E a sua perna?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Preciso apenas controlar os pedais. Não é como se eu realmente fosse caminhar... Estarei bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo. Vamos nessa.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya, qual é o problema? ...Tem certeza de que não está se forçando demais?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Kgh... Nngh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Ei, você está bem!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...E-Estou bem. Mais importante, como está o terreno? Com o estado dos meus sensores, consigo ver pouco além do que está diretamente na minha frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem, isso provavelmente basta para sacar... A gente não vai dar conta disso.」"
+  },
+  {
+    "message": "Isso realmente mostra o quão poderosa a natureza pode ser..."
+  },
+  {
+    "message": "Um deslizamento acabou de passar por aqui, mas já não há mais nenhum sinal visível disso."
+  },
+  {
+    "message": "A lava vermelha escura cobriu tudo... e continua jorrando firmemente adiante."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você não está com medo, está...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não seja idiota! Eu disse que ia fazer isso, e vou.」"
+  },
+  {
+    "message": "...Mas, agh... Falar e fazer são duas coisas bem diferentes."
+  },
+  {
+    "message": "Por enquanto, temos que dar um jeito nos entulhos do lado de Tannose..."
+  },
+  {
+    "message": "Mas com apenas dois TSFs, duvido muito que consigamos fazer alguma diferença nisso... Mesmo se trouxéssemos equipamento de escavação especializado, levaria dias para limpar tudo."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Bem, ao menos agora temos dados topográficos atualizados.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo, então vamos voltar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Temos que fazer algo quanto a isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Vamos dar o fora daqui por enquanto... Toma, não se mexe. Eu te levo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você claramente se esforçou demais no caminho até aqui. Apenas fique quieta e quieta.」"
+  },
+  {
+    "message": "Claro, eu nunca tentei dar um salto impulsionado carregando outro TSF antes... Espero que isso dê certo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba, que troço pesado...!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu te disse para não dizer que eu sou pesada!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tô falando de você!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Grgh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá seriamente encanada com o seu peso desse jeito?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não estou!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hahaha...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Seu idiota! ...Não ria.」"
+  },
+  {
+    "message": "Caramba, tenho que admitir, essas unidades de salto têm um empuxo danado."
+  },
+  {
+    "message": "Obviamente não é fácil, mas... eu provavelmente conseguiria carregar dois TSFs inteiros se eu quisesse."
+  },
+  {
+    "message": "Talvez pudéssemos fazer algo com isso no treinamento... Tipo um ataque combinado estilo Transmorphers...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é... Só que você vai ter que aguentar o impacto da aterrissagem sozinha, hein.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "...*suspiro*..."
+  },
+  {
+    "message": "Já olhamos para esses dados um milhão de vezes, mas tá cada vez mais claro que a gente tá fodido e sem saída..."
+  },
+  {
+    "message": "Daqui a meia hora mais ou menos, a lava vai transbordar e avançar para cá, no distrito norte da Velha Tengen."
+  },
+  {
+    "message": "Aí teremos desertado por nada. Vai acabar tudo, incluindo o desejo daquela velha."
+  },
+  {
+    "message": "...Mas sinceramente... o que a gente pode fazer?"
+  },
+  {
+    "message": "──Nada."
+  },
+  {
+    "message": "Não há nada que possamos fazer quanto a isso. Precisamos fazer algo, mas não conseguimos... Não temos mais cartas na manga..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu... não quero desistir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Agora que arrastei você para isso... não posso desistir aqui...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não me arrastou para nada.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se eu tivesse apenas... pedido para você fazer isso comigo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então este incidente... seria de minha exclusiva responsabilidade. Perdoe-me... por não ter percebido isso antes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Não, aé... Não foi bem por isso que eu quis que você dissesse aquilo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu só queria que você doesse um pouco mais de mim... Só isso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「..M-Mas por quê...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá... É sempre divertido experimentar algo novo, não é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim, tanto faz. Agora que chegamos até aqui, não tem mais volta.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como eu disse antes... Agora tô comprometido, então não vamos desistir.」"
+  },
+  {
+    "message": "...É isso aí, eu não vou desistir. Tem que haver um jeito. Tem que haver!!"
+  },
+  {
+    "message": "Agora... podemos realizar o desejo daquela velha, ou simplesmente ignorá-lo."
+  },
+  {
+    "message": "Ela está basicamente à nossa mercê."
+  },
+  {
+    "message": "──Eu invejo bastante..."
+  },
+  {
+    "message": "──Hoje em dia... até as mulheres podem lutar no campo de batalha..."
+  },
+  {
+    "message": "──Elas não precisam mais ficar para trás apenas esperando... Elas podem fazer mais do que lamentar quando perdem algo querido... Elas estão pilotando máquinas gigantescas como esta... Elas podem lutar por si mesmas agora..."
+  },
+  {
+    "message": "Eu não sei como vamos lidar com isso. Mas ainda tem que haver algo que possamos fazer."
+  },
+  {
+    "message": "──Takeru, quero que pense nisso... Imagine se aquilo que você mais preza fosse arrancado de você contra a sua vontade."
+  },
+  {
+    "message": "Afinal... eu também sou alguém que está tentando recuperar o que me foi roubado..."
+  },
+  {
+    "message": "──Esperar é tão doloroso. Eu sabia que seria. Mas não há mais nada que eu possa fazer... Então, se esta é a minha batalha, vou até o fim..."
+  },
+  {
+    "message": "Posso não ser movida pelos mesmos \"motivos nobres\" ou seja lá o que for da Meiya e daquela velha, mas..."
+  },
+  {
+    "message": "──Então... você também esteve em guerra esse tempo todo..."
+  },
+  {
+    "message": "...Sim."
+  },
+  {
+    "message": "Se eu deixar ela perder tudo o que lhe é querido agora... Eu sinto que... talvez eu nunca consiga recuperar o que me é querido também."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que é...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Há um jeito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério!? ...Qual é!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Podemos isolar a entrada norte da Velha Tengen bloqueando o caminho que sobe para o Vale Omagari.」"
+  },
+  {
+    "message": "...Entendi."
+  },
+  {
+    "message": "É, essa com certeza é uma ideia melhor do que tentar limpar os escombros que bloqueiam Tannose."
+  },
+  {
+    "message": "É basicamente a mesma lógica invertida. Se o distrito norte aqui agora é o caminho de menor resistência, então simplesmente precisamos tornar a entrada dele mais alta."
+  },
+  {
+    "message": "Dito isso..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você disse bloquear... mas como?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Olhe para onde o distrito norte da Velha Tengen se encontra com o Vale Omagari.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──O que tem lá?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O Guardião.」"
+  },
+  {
+    "message": "──!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ah, agora eu entendi!」"
+  },
+  {
+    "message": "É isso... Uma rocha massiva como aquela com certeza seria o bastante para bloquear!O"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Então, como derrubamos aquilo?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A única arma que temos à mão é uma Lâmina Corpo a Corpo Tipo-74... Se pudéssemos cortá-la da montanha usando isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cortar uma rocha desse tamanho com uma Tipo-74?\n...Nem fudendo que vai fatiar essa porra. Não importa o quão forte você seja...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não... Vai sim!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não seja absurda!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Espere... Por favor, olhe para isto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É um modelo do Vale Omagari. Foi feito usando ecolocalização a partir dos sons dos passos dos nossos Fubukis.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu achei que os sensores do seu Fubuki estivessem com defeito...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isto foi criado a partir dos dados que o seu Fubuki coletou mais cedo, quando estávamos analisando a topografia.」"
+  },
+  {
+    "message": "Ah, é verdade. Estamos conectados via link de dados."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você pode ver vários planos vermelhos dentro do Guardião... Estas são fissuras dentro da rocha.」"
+  },
+  {
+    "message": "──Entendi... Então é por isso que ela tem tanta certeza de que pode cortar!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Talvez estivesse prestes a desabar por conta própria... ou talvez a atividade vulcânica aqui o tenha desgastado.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma, de acordo com os meus cálculos, um ataque concentrado neste local exato poderia causar um desabamento massivo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se formos bem-sucedidos, até a estimativa mais minimalista dos detritos resultantes seria suficiente para bloquear o vale.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba, Meiya... Essa é uma ótima ideia!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Na verdade, não é.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Há três problemas enormes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quais são?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Para alcançar a força necessária para induzir esse desabamento, temos que usar um método muito específico.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E qual seria?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Um salto de impulso combinado para ganhar altitude, seguido de um mergulho com propulsão. Isso intensificará a energia cinética conferida pela Lâmina Corpo a Corpo Tipo-74.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, entendi... E daí?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O primeiro problema é que estamos com pouco combustível. Mesmo se combinarmos o combustível em ambos os nossos TSFs, não teremos o suficiente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──O quê!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Dado o combustível restante e a altitude máxima segura, só conseguiremos atingir 80% da altura necessária.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Certo, a altitude máxima segura...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Acredito que cobrimos isso na aula. É a altura derivada da quantidade correspondente de combustível necessária para um impulso reverso absorver o choque do peso total do TSF ao pousar.」"
+  },
+  {
+    "message": "Basicamente, mesmo que a gente consiga cortar o Guardião, não vai sobrar combustível para um pouso seguro..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Poderíamos fazer isso... se nos resignássemos à possibilidade de ser uma viagem só de ida...」"
+  },
+  {
+    "message": "...Em outras palavras, poderíamos não sobreviver se fizéssemos isso."
+  },
+  {
+    "name": "Meiya",
+    "message": "「O segundo problema é que estamos com pouco tempo. Não temos tempo para retornar à base temporária no Passo de Tarumizawa para reabastecer nosso suprimento de combustível, nem podemos pedir reforços ao quartel-general.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Meus cálculos dizem que temos uma margem de segurança de vinte e oito minutos... Além disso, não consigo prever. Até mesmo esse número é uma estimativa otimista baseada apenas no fluxo de lava.」"
+  },
+  {
+    "message": "O QG nunca enviaria reforços de qualquer maneira. Fomos ordenados a forçá-la a evacuar conosco o mais rápido possível..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Cara, e parecia uma boa ideia também...」"
+  },
+  {
+    "message": "Se tivéssemos conseguido quebrar aquela rocha, teria sido perfeito... Além disso, tenho certeza de que aquela velha ficaria feliz em saber que seu \"Guardião\" realmente a salvou..."
+  },
+  {
+    "message": "Filha da puta! Gastamos combustível demais entre o deslizamento de terra e a coleta de dados... Nós nos ferramos!"
+  },
+  {
+    "message": "Não é hora de ficar pensando em merda nenhuma de Transformadores! Combinar os recursos de ambos os nossos TSFs só nos levaria até 80% do caminho..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Esperador... Dois TSFs..."
+  },
+  {
+    "message": "...Combinando..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Também há a opção de levar a Fubuki àquela altura... e então se autodestruir. Mas talvez não tenhamos tempo suficiente, e em termos de regulamentos militares...」"
+  },
+  {
+    "message": "──!"
+  },
+  {
+    "message": "Esperador... Dois TSFs..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Meiya! Nós podemos conseguir!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──O quê!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos usar a sua Fubuki!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Primeiro, vamos usar as unidades de salto da sua Fubuki. Mas serei eu quem vai pilotar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu havia considerado isso, mas... infelizmente, uma única Fubuki não pode ser equipada com unidades de salto adicionais de outra, nem operá-las simultaneamente──」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Eu sei disso. Mas podemos, se modificarmos a própria Fubuki.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A própria Fubuki?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos depenar tudo o que não precisamos para o salto, deixando apenas a unidade de salto e o bloco pélvico, e então conectar isso à minha.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou saltar segurando aquilo como fiz antes. Assim que a TSF depenada ficar sem combustível, eu a solto e dou um segundo impulso! Aí está o nosso salto duplo!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O salto consome toneladas de combustível logo no início. Após o segundo impulso, meu tanque estará quase vazio... e eu não estarei mais carregando a sua TSF. Essa redução de peso deve nos dar o aumento de vinte por cento na eficiência de que precisamos!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é infinitamente melhor do que simplesmente nos andarmos pelos ares, não é!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você está ouvindo!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Meiya!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Perdão. Eu estava calculando os números do seu plano.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ah, entendi... Desculpa.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A sua ideia não apenas satisfaria os 20% de que precisamos, como nos daria um excedente de 30%.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é incrível!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Se reduzirmos a sua Fubuki o máximo que o tempo permitir, seremos capazes de garantir pouco mais de 130% do combustível necessário.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Não falei!? ──Então vamos nessa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Espere um momento. Isso resolve a questão do combustível... mas o terceiro problema permanece. É o mais problemático de todos.」"
+  },
+  {
+    "message": "...O que é?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O problema da perícia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Habilidade?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim... O sucesso deste plano depende de duas manobras de TSF muito distintas.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Uma é a guinada rápida para um mergulho impulsionado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, essa? Eu faço isso o tempo todo!」"
+  },
+  {
+    "message": "Um salto cancelado direto para um mergulho impulsionado... Se fossem a Representante ou a Ayamine, poderia ser um problema. Mas como sou eu, vai ser moleza!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O outro problema é... a habilidade corpo a corpo necessária para desferir um golpe com a Lâmina Corpo a Corpo Tipo-74 com força total para acertar um alvo de vinte centímetros de largura dentro de dois graus do ângulo ideal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não... Sem chance...」"
+  },
+  {
+    "message": "E-Eu não consigo fazer isso!"
+  },
+  {
+    "message": "Eu mal cheguei ao ponto de conseguir acertar um alvo de dois METROS com confiabilidade...!!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você conseguiria executar a guinada rápida e o mergulho impulsionado. Embora me custe admitir, seria impossível para mim no meu nível atual...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mas eu não sei usar espada direito... Digo, tenho certeza de que VOCÊ conseguiria...」"
+  },
+  {
+    "message": "...Um salto cancelado direto para um mergulho impulsionado."
+  },
+  {
+    "message": "Levou três dias inteiros para eu ensinar a Representante e a Ayamine a fazerem isso."
+  },
+  {
+    "message": "Só nos restam vinte minutos... Não há a menor chance de chegarmos perto..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma, só temos uma chance para isso. Entre nós dois... quem você acha que tem as melhores chances?」"
+  },
+  {
+    "message": "Qual de nós tem a melhor chance? ...Não tenho a menor ideia!"
+  },
+  {
+    "message": "Mas um de nós tem que fazer isso... Esta é uma manobra de tudo ou nada!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não há tempo... Temos que decidir.」"
+  },
+  {
+    "message": "Um alvo de vinte centímetros... Isso não é algo que qualquer quantidade de força de vontade ou foco vá me ajudar a resolver..."
+  },
+  {
+    "message": "Mas a Meiya certamente não conseguiria fazer uma guinada rápida com mergulho impulsionado com aquela lesão na pierna."
+  },
+  {
+    "message": "O que a gente faz... !?"
+  },
+  {
+    "message": "Se eu deixasse a Meiya para trás... e falhasse... ela não conseguiria evacuar com aquela perna..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "──Beleza!"
+  },
+  {
+    "message": "Tem que ser eu!"
+  },
+  {
+    "message": "Vou conseguir isso, e depois trazer a velha e a Meiya de volta usando o meu TSF..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru... Acredito que devia ser eu a fazer isso. Todo este incidente é minha responsabilidade──」"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "message": "Espera..."
+  },
+  {
+    "message": "...E se a gente...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──É isso!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Qu-O que é!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É óbvio que você deve ser a única a cortar... Então conto com você.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim... Entendi. Então você só precisa──」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Executa o mergulho com impulso de giro rápido!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Com licença...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós só temos que compartilhar o cockpit.\nEu manobro e você ataca...\nQue tal!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「V-Você está sugerindo que ambos entrem em um único TSF!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O manual diz que não dá para duas pessoas operarem um?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-Não, não diz. No entanto... Seria mais difícil acertar o tempo do que se um de nós fizesse isso sozinho!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qualé. Nós já somos parceiros de crime nessa! Dá uma força!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu não estava tentando ser não cooperativa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nenhum de nós tem chance sozinho de qualquer jeito. Acho que eu e você estamos na mesma sintonia... Por que não provamos isso?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Muito bem. Vou confiar em você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então não temos tempo a perder. Vamos fazer isso logo de uma vez.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「I-Isso realmente está... bastante apertado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, quem está na chuva é para se molhar.」"
+  },
+  {
+    "message": "Dito isso... É, está bem apertado.\nApesar de que... o espaço reduzido não é o maior problema aqui..."
+  },
+  {
+    "message": "O, ahm... jeito que nossos trajes fortificados meio que... grudam... é, bom..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「A conexão... p-parece estar funcional.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, ótimo... Hã... V-Você se importa se eu me mover um pouco para frente? É que, ahm... é meio difícil alcançar os pedais...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「C-Claro...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「D-Desculpa! I-Isso foi um acidente!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu sei disso...!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Caramba... O cabelo da Meiya cheira muito bem..."
+  },
+  {
+    "message": "O shampoo dela deve ser do mesmo tipo padrão que o nosso... então por que cheira tão bem? É só porque é a Meiya?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru.」"
+  },
+  {
+    "message": "────!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──O-O que foi?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Todos os preparativos estão prontos. Podemos começar a qualquer momento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo... Entendido.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós... Temos que dar um jeito nisso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Eu consigo sentir o ritmo cardíaco da Meiya."
+  },
+  {
+    "message": "O corpo dela está quente... e... está tremendo..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você está tremendo.」"
+  },
+  {
+    "message": "A mão dela está trêmula sobre a minha..."
+  },
+  {
+    "message": "Isso não está certo..."
+  },
+  {
+    "message": "Eu não posso deixar ela continuar assim."
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, não deixe a pressão te abalar... Você tem que acreditar em si mesma.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Respire fundo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...T-Tá bom...」"
+  },
+  {
+    "message": "Eu consigo sentir a Meiya puxando o ar."
+  },
+  {
+    "message": "Nós definitivamente conseguimos fazer isso."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Você consegue sentir?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu consigo sentir o seu coração batendo também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Consegue?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A partir deste momento, devemos ser um só.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu tenho fé... na conexão que compartilhamos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... Eu também...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos nessa, Meiya! Hora de desobedecer às ordens com estilo!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendido! Pronta quando você estiver!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Beleza! 20702, propulsão total!\nVoo frontal por vinte segundos!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Contagem regressiva...\nQuarenta e cinco... Quarenta e quatro... Quarenta e três...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Vinte e oito... Vinte e sete... Vinte e seis...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「―Aumentando a potência! Lá vamos nós!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Dezenove... Dezoito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Até aqui, tudo bem... Continue assim! Mais alto!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Dez... Nove... Oito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Droga!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Cinco... Quatro... Três...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Mais alto! ──Dá tudo o que você tem, Fubukiii!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Dois... Um...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──Descartando 20702!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──20706, propulsão máxima!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「02 fora! Sem danos na 06!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Dezenove... Dezoito... Dezessete...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Estamos a quarenta metros abaixo da altura alvo!」"
+  },
+  {
+    "message": "──Merda! Não vai ser o bastante!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Doze... Onze... Dez...」"
+  },
+  {
+    "message": "──Erramos nos cálculos!?"
+  },
+  {
+    "message": "A margem de erro era mesmo tão grande assim!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Sete... Seis... Cinco...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Droga!\n──Não estamos conseguindo a altura necessária!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Quatro... Três...」"
+  },
+  {
+    "message": "──Se eu não tomar uma medida evasiva agora..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Dois... Um...」"
+  },
+  {
+    "message": "──Vamos cair em colisão!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Zero...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Nem a pau que a gente vai recuar agora!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Confie..."
+  },
+  {
+    "message": " a sua vida a mim!」"
+  },
+  {
+    "message": "Propulsores online, todos os sistemas normais. Altura alvo alcançada!"
+  },
+  {
+    "message": "Sua vez, Meiya!!"
+  },
+  {
+    "message": "...Meiya... Meiya..."
+  },
+  {
+    "message": "...Mm... Mmn..."
+  },
+  {
+    "message": "Tá viva, Meiya?"
+  },
+  {
+    "message": "...Ên? Ah... T-Takeru!?"
+  },
+  {
+    "message": "Ai, ai!! Não fica se contorcendo toda! Tá me cotovelando no estômago!"
+  },
+  {
+    "message": "P-Perdão!"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...O que... O que aconteceu com a gente...?"
+  },
+  {
+    "message": "Eu não sei..."
+  },
+  {
+    "message": "Será que a gente foi... enterrado vivo?"
+  },
+  {
+    "message": "É. Eu vi o Guardião se soltar, mas... a gente ficou sem combustível e caiu junto..."
+  },
+  {
+    "message": "Eu me lembro disso também."
+  },
+  {
+    "message": "Eu acabei de recuperar a consciência."
+  },
+  {
+    "message": "...Entendo. Fico feliz em saber que você saiu ileso."
+  },
+  {
+    "message": "...Tinha alarmes e luzes de emergência até agora pouco... mas pararam todos."
+  },
+  {
+    "message": "Quanto tempo será que a gente ficou desacordado...?"
+  },
+  {
+    "message": "Um umas seis horas, talvez?"
+  },
+  {
+    "message": "...Entendi."
+  },
+  {
+    "message": "Consigo ouvir alguns sons vindo lá de cima..."
+  },
+  {
+    "message": "Pode ser que o deslizamento ainda não tenha acabado..."
+  },
+  {
+    "message": "Será...? Você acha que foi o bastante para bloquear o vale?"
+  },
+  {
+    "message": "Não sei dizer... Daqui para frente, só Deus sabe."
+  },
+  {
+    "message": "Algum dos nossos equipamentos ainda tá funcionando...?"
+  },
+  {
+    "message": "Todos os motores estão offline. Monitores, sensores e transmissores também... Tá tudo morto."
+  },
+  {
+    "message": "...Entendo... Suponho que isso explique este calor..."
+  },
+  {
+    "message": "...É, talvez..."
+  },
+  {
+    "message": "...Ah, é claro! Você tá bem? Se machucou!?"
+  },
+  {
+    "message": "Eu tô bem. E a sua perna, Meiya?"
+  },
+  {
+    "message": "Hm...? Eu tinha até me esquecido da dor até agora."
+  },
+  {
+    "message": "Beleza... Ugh, eu realmente vacilei no final... Fiquei acionando o pos-combustão sem parar, mas simplesmente não bateu com os nossos cálculos..."
+  },
+  {
+    "message": "Eu mesma estava bastante tensa. Se eu não tivesse me soltado do outro TSF exatamente na hora em que fiz, teríamos perdido impulso demais."
+  },
+  {
+    "message": "Bem, é isso que dá ir na base do chute, né?"
+  },
+  {
+    "message": "Devo ter subestimado o peso da unidade de salto e do bloco pélvico do Fubuki..."
+  },
+  {
+    "message": "Mmmm... Eu tava pensando que talvez tenha sido porque a gente não calculou o seu peso extra na minha cabine..."
+  },
+  {
+    "name": "Meiya",
+    "message": "　──*paf!* *paf!*"
+  },
+  {
+    "message": "Opa! Ei, para com isso!"
+  },
+  {
+    "message": "O-O meu peso é insignificante demais para entrar na conta!"
+  },
+  {
+    "message": "Foi só uma piada, cara!"
+  },
+  {
+    "message": "...Bobo."
+  },
+  {
+    "message": "Não fica brava... Era só uma brincadeira..."
+  },
+  {
+    "message": "...Eu... Eu estou pesada?"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "message": "...Eu sou mesmo... tão pesada assim?"
+  },
+  {
+    "message": "Que nada, de jeito nenhum... Ei, você não está se forçando assim? Pode encostar para trás se quiser."
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "message": "Uau! Você é pesada mesmo!"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "message": "Agh, seu idiota... Não acredito que você estava se esforçando tanto para não encostar! Não tenha medo de deitar em cima de mim quando o seu tornozelo já está nesse estado... Qualé..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "E falando sério... um pouquinho de peso é até gostoso, sabe?"
+  },
+  {
+    "message": "...O-O que você quer dizer?"
+  },
+  {
+    "message": "Não sei, é quase como se... estivesse encolhido embaixo de um edredom bem fofinho, eu acho? É bem quentinho... e macio..."
+  },
+  {
+    "message": "...Ent-Entendo..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Tem algo que quer dizer?"
+  },
+  {
+    "message": "...Pode ser que não venha ninguém nos procurar."
+  },
+  {
+    "message": "Nossa, você vai mesmo falar uma coisa dessas agora!?"
+  },
+  {
+    "message": "Você precisa ouvir com atenção... Esta Fubuki foi projetada para apenas um piloto."
+  },
+  {
+    "message": "É."
+  },
+  {
+    "message": "O que significa que... ela só tem oxigênio de emergência para um."
+  },
+  {
+    "message": "Eu sei."
+  },
+  {
+    "message": "Com nós dois aqui dentro, ele vai durar apenas metade do tempo."
+  },
+  {
+    "message": "Eu sei."
+  },
+  {
+    "message": "...Além disso, eu não tenho mais a unidade de suporte vital do meu traje fortificado."
+  },
+  {
+    "message": "É, eu tirei aquilo."
+  },
+  {
+    "message": "S-Só porque eu estava ferida..."
+  },
+  {
+    "message": "E fui eu quem disse para entrarmos aqui juntos. Não você."
+  },
+  {
+    "message": "...Me perdoe."
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "Eu nunca poderei pedir desculpas o bastante... por ter arrastado você para isso comigo..."
+  },
+  {
+    "message": "Que nada... Você não me arrastou para nada não."
+  },
+  {
+    "message": "Mas... e se o socorro nunca vier nos buscar..."
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "message": "Foi outro desabalo? Ou... talvez um terremoto? Está sacudindo muito mais do que antes."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "O que foi que você disse lá em cima? \"Confie a sua vida a mim\"?"
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "message": "Você não precisa se desculpar... Eu já entreguei a minha vida a você mesmo."
+  },
+  {
+    "message": "E-Eu não... quis dizer nada em especial com isso... Foi apenas uma figura de linguagem..."
+  },
+  {
+    "message": "Quem será que chega primeiro — nós sermos resgatados ou a sua perna sarar?"
+  },
+  {
+    "message": "Seu tonto! Não vamos estar mortos até lá!?"
+  },
+  {
+    "message": "É, provavelmente."
+  },
+  {
+    "message": "Sabe... antigamente eu tinha muito medo da morte. Mas agora, estou bem calmo quanto a isso."
+  },
+  {
+    "message": "...Talvez vocês estejam começando a influenciar meu jeito de ser. Hahaha."
+  },
+  {
+    "message": "Takeru..."
+  },
+  {
+    "message": "Você e aquela velha realmente abriram meus olhos de tantas maneiras..."
+  },
+  {
+    "message": "Quer dizer... Eu ainda não iria querer sair correndo para morrer só porque alguém me ordenou, mas..."
+  },
+  {
+    "message": "Se for por algo assim... Acho que morrer não seria tão ruim."
+  },
+  {
+    "message": "──É claro que seria!!"
+  },
+  {
+    "message": "────!?"
+  },
+  {
+    "message": "Isso não é verdade! Eu nunca vou permitir que você... Justo você..."
+  },
+  {
+    "message": "Meiya..."
+  },
+  {
+    "message": "Não há nenhum jeito de resolver isso!? Isto não vai se mover, não importa o que façam?"
+  },
+  {
+    "message": "Ei! P-Para de se contorcer!! Você vai gastar nosso oxigênio mais rápido!"
+  },
+  {
+    "message": "Algo... Tem que haver algum jeito!! Mesmo que seja só para salvar você..."
+  },
+  {
+    "message": "Para com isso, Meiya! Está tudo bem... Desiste logo disso!"
+  },
+  {
+    "message": "Para! Chega disso!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*aperto*"
+  },
+  {
+    "message": "──Ah!!"
+  },
+  {
+    "name": "Meiya",
+    "message": "　──*paf!* *paf!*"
+  },
+  {
+    "message": "Ai!"
+  },
+  {
+    "message": "P-Perdoa-me... Perdoa-me... Perdoa-me..."
+  },
+  {
+    "message": "...Bem, na verdade, ainda bem."
+  },
+  {
+    "message": "Hã...?"
+  },
+  {
+    "message": "Pensar que choraste por mim... bem no fim..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "É uma pena não conseguir ver o seu rosto agora... Não é qualquer um que faz a realeza chorar por si..."
+  },
+  {
+    "message": "...Você... é o primeiro."
+  },
+  {
+    "message": "Então por mim tudo bem. Fui a primeira pessoa por quem você chorou... já é o bastante."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Claro... tenho certeza de que você não está muito feliz em passar suas últimas horas... presa no escuro com um cara como eu..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Meiya?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Meiya!?"
+  },
+  {
+    "message": "...O que é?"
+  },
+  {
+    "message": "Ufa... Caramba, você tem que me responder para eu não pensar no pior! Está mesmo tão chateada por ter que morrer comigo?"
+  },
+  {
+    "message": "...Não há... nada que você gostaria que eu dissesse?"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "Q-Quer dizer... Você tem alguma... digamos, \"palavra mágica\" que gostaria que eu dissesse, como fez hoje de manhã?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "E-Esquece! Não importa... Se... Se realmente não tem nada que eu possa dizer..."
+  },
+  {
+    "message": "...Espera, então você vai dizer alguma coisa por mim?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Você me disse... que gostaria que eu dependesse mais de você... não disse?"
+  },
+  {
+    "message": "Sim..."
+  },
+  {
+    "message": "Então... você gostaria de ter... outra das minhas primeiras vezes?"
+  },
+  {
+    "message": "──Hã!?"
+  },
+  {
+    "message": "...Você... estaria disposto a ter... outra das minhas primeiras vezes?"
+  },
+  {
+    "message": "C-Como assim!?"
+  },
+  {
+    "message": "Gostaria... de experimentar um \"beijo\"..."
+  },
+  {
+    "message": "O quê...?"
+  },
+  {
+    "message": "P-...Pois... Um beijo, hã..."
+  },
+  {
+    "message": "N-N-Não era minha intenção... q-que você fosse o meu primeiro parceiro... s-só para deixar claro!"
+  },
+  {
+    "message": "Ai. Que grosseria...?"
+  },
+  {
+    "message": "Ahahahah...!"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Pensei... que pudesse ser... uma coisa boa de ter vivido... antes de morrer."
+  },
+  {
+    "message": "Uma experiência agradável para quem?"
+  },
+  {
+    "message": "Rgh..."
+  },
+  {
+    "message": "Para mim? Ou... para você, Meiya?"
+  },
+  {
+    "message": "I-Isso é... Quero dizer... Tolo! Não... Não me provoque assim..."
+  },
+  {
+    "message": "Haha..."
+  },
+  {
+    "message": "──Ah!"
+  },
+  {
+    "message": "Olha, Meiya... Achei a sua mão."
+  },
+  {
+    "message": "...V-Você está... está segurando a minha mão..."
+  },
+  {
+    "message": "Posso... tocar no seu cabelo?"
+  },
+  {
+    "message": "Não... vejo porque não."
+  },
+  {
+    "message": "Uau... Caramba, é tão macio..."
+  },
+  {
+    "message": "Normalmente... é muito mais."
+  },
+  {
+    "message": "A sério? ...Agora está tão suave..."
+  },
+  {
+    "message": "...E... esta... esta é a minha bochecha."
+  },
+  {
+    "message": "É tão macia..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Imaginaste... que nos estamos a olhar nos olhos agora?"
+  },
+  {
+    "message": "Sim, provavelmente..."
+  },
+  {
+    "message": "Isso é bom... Embora seja uma pena... não poder ver o seu rosto... Uma pena mesmo..."
+  },
+  {
+    "message": "É... Tá tão escuro que não dá pra saber onde fica o quê."
+  },
+  {
+    "message": "I-Isso é impróprio! Onde você acha que está metendo as mãos!? Está fazendo isso de propósito!"
+  },
+  {
+    "message": "Ora, você sabe... Eu mesmo tô bem nervoso, sabe? Pensei que brincar um pouco pudesse aliviar a tensão..."
+  },
+  {
+    "message": "Idiota! Tal comportamento numa hora dessas... Você é incorrigível!"
+  },
+  {
+    "message": "Foi mal..."
+  },
+  {
+    "message": "...Eu não ando te suportando."
+  },
+  {
+    "message": "Ah, não fica com essa cara amarrada pra cima de mim. Vou fazer direito desta vez..."
+  },
+  {
+    "message": "Assim está bom..."
+  },
+  {
+    "message": "Meiya..."
+  },
+  {
+    "message": "Takeru..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Ah...」"
+  },
+  {
+    "message": "Q-Qu... N... Como... Quê... POR QUE!?!?!?"
+  },
+  {
+    "name": "Miki",
+    "message": "「Disseram que iam dar um BEIJO! B-E-I-J-O!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「P-Por que vocês estão aqui?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Dávej para ouvir vocês pelo rádio.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-Vocês ouviram... tudo?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Cada palavrinha. Parece que os receptores de vocês quebraram.」"
+  },
+  {
+    "message": "N-Não pode SER zoação!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Vocês não conseguiam, tipo... ouvir a gente cavando para tirar vocês daí?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Disseram que iam dar um BEIJO! B-E-I-J-O!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vocês... ouviram tudo?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「20701 para o QG.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Resgatamos Mitsurugi e Shirogane. Mitsurugi está ferida. Solicitando equipe médica... Câmbio.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vocês ouviram... tudo?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Cada maldita palavrinha!」"
+  }
+]

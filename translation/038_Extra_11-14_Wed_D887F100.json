@@ -1,0 +1,2208 @@
+[
+  {
+    "message": "Extra 14/11 (Qua)"
+  },
+  {
+    "message": "Talvez faltar à aula tenha sido uma péssima ideia mesmo."
+  },
+  {
+    "message": "Sinto como se estivesse com um nó no estômago."
+  },
+  {
+    "message": "...Vou ter que agradecer à Meiya mais tarde."
+  },
+  {
+    "message": "Ela inventou uma desculpa para mim e foi pra escola mais cedo com a Sumika."
+  },
+  {
+    "message": "Bom, acho que a Sumika deve ter percebido..."
+  },
+  {
+    "message": "Enfim, já estou aqui. Mas para onde devo ir?"
+  },
+  {
+    "message": "É melhor eu perguntar por aí."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oi-oi!\nSabe onde fica o ti-tio Sagiwi...?」"
+  },
+  {
+    "name": "Criancinha",
+    "message": "「......」"
+  },
+  {
+    "message": "Impossível uma criança de três anos saber disso."
+  },
+  {
+    "message": "Preciso achar um funcionário."
+  },
+  {
+    "message": "Não tem ninguém aqui."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cadê todo mundo!?」"
+  },
+  {
+    "name": "Enfermeira",
+    "message": "「Por favor, faça silêncio no hospital!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「D-Desculpa!」"
+  },
+  {
+    "name": "Enfermeira",
+    "message": "「...Ora? Você não é o garoto que estava com a Kei-chan...?」"
+  },
+  {
+    "message": "Ah, que ótimo! É aquela enfermeira de quando eu vim aqui pela primeira vez."
+  },
+  {
+    "name": "Takeru",
+    "message": "「U-Umm... A senhora sabe onde fica o consultório do doutor Sagiri?」"
+  },
+  {
+    "name": "Enfermeira",
+    "message": "「Ele já deve estar acabando a ronda dele, então imagino que esteja preenchendo as fichas na sala dos médicos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A sala dos médicos?」"
+  },
+  {
+    "name": "Enfermeira",
+    "message": "「É logo em frente, descendo este corredor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, entendi. Muito obrigado!」"
+  },
+  {
+    "name": "Enfermeira",
+    "message": "「Por favor, faça o possível para manter o silêncio.」"
+  },
+  {
+    "message": "Bem, levei uma bronca, mas pelo menos agora sei para onde ir."
+  },
+  {
+    "message": "E agora..."
+  },
+  {
+    "message": "...Acho que é aqui."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Droga... Estou ficando tão nervoso!"
+  },
+  {
+    "message": "Ele vai me dar uma boa bronca."
+  },
+  {
+    "message": "O que ele me contou não é algo que um outsider deveria ouvir..."
+  },
+  {
+    "message": "Argh... Que droga! Para de pensar!"
+  },
+  {
+    "message": "Meu coração está disparado..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ufa... Respirar fundo...」"
+  },
+  {
+    "message": "...Certo, vamos lá!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Com Licençaaa!」"
+  },
+  {
+    "message": "Ah!"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Hm? O que é isso? Ora, se não é o Shirogane-kun.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A-Ahahahaha...」"
+  },
+  {
+    "message": "...Eu tô manirando muito mal nisso."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você não deveria estar na escola?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Na verdade, tô no que chamam de folga autônoma...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Então você tá faltando, é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Em termos leigos, sim.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Hahaha... Eu fiz bastante disso nos meus tempos de escola, então não posso te dar bronca por isso... Enfim, veio me ver?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Entendi. Por que não vamos para o telhado? Eu tava pensando em tomar um ar mesmo.」"
+  },
+  {
+    "message": "...Parece que ele entendeu o espírito da coisa."
+  },
+  {
+    "message": "Bem, eu faltei à aula para vir até aqui. É meio óbvio que tenho algo importante para discutir."
+  },
+  {
+    "message": "Vim achando que estava preparado para isso, mas agora que estou aqui, não consigo evitar ficar amedrontado."
+  },
+  {
+    "message": "Eu simplesmente não consigo me acalmar."
+  },
+  {
+    "message": "Mas eu tomei minha decisão. Preciso esclarecer isso."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Espero que café esteja bom para você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah...」"
+  },
+  {
+    "message": "Quando foi que ele comprou isso?"
+  },
+  {
+    "message": "Não acredito que não percebi..."
+  },
+  {
+    "message": "Eu devo estar muito mal mesmo se não consigo nem ver o que tá acontecendo ao meu redor."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você está sozinho hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim.」"
+  },
+  {
+    "message": "Parece que esse vento está congelando meu coração..."
+  },
+  {
+    "message": "Eu não deveria estar fazendo isso, mas..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já que esclarecemos as coisas ontem... A Ayamine não tem mais motivo nenhum para vir aqui.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Entendi.」"
+  },
+  {
+    "message": "Cada minuto, cada segundo que eu demoro, mais difícil fica para falar."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Um, Sagiri-san, eu...」"
+  },
+  {
+    "message": "...Fala... Fala logo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sagiri-san, eu...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Devo-lhe um pedido de desculpas, Sagiri-san!」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Hahaha... De onde veio isso? Por que tanta seriedade?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sabe...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quando eu disse que estava saindo com a Ayamine... aquilo era mentira.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Entendi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me desculpe mesmo por isso!」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Não, tudo bem... A Kei pediu para você fazer isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pediu. Mas a decisão ainda foi minha.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Relaxa... Não estou te dando uma bronca por causa disso...\nNem poderia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sagiri-san...?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Afinal... eu não tenho o direito.」"
+  },
+  {
+    "message": "...Não... direito?"
+  },
+  {
+    "message": "...Que direito?"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu traí a Kei... nunca foi minha intenção, mas... o que aconteceu, aconteceu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Isso não é diferente de mim."
+  },
+  {
+    "message": "Eu não queria machucá-la..."
+  },
+  {
+    "message": "Mas não tinha dado atenção aos sentimentos dela."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「E... continua acontecendo, até agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「'Até agora'?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「A Kei... ainda não sabe a verdade.」"
+  },
+  {
+    "message": "Do que ele está falando?"
+  },
+  {
+    "message": "...A verdade sobre o quê?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Espera, não diga mais nada!」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Você acha que seria errado ouvir?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu só não quero... invadir a sua privacidade.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「É só isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「É realmente esse o único motivo?」"
+  },
+  {
+    "message": "...Eu... Eu já sei que não é."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você realmente acredita que é só isso, mesmo agora?」"
+  },
+  {
+    "message": "Eu já percebi que não é verdade."
+  },
+  {
+    "message": "Graças à Meiya..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...I...」"
+  },
+  {
+    "message": "É por isso que não posso fugir. Não a esta altura."
+  },
+  {
+    "message": "Não posso continuar dando desculpas para os meus sentimentos só porque estou preocupado em causar problemas para os outros."
+  },
+  {
+    "name": "Takeru",
+    "message": "「I...」"
+  },
+  {
+    "message": "Sempre que me sentia irritado com o sentimento que um tinha pelo outro, eu dizia a mim mesmo que era porque me sentia culpado."
+  },
+  {
+    "message": "Eu não queria saber sobre eles, porque não queria me sentir como o único deixado de fora."
+  },
+  {
+    "message": "Eu não queria sentir que não havia espaço para mim entre a Ayamine e o Sagiri-san..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tem razão, Sagiri-san. Eu estive...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Não é o tipo de coisa que você quer admitir, é?」"
+  },
+  {
+    "message": "...Eu estive com inveja de você."
+  },
+  {
+    "message": "Como posso competir contra todo o tempo que você passou com a Ayamine?"
+  },
+  {
+    "message": "Não importa o quanto eu tentasse, nunca conseguiria me aproximar da história que vocês têm."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu entendo como você se sente, e isso não é uma coisa ruim.\nSe é que vale algo, isso é normal na sua idade.」"
+  },
+  {
+    "message": "Ter o Sagiri-san apontando isso para mim é simplesmente patético..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Você é verdadeiramente digno de louvor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você foi capaz de admitir sua mentira, pelo menos... Eu, por outro lado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você, por outro lado...?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Eu nunca pude contar a verdade a ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A Ayamine, você quer dizer.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu simplesmente não consegui...」"
+  },
+  {
+    "message": "...Agora eu tenho um motivo para perguntar."
+  },
+  {
+    "message": "Independentemente de como isso tenha começado, meus sentimentos já não são tão vagos..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que você quer dizer com 'a verdade'?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Você é forte. Não tem medo de saber.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso... não é verdade de jeito nenhum.」"
+  },
+  {
+    "message": "Não é isso."
+  },
+  {
+    "message": "Eu só não tenho outra escolha."
+  },
+  {
+    "message": "Eu sei... nunca vou conseguir seguir em frente se continuar fugindo da verdade. E qualquer coisa é melhor do que isso."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Você sabia que a mãe dela era enfermeira?」"
+  },
+  {
+    "message": "Não me resta outro remédio senão balançar a cabeça negativamente. Por mais frustrante que seja."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Que ela foi criada por mãe solo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, não sabia.」"
+  },
+  {
+    "message": "...Eu realmente não sei de nada sobre ela."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「A mãe dela fez um trabalho incrível criando-a, e elas tinham uma relação maravilhosa. Eram tão próximas que a Kei até queria ser enfermeira quando crescesse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A Ayamine? Enfermeira?」"
+  },
+  {
+    "message": "...Agora que penso nisso, quando a Suzumiya se machucou..."
+  },
+  {
+    "message": "Ela parecia saber o que estava fazendo..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「A mãe dela foi muito gentil comigo também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendi.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Isso vai parecer meio patético, mas eu tive muitos problemas financeiros logo que saí da faculdade de medicina.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sério?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Bem, eu tinha que pagar empréstimos estudantis e coisas assim. Também me mudei para Tóquio e vivi sozinho por um tempo... e meu pai também era pai solo, então não é como se estivéssemos bem de vida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...D-Desculpa, não foi minha intenção ser rude... É só que... eu tinha a impressão de que médicos geralmente vêm de famílias de classe alta...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Não precisa pedir desculpas. Então, naquela época, a mãe da Kei me convidava para comer lá em casa quase todo dia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendi.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Como uma espécie de retribuição por isso, eu virei o professor particular da Kei, mais ou menos. Era uma boa forma de relaxar.」"
+  },
+  {
+    "message": "Ver aquela expressão calorosa dele é doloroso."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Acho que dá para dizer que aquela casa parecia muito com um lar para mim. Tinha um calor familiar inexplicável.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu nunca conheci minha mãe. Tudo o que sei é que ela morreu me dando à luz... então a mãe da Kei parecia ser a minha própria mãe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendo...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu era feliz sendo parte da família da Kei.\nPor mais tosco que pareça, achei que as coisas continuariam assim para sempre.」"
+  },
+  {
+    "message": "Mas é claro que não continuaram."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu... destruí tudo isso com minhas próprias mãos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Destruiu?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Cometi um erro terrível.\nBaixei a guarda e pus a vida de um paciente em risco.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A culpa foi sua?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Sim, a culpa foi toda minha.\nAcho que, em termos leigos, isso se chamaria erro médico...」"
+  },
+  {
+    "message": "Até um cara desses comete um tipo de erro assim?"
+  },
+  {
+    "message": "E ainda continuou com o emprego?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O paciente morreu?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Poderia ter morrido, se não tivesse sido tratado a tempo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「A mãe da Kei e eu éramos os únicos lá na hora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Minha mente simplesmente apagou... eu não consegui fazer nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Mas ela foi diferente.\nFoi chamar os outros médicos e fez o que era preciso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela tomou a iniciativa, então...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「E aí, quando tudo acabou, ela disse que o erro tinha sido dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ela cobriu você?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Sim... Ela fez isso... Levou a culpa por mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu disse a mesma coisa que ela.\nFalei que fui eu quem cometeu o erro... mas já era tarde demais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Todo mundo achou que eu só estava tentando protegê-la.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não pode ser...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Como resultado, todo mundo passou a me ver, justamente a mim que cometi o erro... como um herói altruísta tentando esconder os pecados de uma enfermeira de baixo escalão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Mas, mesmo assim... a mãe da Kei nunca me culpou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Ela disse que não queria que eu me arruinasse por causa de algo assim. Porque eu ainda tinha um futuro brilhante pela frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não pode ser...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「E que não queria deixar a Kei triste... Eu fiquei tão feliz quando ela disse aquilo.\nHavia um calor tão grande no olhar dela... me fez sentir tão aceito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sagiri-san.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Mas... teria sido mais fácil se ela tivesse me culpado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E quanto à Ayamine?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Ela só chorou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela...」"
+  },
+  {
+    "message": "Ela... chorou?"
+  },
+  {
+    "message": "...É difícil até de imaginar."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Toda a culpa foi jogada nas costas da mãe da Kei, e ela foi expulsa do hospital.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem assim, é...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「O paciente estava sob efeito de anestesia o tempo todo. Ninguém de fora ficou sabendo que o erro foi meu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu nem consigo imaginar.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Os médicos que o atenderam depois de mim... e a administração do hospital... devem ter percebido as inconsistências na história dela. Mas varreram a verdade para debaixo do tapete.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「E a Kei só conhece a versão oficial do hospital sobre o incidente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Ela viu a mãe dar tudo o que tinha pelos pacientes. Viu como a diretoria foi rápida em cortar todos os laços com ela. Viu o lado podre da nossa sociedade corrupta... Coisas que nós deveríamos tê-la impedido de ver.」"
+  },
+  {
+    "message": "O lado podre... da nossa sociedade corrupta..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu... não pude fazer nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sagiri-san.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu estava lá quando a Kei chorou, e tudo o que pude fazer foi ficar parado assistindo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Havia tantas coisas que eu poderia ter feito... mas, eu simplesmente não fiz......」"
+  },
+  {
+    "message": "Então ele compartilha da mesma dor..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu sentia como se minhas mãos estivessem manchadas de pecado...\nComo se qualquer coisa que eu fizesse só servisse para corromper a Kei junto comigo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Umm... Eu não tenho certeza se entendi direito, mas... Você se importa se eu te fizer uma pergunta?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que a Ayamine te evita tanto...?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Depois daquele incidente, virei uma espécie de celebridade por aqui. Chegaram a falar em eu me casar com a filha do diretor do hospital.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Não é estúpido?\nÉ isso o que acontece quando decidem fazer de você um herói.」"
+  },
+  {
+    "message": "...Isso é loucura."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「A mãe da Kei nem chegou a contar a verdade para ela... Ela acreditava no futuro da Kei comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "message": "O... futuro... da Ayamine e do Sagiri-san?"
+  },
+  {
+    "message": "Ele deve estar querendo dizer... casamento, né?"
+  },
+  {
+    "message": "...Então... eles estavam mesmo namorando, não estavam?"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu também não podia contar a verdade para a Kei. Não podia deixar o sacrifício da mãe dela ser em vão... Ou pelo menos era o que eu vivia repetindo para mim mesmo.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Acho que a Kei estava tentando ser atenciosa com a minha reputação. Já que ela era filha de uma enfermeira culpada por erro médico...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quer dizer que ela terminou?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Pode parecer cruel... mas ela sabia que me casar com a filha do diretor faria minha posição aqui melhorar muito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas isso é ridículo...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Ela é simplesmente esse tipo de garota.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas isso não significa que...」"
+  },
+  {
+    "message": "Para a Ayamine, o Sagiri-san não tinha culpa.\nEra apenas uma situação lamentável."
+  },
+  {
+    "message": "Ela não podia culpá-lo por ter feito nada disso."
+  },
+  {
+    "message": "Ela não teve escolha a não ser reprimir todos os seus sentimentos e guardá-los para si mesma."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「No fim das contas, eu traí a mãe da Kei... e me casei com a filha do diretor. Minha esposa.」"
+  },
+  {
+    "message": "...Então era isso o que você queria dizer."
+  },
+  {
+    "message": "Aquela era a traição."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「A Kei começou a culpar a mãe por ter causado aquilo tudo.」"
+  },
+  {
+    "message": "O mais que ela poderia ter feito?"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Eu só consigo imaginar como ela deve ter se sentido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Tudo em que ela acreditava desmoronou em um instante...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por causa de tudo o que ela teve de aguentar.」"
+  },
+  {
+    "message": "Porque o hospital não protegeu a mãe dela."
+  },
+  {
+    "message": "Porque ela testemunhou o lado feio da sociedade..."
+  },
+  {
+    "message": "Então ela começou a evitar as coisas em que não queria pensar... entrou em completa negação..."
+  },
+  {
+    "message": "E parou de deixar outras pessoas se aproximarem de vez..."
+  },
+  {
+    "message": "Essa é a única maneira que ela conhece para evitar se machucar."
+  },
+  {
+    "message": "Isso também explica por que ela fica tão rebelde quando alguém tão rígido e severo quanto a Representante tenta controlá-la..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Meu intervalo vai acabar logo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Espera...」"
+  },
+  {
+    "message": "...Eu ainda não terminei..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ainda tem algo... que eu preciso te perguntar.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...O que é?」"
+  },
+  {
+    "message": "Sagiri-san..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sagiri-san... você ainda...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Eu nunca me esqueci dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Rever a Kei depois de todos esses anos... só reafirmou isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas isso é...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Não é algo que um homem casado deveria dizer, é...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso pode parecer ingênuo para você, mas eu não acho que essa seja uma resposta aceitável.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Se eu dissesse que jogaria tudo pro alto, você permitiria?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...E se eu dissesse que quero a Kei, mesmo que isso significasse me divorciar da minha esposa, deixar o hospital e jogar fora tudo o que tenho agora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso... Isso não é só um 'e se', é?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Você pode interpretar assim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não é resposta!」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você é livre para fazer o que quiser.\nSe tiver vontade de contar a verdade para a Kei, vá em frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu ainda não acabei de falar!」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Por mim, acabamos por aqui. Agora que ambos sabemos dos sentimentos um do outro, o que resta dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sagiri-san.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sagiri-san!」"
+  },
+  {
+    "message": "...Ele está falando sério."
+  },
+  {
+    "message": "O que ele quer que eu faça?"
+  },
+  {
+    "message": "Eu não tô só no caminho dele?"
+  },
+  {
+    "message": "Quero dizer, ela claramente... A Ayamine claramente ainda tem sentimentos por ele também..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Então o Sagiri-san e a Ayamine realmente andaram saindo."
+  },
+  {
+    "message": "E não só isso... Eles estavam tão envolvidos que até pensavam em casamento."
+  },
+  {
+    "message": "...E... ele ainda sente o mesmo por ela, até hoje..."
+  },
+  {
+    "message": "Mas a Ayamine...?"
+  },
+  {
+    "message": "...Droga de tudo..."
+  },
+  {
+    "message": "Não consigo parar de pensar neles..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Por que eu vim aqui afinal? O esperaba alcançar?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Será que eu esperava que a Ayamine estivesse aqui?"
+  },
+  {
+    "message": "Será que eu esperava que ela não estivesse?"
+  },
+  {
+    "message": "Talvez eu só quisesse sentir que fiz ALGUMA coisa, pelo menos."
+  },
+  {
+    "message": "Mas o que eu posso fazer?"
+  },
+  {
+    "message": "Contar a verdade a ela?"
+  },
+  {
+    "message": "Dizer isso não seria difícil de jeito nenhum."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Mas não, não é isso.\nNão é isso que eu tenho que fazer."
+  },
+  {
+    "message": "Eu preciso ajudá-la a encontrar motivação para resolver isso sozinha."
+  },
+  {
+    "message": "Eu preciso ajudá-la a encontrar forças para deixar o passado para trás e começar a seguir em frente."
+  },
+  {
+    "message": "Só então poderei considerar isso um problema meu..."
+  },
+  {
+    "message": "...Embora minha relação com a Ayamine não pudesse estar pior agora."
+  },
+  {
+    "message": "Eu nem sei se ela veio à escola hoje."
+  },
+  {
+    "message": "Eu provavelmente deveria ter ido perguntar por aí para ver se alguém a viu."
+  },
+  {
+    "message": "...Caramba, como você é barulhento."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não. Saia de perto de mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Xô!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é mesmo um cachorro estúpido...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você nem percebe que eu não estou feliz em te ver...」"
+  },
+  {
+    "message": "...Acho que, em certo sentido... não somos tão diferentes, você e eu."
+  },
+  {
+    "message": "Bem, acho que faz todo sentido... afinal, nós compartilhamos o mesmo nome..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*suspiro*...」"
+  },
+  {
+    "message": "──Chiro, aqui."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Será que eu acabei de ouvir alguma coisa?"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Chiro, dá a pata.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Diga alguma coisa.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Q-Qual é o seu problema?」"
+  },
+  {
+    "message": "...Vamos lá... Me faça um favor e não fuja por uma vez na vida..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei... Diz alguma coisa.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Alguma coisa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério mesmo?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Humf.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Do que exato você tá rindo de 'humf'?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Chiro, vem cá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, para de brincar com o cachorro enquanto eu tô falando.\nE por que você mudou o nome dele!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O Chiro é um bom garoto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Escuta aqui, sua...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O Takeru não era um bom garoto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ele não é o Takeru!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Este é o Chiro.」"
+  },
+  {
+    "message": "Não é possível..."
+  },
+  {
+    "message": "Eu simplesmente não entendo."
+  },
+  {
+    "message": "Não dá pra saber o que ela tá pensando..."
+  },
+  {
+    "message": "Quer dizer, pelo menos ela não tá me ignorando..."
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "Mas parece que ela tá tão irritada quanto eu."
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você não veio hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu tô aqui agora.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Nossa, meu herói〜...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pra que isso...?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Humf.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bom, eu já entendi... Não fica brava.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não tô brava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá sim, tá brava sim.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Toma.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Huh?」"
+  },
+  {
+    "message": "Um sanduíche de yakisoba..."
+  },
+  {
+    "name": "Kei",
+    "message": "「...A metade do Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Parece bem suspeito.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu comprei hoje de manhã.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então não tá fora da validade nem nada?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que você mesma não tem certeza.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu não tenho?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não me pergunta!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ah.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fica só soltando um 'ah'!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Chiro, vem cá.」"
+  },
+  {
+    "message": "...Eu já disse para não ficar brincando com o cachorro."
+  },
+  {
+    "message": "Isso me deixa totalmente confuso..."
+  },
+  {
+    "message": "Eu já estava preparado para ela fugir, mas não pra isso..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Volta com o nome dele de antes!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Foi você que não gostou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Tanto faz.\nSó tô preocupado que você acabe confundindo o cachorro.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá com vergonha?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Chiro, vem aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei...」"
+  },
+  {
+    "message": "Que droga. Ainda não dá para saber como as coisas estão."
+  },
+  {
+    "message": "À primeira vista, Ayamine parece bem... mas depois do que aconteceu ontem, não pode ser tão simples assim."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Que nome... você daria a ele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como você quer chamar ele?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu gosto de Takeru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Huh?」"
+  },
+  {
+    "message": "...Isso foi... uma piada? Ou ela estava falando sério?"
+  },
+  {
+    "message": "Droga... Não consigo saber."
+  },
+  {
+    "name": "Kei",
+    "message": "「Você não vai comer isso?」"
+  },
+  {
+    "message": "Está bem murcho... Vou precisar de um pouco de coragem para comer isso."
+  },
+  {
+    "message": "Mas não é verão nem época de chuvas, então deve estar tudo bem."
+  },
+  {
+    "message": "Estética à parte, ainda não passou da validade."
+  },
+  {
+    "message": "Ela disse que comprou hoje de manhã..."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Coma seu almoço, querido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não me venha com papo fofo enquanto me ameaça!」"
+  },
+  {
+    "message": "...Ugh. Tá bom, eu como. Tanto faz!"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastigando* *mastigando*"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Caramba.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer parar de fazer essa cara de 'meu Deus, ele realmente comeu'?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não estou fazendo cara nenhuma.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá fazendo sim!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastigando* *mastigando*"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Até embrulha o estômago de ver.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ei!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Takeru... Vem cá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ah, pelo amor de...」"
+  },
+  {
+    "message": "Bom, pelo menos ela voltou a chamá-lo de Takeru."
+  },
+  {
+    "message": "...Mas será que aquilo pode mesmo ser chamado de 'brincadeira'?"
+  },
+  {
+    "message": "Parece mais que ela está só caçoando dele."
+  },
+  {
+    "message": "O cachorro é o único que parece estar se divertindo com isso."
+  },
+  {
+    "message": "Será que ela não consegue dar nem um sorrisozinho quando brinca com um cachorro...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastigando* *mastigando*"
+  },
+  {
+    "message": "...Ngh..."
+  },
+  {
+    "message": "...Agora eu tô com muita sede."
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastigando* *mastigando*"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Takeru, senta.」"
+  },
+  {
+    "message": "...Pensando bem... É melhor ela voltar a usar o sobrenome mesmo..."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Shirogane, dá a pata.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nem a pau!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Como se atreve!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como EU me atrevo!?!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tão indisciplinado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você nunca me disciplinou!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quer que eu te discipline?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que não!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Mas seria incrível.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-Como assim!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mudou de ideia?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que eu mudaria!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Nah, não importa.」"
+  },
+  {
+    "message": "O que não importa!? Para de voltar para o cachorro!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Urgk, gugh...」"
+  },
+  {
+    "message": "...Ufa... Espantoso eu ter conseguido engolir tudo."
+  },
+  {
+    "message": "...Mas falando sério. Ela realmente chama aquilo de \"brincar\"?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Isso não tem jeito... A Ayamine está no controle absoluto aqui..."
+  },
+  {
+    "message": "Não consigo descobrir como puxar o assunto..."
+  },
+  {
+    "message": "Não consigo tirar as palavras do Sagiri-san da cabeça."
+  },
+  {
+    "message": "Ele quer a Ayamine mesmo que isso signifique jogar tudo pro alto... Não dá para sair dizendo coisas assim do nada."
+  },
+  {
+    "message": "Tudo o que ele precisa fazer é continuar casado com a filha do diretor, e a vida dele está ganha."
+  },
+  {
+    "message": "Eu consigo nem imaginar o nível de determinação que seria preciso para jogar tudo isso fora."
+  },
+  {
+    "message": "Ainda não acabou."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "O que a Ayamine faria se soubesse a verdade?"
+  },
+  {
+    "message": "Se a Ayamine voltasse para o Sagiri-san, não poderíamos mais nos dar bem assim."
+  },
+  {
+    "message": "Por mais difícil que seja imaginar... Tenho certeza de que ela estaria ocupada babando por ele..."
+  },
+  {
+    "message": "...Chega de me fazer pensar nessas coisas, cabeça!"
+  },
+  {
+    "message": "Out vez com essa história de cachorro idiota?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei. Corta essa já.」"
+  },
+  {
+    "message": "Eu empurro o cachorro para longe de mim e o ponho no chão."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei! Não me faça repetir! E por que você está tão pesado de repente!?」"
+  },
+  {
+    "message": "...Ei, espera."
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-O que você está fazendo!?!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quem? Eu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso, você! Sai de cima de mim, caramba! Você tá pesada!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Que grosseria.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se eu soutão grosso assim, por que você não sai logo de cima de mim!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você disse que eu tava pesada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que eu disse! Agora sai logo daí!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá com vergonha?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu tô mandando você sair de cima de mim!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu não tô pesada.」"
+  },
+  {
+    "message": "Droga. Ela tá completamente ignorando o que eu digo..."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá brabo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Perdeu a fala?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que quem tá 'braba' aqui é você.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá falando sério?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Tô.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pra falar a verdade, eu tô meio perdido.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Nem me diga...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Um pouco de empatia cairia bem.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Então eu tava certa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bom, isso é parte disso... Mas também me incomodou o fato de eu não saber de nada.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Porque eu senti que era o único boi na linha.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Isso não é motivo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por enquanto já basta.」"
+  },
+  {
+    "message": "Eu ainda não consigo dizer à Ayamine o que eu realmente sinto."
+  },
+  {
+    "name": "Kei",
+    "message": "「Acho que peguei levemente pesado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Naquela época. Eu fui longe demais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá falando sério?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você parecia que ia chorar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qu-Quem, eu? Nem a pau.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É, você mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fala isso com tanta naturalidade!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mas depois eu me senti mal por isso, sério.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grande coisa...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mas eu quis dizer tudo aquilo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sei... Por isso que eu fui pego de surpresa... e foi por isso que me irritou.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Eu achei que você não ia voltar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é mesmo? Então por que você comprou aquele sanduíche de yakisoba, hein?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Apesar de que eu também não achava que você viria para cá.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu não estava planejando vir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que você tá aqui?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Por que será?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É isso que eu tô te perguntando!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá brava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode crer que tô!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Nossa. Tô até tremendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou te dar um pescotapa.」"
+  },
+  {
+    "message": "...Ela tá Tirando com a minha cara.\nEla com certeza tá tirando com a minha cara."
+  },
+  {
+    "message": "Ela brinca comigo o quanto quer e depois me abandona... Caramba, que fria."
+  },
+  {
+    "message": "Será que amanhã eu vou estar tremendo de frio dentro de uma caixa de papelão...?\nEspero que alguma família carinhosa me adopte."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ughhh... Não aguento mais isso!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O que foi?」"
+  },
+  {
+    "message": "A culpa é inteiramente sua."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não que eu possa dizer isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Agora eu sei como um cachorro deve se sentir.\nOs humanos são tão cruéis.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vai lá. Me dá um sorriso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como eu vou sorrir!? Quero ver você tentar sorrir!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Sorria.」"
+  },
+  {
+    "message": "...Acho que isso conta?"
+  },
+  {
+    "name": "Kei",
+    "message": "「Sorria.」"
+  },
+  {
+    "message": "Nossa... Isso é até meio fofo..."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eca, ele tá com um sorrisinho... Que bizarro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-V-Você também tava sorrindo!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Impossível!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sua atuação é horrível!!」"
+  },
+  {
+    "message": "*suspiro*... Se eu não tivesse mais nada com o que me preocupar."
+  },
+  {
+    "message": "Mas ainda tenho o Sagiri-san para me preocupar..."
+  },
+  {
+    "message": "A Ayamine não sabe que eu já sei de tudo."
+  },
+  {
+    "message": "Mesmo que eu não saiba exatamente como era a relação deles."
+  },
+  {
+    "message": "Mas dá para perceber o que os dois sentem, só de olhar para eles..."
+  },
+  {
+    "message": "Duvido que eu esteja errado sobre isso."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não puxava conversa há séculos. Continua!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Diga o que quer dizer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não sei por onde começar.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que vou começar com isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Com o quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu fui ao hospital hoje.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não vai perguntar o que eu estava fazendo lá?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu já sei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu falei com o Sagiri-san.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pedi desculpas por ter mentido para ele.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei. Me escuta primeiro, pelo menos...」"
+  },
+  {
+    "message": "Caramba... Ela me tem totalmente na palma da mão."
+  },
+  {
+    "message": "Mas falando sério... O que a Ayamine vai fazer quando eu contar o que realmente aconteceu?"
+  },
+  {
+    "message": "...Ela vai simplesmente sumir da minha vida?"
+  },
+  {
+    "message": "Há-há-há-há..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Acho que eu já estava preparado para isso. Não que isso torne a situação menos chata."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Takeru, senta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Seu bobinho.」"
+  },
+  {
+    "message": "...Acho que é seguro assumir que fizemos uma trégua."
+  },
+  {
+    "message": "Achei que fosse inútil, mas... Parece que estamos lidando com isso que nem adultos."
+  },
+  {
+    "message": "E pensar que por pouco eu não joguei tudo pro alto, mesmo sabendo o quanto eu queria me apegar a isso."
+  },
+  {
+    "message": "Eu não me entendo de jeito nenhum."
+  },
+  {
+    "message": "Hm? Ayamine?"
+  },
+  {
+    "message": "...Ayamine?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não foi bem do jeito que eu esperava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Espera. Droga, perdi o fio da meada."
+  },
+  {
+    "message": "A-hm... O que eu estava pensando mesmo?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não foi bem do jeito que eu esperava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Meu coração ainda está disparado."
+  },
+  {
+    "message": "Quer dizer... Que diabo foi aquilo?"
+  },
+  {
+    "message": "Por que a Ayamine faria uma coisa dessas...?"
+  },
+  {
+    "message": "Isso é... Não importa o quão estranha você seja, isso não é o tipo de coisa que se faz com qualquer um."
+  },
+  {
+    "message": "Sem contar o quão raro é ela tomar a iniciativa."
+  },
+  {
+    "message": "Então..."
+  },
+  {
+    "message": "Por que aquilo acabou de acontecer!?"
+  },
+  {
+    "message": "...E o que ela quis dizer com \"não foi bem do jeito que eu esperava\"?"
+  },
+  {
+    "message": "Como ela achava que seria?"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não foi bem do jeito que eu esperava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "M-merda!!"
+  },
+  {
+    "message": "Não consigo pensar direito!!"
+  },
+  {
+    "message": "Foi tão de repente, mas a sensação ainda está lingerando nos meus lábios..."
+  },
+  {
+    "message": "Os lábios macios e quentes da Ayamine..."
+  },
+  {
+    "message": "O perfume suave do shampoo dela..."
+  },
+  {
+    "message": "Como eu poderia esquecer?"
+  },
+  {
+    "message": "Eu não consigo tirar isso da cabeça."
+  },
+  {
+    "message": "...Afinal, o que eu sou para você? E o que o Sagiri-san significa para você?"
+  },
+  {
+    "message": "Como é que eu consigo olhar na sua cara amanhã?"
+  },
+  {
+    "message": "Eu não sei. Eu não entendo... Eu não entendo nada disso!"
+  },
+  {
+    "message": "...Quem dera eu pudesse simplesmente ficar feliz com isso."
+  },
+  {
+    "message": "Você sabe mesmo... o que acabou de fazer...?"
+  },
+  {
+    "message": "...Meu Deus! Droga!"
+  },
+  {
+    "message": "Chega de brincar comigo!"
+  },
+  {
+    "message": "Me deixa ser feliz de uma vez por todas..."
+  },
+  {
+    "message": "Se isso continuar assim, eu não vou mais conseguir me controlar..."
+  },
+  {
+    "message": "E quando isso acontecer, a culpa vai ser toda sua."
+  }
+]

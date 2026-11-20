@@ -1,0 +1,146 @@
+[
+  {
+    "message": "Sim"
+  },
+  {
+    "message": "Não"
+  },
+  {
+    "message": "OK"
+  },
+  {
+    "message": "Todas as configurações desta página voltarão aos padrões. Deseja continuar?"
+  },
+  {
+    "message": "Todas as configurações desta página voltarão aos padrões. Deseja continuar?"
+  },
+  {
+    "message": "Todas as configurações desta página voltarão aos padrões. Deseja continuar?"
+  },
+  {
+    "message": "Todas as configurações desta página voltarão aos padrões. Deseja continuar?"
+  },
+  {
+    "message": "Verificando dados do sistema..."
+  },
+  {
+    "message": "Os dados do sistema atuais pertencem a outro usuário. Feche o jogo e exclua os dados de salvamento de Muv-Luv."
+  },
+  {
+    "message": "Nenhum troféu será obtido se você iniciar o jogo agora."
+  },
+  {
+    "message": "Os dados do sistema atuais pertencem a outro usuário. Feche o jogo e exclua os dados de salvamento de Muv-Luv Alternative."
+  },
+  {
+    "message": "Nenhum troféu será obtido se você iniciar o jogo agora."
+  },
+  {
+    "message": "Nenhum dado do sistema encontrado. Novos dados do sistema serão criados."
+  },
+  {
+    "message": "Os dados do sistema estão corrompidos e não puderam ser lidos. Tentar novamente?"
+  },
+  {
+    "message": "Inicializando dados do sistema..."
+  },
+  {
+    "message": "Falha ao carregar os dados do sistema. Tentar novamente?"
+  },
+  {
+    "message": "Inicializando dados do sistema..."
+  },
+  {
+    "message": "Falha ao carregar os dados do sistema. Tentar novamente?"
+  },
+  {
+    "message": "Inicializando dados do sistema..."
+  },
+  {
+    "message": "Você pode definir o idioma das imagens no jogo independentemente do seu idioma de texto preferido."
+  },
+  {
+    "message": "SEM DADOS"
+  },
+  {
+    "message": "Data do salvamento"
+  },
+  {
+    "message": "Data do salvamento"
+  },
+  {
+    "message": "Data do salvamento"
+  },
+  {
+    "message": "Data do salvamento"
+  },
+  {
+    "message": "Data do salvamento"
+  },
+  {
+    "message": "Data do salvamento"
+  },
+  {
+    "message": "Foi encontrado um arquivo de salvamento corrompido. Este arquivo será perdido ao ser apagado. Deseja apagá-lo agora?"
+  },
+  {
+    "message": "Já existe um arquivo de salvamento. Este arquivo será perdido ao ser apagado. Deseja apagá-lo?"
+  },
+  {
+    "message": "Excluindo arquivo... Não desligue o aparelho."
+  },
+  {
+    "message": "Excluindo arquivo... Não desligue o aparelho."
+  },
+  {
+    "message": "Falha ao excluir os dados de jogo. Tentar novamente?"
+  },
+  {
+    "message": "Foi encontrado um arquivo de salvamento corrompido. Os dados de salvamento anteriores desaparecerão ao serem substituídos. Deseja substituí-los agora?"
+  },
+  {
+    "message": "Já existe um arquivo de salvamento. Os dados de salvamento anteriores serão perdidos se forem substituídos. Deseja substituí-los agora?"
+  },
+  {
+    "message": "Falha ao salvar os dados de jogo. Espaço em disco insuficiente."
+  },
+  {
+    "message": "Falha ao salvar os dados de jogo. Tentar novamente?"
+  },
+  {
+    "message": "Carregar estes dados? Qualquer dado não salvo da sua sessão atual será perdido."
+  },
+  {
+    "message": "Carregando dados de jogo..."
+  },
+  {
+    "message": "Carregando dados de jogo..."
+  },
+  {
+    "message": "Os dados de jogo no dispositivo selecionado estão corrompidos. Carregar novamente?"
+  },
+  {
+    "message": "Estes dados de jogo pertencem a outro usuário. Não é possível carregar."
+  },
+  {
+    "message": "Falha ao carregar os dados de jogo do dispositivo selecionado. Carregar novamente?"
+  },
+  {
+    "message": "Todos os dados não salvos serão perdidos. Ir para o Menu de Capítulos?"
+  },
+  {
+    "message": "Todos os dados não salvos serão perdidos. Retornar à tela de título?"
+  },
+  {
+    "message": "Salvamento rápido"
+  },
+  {
+    "message": "Escolha Automática"
+  },
+  {
+    "message": "Início Automático de Capítulo"
+  },
+  {
+    "message": "Pré-carregamento Automático"
+  }
+]

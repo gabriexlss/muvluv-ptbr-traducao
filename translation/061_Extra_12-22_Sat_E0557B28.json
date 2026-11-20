@@ -1,0 +1,755 @@
+[
+  {
+    "message": "Extra 22/12 (Sáb)"
+  },
+  {
+    "message": "...Todos adormeceram."
+  },
+  {
+    "message": "Dizem que viajar é bom e relaxante... mas na verdade é super cansativo..."
+  },
+  {
+    "message": "Tenho pena de todos os pais por aí que precisam voltar a trabalhar no dia seguinte depois de dirigir para levar a família para casa..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Droga... Por que vocês duas estão sentadas juntas desse jeito...?"
+  },
+  {
+    "message": "E dormindo tão vulneráveis..."
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Que cara patética...」"
+  },
+  {
+    "message": "Quê...?"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Prontinho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sensei...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Então, o que você vai fazer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sobre o quê...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hein? Do que vocês estão falando?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O Shirogane está sofrendo para decidir se vocês duas deveriam começar a namorar ou não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「QUÊ!?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não diga besteira! ...Meu Deus do céu!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「E então? Você tem ficado estressado com tudo isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem... sim, eu tenho.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Entendo... Então até quando você vai ficar indeciso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Er... Pra falar a verdade, eu não tenho certeza...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah, não... Entrou no modo Sr. Indeciso de novo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, não é nada disso...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah, então quer dizer que você ficou nesse modo esse tempo todo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que eu saiba, não.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Escuta, pode me responder uma coisa? Como você definiria o termo 'amiga de infância', pessoalmente?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, ahm... Acho que eu diria... Alguém que é meio que como um irmão ou irmã para você...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Então... Acho que não sobraria muito espaço para sentimentos românticos florescerem, né...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Se fosse esse o caso, eu já teria a minha resposta...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ora, vejam só, você entendeu. Menino bom.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sei o que a senhora está tentando me dizer, Sensei. Está me perguntando se eu já senti algo assim em relação à Sumika.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Exato.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que já.\nSe quer saber, seria loucura se não tivesse.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Entendo...」"
+  },
+  {
+    "message": "...Toda vez que vejo uma garota bonitinha, eu imediatamente a comparo com a Sumika."
+  },
+  {
+    "message": "E aí eu sempre a avalio, analisando em que aspectos ela é melhor ou pior do que a Sumika."
+  },
+  {
+    "message": "Sempre que um amigo me dizia que gostava de alguém, ou me apresentava sua namorada, eu estava sempre pensando na Sumika."
+  },
+  {
+    "message": "E eu não estava apenas comparando elas com ela.\nAcho que a melhor forma de colocar é...\nEu sentia que nenhuma delas chegava aos pés da Sumika."
+  },
+  {
+    "message": "Mesmo depois que a Meiya se mudou para lá, era sempre na Sumika que eu prestava atenção."
+  },
+  {
+    "message": "E ainda assim... mesmo a Sumika sempre fazendo parte de mim, eu nunca parei para pensar nisso de verdade."
+  },
+  {
+    "message": "Quando a Meiya chegou aqui, e a Sumika disse aquilo sobre nós não continuarmos os mesmos... eu não deveria ter simplesmente ignorado."
+  },
+  {
+    "message": "Eu deveria estar pensando nisso mais do que qualquer um."
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Bem, passar por um pouco de estresse é saudável... Mantém os neurônios ativos. Embora você possa estourar uma veia se exagerar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Conforme a gente envelhece, começa a ficar um pouco menos cauteloso com essas coisas... um pouco mais disposto a mergulhar de cabeça.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é ruim?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「É uma coisa boa, mas isso não significa que seja fácil.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Dizem que apenas os jovens têm forças para reescrever suas vidas. Mas, infelizmente, falta-lhes experiência para saber como fazer isso...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Quanto mais velha você fica, mais difícil é recomeçar as coisas. Embora não seja impossível.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ei! Não interrompa, eu estava chegando na melhor parte.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os três são meus alunos.\nNão espera que eu simplesmente faça vista grossa, espera?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ora, onde estávamos...?\nAh, é, verdade. Aquele papo de que 'se preocupar é um privilégio da juventude'.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eu poderia dizer algo, vindo de uma mulher que vive levando fora?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Uau, ela já nem tem vergonha disso...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se você vai dar um fora em alguém, é bem melhor fazer isso rápida e claramente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ent... entendi.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Consegue imaginar quão frustrante seria ter o homem pelo qual você se apaixonou sem sequer te dar um 'não' direito no final?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Quando você toma uma decisão definitiva, acaba mudando algumas das relações que tem agora. Mas isso é inevitável.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Seria diferente se todo mundo quisesse que as coisas continuassem exatamente como estão agora. Mas não parece ser isso que nenhuma delas quer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quê...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「As duas estão lutando por você, apesar do risco de rejeição — plenamente conscientes de que isso pode significar perder tudo o que tomam como garantido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mesmo que você não tenha sido quem começou tudo isso, precisa ser você quem vai terminar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Mas por que isso?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Suspiro... Não à toa todo mundo está tendo dificuldades. Você realmente é lesado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eu sei que você não tem culpa por ser tão distraído. Mas suponho que isso faça parte do seu charme.」"
+  },
+  {
+    "message": "...Meu charme?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por exemplo, digamos que você fosse dez vezes mais forte do que qualquer outra pessoa. Entendeu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que você faria se tivesse que apertar a mão de alguém ou afagar a cabeça de uma criança?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu teria que pensar um pouco antes de fazer isso, e tomar muito cuidado para não machucá-los.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por que você faria isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... porque eu saberia de antemão qual é a minha força.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então, se você não soubesse que tinha essa força e machucasse alguém por acidente, de quem seria a culpa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ah!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Entendeu agora? O princípio básico é o mesmo. Então você precisa estar preparado para isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Certo.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Seria bem chato ser rejeitado logo depois do Ano Novo, hein〜!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Cale a boca! Não pressione ele!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mais cedo ou mais tarde, ele vai ter que dar uma resposta.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Por que não perguntar a uma cartomante quem escolher?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Yuuko!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tá bom, tá bom...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Tenho certeza de que as coisas devem estar difíceis para você agora. E mesmo quando tomar uma decisão, isso trará seus próprios problemas.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mas tanto os sentimentos felizes quanto os tristes passam com o tempo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O tempo é cruel, mas também pode ser clemente.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...É isso aí. Mas, sabe...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se ele é 'cruel' ou 'clemente' depende do que fizermos dele...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Exatamente! Você realmente entendeu, Shirogane-kun! Estou impressionada!!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Não que entender isso tenha te impedido de levar fora atrás de fora nos últimos dez anos...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「S-Só... cala a boca, quer fazer o favor!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tá bom, tá bom...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「D-De qualquer forma. O que realmente importa é o que VOCÊ quer.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A felicidade e a dor que você sente agora podem parecer as únicas coisas que importam, mas elas não vão durar para sempre. Enquanto estiver vivo, sempre haverá novas alegrias e tristezas esperando por você.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não que seus sentimentos atuais sejam inválidos, é claro. Mas mesmo que seja algo triste de aceitar, esses sentimentos vão desaparecer com o tempo. É por isso que essa decisão é tão importante.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não tenha medo da mudança. Pense nisso como algo que vai abrir a porta para sentimentos mais profundos e preciosos para você no futuro.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Não que eu me importe muito, mas você está só falando em círculos, sabia.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──O quê? Ah, não... Estou?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você não está só usando o Shirogane como desculpa para se sentir melhor...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Eu só tenho pensado em como as coisas têm sido, em vez de como serão."
+  },
+  {
+    "message": "Eu sei que não sou o único preocupado com isso."
+  },
+  {
+    "message": "Sumika e Meiya estão pensando com a mesma intensidade."
+  },
+  {
+    "message": "Se as coisas continuassem do jeito que vão para sempre, seria um inferno para elas."
+  },
+  {
+    "message": "A porta para algo mais profundo, hein...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom diaaa!!」"
+  },
+  {
+    "name": "Mulher",
+    "message": "「Um despertar tão rude mal pode fazer bem à saúde mental de alguém.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Que diacho!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim. Deixe comigo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você é tão malvada!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Está apenas zombando de mim?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vou dar o meu melhor!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O-O quê? Eu disse algo estranho?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu não posso pedir a mais ninguém, só a você.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu... eu não te disse para não rir?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu nunca esqueceria... nada sobre você, Takeru-chan.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não importa o que aconteça... eu nunca... vou deixar isso passar.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Há algo... que só eu posso fazer.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não sonho.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Até eu sonho...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você me vê não apenas como uma amiga de infância... mas como uma mulher?」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Este quarto foi reformado quando comecei o ensino fundamental II."
+  },
+  {
+    "message": "Tem sido o meu quarto desde então."
+  },
+  {
+    "message": "O quarto da Sumika fica logo em frente."
+  },
+  {
+    "message": "Desde o exato primeiro dia em que me mudei para este quarto, nós já tivemos o que devem ser milhares de conversas através destas janelas."
+  },
+  {
+    "message": "Mas eu conheço a Sumika há mais tempo ainda.\nEu a conheço desde que me lembro por gente."
+  },
+  {
+    "message": "...Eu nunca pensei que estaria me estressando com ela desse jeito."
+  },
+  {
+    "message": "Mas quando a Meiya invadiu este lugar de repente... tudo mudou."
+  },
+  {
+    "message": "Desde então... as coisas aconteceram rápido demais."
+  },
+  {
+    "message": "A competição de culinária, o festival esporte, nossos aniversários e a viagem às fontes termais... Todos foram eventos tão malucos nos quais acabamos nos envolvendo."
+  },
+  {
+    "message": "A Meiya exerceu influência sobre nós de mais maneiras do que posso contar. Ela mudou de tudo, desde mapas... até os sentimentos das pessoas. Exatamente o que se esperaria de uma Mitsurugi..."
+  },
+  {
+    "message": "Então, aos poucos, essa convivência estranha começou.\nAgora, parece apenas normal."
+  },
+  {
+    "message": "Sinceramente, eu nunca tinha sequer considerado o fato de que um dia isso iria acabar."
+  },
+  {
+    "message": "Mas..."
+  },
+  {
+    "message": "Eu não vou apenas esperar chegar ao fim.\nEu preciso ser... aquele que vai dar um fim a isso."
+  },
+  {
+    "message": "...Mas quando, exatamente?"
+  },
+  {
+    "message": "......Quem sabe?"
+  },
+  {
+    "message": ".........Tudo o que sei com certeza é que isso vai acontecer muito em breve."
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que eu devo fazer?」"
+  },
+  {
+    "message": "...Se ao menos houvesse uma última coisa para me ajudar a tomar minha decisão..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "......Estou com sede."
+  },
+  {
+    "name": "Voz",
+    "message": "「...As coisas saíram como você esperava?」"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "name": "Voz",
+    "message": "「Sim. Algumas partes foram melhores do que outras... mas acredito que houve progresso.」"
+  },
+  {
+    "message": "...Essas vozes... Seriam a Meiya e a Tsukuyomi-san?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Isso é simplesmente maravilhoso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Foi tão gratificante...」"
+  },
+  {
+    "message": "...Por que elas estão conversando no escuro?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama, os seus sorrisos têm sido tão radiantes ultimamente. E tudo graças ao Takeru-sama.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...De fato.」"
+  },
+  {
+    "message": "...Eu?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...No entanto, resta muito pouco tempo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu compreendo isso... mas a promessa... ainda não foi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que vocês estão cochichando aí?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「T-...Takeru!?!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que vocês não acendem as luzes?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Há quanto tempo você está em pé aí...!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Q-Quê? Não olhe tão surpresa... Vocês que me assustaram.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...V-Você estava ouvindo aquilo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ouvindo o quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Q-Q-O que acabamos de conversar!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... Eu não diria que estava ouvindo, propriamente... Mais para ouvindo sem querer...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tsukuyomi! Temos que ir!!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Sim, Meiya-sama.」"
+  },
+  {
+    "message": "...O que está acontecendo?"
+  },
+  {
+    "message": "Takeru..."
+  },
+  {
+    "message": "...Seu cobertor está caindo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mm... mmm... Quem é aeeeii...?」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Sou eu......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mmfh... Ah, oi... e aí...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Permita-me fazer... uma última pergunta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mmm...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você se lembrou... do que me conecta a você, Takeru?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Me dá um tempo, faz apenas um dia...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É só isso tudo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...É tudo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Posso ficar aqui?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mmrgh... ah, só agora é que pedes permissão...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Posso... segurar a tua mão...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como você quiiiiiser...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hora de dormiiiiir...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Boa noite... Takeru...」"
+  }
+]

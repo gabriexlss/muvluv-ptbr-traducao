@@ -1,0 +1,1613 @@
+[
+  {
+    "message": "Unlimited 28/11 (Qua)"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Onde está?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Shirogane destruiu o objetivo B.」"
+  },
+  {
+    "message": "Beleza... Para onde agora?"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san, recua!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Tô bem, tô bem.」"
+  },
+  {
+    "message": "Agora que cheguei à Pista de Treinamento de Movimento D, esses exercícios básicos tão meio chatinhos..."
+  },
+  {
+    "message": "Lutar contra o computador no Valgern-On era mais divertido que isso!"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não consigo te dar cobertura se você avançar tanto!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Os inimigos nem tão revidando. Eu dou conta disso sozinho.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas que porra────────!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não se mexe!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "De onde diachos eles tão atirando?"
+  },
+  {
+    "name": "Miki",
+    "message": "「Descuido mata, sabia?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eu só dei azar!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──Relatório de situação!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ah, é! Esquadrão B, missão cumprida.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Recebido. Retornem ao ponto de partida e encerraremos o cenário.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendido. Retornando ao ponto de partida.」"
+  },
+  {
+    "message": "...Ufa."
+  },
+  {
+    "message": "A mira da Tama é incrível... como de costume."
+  },
+  {
+    "message": "Já era impressionante antes, mas parece que ficou ainda melhor nesses simuladores de TSF..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Mas ah... Agora pensando bem, aquilo foi bem assustador."
+  },
+  {
+    "message": "Se isso fosse pra valer, aquilo teria sido munição real..."
+  },
+  {
+    "message": "Eu confio que a Tama não me acertaria... mas ainda dá nos nervos ver alguém atirando por cima do seu ombro."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama? O que foi?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Grrr...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gyaaaaaaah!! Não aparece assim em tela cheia de repente!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Esquadrão B, o que estão fazendo!? Voltem para cá, já!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Entendido!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Desde que começamos o treino no simulador e vocês receberam permissão para usá-los à vontade, todos acumularam muitas horas de prática.」"
+  },
+  {
+    "message": "Isso é verdade. Ninguém anda mais dando as caras na cantina ultimamente. Em vez disso, você encontra todo mundo aqui dentro."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mesmo levando em conta essas medidas excepcionais, a melhora nas habilidades técnicas de vocês é notável.」"
+  },
+  {
+    "message": "...Oh!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Vocês estão indo muito bem.」"
+  },
+  {
+    "message": "Uau... P-Por algum motivo, receber um elogio sincero desses... parece algo raríssimo por aqui..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Muito obrigada.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Para ser sincera, fiquei apreensiva quando a Sakaki pediu para ver os registros de controle do Shirogane, mas agora fico feliz por ter deixado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você não sabia? Todo mundo anda olhando seus registros tentando alcançar você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Entendo...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, agora o segredo foi descoberto...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Porém, a verdade é que é muito difícil para qualquer outra pessoa imitar seu estilo, Shirogane. Ninguém conseguiu até agora.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu entendo a ideia geral, mas... sinceramente, é absurdo demais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qual é...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não conseguimos entender a base conceitual das suas ações, então é impossível prever o que você pode fazer em seguida.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É. E não faz muito sentido só copiar o que você já fez...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É verdade. Ainda assim, toda a equipe está progredindo bem. A Professora Kouzuki e o Comandante da Base estão impressionados com o avanço de vocês.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O Comandante...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Além dos fundamentos aprimorados, os pontos fortes individuais de cada um de vocês estão se tornando evidentes na forma como lidam com seus TSFs... Ayamine.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os TSFs geralmente não são adequados para combate corpo a corpo, mas as maneiras que você encontrou para agarrar o inimigo, minimizando o esforço da sua máquina, são muito promissoras.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Muito obrigada, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mitsurugi.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Sua esgrima é igualmente impressionante. Observamos um progresso significativo na velocidade com que você consegue sacar sua lâmina.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Olhando para os dados, acho que ela chegou ao limite máximo com isso. Parece que teríamos que atualizar os TSFs para ela conseguir ir além.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você também estudou nossos dados?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, é.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Acho que você pode estar certo. Mas, como Shirogane provou, sempre há novas técnicas a serem descobertas. Continuem inovando. Aprimorem suas habilidades ao limite.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim, senhora. Muito obrigada.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「E agora... Tamase.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「S-Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Suas habilidades de atiradora de elite continuano tão boas quanto sempre foram. Se algo, os sistemas de correção automática tornam você ainda melhor em um TSF.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「S-Senhora! Muito obrigada.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ninguém poderia duvidar da sua pontaria neste ponto. Continuem assim. Isso servirá como um grande trunfo para vocês.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim, senhora!!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Naturalmente, Sakaki e Yoroi também melhoraram drasticamente no geral. É difícil acreditar que todos vocês começaram há tão pouco tempo.」"
+  },
+  {
+    "name": "Chizuru e Mikoto",
+    "message": "「Muito obrigada, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Pois bem. Considerando o excelente desempenho de vocês até agora, tenho vontade de dar a todos uma recompensa bem merecida pelo trabalho duro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uma recompensa? ...Você não quer dizer outra 'viagem a uma ilha tropical', quer?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hm? Se vocês quiserem, posso providenciar isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, desde que seja SÓ para nadar!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Infelizmente, não posso aprovar uma simples folga. Em vez disso, vou apenas adiantar o cronograma e fazer vocês começarem o treinamento em TSFs reais hoje à tarde.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Hein?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ontem, eu falei para a Sakaki e para a Mitsurugi sobre os nossos planos de treinamento. Sakaki, quanto tempo o cronograma foi adiantado?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Dois dias.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Esse é o fruto do esforço de vocês.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa, que demais!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não deixem de agradecer também à equipe de manutenção. Como já disse muitas vezes antes, não são apenas os Pilotos de Superfície que mantêm os TSFs funcionando. Vocês aprenderam isso muito bem durante os treinos de reparo.」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Sim, senhora!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Já que estamos falando nisso... Mitsurugi, diga a todos quais são os nossos novos planos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Senhora. Vamos nos dividir em duas equipes de fogo de três integrantes, tendo eu e a Sakaki como líderes. Daqui a dois dias, realizaremos combates de treinamento simulados nas ruínas da cidade.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「As equipes já foram decididas?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não, ainda não. Nossa instrutora é quem vai decidir a composição delas, não nós. Ela logo fará o anúncio.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vou anunciar as equipes no dia do combate, então podem esperar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É só isso.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Muito bem. Esta tarde, vocês vão vestir os trajes e se reunir no hangar. Isso é tudo para o treinamento de hoje de manhã!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba! Isso é irado demais!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「É, a Instrutora Jinguuji tem estado de ótimo humor ultimamente. Ela parece bem... satisfeita, por algum motivo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você mesma está bem animada ultimamente, Representante.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O homem mais problemático do nosso esquadrão começou a revelar sua natureza 'especial' e agora é um dos principais membros da equipe. Parece que um peso foi tirado dos ombros de todos nós.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera. Quem é o 'homem problemático'?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Você vê mais algum homem por aqui...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aaaaah! Então VOCÊS estavam falando de mim!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ahahahaha...」"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "name": "Miki",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada não... mas aqueles caras estão olhando para a gente...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Hã...?」"
+  },
+  {
+    "message": "Qual é a deles? Estão nos olhando e cochichando... Isso não cheira bem."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「São soldados comuns... Talvez sejam Pilotos de Superfície?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, eles estão vindo para cá.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「...E aí, cadetes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「──Sentido!」"
+  },
+  {
+    "message": "...Qual é a desse cara?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Segundo-tenente, podemos ajudar em alguma coisa?」"
+  },
+  {
+    "message": "...Segundo-tenente? Não é uma patente tão alta assim, né? Eles estão marombando de marra..."
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「O esquadrão de vocês é só isso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, estamos todos aqui.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Não era para serem sete cadetes?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não, só temos seis aqui.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Então quem é que está com o TSF especial lá dentro? O da Guarda Real Imperial? Ouvi dizer que era para um de vocês.」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「É seu?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não, não é meu.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Então, é seu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Não...」"
+  },
+  {
+    "message": "Por algum motivo... eu realmente não quero dar nem bola para esses babacas."
+  },
+  {
+    "message": "Acho que não precisa de cérebro para subir na hierarquia militar, né?"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Então de quem é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...É meu.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「...Qual é o seu nome?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sou a Cadete Mitsurugi Meiya.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Você é... Espera, hã? ...Eu sinto que...」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「É... O que está acontecendo? O que um TSF desses está fazendo aqui?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Responda.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Senhor.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Qual é o problema? Responda.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tenente.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Se a presença dessa unidade lhe causou algum inconveniente, o senhor tem todo o direito de nos questionar sobre isso. Mas se é mera curiosidade, agradeceríamos se deixasse o assunto de lado.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Opa, calma aí, senhorita líder de esquadrão. O que está tentando dizer?」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Aquela coisa está ocupando todo o espaço no hangar! E a equipe de manutenção está inspecionando aquilo também. Provavelmente precisa de atenção especial porque é totalmente diferente dos outros.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Correto.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Está dizendo que não temos o direito de perguntar por que esses recursos estão sendo redirecionados?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Com todo o respeito, Tenente, eu apenas disse que agradeceríamos se o senhor não levasse o assunto adiante por mera curiosidade. Se tem outro motivo, por favor, declare-o.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Quem se importa com quais são os meus motivos? Eu mandei você me contar, então me conte. O verdadeiro problema aqui é por que você está se recusando a responder.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Bem...」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Pelo que eu soube, parece que vocês são todos um grupinho de 'casos especiais'... Por que não nos dão os detalhes?」"
+  },
+  {
+    "message": "Fala sério. Esses caras sabem de tudo isso?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Ficar de bico calado não vai te ajudar em nada! Vocês vão lutar lado a lado conosco daqui a alguns meses, lembra?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Estão ciente disso, mas...」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Como diabos a gente vai conseguir lutar junto se vocês estão escondendo coisas da gente?」"
+  },
+  {
+    "message": "Droga... Esses dois realmente não sabem calar a porra da boca..."
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Hm? Qual é o seu problema, chefe? Tem algo a dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Que diabo a Representante e os outros estão me olhando com tanta preocupação?"
+  },
+  {
+    "message": "Todos acham que eu vou surtar, hein...? Estão tentando me dizer para deixar para lá."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não... Nada em especial.」"
+  },
+  {
+    "message": "...Tsc."
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Ah é? Então com que cara é essa que você tá olhando pra gente?」"
+  },
+  {
+    "message": "Ngh..."
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Na verdade, tem um grupinho inteiro de metidinhos por aqui, não é? Como foi que você disse que era seu nome?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Shirogane.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「E você?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu sou Sakaki.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「E você é Mitsurugi... E quanto a você?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ayamine.」"
+  },
+  {
+    "message": "Droga... Droga! Que diabo é isso!? Por que essa merda tá acontecendo com a gente!?"
+  },
+  {
+    "message": "Por que mais ninguém tá dizendo nada? Por que vocês tão só dando espiadidinhas e fingindo que nos ignoram!?"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Não me diga... Então, Mitsurugi. Fala logo. Qual é a parada com aquela coisa?」"
+  },
+  {
+    "message": "Caralho... Bando de babacas! Mas se eu surtar aqui, o esquadrão inteiro vai ser responsabilizado..."
+  },
+  {
+    "message": "Provavelmente acabaríamos nas mesmas celas de detenção em que me trancaram."
+  },
+  {
+    "message": "É assim que funciona nos filmes, pelo menos..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Peço perdão.」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Ah, alguém quer um lencinho? Que tipo de soldado você é, afinal!?」"
+  },
+  {
+    "message": "Mas se a gente for ver... que merda é essa! Por que a Meiya tem que aguentar isso!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Ooh, agora você tá com esse olhar assustado, hein? Quem você pensa que é?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Chega. Não aguento mais isso!"
+  },
+  {
+    "message": "──Desculpa, pessoal!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei... Tenentes.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Shirogane, pare com isso! Isso é uma ordem!!」"
+  },
+  {
+    "message": "──Desculpa, mas eu não aguento mais essa porra!!"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「...Como é que é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acham que podem só nos dar ordens e se esconder atrás de suas patentes? Mas afinal, quem diabo VOCÊS pensam que são!? Se chamam de soldados!?」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「O que foi que você disse...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vão abusar das patentes para encher o saco de algumas garotas sobre algo que vocês já sabem a resposta? É assim que a ONU funciona? Esqueçam agir como soldados - aprendam primeiro a se comportar como seres humanos decentes!」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Ei, tampinha. Sabe com quem você pensa que está falando?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê, se escondendo atrás da patente de novo? Nem conseguem lutar sem se escorar na autoridade?」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Como é ééé!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, diferente de vocês, eu não consigo ficar sentado cruzando os braços quando vejo minhas amigas sendo intimidadas desse jeito.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Humph!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gwah!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não precisava bater nele!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Você tem a boca bem afiada, moleque. Que tal correr pra casa e chorar pra mamãe, hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quão burros vocês são? Ninguém nunca te ensinou a continuar lutando mesmo quando sabe que não pode vencer?」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「O que você disse...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se não querem lutar nenhuma batalha perdida, então vão se trancar no quartel para sempre! Eu vou descer o sarrafo por todos nós!!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Beleza, isso já não é mais sobre patente... Vamos nessa, seu insolente!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Rrgh...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Shirogane!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Humph!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Kghk!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Fala sério, qual é o problema!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Então você só late e não morde, hein!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nnk...!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru! ──Já basta!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Ora, vejam só, sendo salvo por uma garota! Rapaz, que vida boa, hein!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tenente, por favor, pare com isso!\nPor que está tão determinado a aprender──」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Para. Deixa para lá. Entra por um ouvido e sai pelo outro com caras assim...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga... Me dá um fucking tempo...」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「Ê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente aqui, encarando um inimigo contra o qual não temos a menor chance, a não ser que todos trabalhemos juntos...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E ainda assim, todo mundo que vejo ao meu redor é tão maldito sério... e tão maldito apaixonado... que me faz sentir como um pirralho ranhento...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas mesmo num mundo que foi pro inferno... acho que sempre vai ter alguns babacas como você por aí...」"
+  },
+  {
+    "message": "O fato de terem autoridade só os torna ainda piores do que os valentões do meu mundo."
+  },
+  {
+    "message": "De certa forma... estou meio aliviado. Pode não haver muito que eu possa fazer por aqui... mas pelo menos posso peitar esses idiotas."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Babacas como vocês são o motivo deste país estar indo pro inferno! Tem que ter muita cara de pau... pra tentar bancar o protetor e ainda fazer uma merda dessas!!」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Você tem que aprender a calar a boca, pirralho!」"
+  },
+  {
+    "message": "──Já basta!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「A-...A Guarda Real...」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「É assim que Pilotos de Superfície da ONU se portam em público? Vocês não têm o menor senso de vergonha?」"
+  },
+  {
+    "message": "Ts-...Tsukuyomi-san..."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Vocês podem até estar nas Forças da ONU, mas não são também japoneses? Ouçam bem este jovem. Autoridade não é meio para fins egoístas!! ──Que vergonha!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Aquela Takemikazuchi foi transportada para cá com o consentimento do governo japonês e do Comandante da Base de Yokohama.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru... Você está bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sim...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Esta base pode estar fora de nossa jurisdição, mas isso não é motivo para um mero piloto de superfície enfiar o nariz nos assuntos imperiais!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Se deseja saber mais sobre nossa missão aqui, por que não apresenta uma reclamação formal às Nações Unidas?」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Ridicularizar um Takemikazuchi não é diferente de ridicularizar a própria Guarda Real Imperial... ou de prantear o nome do Shogun, para começo de conversa!」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「E-Ei, calma... N-Nós não dissemos nada disso... Né?」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「É... É... A gente não tava tentando desrespeitar aquele TSF de jeito nenhum... Se alguma coisa, a gente tava, eh...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Então conheçam seu lugar e vão embora agora. Vamos deixar passar esta única ofensa.」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「P-Por que... temos que ser nós...」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「Quem diabo é essa mulher...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Algum de vocês tem alguma objeção?」"
+  },
+  {
+    "name": "Piloto de Superfície 1",
+    "message": "「N-Não... V-Vamos! Sai daqui!!」"
+  },
+  {
+    "name": "Piloto de Superfície 2",
+    "message": "「É... Vamos...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Vamos.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Parecia que Tsukuyomi-san queria dizer algo para Meiya..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Shirogane!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san, você está bem!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Shirogane...」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Muito bem, crianças, abram caminho. Passando...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Sra. Kyozuka.」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Cruz credo, que escândalo cês foram arrumar...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Erm... Aqui, uma toalha...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ah. Valeu, querida. Deixa eu limpar essa sua cara...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "　*esfrega* *esfrega* *esfrega*..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai, ai, ai... Sra. Kyozuka! Isso dói!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Nossa senhora... Deram uma bela surra em você, hein? Meter-se em briga com um soldado de verdade é preciso ter muita coragem, eu te digo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai, ai, ai!!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Muito bem, grandalhão. Vamos levar você direto para a enfermaria... Anda, eu te carrego.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga! E-Eu tô bem!! Eu consigo andar perfeitamente!!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「...Poxa, você vai partir o coração de uma pobre velhinha... Tá bom então, acho que vou deixar a Meiya-chan assumir daqui.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Assim que levá-lo para a enfermaria, volte e junte-se a nós no treinamento imediatamente... quer dizer, assim que puder. Vou avisar a instrutora Jinguuji sobre o que aconteceu.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Devem me perdoar, todos... Causei tantos problemas a vocês...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Não é só problema seu, Mitsurugi...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É de todos nós... Né?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É... Você só calhou de ser a visada da vez...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Minhas mais sinceras desculpas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Apenas vá logo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru? ...Consegue andar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Inacreditável... Você é mesmo um imprudente, sabia?」"
+  },
+  {
+    "message": "...Não ouvia essa há um bom tempo..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que... eu provavelmente não deveria fazer esse tipo de loucura, né...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Seu fool... Se você se meter em confusão... Eu não serei responsabilizada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O posto de segundo-tenente... é um cargo tão alto assim?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「.........」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você... é realmente um tolo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você lutou contra eles sem sequer saber de algo tão simples!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Obviamente... Quer dizer, patente não vale merda nenhuma.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você é tão 'sincero' quanto qualquer um de nós...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não foi isso que você nos chamou mais cedo...?」"
+  },
+  {
+    "message": "...Ah, é. Acho que sim."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você disse isso como se a palavra não se aplicasse a você... mas você é sincero de fato.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não é verdade. Se parece assim, é só porque... vocês me mudaram.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, quão poderoso é um tenente em campo?」"
+  },
+  {
+    "message": "Eu me lembro das aulas que eles são considerados oficiais..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Seremos segundos-tenentes no momento em que nos formarmos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Só isso? ...Não é grande coisa.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Independente disso ou não, eles ainda tinham patente superior à nossa... Se você for punido por isso... não espere que eu vá ao seu resgate.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você acha que eu posso... acabar na prisão ou algo assim?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quartel disciplinar, quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é assim que chamam? Bem, de qualquer forma... Não há nada que eu possa fazer quanto a isso agora...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Me perdoe... Sou impotente para ajudá-lo nesse sentido...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não estava esperando que ajudasse.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, ei...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Sim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não culpa a Tsukuyomi-san por nada disso, beleza?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é uma pessoa super importante, né? ...Do ponto de vista deles, trazer aquele Takemikazuchi foi o mínimo que podiam fazer por você.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Né? Então não leve a mal, beleza?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Isso é... algo que eu esperava te pedir, na verdade...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Foi estranho eu ter pedido...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Espero que possa perdoar Tsukuyomi e os outros.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que aconteceu com a Tama ainda me incomoda um pouco... mas eu não vou guardar rancor nem nada. Afinal, eles me salvaram.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Não sei o que dizer... Me perdoe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Meiya, vai logo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu consigo chegar lá sozinho, e vou voltar assim que passar uma pomada antisséptica... Só vai.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas eu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já chega de drama por hoje. Nós dois dissemos o que precisávsemos, então vamos fingir que nada disso aconteceu. Você vai pilotar TSFs de verdade hoje à tarde, lembra? Não pode se atrasar pra isso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Né?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Muito bem. Se é isso que você deseja, então farei como quer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza... Até mais.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...De fato.」"
+  },
+  {
+    "message": "...*suspiro*..."
+  },
+  {
+    "message": "Ai-ai-ai... Merda, aquele cara realmente me deu uma sova."
+  },
+  {
+    "message": "Mesmo depois de todo aquele treinamento... levar porrada de um cara que treinou ainda mais continua doendo pra caralho!"
+  },
+  {
+    "name": "Voz",
+    "message": "「...Shirogane Takeru.」"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tsukuyomi-san... Muito obrigado pelo que fez.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Não me lembro de ter dado permissão para me chamar pelo nome... mas enfim.」"
+  },
+  {
+    "message": "...Opa."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*snicker*...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, não é nada... Desculpe.」"
+  },
+  {
+    "message": "Aquele sorriso... só me lembrou um pouco... da Tsukuyomi-san do meu mundo."
+  },
+  {
+    "message": "Meiya, a Tsukuyomi-san e os Três Patetas... e, claro, a Sumika também. Nós fizemos todo tipo de loucura juntos."
+  },
+  {
+    "message": "E agora... ela está olhando para mim com um olhar tão severo nos olhos..."
+  },
+  {
+    "message": "Não é que eu tenha... esquecido a diferença entre este mundo e o meu, é claro..."
+  },
+  {
+    "message": "Mas, mesmo assim, há algo... um pouco triste nisso."
+  },
+  {
+    "message": "*sniff*...Oh, crap..."
+  },
+  {
+    "message": "...Acho que vou chorar."
+  },
+  {
+    "message": "Nada bom..."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Você é bastante rude, se perdendo em seus próprios pensamentos durante uma conversa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... Mas você já sabia que eu era rude...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sobre o que aconteceu mais cedo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que tem?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Eu te agradeço... por defender a Meiya-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「No entanto... Não se esqueça de que ainda desconfiamos de você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Se importa se eu perguntar... de que você me suspeita?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Não há necessidade de explicar. Não tenho intenção de me aproximar de você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem, tudo bem então.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「However...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que foi?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Quem quer que você seja... isso não muda o fato de que você é um homem de quem a Meiya-sama depende.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Há algo que eu, pessoalmente, gostaria de lhe pedir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que é...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por favor, nunca... faça nada para trair a boa vontade da Meiya-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Talvez tais palavras sejam fúteis, no entanto...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Shirogane... Fiquei sabendo do que aconteceu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Senhora...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que você fez foi uma violação da lei militar. Sem falar na insubordinação... A Sakaki não mandou você parar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhora...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「*suspiro*... Bem, não adianta ficar dando sermonário sobre isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Afinal, tenho certeza de que você entende a gravidade do que fez... Vou apenas declarar o seu castigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhora...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Nas próximas 24 horas, você não terá nenhum tempo livre, exceto para comer e dormir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhora... Hã?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Adapte-se ao seu TSF o mais rápido possível e esteja pronto para a batalha simulada depois de amanhã... É só isso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espere... O quê? Isso não é... exatamente a mesma rotina de sempre...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não! Isso é um castigo! Você não pode sorrir durante esse período! Não pode relaxar os músculos do rosto! Treine com o maior senso de responsabilidade que puder reunir!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sim, senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Você já percebeu que todo mundo neste esquadrão tem circunstâncias complicadas, não é? Não lhes cause problemas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Endireite essa cara!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...E trate de agradecer a todo mundo. Eles são o motivo de você ter escapado tão fácil.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Até o último deles veio me interceder um de cada vez... Foi pior do que se tivessem vindo em grupo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quêêê?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Em média, eles devem ter passado uns bons dez minutos na minha sala. Até a Ayamine ficou cinco minutos me encarando em silêncio... Eu já tenho trabalho demais, sabia?」"
+  },
+  {
+    "message": "Vocês..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「E quando fui ao PX, a Sargento-Adjunta Kyozuka me segurou por quinze minutos. Perdi metade do meu horário de almoço por causa dela.」"
+  },
+  {
+    "message": "Sra. Kyozuka... você também?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Faz apenas um mês desde que você chegou aqui. No entanto, você construiu uma relação sólida com todos. Nada do que acontece com você é problema só seu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu entendo...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Como estão os seus ferimentos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eles estão bem...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entendo... Então é só isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Já quase hora de apagar as luzes. Não saia do seu quarto agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eu sei disso!!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ótimo...」"
+  },
+  {
+    "message": "Droga... Ela percebeu direitinho o meu disfarce."
+  },
+  {
+    "message": "A fazer o quê. Acho que vou ter de ir direto para a cama esta noite..."
+  }
+]

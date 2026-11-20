@@ -1,0 +1,926 @@
+[
+  {
+    "message": "Extra 07/11 (Qua)"
+  },
+  {
+    "name": "Miki",
+    "message": "「Certo, vamos começar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso aí! Vamos nessa, Sensei!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ahaha... Umu... Bem, então... Lá vamos nós.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Estou pronto quando você estiver.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Vou deixar as técnicas mais difíceis de lado por enquanto.\nPrimeiro, vamos fazer você chegar ao ponto de conseguir disparar uma flecha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendido!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Levantar o arco, encaixar a flecha e soltá-la... Para fazer isso direito, seguimos uma sequência de movimentos chamada 'Shaho-Hassetsu', ou 'As Oito Stages do Tiro'!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Se você não aprender isso, nunca vai conseguir atirar com o arco direito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Primeiro, tente segurar isto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh! Já ganho um arco!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Um, na verdade, é só um arco de treino. Você não pode usar uma flecha logo de cara, então...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Um arco de treino?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Basicamente, é para você poder praticar segurando-o e puxando a corda. Vai te ajudar a aprender a postura correta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... Parece bom, vamos testar.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Então observe o que eu faço e tente imitar!」"
+  },
+  {
+    "message": "Vejamos só..."
+  },
+  {
+    "message": "Segurar o arco com a mão esquerda... Colocar as mãos na cintura e afastar as pernas..."
+  },
+  {
+    "message": "Olha só para mim, mãe! Sou um arqueiro!"
+  },
+  {
+    "message": "E agora? Ah, entendi... Levantar o arco e assumir a postura... Oh! Isso significa que está quase na hora de puxar a corda do arco...!"
+  },
+  {
+    "name": "Miki",
+    "message": "「Puxe a corda do arco lentamente para trás, mantendo os olhos no alvo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendido...」"
+  },
+  {
+    "message": "E-É como se... eu fosse um xogum em um campo de batalha antigo... I-Isso é muito foda!!"
+  },
+  {
+    "name": "Miki",
+    "message": "「Certo... Pare bem aí!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*freeze*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se eu estivesse com uma flecha encaixada, seria agora que eu soltaria — não é?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É. Essa postura se chama 'Kai', ou 'a puxada completa'. Você chegou ao sexto dos oito estágios.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, cheguei? Achei que oito estágios levariam mais tempo que isso.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não, não, estamos só fazendo o básico.\nAgora, volte a mão devagar para onde ela estava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ufa...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san, você tem uma boa postura.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É. Você geralmente já tem uma boa postura, então acho que vem naturalmente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Muahahaha... Meus talentos ocultos despertaram.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Acho que vou ter que me esforçar muito também!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso aí! Esse é o espírito!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É! É meio misterioso... mas quando eu sigo o que você diz, Takeru-san, parece que vai dar tudo certo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não só parece! Vai dar tudo certo!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ahaha... É!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, quais são o sétimo e o oitavo estágios?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Umm... O disparo da flecha e a continuação... Eles se chamam 'Hanare' e 'Zanshin', respectivamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É muito cedo para eu tentar isso?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hmm... É... Provavelmente seria perigoso tentar isso tão cedo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, tudo bem...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, e-eu sei! Vou te mostrar como se faz! Preste bastante atenção para poder comparar com o livro na sala de espera!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso vai me ajudar a aprender a atirar?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não tenho certeza... Mas mal não vai fazer, pelo menos...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então manda ver!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tá bom!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Talvez devesse trazer o livro para cá...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau... Você passou do Yugamae para o Kai num movimento fluido só...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não adianta muita coisa se você não conseguir fazer com suavidade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não disse que a sua técnica se chamava 'tiro oblíquo'?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim, é isso mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... Então é assim que o seu estilo difere dos outros...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É. Dizem que o padrão é o 'tiro frontal', né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, dizem sim.」"
+  },
+  {
+    "message": "Pelo que dá para ver nessas fotos, o estilo frontal parece ser mais comum mesmo."
+  },
+  {
+    "message": "Do ponto de vista de um leigo, a postura da Tama parece mais com a de um arqueiro tradicional."
+  },
+  {
+    "message": "Embora isso seja só porque estamos acostumados a ver em videogame e em filme de guerra medieval."
+  },
+  {
+    "name": "Miki",
+    "message": "「Certo, lá vou eu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quero ver!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Na mosca!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eheheh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aquilo foi aquela parada, né? Suas cinco flechas cruzaram perfeitamente perpendiculares ou sei lá o quê!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ahaha... Você faz ideia do que isso significa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grr...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É melhor não se preocupar em decorar as coisas avançadas por enquanto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Assim que você ficar bom o bastante para puxar a corda até o fim e manter todos os ângulos em 90 graus, isso vem naturalmente. Você acaba ajustando a trajetória para compensar a curvatura do arco antes de soltar a flecha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, entendi... Então é melhor aprender na prática mesmo...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Escuta, por que você não atirou aquela outra flecha que está com você?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que elas vêm em duplas?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「No tiro com arco japonês, elas sempre vêm aos pares de 'Haya' e 'Otoya'.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「A forma mais simples de explicar é que cada flecha tem penas que giram em direções opostas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein? ...Ah, estas penas da cauda... Então elas fazem as flechas girarem...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Isso mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então é tipo como os tufões no hemisfério norte e sul giram em direções opostas?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Quê? De onde você tirou isso!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não sabia? Os diferentes hemisférios têm...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não, não, eu sei disso.\nMas nunca ouvi ninguém fazer essa comparação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Foi mal...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza! Manda outro na mosca!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Pode deixar!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mais uma na mosca!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Consegui!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Viu, eu não disse? Você é incrível, Tama. Você consegue, sim!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hein? ...Ah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você acabou de acertar duas em cheio na mosca!!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Uau, agora que você falou...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que significa — fazer você praticar enquanto me treinava também foi um sucesso absoluto!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「P-Pois é, né... U-Uau, que loucura...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza! Agora vamos continuar assim os dois!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ênfase...? Ah! C-Claro!!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-saaan...? Tudo bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「B-Bem, eu tô bem...」"
+  },
+  {
+    "message": "Achei que ia perder a orelha..."
+  },
+  {
+    "message": "Quando soltei a corda do arco... ela pegou bem no lóbulo da minha orelha."
+  },
+  {
+    "message": "Se aquilo fosse um fio de piano, teria decepado fora na hora..."
+  },
+  {
+    "message": "...Caramba!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que nunca rolei tanto no chão antes... nem pra fazer drama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Desculpa... eu devia ter te ensinado direito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein? Não, nada a ver! Você tá mandando muito bem, Tama!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas sua orelha tá toda vermelha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu fico bem, ela não caiu nem nada...\nAi! Caiu!!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O quê!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Arghooooooooooh!!!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「T-T-T-T-Takeru-saaaaaaan!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nghaaaaaaaaahhh!!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Waaaaaaaaaahhh!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Brincadeira.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério, olha só. Ainda tá aqui.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...S-Seu bobão!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Wahahahaha! Como é que você caiu nessa!?」"
+  },
+  {
+    "message": "Ah, qualé, é uma pegadinha muito manjada!"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas, mas, mas...!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é muito ingênua mesmo, Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu não entendi...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, agora é a minha vez.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Vamos dar o nosso melhor de novo amanhã!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, eu posso te acompanhar até a estação. De boa.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu só quero te fazer mais algumas perguntas, só isso. Tem algum problema?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Êêê!? S-Sem problemas! Claro que não!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, então vamos nessa!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tá bom!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, tava pensando aqui. O arquearismo começou como um jeito de derrotar inimigos no campo de batalha, né?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim, é isso mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que se importam tanto com postura, etiqueta e essas paradas? Como é que isso ajuda a derrotar o inimigo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Umm... Bom, os samurais naquela época eram muito, mas muito formais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Espadas e arcos eram ferramentas de guerra, mas você precisa de um motivo para lutar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, bem isso.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É por isso que você precisa de uma certa mentalidade para usar uma arma direito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Faz todo sentido... Eles eram um grupinho meio orgulhoso.」"
+  },
+  {
+    "message": "...A Meiya é tipo uma samurai vivendo na era moderna."
+  },
+  {
+    "name": "Miki",
+    "message": "「Tem muito dos ensinamentos de Kong Fuzi no Bushido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quem?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É o que o papai diz.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... sério...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É por isso que você tem que ser rigoroso consigo mesmo e atencioso com os outros.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é verdade. Você quer dizer o Confucionismo.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Isso, exatamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então é essa mentalidade que dita tudo, hein?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É. Especialmente para arcos e flechas, já que são armas de projétil. São muito injustas, sabe?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pois é, nem me fale.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「As pessoas que não entendem isso acabam se voltando para o mal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso, isso.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas aí as armas de fogo foram importadas para o Japão, e os arcos perderam valor como armas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Aí isso se conectou com o Budismo Zen... hã... e escalou para algo ainda maior.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ainda maior?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É, ainda maior.」"
+  },
+  {
+    "message": "...É difícil saber se a Tama realmente entende dessas coisas."
+  },
+  {
+    "name": "Miki",
+    "message": "「E aí, no período Edo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem mais?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso está ficando bem interessante.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sério? Bem, no período Edo, as coisas finalmente estavam pacíficas, então guerras eram raras.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E a paz reinou sobre a terra.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Uhum.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E o que aconteceu depois?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Espadas e arcos simplesmente deixaram de ser tão usados.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Faz sentido.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas o samurai nunca parava de treinar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Foi aí que inventaram coisas como o iaido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então foi nessa época!」"
+  },
+  {
+    "message": "Isto aqui está parecendo um pequeno documentário oral bem legal.\nNada mal mesmo!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi. Então as ideias do Confucionismo e do Zen fizeram o tiro com arco focar cada vez mais na mente e no espírito!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Isso, exatamente! Eles até começaram a usar em rituais durante festivais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E festivais antigamente eram sobre deuses e tudo mais, então faz todo sentido.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E foi assim que o tiro com arco se tornou o que é hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... Então foi assim que aconteceu.\nIsso explica muita coisa...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É.」"
+  },
+  {
+    "message": "Cara... Quando diziam que história podia ser divertida, com certeza estavam falando de histórias assim."
+  },
+  {
+    "message": "Nossas aulas deveriam ensinar coisas assim em vez de só datas e nomes."
+  },
+  {
+    "message": "...Mas caramba, a Tama realmente ama o tiro com arco."
+  },
+  {
+    "message": "Algumas partes foram meio difíceis de ela explicar, mas ela sempre fica super empolgada quando fala sobre isso."
+  },
+  {
+    "message": "E ela entende tanto da história... Tem até orgulho disso."
+  },
+  {
+    "name": "Miki",
+    "message": "「Acho que entendeu agora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, agora eu entendi!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ainda bem que entendeu!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas tenho mais uma pergunta.\nPor que o seu estilo é considerado mais voltado para o combate?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, bem, é porque... Para resumir BEM, a gente fica de frente pro alvo quando arma o arco.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「A minha postura se chama tiro oblíquo. Sabe que a postura comum se chama tiro frontal, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, disso eu lembro.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Essa escola de tiro com arco é mais focada em educação e saúde, e menos na técnica de disparo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E as pessoas que fundaram eram muito, mas muito boas, então se espalhou que é uma beleza.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eles deviam ser influentes.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É, mas como o arco e flecha é tecnicamente um método de combate, não faria sentido se esse fosse o único jeito de as pessoas lidarem com isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Alguns dizem que encarar o alvo ao preparar o arco é bem mais científico e lógico.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmm... Então eles acabaram voltando às raízes do arco e flecha, já que o lado mental das coisas tinha sido explorado a fundo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Er, talvez? Sei lá. De qualquer forma, não é uma questão de qual está certa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, só formas diferentes de pensar.\nAs diferentes escolas não são sempre assim?」"
+  },
+  {
+    "message": "O pro-wrestling é a mesma coisa."
+  },
+  {
+    "name": "Miki",
+    "message": "「Preservar a escola da gente é importante, então o Papai e eu não vamos mudar. Mas acho que não importa qual você estuda.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, entendi! Caramba, Tama — você é surpreendentemente inteligente.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Êê!? \"Surpreendentemente\"!? Que maldade!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Wahahaha... Foi mal.\nMas acho faz sentido você saber toda a história sobre o que faz.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O Papai me ensina desde que eu era pequena.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "message": "Então até um pai daqueles consegue fazer algo direito."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ufa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nada, é que a gente conversou bastante.\nEu não costumo falar com você sobre esse tipo de coisa, Takeru-san.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fala...?\n...É, acho que não mesmo.」"
+  },
+  {
+    "message": "Normalmente, a gente tem o grupo todo em volta fazendo maior alvoroço."
+  },
+  {
+    "name": "Miki",
+    "message": "「Esta é a primeira vez que eu converso tanto sobre arco e flecha com alguém de fora do time.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, EU sou seu discípulo, Tama.\nTem que me passar os macetes.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ahahaha...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Beleza, tchauzinho de verdade agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Vai com cuidado para casa.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Pode deixar! Obrigada! Me divirtiti muito hoje!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Amanhã é o último treino antes do festival esportivo, então talvez não seja tão divertido.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... B-Bem, eu ainda vou dar o meu melhor!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso aí! Continue assim e tenho certeza de que vai conseguir!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「S-Sim!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, até mais.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Certo, tchauzinho!」"
+  },
+  {
+    "message": "...Muito bem. Acho que vou ter que dar uma palavrinha com a Sumika e a Meiya quando chegar em casa."
+  }
+]

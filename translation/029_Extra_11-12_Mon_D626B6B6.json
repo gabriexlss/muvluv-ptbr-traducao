@@ -1,0 +1,967 @@
+[
+  {
+    "message": "Extra 12/11 (Seg)"
+  },
+  {
+    "message": "*suspiro*... Que droga..."
+  },
+  {
+    "message": "Eu juntei toda a minha coragem e tudo mais, mas... como é que eu puxo assunto com a Tama?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você tá super deprimido hoje.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que pretende alcançar ficando de resmungo?\nErga essa cabeça.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você pode até ter razão, mas...」"
+  },
+  {
+    "message": "Vai ser muito difícil encará-la..."
+  },
+  {
+    "message": "Vamos pensar. Se eu encontrasse a Tama me sentindo assim, como eu reagiria?"
+  },
+  {
+    "message": "Será que eu deveria sorrir e quebrar o gelo com um \"Bom dia! Que dia lindo hoje\"?"
+  },
+  {
+    "message": "──Ah."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Espeeera!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──T-Tama!!」"
+  },
+  {
+    "message": "...E-Ela é rápida demais. Mas acho que não é surpresa, considerando que ela tá sempre correndo pra chegar na aula a tempo."
+  },
+  {
+    "message": "Mas o mais importante é que ela tá me evitando... e deixando isso na cara dura..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Droga! Não adianta ficar deprimido agora."
+  },
+  {
+    "message": "Eu sou o único que pode mudar o futuro!"
+  },
+  {
+    "message": "Obstaculozinhos assim não são nada pra──"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O obstáculo aqui é você, Shirogane.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Se VOCÊ mudasse o futuro, a gente nunca teria um segundo de paz...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Todo mundo consegue ouvir o que você tá pensando em voz alta.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "T-Tão frias... Sinto tanto frio por dentro... Droga."
+  },
+  {
+    "message": "Por favor, alguém... Descongela meu coração congelado..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Quer que eu descongele pra você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Valeu, mas dispenso, Mikoto.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Se você diz. Beleza, até mais.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Será que eu tava pensando em voz alta de novo!?"
+  },
+  {
+    "message": "C-Será que elas não podiam só fingir que não ouviram...?"
+  },
+  {
+    "message": "A Tama pode ter fugido de mim no modo de esquiva automática hoje de manhã, mas assim que a aula acabar, o papo é outro."
+  },
+  {
+    "message": "Vou direto nela assim que o sinal tocar e começar a falar antes que ela tenha chance de escapar."
+  },
+  {
+    "message": "Não tenho tempo a perder! A hora é agora!"
+  },
+  {
+    "message": "Mais dez segundos."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Lá vou euuuuu!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「!!!!」"
+  },
+  {
+    "message": "Droga! Ela disparou a correr sem pensar duas vezes!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Espera aí!」"
+  },
+  {
+    "message": "Te peguei!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Tama, espera aí!」"
+  },
+  {
+    "message": "Como diabos você é tão rápida!? lhe"
+  },
+  {
+    "message": "Ah, não! Não vou deixar você escapar!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*ofjo*...*ofjo*...」"
+  },
+  {
+    "message": "...É o que acontece com quem não participa de clube nenhum."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*ofjo*...*ofjo*...」"
+  },
+  {
+    "message": "*suspiro*... Eu vou morrer..."
+  },
+  {
+    "message": "Oxigênio insuficientee... Minha cabeça tá rodando..."
+  },
+  {
+    "message": "Como é que ela ainda consegue correr!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「!!!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espeeeera!」"
+  },
+  {
+    "message": "Você ainda tá correndo!?"
+  },
+  {
+    "message": "Você tá me dando um trabalhão danado!\nMas eu vou te caçar!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera, droga!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desgraçada! Desiste logo de uma vez!」"
+  },
+  {
+    "message": "Quer que eu use meu poder máximo!? É isso mesmo que você quer!?"
+  },
+  {
+    "message": "Beleza!! Aprecie bem isto!!"
+  },
+  {
+    "message": "Contemple... o meu verdadeiro poder!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parada ou eu atiro!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*tosse*...*ofjo*...」"
+  },
+  {
+    "message": "Não... adianta... Com o corpinho pequeno da Tama, a multidão no corredor dá vantagem a ela."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*ofjo*...*ofjo*...」"
+  },
+  {
+    "message": "Ela é humana mesmo?"
+  },
+  {
+    "message": "Acho que arqueiros não deixam de ser atletas, no fim das contas..."
+  },
+  {
+    "message": "Tá na cara que eu preciso repensar minha estratégia..."
+  },
+  {
+    "message": "O céu tá tão azul... e meu coração tão deprimido..."
+  },
+  {
+    "message": "A Tama tá saindo tanto do caminho só pra me evitar..."
+  },
+  {
+    "message": "O que eu faço agora...? Que situação horrível..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Que droga... Agora tô com fome também..."
+  },
+  {
+    "message": "Até numa hora dessas, meu estômago não quer saber de nada..."
+  },
+  {
+    "message": "Ugh... Esse ronco não tem o menor respeito pela tensão dramática..."
+  },
+  {
+    "message": "Isso é patético demais pra dizer em voz alta."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tô com taaaanta fome...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Come.」"
+  },
+  {
+    "message": "Hã?"
+  },
+  {
+    "message": "Ah! Um sanduíche de yakisoba!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, Ayamine! Minha salvadora! Achei que estivesse condenado a morrer de fome na minha própria pátria!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*munch* *munch*"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá bom?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, tá bom.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Se sente melhor?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "Espera. Ela tá preocupada comigo?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*munch* *munch*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é uma garota bem legal, sabia?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu sei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi. Que desperdício de elogio.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você também é uma boa pessoa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gostaria de achar que sim... Mas quem sabe?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Então você é um cara mau, é...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fica com essa voz de decepcionada.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*munch* *munch*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ufa... O tempero extra da emoção humana transforma o sabor deste sanduíche de yakisoba em algo realmente sublime.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ouviu isso?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Lá vem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vem o quê?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ali.」"
+  },
+  {
+    "message": "Ahn... Apontar para o sanduíche de yakisoba não me ajuda a..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「AAAAAAAH!!」"
+  },
+  {
+    "message": "Uma flecha! Tem uma flecha!!"
+  },
+  {
+    "message": "E ela atravessou bem o meu sanduíche..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*ha!*...Eu... Eu deixei o pão cair...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Que desperdício.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*snif*...Meu pobre e docinho sanduíche de yakisoba...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O sacrifício dele salvou as vidas dezenas de milhares.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo isso? Sério?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Olha. Tem alguma coisa presa nele.」"
+  },
+  {
+    "message": "...Ê? Ah, na flecha."
+  },
+  {
+    "message": "Uma carta? A-Alguém me mandou uma carta usando uma flecha!?"
+  },
+  {
+    "message": "Não precisavam ter acertado o meu sanduíche..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei, Ayamine.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Sem esmolas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é, só um pedacinho...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Odeio gente que desperdiça comida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*chorinho*...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-Você não pode abrir uma exceção...?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Shirogane... Para de choramingar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uaaaaah!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Não vai ler isso aí?」"
+  },
+  {
+    "message": "Ah, é verdade. Tinha esquecido da carta."
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que temos aqui?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「'Você está com raiva?'」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*twitch*"
+  },
+  {
+    "message": "N-Não dá... Minhas mãos não param de tremer!"
+  },
+  {
+    "message": "O m-meu sanduíche de yakisoba foi sacrificado por ISSO!?!?"
+  },
+  {
+    "message": "Ah... Ah, não... Lá vem...!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「PODE APOSTAR QUE EU TÔ COM RAIVA!!!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...pera. Ê?」"
+  },
+  {
+    "message": "S-Será que isso... é da Tama?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer, quem mais diabos poderia ser!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「... Nossa, você é péssimo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Gritando de raiva a plenos pulmões? Você acabou de aprofundar o abismo entre vocês dois. Que trágico...」"
+  },
+  {
+    "message": "... Me poupe do melodrama."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, ahm... essa foi uma péssima ideia, né?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「... Tão ruim quanto um sanduíche de yakisoba sem gengibre em conserva e alga nori.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "message": "É, essa é bem ruim..."
+  },
+  {
+    "message": "... Será que eu consigo compensar isso...?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Voz",
+    "message": "「... Shirogane-kun?」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「... Você finalmente acordou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「... *fungada*... Mmwhuh? ... Representante?」"
+  },
+  {
+    "message": "... Hm? Não tem mais ninguém aqui."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「A aula já acabou há tempos!! Você não pode dormir aqui a essa hora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「... S-Sim, eu sei.\nNossa, não acredito que a Sumika e a Meiya simplesmente me deixaram aqui.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Elas tentaram te acordar, mas você não se mexia por nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「A Mitsurugi-san começou a inventar que ia te carregar de volta pra casa. Foi um verdadeiro pé no saco de lidar.」"
+  },
+  {
+    "message": "Eu bem que queria que ela tivesse feito isso."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「... Anda logo, vamos para casa.\nOu você pretende passar a noite aqui?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que não... Eu já vou...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Que som é esse?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ei... N-Não faça barulhos estranhos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fui eu não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gyaaaaaah!!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E-Espera um minuto!! P-P-Por que tem f-f-flechas voando na nossa direção!?」"
+  },
+  {
+    "message": "É a Tama! Onde ela tá?"
+  },
+  {
+    "message": "...O corredor!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Ela escapou."
+  },
+  {
+    "message": "O que ela tá tentando fazer, afinal...?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Foi a Tamase-san, não foi?\n...Aqui, uma carta para você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é... Valeu.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, e parece que agora tem um buraco na sua bolsa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Ela atravessou tudo com um tiro."
+  },
+  {
+    "message": "Meus livros devem estar arruinados."
+  },
+  {
+    "message": "Não que eu me importe com eles, mas... Tá querendo me matar ou o quê?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então...? Não vai ler?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Deixa eu ver aqui... 'Você ainda tá bravo?'」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que diabo é isso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não acha que ela só tá ansiosa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Francamente... Você é um caso perdido. Por favor, tenta não piorar ainda mais o clima na nossa turma do que já está?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É. Entendi.」"
+  },
+  {
+    "message": "Ela tá me mandando fazer as pazes com a Tama."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não arrume confusão, tá?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Qu-Quê?」"
+  },
+  {
+    "message": "...Primeiro a Ayamine, e agora a Representante..."
+  },
+  {
+    "message": "Eu realmente preciso fazer as pazes com ela."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vou indo para casa... Se cuida, Representante.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah... Você também.」"
+  },
+  {
+    "message": "...Agora, comoé que eu vou alcançar a Tama...?"
+  },
+  {
+    "message": "Não consigo vencer ela correndo... Nunca vou alcançar ela."
+  },
+  {
+    "message": "Ela tá tão na cara que tá me evitando... Digo, tá fugindo de mim na maior cara de pau."
+  },
+  {
+    "message": "Não dá para tentar conversar assim, nessas circunstâncias.\nPreciso de um plano..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "O escaninho de sapatos do Mikoto tá tão popular como sempre."
+  },
+  {
+    "message": "Tá lotado de cartas."
+  },
+  {
+    "message": "...Tenho certeza de que tão cheias de, hã... Coisas \"chocantes\", como de costume."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Calma. Cartas?」"
+  },
+  {
+    "message": "Isso... É isso! É claro!! É assim que vou fazer ela me ouvir!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uaaah!!」"
+  },
+  {
+    "message": "...Haf... haf... haf... haf..."
+  },
+  {
+    "message": "...Não adianta. Não consigo pensar em nada para escrever."
+  },
+  {
+    "message": "...Uhm, vejamos..."
+  },
+  {
+    "message": "Para defugir."
+  },
+  {
+    "message": "Eu quero conversar."
+  },
+  {
+    "message": "Quero que a gente seja amigo de novo."
+  },
+  {
+    "message": "Quero voltar a ser como antes."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grrrm...」"
+  },
+  {
+    "message": "...Não... Isso não soa bem."
+  },
+  {
+    "message": "Nunca fiz nada parecido antes."
+  },
+  {
+    "message": "Sempre que penso no que a Tama está sentindo, tudo o que escrevo parece errado."
+  },
+  {
+    "message": "...E nem faltam tantos dias assim para a partida."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru? Ainda está acordado?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? É, pode entrar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então entrarei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aconteceu alguma coisa? É raro você estar acordada a essa hora.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Digo o mesmo. Além disso, não consigo dormir enquanto as luzes do seu quarto continuarem acesas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ah. Foi mal por isso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não há problema.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tô indo dormir já, então descansa também, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim.\n...Hm? O que é isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A Tama foge sempre que tento falar com ela... Então esse é o meu plano.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu entendo o que sente... mas, perseguindo-a com tanta insistência, é natural que Tamase queira fugir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-Você acha?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma...\nEntendo. Então decidiu tentar escrever uma carta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Um curto.\nAcho que só preciso de cerca de uma frase.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Certo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que eu simplesmente sou péssimo escrevendo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Eu arriscaria dizer que habilidade literária é o menor dos seus problemas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Essa doeu. Foi pesada.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você entendeu mal. O que é exatamente que você deseja realizar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Eu?」"
+  },
+  {
+    "message": "...O que eu quero fazer?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não há algo que você queira transmitir à Tamase? Simplesmente ponha isso no papel.」"
+  },
+  {
+    "message": "Sábias palavras..."
+  },
+  {
+    "message": "Bem... Primeiro, pedir para ela parar de correr.\nDepois, dizer que ela precisa falar comigo."
+  },
+  {
+    "message": "E aí... \"mudar essa cara amarrada\"? Ou algo assim?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma, você deveria considerar parar por aqui hoje. Não lhe fará bem estar fadigado quando a hora chegar amanhã.」"
+  },
+  {
+    "message": "Você realmente só diz verdades."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza... Sinto que dou conta agora.\nObrigado, Meiya. Agora vá dormir um pouco, tá?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você também precisa descansar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sei. Já vou deitar daqui a pouquinho.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem então... Boa noite, Takeru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Boa noite.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Tudo bem."
+  },
+  {
+    "message": "Eu só devo escrever o que sinto."
+  },
+  {
+    "message": "Isso deve bastar...."
+  },
+  {
+    "message": "──\"Vamos tentar de novo.\""
+  }
+]

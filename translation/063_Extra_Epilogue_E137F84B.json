@@ -1,0 +1,1949 @@
+[
+  {
+    "message": "Epílogo de Extra"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ên?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É você, Sumika.\nEu não consigo imaginar... viver sem você.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「T-Takeru... chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não tenho certeza... se era isso que você esperava, lá atrás... quando disse que queria que algo acontecesse...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ta...keru...cha...n...\nTakeru...cha...n...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas, bem... eu vou... me esforçar. Vou dar o meu melhor... para ser mais... do que apenas um amigo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*snif*...*soluço*...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sinceramente, não sei dizer com certeza... se eu gosto de você ou se estou apaixonado...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ugh... Waaah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas posso dizer uma coisa com certeza: isso não tem mais nada a ver com o tempo. Posso ficar aqui o tempo que você quiser. Nunca vou sair do seu lado.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Waaaaaaaaah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa, cuidado...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Waaaaah... haaah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*snif*...*soluço*...*snif*...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não pode ficar chorando para sempre.\nAs pessoas vão acabar te chamando de chorona, sabe.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Takeru-chaaan... Takeru-chaaaaan!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu não conseguiria chegar a tempo nem se corresse agora...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Tem certeza... de que é isso que você quer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim. Enquanto você me explicava tudo... Enquanto te procurei por toda parte e conversei com a Tsukuyomi-san, eu fiquei pensando.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E eu decidi... Não vou lá ver a Meiya.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Mas... por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo sabendo que entendeu errado, ela ainda acha que é responsabilidade dela voltar.\nEu não posso desrespeitar essa decisão.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo se eu aparecesse lá agora do nada, ela provavelmente me mandaria embora. Ela é assim mesmo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã... Bem que dizem que quinze minutos...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já que tudo isso acabou, se importa se eu disser uma coisa meio medrosa?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Não, pode falar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sinceramente... Eu quero ver a Meiya de novo...\npara pedir desculpas e agradecer a ela.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu sei...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... não posso mais...\nVocê é a única para quem posso contar... então eu só contei...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「────Pronto! Acabou!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Você... Você é realmente incrível, Takeru-chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por que a gente não vai para casa?\nEstá bem frio aqui fora.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Vamos.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ah... Voltou tudo ao normal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Incrível... Como é que essa gente consegue fazer uma coisa dessas?」"
+  },
+  {
+    "message": "Sério, essa galera passa dos limites..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vamos!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Cheguei〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O seu quarto é o do lado.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E daí?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que eu ainda insisto...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não sobrou nem vestígio da porta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quase como se nunca tivesse estado aqui...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Meiya...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Meiya... Você realmente é uma pessoa incrível..."
+  },
+  {
+    "message": "Você fez isso por mim e pela Sumika, não foi?"
+  },
+  {
+    "message": "Você foi tão minuciosa... em apagar cada vestígio da sua presença..."
+  },
+  {
+    "message": "...Obrigado... Muito obrigado."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Mas, Meiya..."
+  },
+  {
+    "message": "Se você acha que tudo vai sair de acordo com o seu plajeurzinho, está muito enganada."
+  },
+  {
+    "message": "Se você vai bancar a fria e estilosa como sempre, então nós também vamos fazer do nosso jeito."
+  },
+  {
+    "message": "Eu e a Sumika... nunca, jamais vamos te esquecer."
+  },
+  {
+    "message": "Afinal... É graças a você... que eu e a Sumika pudemos começar a sentir isso um pelo outro..."
+  },
+  {
+    "message": "Então você nunca vai conseguir apagar... as nossas memórias de você."
+  },
+  {
+    "message": "E se você não gosta disso... azar o seu!"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm? O foi?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, você!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você disse que tinha acabado de ser um frouxo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sim, eu acabei...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tem certeza disso...? Me parece que você ainda não tem espinha dorsal nenhuma.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como é que é!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Será que você não vai ficar na dúvida toda vez que olhar para aquela parede...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que eu faria isso!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tem certeza de que não vai deixar todo o trabalho duro da Meiya ir por água abaixo...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, não vou!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sééério〜?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, sério! Agora me deixa em paz!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Digo sério... Você não precisa se preocupar com isso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Sério?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer que... eu te prove?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu posso... se você quiser.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Tá bom... Ah!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mm...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nh...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Unfh...」"
+  },
+  {
+    "message": "...Sumika. Minha amiga de infância."
+  },
+  {
+    "message": "A garota que sempre esteve ao meu lado, não importa o quê."
+  },
+  {
+    "message": "E ainda assim, nunca fomos tão próximos quanto agora."
+  },
+  {
+    "message": "E agora, bem de perto... consigo sentir um lado da Sumika que eu nunca conheci antes."
+  },
+  {
+    "message": "O cheiro dela..."
+  },
+  {
+    "message": "O cabelo dela..."
+  },
+  {
+    "message": "O calor dela..."
+  },
+  {
+    "message": "A pele dela..."
+  },
+  {
+    "message": "A respiração dela..."
+  },
+  {
+    "message": "Os olhos dela..."
+  },
+  {
+    "message": "E... o coração dela..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É como se... minha mente tivesse ficado em branco...」"
+  },
+  {
+    "message": "Sumika abre os olhos sonolenta, como em um transe... e olha para mim."
+  },
+  {
+    "name": "Sumika",
+    "message": "「É como se a minha cabeça estivesse me dizendo... que isso tem que ser só um sonho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Um sonho muito bom... que eu sei que não deveria estar tendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...E que eu poderia acordar a qualquer momento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu tô com um pouquinho de medo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Você não sabe quantas vezes eu já vi isso nos meus sonhos.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ter você ao meu lado...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Seus olhos em mim, e apenas em mim...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nunca me deixando ir...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...O tipo de sonho do qual você nunca quer acordar.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...É isso que me assusta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...É?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não sou um sonho.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu sei...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É por isso que... isso provavelmente vai doer um pouco.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Se isso não é um sonho, não me importa se doer...」"
+  },
+  {
+    "message": "Bem suavemente... eu puxo o corpo dela para mais perto."
+  },
+  {
+    "message": "Ela se encaixa perfeitamente nos meus braços, como uma chave em uma fechadura."
+  },
+  {
+    "message": "Pode ter tido uma época no passado em que ficamos tão próximos assim por um impulso do momento, ou puramente por acidente."
+  },
+  {
+    "message": "Mas... agora é diferente."
+  },
+  {
+    "message": "Eu posso senti-la perto de mim."
+  },
+  {
+    "message": "Eu posso senti-la dentro de mim."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Ela estremece levemente enquanto eu sussurro em seu ouvido."
+  },
+  {
+    "message": "Eu coloco uma mão no peito da Sumika, e deixo-a afundar devagar em sua suave curvatura."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Você está sentindo isso, Takeru-chan? Escuta... Meu coração está batendo loucamente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, eu consigo sentir.」"
+  },
+  {
+    "message": "Os seios da Sumika não são tão grandes... mas também não são pequenos."
+  },
+  {
+    "message": "Eu não consigo pensar em uma maneira real de descrevê-los, a não ser que eles combinam com ela."
+  },
+  {
+    "message": "Mas, independente disso, a maciez flexível deles é incrível nas minhas mãos..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu quero sentir o seu também, Takeru-chan.」"
+  },
+  {
+    "message": "Sumika tira minha mão de seu seio, deixando o peito dela se pressionar contra o meu."
+  },
+  {
+    "message": "Os braços da Sumika envolvem as minhas costas,\ne seu corpo esguio desliza para mais perto."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Mesmo através de todas as camadas de tecido, eu ainda consigo sentir o calor do corpo dela."
+  },
+  {
+    "message": "Não importa o quanto transborde, o calor da Sumika é infinito."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika, tem certeza de que está bem com isso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não diga isso... Fico triste até de você perguntar... Sabe que por mim tudo bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "message": "Deslizo minhas mãos por baixo do suéter dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mmgh...!」"
+  },
+  {
+    "message": "Meus dedos deslizam pela pele macia dela."
+  },
+  {
+    "message": "Então é assim que a pele da Sumika é."
+  },
+  {
+    "message": "...Nunca tinha tocado nela antes."
+  },
+  {
+    "message": "Lenta, mas firmemente, movo meus dedos pelo abdômen da Sumika, até que finalmente chegam ao sutiã que abraça seus seios."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Sua respiração quente bate contra o meu rosto."
+  },
+  {
+    "message": "Usando meus dedos para erguer o sutiã bem ajustado, deslizo minhas mãos por baixo."
+  },
+  {
+    "message": "Consigo sentir a maciez da pele dela."
+  },
+  {
+    "message": "Consigo sentir o corpo da Sumika."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... ah...」"
+  },
+  {
+    "message": "Sumika se sobressalta."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... ah, ngh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não, tudo bem... Só estou feliz, só isso...」"
+  },
+  {
+    "message": "Há algo vacilante... bem no fundo dos olhos dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, você é Tão quente e está tão perto de mim... Eu só nunca achei que seria mais do que um sonho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que você é bem sonhadora, Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ugh... Você é tão provocador, Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pode crer.」"
+  },
+  {
+    "message": "Envolvo os seios da Sumika com as mãos, quase os apertando."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahh...!」"
+  },
+  {
+    "message": "Enquanto confirmo a maciez deles com movimentos lentos e cuidadosos, posso sentir os mamilos dela começarem a endurecer."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... Ahhn...」"
+  },
+  {
+    "message": "Essa é uma sensação tão estranha..."
+  },
+  {
+    "message": "Não há nada dentro de mim me impulsionando."
+  },
+  {
+    "message": "...Sempre achei que transar me tornaria um tarado e faria minha mente se apagar de tesão."
+  },
+  {
+    "message": "Mas... é mais como se eu estivesse tomado por uma profunda sensação de felicidade..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, está tão quente... É como se eu estivesse pegando fogo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quer que eu tire isso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Vamos.」"
+  },
+  {
+    "message": "Levanto os braços dela acima da cabeça e tiro o seu suéter."
+  },
+  {
+    "message": "Agora tudo o que resta é o sutiã adorável dela."
+  },
+  {
+    "message": "Enquanto a observo em silêncio, Sumika torce o corpo e cobre o peito."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...He-he-heh.\nIs-Isto é meio embaraçoso...」"
+  },
+  {
+    "message": "Não me venha com essa risadinha tímida... Você vai acabar me deixando com vergonha também."
+  },
+  {
+    "message": "Se continuarmos fazendo isso um com o outro, não vamos conseguir seguir em frente."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Takeru-chan. O que eu devo fazer agora...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu não sei muito bem como te dar prazer... Desculpa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-Vamos lá, você não precisa pedir desculpas por isso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Tá bom.」"
+  },
+  {
+    "message": "Você está se preocupando com nada."
+  },
+  {
+    "message": "Você já deveria saber que isso não importa para mim..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não se preocupe com isso. Pode apenas ficar deitada, que eu faço o resto.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Como assim, 'apenas ficar deitada'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu cuido de tudo sozinho, então você não precisa se preocupar com nada. Seja apenas você mesma, Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... não...」"
+  },
+  {
+    "message": "Levanto a saia dela e deslizo meus dedos entre as pernas da Sumika... direto até a base de suas coxas."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Is-...-so não é... Ngh...!」"
+  },
+  {
+    "message": "Consigo sentir um toque de umidade através da calcinha dela."
+  },
+  {
+    "message": "Ela está tão quente... Posso senti-la se contorcendo aqui embaixo..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não...!」"
+  },
+  {
+    "message": "Pressiono meus dedos contra ela. O tecido da calcinha fica tenso e os empurra de volta."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah! ...Ah! Aaah...!」"
+  },
+  {
+    "message": "Consigo sentir a umidade começando a se espalhar pela calcinha dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah! ...E-Espera, isso é...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Fique quieta.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「T-Tá bom...」"
+  },
+  {
+    "message": "Sumika fica muito mais tensa do que o necessário."
+  },
+  {
+    "message": "Isso provavelmente é... apenas um sinal de quão nervosa ela está."
+  },
+  {
+    "message": "Desabotoo a saia dela com um pipiparote do dedo."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... N-Nossa, Takeru-chan... Bem suave...」"
+  },
+  {
+    "message": "Ela tenta fazer uma piada, mas o tremor em sua voz faz com que soe sem graça."
+  },
+  {
+    "message": "Eu pego a calcinha dela pelos dois lados e começo a abaixá-la."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Eu a abaixo ainda mais."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mm...!」"
+  },
+  {
+    "message": "Eu deslizo a peça até os tornozelos dela e puxo uma das pernas para fora. Com isso, a parte inferior do corpo de Sumika fica completamente exposta."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... Ungh...」"
+  },
+  {
+    "message": "Sumika se contorce, fechando as coxas com força."
+  },
+  {
+    "message": "Eu passo a mão de leve pelo espaço entre elas."
+  },
+  {
+    "message": "Lentamente, deslizo meus dedos por sua vagina intocada."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Agh...!」"
+  },
+  {
+    "message": "A região entre as pernas dela estava encharcada de suor e de seus fluidos sexuais."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ta-...Takeru-chan...」"
+  },
+  {
+    "message": "Eu respiro fundo e o perfume de Sumika preenche meus pulmões."
+  },
+  {
+    "message": "E, assim mesmo, deslizo um dedo para dentro dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nn... nghah...!」"
+  },
+  {
+    "message": "O corpo de Sumika dá um solavanco."
+  },
+  {
+    "message": "Meu dedo começa a afundar fundo, bem fundo dentro dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hah...! Mgh! Mmfh...! ...Ah, anh...!」"
+  },
+  {
+    "message": "Sua carne macia envolve meu dedo, revestindo-o com seus fluidos quentes e viscosos. Essa lubrificação permite que ele deslize suavemente, indo mais fundo no interior de Sumika."
+  },
+  {
+    "message": "Então é assim que uma garota se sente..."
+  },
+  {
+    "message": "É macio... e quente..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, é tão estranho... Takeru-chan, Takeru-chan...!」"
+  },
+  {
+    "message": "Sumika olha para mim com um olhar dolorosamente inocente."
+  },
+  {
+    "message": "É algo tão fascinante, a ponto de eu me sentir dominado por sua beleza..."
+  },
+  {
+    "message": "Sumika provavelmente não está nem perto de estar tão calma quanto eu agora..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Haah, hngh! Haah! Aah...!」"
+  },
+  {
+    "message": "Eu empurro meu dedo indicador mais fundo em Sumika, enquanto tateio em busca de seu clitóris com o polegar."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah...!? Takeru-chan, isso é...! Ah, aaangh!」"
+  },
+  {
+    "message": "Eu esfrego a ponta do meu polegar sobre uma protuberância rígida."
+  },
+  {
+    "message": "Em meio à sensação viscosa, concentro-me nessa dureza e começo a rolar o polegar sobre ela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Meu Deus...! Ahh... Ah! Ah, aaah...!!」"
+  },
+  {
+    "message": "Ela tenta conter as lágrimas, mas parece não conseguir reprimir os sentimentos que se acumulam dentro dela."
+  },
+  {
+    "message": "Eu deslizo minha mão esquerda por trás das costas de Sumika e desfaço o fecho do sutiã dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nnfh...!」"
+  },
+  {
+    "message": "O sutiã que protegia o peito de Sumika cai suavemente, com uma facilidade enorme."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ta-...Takeru... chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika... Quero senti-los. Muito.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...C-Claro... Pode ir em frente...」"
+  },
+  {
+    "message": "Só de ver os seios fartos e saudáveis da Sumika, minha mente viaja, imaginando o quão macios eles devem ser."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Nunca me tocaram assim antes...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que não.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Apesar de você já ter apertado eles por cima da minha roupa várias vezes... não é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, bem. Considerando o quão forte você me bateu, eu diria que estamos quites.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahaha... ha... haah! Ahaah...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não me bate desta vez, tá?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Estúpido...」"
+  },
+  {
+    "message": "Amasseio o seio com a mão esquerda, enquanto continuo a remexer o interior da Sumika com a direita."
+  },
+  {
+    "message": "Os mamilos dela estão começando a ficar durinhos."
+  },
+  {
+    "message": "Não aguento mais. Coloco minha boca em um deles."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah! ...Ah, ah! ...Aaaagh...」"
+  },
+  {
+    "message": "Isto é o peito de uma garota... este é o peito da Sumika..."
+  },
+  {
+    "message": "Sumika, que esteve comigo nos momentos bons e ruins..."
+  },
+  {
+    "message": "Minha amiga de infância..."
+  },
+  {
+    "message": "E agora... estou lamber o peito dela... A minha melhor amiga, e aqui estou eu, chupando os seios dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Angh! ...Nnf! ...Haah! Ahah...!」"
+  },
+  {
+    "message": "A mesma Sumika com quem cresci... Ela está arfando, gemendo... em resposta aos meus toques..."
+  },
+  {
+    "message": "Só de pensar nisso já fico tão tesão que sinto que vou rasgar as calças."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mmmah! ...Aaahn! ...Ah! Ah...!」"
+  },
+  {
+    "message": "Quero ouvir mais."
+  },
+  {
+    "message": "Quero ouvir mais dos gemidos da Sumika."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hah! ...Uhnf, mgh...! Angh... Mh, mm...!!」"
+  },
+  {
+    "message": "A estimulação combinada nos mamilos e no clitóris parece ser demais para ela aguentar, e seu corpo inteiro treme enquanto geme."
+  },
+  {
+    "message": "Eu a estimulo incansavelmente com meus dedos, língua e lábios."
+  },
+  {
+    "message": "No passado, eu havia pensado muito nas diferentes coisas que tentaria, mas tudo isso foi por água abaixo."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan... Takeru-chan... Eu vou... Eu! Eu-! ...Hyaaah!!」"
+  },
+  {
+    "message": "Sumikasolta um grito agudo enquanto todas as forças abandonam o seu corpo."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... ah, ah... ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você tá bem, Sumika?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Foi você que fez isso comigo... Não pergunta se eu tô bem...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「D-Desculpa...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não, tudo bem...\n...Mas diz aí, Takeru-chan...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Você deveria tirar a roupa também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é mesmo...」"
+  },
+  {
+    "message": "...A Sumika tá completamente pelada, e eu ainda estou totalmente vestido."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Assim não vale, Takeru-chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É verdade. Não vale mesmo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Takeru-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu te amo.」"
+  },
+  {
+    "message": "A cama range alto quando recebe o peso dos nossos corpos."
+  },
+  {
+    "message": "...Pressiono minha pele contra a da Sumika, e nos deitamos juntos na cama."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sua cama... tem o seu cheiro, Takeru-chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Claro que tem.」"
+  },
+  {
+    "message": "Isso com certeza parece coisa de outro mundo."
+  },
+  {
+    "message": "...E até ontem, era mesmo."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan... você tá tão quentinho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você também.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...E, Takeru-chan...\nVocê tá ficando duro...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Oh, v-você diz isso?」"
+  },
+  {
+    "message": "Não fala uma coisa dessas, é muito vergonhoso."
+  },
+  {
+    "message": "Você não quer que ele murche de novo, né?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, você tá ficando assim por minha causa, uma inútil?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que jeito estranho de falar de si mesma.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E depois de tudo o que você disse sobre eu não ter sex appeal... Você é um mentiroso do caralho, Takeru-chan!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「P-Por que você tem que──」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você é só um grande mentiroso, Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quem me dera você tivesse me dito o que realmente sentia muito tempo atrás.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, eu sei.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas eu te perdoo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, e eu aceito o seu perdão.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sério. Mesmo que isso doa, eu vou te perdoar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika...」"
+  },
+  {
+    "message": "Entrar na Sumika foi fácil."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hngh, ngh...!」"
+  },
+  {
+    "message": "Quando empurro meus quadris um pouco mais, sinto minha ponta deslizar mais fundo lá dentro."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... ah... aaah... ah, ah...」"
+  },
+  {
+    "message": "A Sumika está tremendo por causa dessa sensação desconhecida. O corpo dela balança até o âmago, e eu consigo sentir essa vibração através do meu membro."
+  },
+  {
+    "message": "Devagar, deixo-me ser engolido pela Sumika, absorvendo a sensação de ser tragado para dentro das profundezas dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Urgh! ...Rgh, ngh...!」"
+  },
+  {
+    "message": "O rosto da Sumika se contorce, como se ela estivesse se preparando. Ao mesmo tempo, sinto uma forte resistência e paro de me mover."
+  },
+  {
+    "message": "Tão apertada... É como se só entrar nela já fosse o bastante para fazê-la se despedaçar... Sinceramente, tenho medo de que ela quebre..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, ah...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá doendo?」"
+  },
+  {
+    "message": "Bem... Acho que isso é óbvio. O corpo da Sumika está estremecendo... como se houvesse uma corrente elétrica percorrendo ela..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá tudo bem... Não me importa se dói...」"
+  },
+  {
+    "message": "Por trás das palavras... a voz dela treme de medo."
+  },
+  {
+    "message": "E mesmo assim... ela está me dizendo para continuar."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá tudo bem... Essa dor é só a prova da conexão que eu compartilho com você, Takeru-chan...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Olha, eu sempre achei... que a gente ia ficar junto pra sempre...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não importava o que acontecesse entre a gente... Mesmo se você começasse a sair com outras garotas, eu ainda teria querido ficar com você...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Mas essa dor... Essa dor é a única coisa... que mais ninguém... vai poder compartilhar com você...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então... Eu não me importo se doer... Só me machuca, Takeru-chan...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika!」"
+  },
+  {
+    "message": "Eu havia recuado um pouco os quadris antes, mas naquele momento, empurrei tudo de uma vez para dentro."
+  },
+  {
+    "message": "E então... sinto a mínima sensação de algo rasgando bem no fundo da Sumika."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... A-Arghh! Aaaaagh...!」"
+  },
+  {
+    "message": "Toda a resistência que eu vinha sentindo desapareceu num instante."
+  },
+  {
+    "message": "Eu meço fundo dentro da Sumika, e então paro de me mover."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah! Aaah... aaah...!」"
+  },
+  {
+    "message": "O corpinho da Sumika treme, como se estivesse com medo da dor e do leve prazer lá no fundo dela."
+  },
+  {
+    "message": "Eu lambo as gotículas de suor que haviam se formado na testa dela."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Vou começar a me mover.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso, isso...!!」"
+  },
+  {
+    "message": "Eu me agarro à Sumika e estocada após estocada, movo meus quadris."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... aaah! Angh! Aaah!!」"
+  },
+  {
+    "message": "Suas paredes internas quentes se apertam ao meu redor — uma sensação que só serve para acelerar meus movimentos."
+  },
+  {
+    "message": "Ouço o som de nossos quadris colidindo. O corpo da Sumika afunda profundamente na cama, empurrado pelas minhas estocadas e pelo meu peso."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Unfh!! Nnfh! Nngh! ...Mm!」"
+  },
+  {
+    "message": "Sumika deve estar realmente lutando para suportar a dor. Posso sentir a tensão em suas mãos atrás da minha cabeça."
+  },
+  {
+    "message": "Mas mesmo assim, Sumika não disse uma única palavra de reclamação. É tão docemente adorável que não consigo deixar de fazer o que ela quer."
+  },
+  {
+    "message": "Eu saio quase por completo e depois afundo tudo de volta lá dentro. Conforme meu membro se enterra na Sumika, ela resiste ao impulso de erguer os quadris."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, ah...! ...Mm! Anh...!」"
+  },
+  {
+    "message": "Enquanto nós dois nos deixamos levar pelo ritmo, algo escaldante brota de algum lugar profundo nos meus quadris."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, Takeru-chan, Takeru-chan...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...!」"
+  },
+  {
+    "message": "Sabendo que o clímax não está longe, acelero minhas estocadas, descarregando tudo o que tenho na Sumika."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aaah... Takeru-chan, parece que vou ficar louca... É uma sensação tão estranha...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika... Eu sei, Sumika... Estou bem aqui com você...」"
+  },
+  {
+    "message": "Fecho os olhos e tento resistir ao torpor que percorre meus quadris, mas... é tarde demais..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso, isso! Sim...! Ah... aaah! ...Takeru-chan...!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nngh...!」"
+  },
+  {
+    "message": "Sinto um aperto... como se o interior da Sumika estivesse se fechando com força ao meu redor."
+  },
+  {
+    "message": "Quase como se eu estivesse preso na palma da mão dela... Uma intensidade extrema..."
+  },
+  {
+    "message": "Eu não consigo... segurar por mais tempo...!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika... Sumika, eu vou gozar...!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso, mfh...!」"
+  },
+  {
+    "message": "Eu puxo para fora e imediatamente colo meus lábios nos da Sumika."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahhnfh...!!」"
+  },
+  {
+    "message": "Enquanto a ponta do meu membro roça em seu baixo-ventre, um líquido branco e espesso se espalha pelo torso dela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... aaah... ah...」"
+  },
+  {
+    "message": "Em seguida, tudo o que restava dentro de mim transborda entre suas coxas, profanando sua pele."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahh... Ahh, ahhh-haa...」"
+  },
+  {
+    "message": "O corpo da Sumika continua tremendo e se contraindo."
+  },
+  {
+    "message": "Cada parte dela que eu toco parece estar em chamas..."
+  },
+  {
+    "message": "O peso do meu corpo exausto e a voz da Sumika se misturam de repente de uma só vez, fazendo minha cabeça girar."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika... V-Você tá bem...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei... V-Você tá bem? ...Então doeu mesmo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Para de ficar me encarando!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? Desculpa, eu fiz alguma coisa errada...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Claro que não, seu idiota...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Me dá um tempo... Eu só tô feliz, só isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu só tô feliz, tá legal...? Tem algum problema nisso...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu finalmente... me tornei uma só com você, Takeru-chan... Eu tô muito feliz mesmo...」"
+  },
+  {
+    "message": "Estou transbordando de amor pela Sumika."
+  },
+  {
+    "message": "Sem nem pensar, dou-lhe um beijo na testa."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Waaaaahhh... Eu tô tão felizinhaaa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desculpa por ter feito você esperar tanto...」"
+  },
+  {
+    "message": "Nós nos deitamos juntos, e eu a abraço..."
+  },
+  {
+    "message": "Quero ficar assim por um tempo."
+  },
+  {
+    "message": "Aproveitando o calor do amor dela..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu amo você, Takeru-chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que a gente deve fazer amanhã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Que quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qual é. Já tá ficando para trás mesmo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente não vai passar o Natal junto?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah! ...É-É verdade, claro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É cedo demais para se fazer de tonta.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahahah. É, tem razão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, o que a gente deve fazer?\nTem algum lugar que você gostaria de ir?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hrm... Boa pergunta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não pensou nisso nem um pouco?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é mesmo! Tem um filme que eu quero ver!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah? Beleza então! Vamos fazer isso primeiro.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas, talvez seja legal dar uma olhada nas lojas também...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ooh, bem pensado. Tem um monte de promoções de Natal.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É, e você que vai carregar todas as sacolas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E já que vamos até o distrito de Tachibana, eu queria dar uma passada na praia também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai estar muito frio nesta época do ano.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E eu quero comer bolo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essa é uma boa ideia.\nAfinal de contas, é Natal.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é, e não é só isso!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu quero ir naquele lugar também!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom então. Vamos fazer tudo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos fazer tudo o que você quiser, Sumika.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente vai ver um filme, fazer compras, comer bolo e ir à praia! E aí, depois disso...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Tá, tá bom.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente vai naquele lugar mágico e espera o Papai Noel aparecer...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, qualé... Mas obrigada mesmo assim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Afinal de contas, a gente tem todo o tempo do mundo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É, então nesse caso!\nEu tenho algumas outras ideias!」"
+  },
+  {
+    "message": "Este pode ser o único jeito que conhecemos para viver..."
+  },
+  {
+    "message": "Mas estamos bem com isso."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá me ouvindo, Takeru-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi mal, não tava.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aff! Que droga!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hahah!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*risadinha*...Haha! ...Ahahaha!」"
+  },
+  {
+    "message": "É. Vai dar tudo certo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, é melhor você ir para casa.\nA gente vai estar super ocupado amanhã.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nem a pau.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, qual é, a gente pode dormir junto, não pode?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...B-Bem, sim... mas...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas o quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Nada.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...N-Nada, eu disse.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu não vou para casa até você dizer.\n...Ah...」"
+  },
+  {
+    "message": "...Caramba. Meu corpo tá se adiantando um pouco."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「S-Seu porco, Takeru-chan〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eu não tenho culpa! ...Afinal de contas, eu sou homem.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*suspiro*... Que bom deve ser ser homem... Eu tava com tanta dor que achei que ia morrer...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Foi mal.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Hehe... Tudo bem... Pode fazer o que quiser comigo, Takeru-chan...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quanto mais você me amar... mais feliz eu vou ficar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você é muito idiota mesmo...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*risadinha*...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Anda logo, despacha-te.\nO filme está quase a começar.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu sei, mas...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Poxa... Você sempre foi de se atrasar toda...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「N-Não é esse o problema hoje!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então... O que é?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Adivinha sozinho!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ê? ...Ah... Foi mal.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você é sempre assim, Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-Cala a boca, cara...」"
+  },
+  {
+    "message": "Ei, o que você achou do filme...?"
+  },
+  {
+    "message": "Bem, as reviravoltas na história foram bem ritmadas, e as cenas de ação passaram muita tensão. Tudo nele gritava \"obra-prima\"."
+  },
+  {
+    "message": "Do que você tá falando?"
+  },
+  {
+    "message": "Tô falando do filme que eu queria ver!!\nPor que diachos a gente teve que ver um filminho de romance...? Credo..."
+  },
+  {
+    "message": "Ah, grande coisa! Eu queria ver..."
+  },
+  {
+    "message": "Isso não combina nada com você! Você devia ter ido no \"Festival de Mangá de Férias de Inverno\" ou coisa assim."
+  },
+  {
+    "message": "Hum. Você se encaixaria direitinho lá, Takeru-chan."
+  },
+  {
+    "message": "Urgh... Grr..."
+  },
+  {
+    "message": "Ahahahah! Ei, olha só! Esse boneco é tão fofinho!!"
+  },
+  {
+    "message": "Ah — ei!!"
+  },
+  {
+    "message": "Olha, Takeru-chan!! Esse troço não é super adorável!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não parece que o Papai Noel vai vir...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, qualé, Takeru-chan. Não seja idiota.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é o seu problema?\n...A gente fazia assim todo ano quando era criança.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas a gente parou com isso há muito tempo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quando foi isso mesmo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Lá pelo primário, eu acho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, verdade.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ele está demorando pra caramba...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você acha que tem mais alguém esperando por ele?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Se tiverem outras crianças esperando, então eu não me importo se ele pular a gente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom, eu já... Ooh! Ei, está snowing!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa, é mesmo... Acho que tem feito bastante frio mesmo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ei, Takeru-chan! Me dá um presente!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah〜! Não me diga que você esqueceu!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você passou o dia todo comigo.\nEu não tive chance de te comprar nada!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Poxa, você é péssimo nessas coisas!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa! Isso não foi um pouco pesado?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas eu te perdoo dessa vez.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nossa, que generosidade da sua parte.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Afinal, é o especial de hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Porque agora eu tenho o maior doador de presentes do mundo só para mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Alguém que me deu mais presentes do que consigo segurar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Este ano, eu já ganhei... o maior presente de toda a minha vida...」"
+  },
+  {
+    "message": "────Nos conhecemos nesta cidade..."
+  },
+  {
+    "message": "──Crescemos nesta cidade..."
+  },
+  {
+    "message": "──Nos despedimos nesta cidade..."
+  },
+  {
+    "message": "E agora... estamos unidos."
+  },
+  {
+    "message": "──Os momentos em que rimos..."
+  },
+  {
+    "message": "──Os momentos em que choramos..."
+  },
+  {
+    "message": "──Os momentos em que ferimos os outros e fomos feridos..."
+  },
+  {
+    "message": "──Todas essas memórias são a prova viva de que chegamos até aqui."
+  },
+  {
+    "message": "──Mesmo que o fluxo do tempo leve tudo embora..."
+  },
+  {
+    "message": "──Mesmo que um dia essas memórias venham a desvanecer..."
+  },
+  {
+    "message": "──Enquanto eu estiver com você, eu sei que serei capaz de caminhar rumo a um futuro brilhante."
+  },
+  {
+    "message": "Fomos criados... e impulsionados para frente..."
+  },
+  {
+    "message": "Por tantas pessoas... e tantas emoções..."
+  },
+  {
+    "message": "E agora, finalmente, fomos unidos..."
+  },
+  {
+    "message": "──Sumika... enquanto eu estiver com você..."
+  },
+  {
+    "message": "Takeru-chan... eu te amo... Vamos ficar juntos para sempre..."
+  }
+]

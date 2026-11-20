@@ -1,0 +1,1026 @@
+[
+  {
+    "message": "Unlimited 09/12 (Dom)"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Todos para fora, formem círculo!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O Esquadrão de Cadetes 207 de Pilotos de Superfície está em forma!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não podemos avançar com o trailer além deste ponto. Sendo assim, usaremos este local como nosso posto de comando para esta operação, exatamente como planejado originalmente.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vamos revisar os detalhes mais uma vez.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Esta missão é um esforço de socorro em desastres solicitado pelo governo japonês.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A missão de vocês é evacuar os quatorze civis espalhados pela cidade de Velha Tengen, localizada perto do Monte Tengen. O limite de tempo é de vinte e quatro horas, então a operação terminará às 10:00 de amanhã, dia dez.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vocês se deslocarão para a área operacional em TSFs.\nComo terão que atravessar uma montanha, deve levar meia hora para chegar lá.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Nossa previsão de BETA indica que esta área está 90% segura, mas tomem cuidado para não voarem alto demais. Vigiem sua altitude e mantenham-se baixos.」"
+  },
+  {
+    "name": "Todos",
+    "message": "「──Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Uma unidade de engenharia de combate está atualmente operando uma instalação de suprimentos temporária em uma antiga área de estacionamento no Passo de Tarumizawa. Vocês podem reabastecer seus TSFs lá conforme necessário.」"
+  },
+  {
+    "name": "Todos",
+    "message": "「──Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Como sabem, as novas bombas usadas na reconquista do continente japonês fizeram com que os vulcões no centro do Japão fiquem gradualmente mais ativos ao longo dos últimos anos.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A região desde o centro do Japão até a linha defensiva de Kanto-Koushinetsu costumava estar sob controle inimigo e foi designada como zona de perigo de Categoria 1...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mas, como já expliquei antes, os alvos desta evacuação ignoraram repetidamente as ordens de evacuação e agora vivem na zona de perigo ilegalmente.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「No entanto, isso não significa que podemos simplesmente deixá-los morrer. Tirem-nos daqui.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Uma ordem de evacuação obrigatória foi emitida há três dias, antecipando esta operação.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se o alvo não estiver disposto a evacuar, o uso de força é autorizado de acordo com os regulamentos de evacuação de emergência.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Senhora!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O vulcão está se tornando ativo rapidamente e já teve várias pequenas erupções. Devemos usar todos os meios à nossa disposição para proteger a vida dos civis.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Portanto, todos vocês devem se empenhar em concluir esta missão da maneira mais rápida possível.」"
+  },
+  {
+    "name": "Todos",
+    "message": "「──Entendido!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Normalmente isso seria feito por soldados regulares, mas a responsabilidade foi passada para vocês, cadetes, por enquanto. Esta é a chance de provarem que não são inúteis! Entendido!?」"
+  },
+  {
+    "name": "Todos",
+    "message": "「──Entendido, senhora!!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então passarei a anunciar as suas equipes específicas e regiões atribuídas...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru, você está ficando para trás...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não estou não, você que é rápida demais.」"
+  },
+  {
+    "message": "...Eu sei que ela mandou a gente apressar o passo, mas você está sendo imprudente. Quantas vezes você já perdeu o equilíbrio até agora?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ela não nos disse para fazermos isso o mais rápido possível? Temos que atravessar duas montanhas para chegar à nossa área designada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é! Eu sei! Mas isso não significa que você pode sair disparando assim do nada. Se acalme e tome mais cuidado com o seu TSF.」"
+  },
+  {
+    "message": "Eu sei, eu sei, assim que atravessarmos esta montanha, temos que ir para o outro lado do vulcão atrás dela, então vai levar o dobro do tempo dos outros... Eu sei disso."
+  },
+  {
+    "message": "Mas isso só nos deixa meia hora atrás deles."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você diz que estou sendo precipitada!? ...Ah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Viu, o que eu acabei de te dizer? A natureza é nossa amiga, então cuidado! É um milagre terso sobbrado tanto verde depois que os BETA pisotearam tudo por aqui.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu sei disso!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Quartel-general para Esquadrão 207.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A equipe de observação previu que o Monte Tengen entrará em erupção em menos de 72 horas. Todos os TSFs, mantenham seus canais de rádio abertos e fiquem de olhos bem abertos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「06, entendido.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「02, entendido.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「01, entendido.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「05, entendido.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「04, entendido.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「03, entendido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba... Não acredito que uma casa desse tamanho ainda esteja de pé...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De acordo com nossas informações, uma idosa mora aqui...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Um lugar bem legal, considerando que ela mora aqui sozinha.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim... É realmente impressionante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela parece ter um espírito totalmente livre... Digo, quem ia querer viver do próprio jeito lá no fundo das montanhas?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Cada um tem seus motivos para tais coisas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas ela não recebeu ordens para evacuar? Que diabos de bom pode vir de ignorar...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não diga mais nada!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Meiya, você tá irritada com alguma coisa?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, beleza então. Enfim, acho que é só a gente convencer ela a dar o fora... Com licençaaaa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tudo bem, deixe comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tem certeza de que não tem nada te incomodando?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não há nada me incomodando!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Alô...? Tem alguém em casa? Alô...? Tem alguém...」"
+  },
+  {
+    "message": "...Caramba. Ela tá P da vida... Será que aconteceu alguma coisa?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Ei, caquis secos..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Tem uma pilha de lenha aqui também..."
+  },
+  {
+    "message": "Cara, ela tá planejando ficar aqui mesmo. O quê, achou que a ordem de evacuação era só uma sugestão?"
+  },
+  {
+    "name": "Voz",
+    "message": "「...Quem tá aí?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...O que que vocês tão andando a fim de fazer nessas máquinas desgraçadas, hein? Olhem só para vocês, com essas roupas esquisitas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Senhora, nós somos um esquadrão de evacuação de emergência das Forças da ONU. Imagino que a senhora esteja ciente da iminente erupção vulcânica?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu tô ciente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A senhora ouviu as ordens de evacuação?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então vamos tirar a senhora daqui! Este lugar é perigoso. O Monte Tengen vai entrar em erupção a qualquer minuto!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Vou ter que dizer não, receio bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Como?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Tá surdo? Na sua idade? Que coisa feia... Olha aqui, meu jovem. Eu não vou dar um passo fora deste lugar.」"
+  },
+  {
+    "message": "...Ugh. Parece que ela é a típica velha teimosa..."
+  },
+  {
+    "message": "Sinceramente, era de se esperar. Por que mais ela estaria ignorando as ordens de evacuação?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Escuta. A senhora sabe que houve uma evacuação obrigatória há três dias, não sabe?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Houve é...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então basicamente, isso significa que a senhora não pode mais ficar aqui. Entendeu?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Você que não tá entendendo, garoto. Aqui é a minha casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, eu entendo isso, mas...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Fecha o bico, pirralho. Eu vou ficar por aqui haja erupção ou não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá legal, olha...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu tô ótima por aqui, então entra nesses robôs gigantes esquisitos de vocês e some daqui. Tá tapando o sol.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-Ouça...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Qual é o seu problema, rapaz? Vocês, soldados da ONU, não sabem como falar com os mais velho? E ainda se diz japonês... Juventude de hoje em dia...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, bom, pelo menos eu não sou teimoso que nem uma mula!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「O que foi que você disse!? Você me chamou de mula!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, AGORA quem é a surda!? Que tipo de motivo infantil a senhora poderia ter para morar num lugar tão perigoso!?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Quem você tá chamando de infantil!? Aqui é a minha casa, ouviu bem!? Você não tem o direito de reclamar de eu ficar aqui!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é exatamente isso que eu quero dizer quando chamo de infantil! A senhora tem ideia de quantos soldados vieram até aqui para tirar você e os outros do perigo!?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu nunca pedi a sua ajuda! Some daqui!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uou!!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas o que... você pensa que está fazendo!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ué, não tá óbvio...?」"
+  },
+  {
+    "message": "Hã!? Por que você tá me fuzilando com os olhos!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por favor, nos perdoe. Peço desculpas pela grosseria do meu conhecimento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Quê!?」"
+  },
+  {
+    "message": "Por que diachos você está pedindo desculpas!?"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Que diachos? Você fala tão formalmente, mocinha...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...?」"
+  },
+  {
+    "message": "...O que aconteceu?"
+  },
+  {
+    "message": "Por que ela está encarando o rosto da Meiya...?"
+  },
+  {
+    "name": "Idosa",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Há... algo de errado?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...V-Vancê... Digo, você é... por acaso...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「V-Você é mesmo... C-Como pode ser...!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya, você a conhece?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não... Mas ela ainda assim é importante para mim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quê?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「──T-Tantas gentilezas são demais para esta velha!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「S-Senhora!!」"
+  },
+  {
+    "message": "P-Por que ela se prostrou de repente!?"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Pensar que este dia chegaria ainda em minha vida... Sou tão grata... Tão agradecida...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「P-Por favor, levante a cabeça!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Peço perdão... Não é do meu lugar... mas preciso perguntar se há alguma maneira de conceder o desejo desta velha tola!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Eu sei... que suplicar diretamente a senhoria é uma terrível transgressão...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Suplicar...?」"
+  },
+  {
+    "message": "...Ah... Agora entendi."
+  },
+  {
+    "message": "Esta velha sabe que a Meiya é parente do Xogum..."
+  },
+  {
+    "message": "É por isso que ela pareceu tão surpresa por eu não reconhecer o rosto dela..."
+  },
+  {
+    "message": "Ela é tão famosa que até uma velhinha aqui no fim do mundo consegue reconhecê-la."
+  },
+  {
+    "name": "Idosa",
+    "message": "「Esta casa... Meu falecido marido e eu trabalhamos duro até os ossos para construí-la...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Os dois filhos tolos que criei aqui ainda estão lutando por este país na linha de frente.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu disse aos dois que esperaria bem aqui. Disse que esperaria aqui o tempo que fosse necessário, para que eles não precisassem se preocupar... Eu os mandei para a guerra com essa promessa...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por favor... Erga a cabeça...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Meus filhos... Eu sei... Eu sei que eles vão voltar para casa!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「...Se eu sair daqui... Nunca poderei morrer em paz!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... assim que o vulcão entrar em erupção...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu nasci e fui criada aqui. Passei minha vida inteira vivendo sob as bênçãos da montanha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Se aquela montanha quiser levar minha vida, que assim seja... Vou retornar à terra... e continuar esperando pelos meus filhos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu amo este lugar... esta terra! É aqui que eu pertenço. Todos que nasceram aqui desejam morrer aqui também!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Senhora!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Por favor... Eu imploro... Não tirem meu lar de mim! É tudo o que me resta... então, por favor...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Estamos todos bem aqui...\nO Guardião... O Guardião... vai nos proteger aqui...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O... Guardião?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Há uma pedra grande e antiga naquela direção... O deus da montanha reside ali dentro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Aquilo? Aquela que dá para ver daqui mais ou menos?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Parece que sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ahn... de que adianta uma pedra gigante...?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「O Guardião sempre cuidou de nós... sempre...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você realmente acha que essa coisa vai te proteger?」"
+  },
+  {
+    "message": "Os japoneses de antigamente costumavam acreditar que havia incontáveis deuses por aí que habitavam tudo e todos. Alguns até acreditavam que havia deuses em cada grão de arroz. Imagino que ela seja uma dessas pessoas..."
+  },
+  {
+    "name": "Idosa",
+    "message": "「Se não puder... então aceito meu destino.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E quanto aos seus filhos? Eles queriam que você morresse aqui enquanto eles lutam?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Ainda estarei aqui, mesmo na morte... Meus filhos saberão disso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Sinto muito por ter desperdiçado o valioso tempo de Vossa Alteza, mas por favor... Eu vos suplico... Por favor, atendei ao meu pedido!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu vos peço... Eu vos peço...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Eu entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Ei!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「No entanto, estou aqui como representante dos militares. Não podemos simplesmente deixar este lugar enquanto ainda há alguém... Portanto, peço-lhe... Poderia reconsiderar, apenas mais uma vez?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Se eu partir agora... só Deus sabe se terei a chance de retornar... Por favor, eu vos suplico...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Eu vos peço... Eu vos peço...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Retornaremos mais tarde.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Hein!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O qu... Ei!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Meiya!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que você tem na cabeça!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você não me ouviu? Pretendo esperar um pouco mais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá falando sério!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas é claro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente não faz ideia de quando esse vulcão vai entrar em erupção!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas ele ainda não entrou em erupção.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qualé! Que diabo deu em você!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você realmente... não sentiu nada por ela?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Meiya",
+    "message": "「As palavras daquela idosa não te comoveram nem um pouco?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha... A gente não pode simplesmente deixar ela aqui para morrer, né?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não sei nada sobre esse tal Guardião dela, mas quando essa coisa entrar em erupção, este lugar vai correr um perigo sério!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Caso isso venha a acontecer... ela retornará à terra que amava... Assim como ela disse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá falando sério comigo agora!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Os deuses existem... nos corações de seus crentes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se eles dizem que suas mortes foram ordenadas por seu deus... para eles, essa é a verdade. Seria sem sentido insistir que a fé deles é falsa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E daí, vai só deixar eles fazerem o que quiserem?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Do jeito que o mundo está agora, não temos tempo nem recursos para dar ouvidos ao desejo egoísta de uma pessoa só. Quer dizer, pelo menos no Japão, não temos!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu também não suporto quando a autoridade militar anula a opinião de um indivíduo... Mas a nossa missão aqui não é salvar vidas!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não estamos todos nos pondo em perigo aqui fora para salvar essas catorze pessoas?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Não estou aqui para discutir com você... Vamos continuar até a próxima residência.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "O que aconteceu com você, Meiya?"
+  },
+  {
+    "message": "Cadê a sua serenidade de sempre?"
+  },
+  {
+    "message": "Nossa... Já está anoitecendo..."
+  },
+  {
+    "message": "Droga, e lá vem outro terremoto."
+  },
+  {
+    "message": "Parece até estupidez tentar contar. Esses pequenos tremores não param há horas."
+  },
+  {
+    "message": "Aquela velha voltou para casa e não saiu de lá desde então."
+  },
+  {
+    "message": "Está saindo fumaça da chaminé há um bom tempo... Ela vai mesmo tentar tocar a vida como se estivesse tudo normal?"
+  },
+  {
+    "name": "Miki",
+    "message": "「05 para o QG. Houve um deslizamento na rota de evacuação planejada para o distrito leste da Antiga Vila Tengen. Solicitando nova rota.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entendido... Levem-nos para a Antiga Vila Ozawa pela rodovia provincial que sai do caminho oriental da montanha. A infantaria estará de prontidão lá.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「05, entendido.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「03 para o QG. Começamos a evacuar o distrito oeste da Antiga Vila Tengen pela rota planejada.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Recebido.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Eles estão demorando bastante..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Tivemos um bom bocado de problemas com aquele último velho que visitamos também."
+  },
+  {
+    "message": "Apesar de que, no fim, a Meiya conseguiu convencê-lo..."
+  },
+  {
+    "message": "Assim que ele deu uma boa olhada no rosto dela, começou a se prostrar do mesmo jeito que a velha fez."
+  },
+  {
+    "message": "A Meiya é famosa mesmo..."
+  },
+  {
+    "message": "Mas ainda assim... Mesmo ELA tendo parentesco com a Xogun... não é exagero demais?"
+  },
+  {
+    "message": "Qu Digo... não estamos mais no Japão feudal. Parece até que estou no século errado..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「QG para o Esquadrão 207... Equipes de observação confirmaram fissuras no domo de lava. É extremamente provável que o Monte Tengen entre em erupção dentro de 12 horas.」"
+  },
+  {
+    "message": "...Cê tá brincando comigo!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「20703, chegue o mais perto possível da cratera sem arriscar a segurança do seu TSF. Precisamos de mais dados.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「03, entendido.」"
+  },
+  {
+    "message": "Uau! Essa foi bem forte. Parece que estamos chegando perto do evento principal."
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Em resposta a isso, vamos adiantar o prazo limite para as 07:00 da manhã seguinte. Entendido?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「06, entendido.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「02, entendido.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「01, entendido.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「05, entendido.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「04, entendido.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──Shirogane! Mitsurugi!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Senhora!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Como estão as coisas nos distritos restantes?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sobre isso...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Estamos no processo de convencê-los.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entendo... Bem, esta é uma situação de emergência. No fim, vocês podem ter que evacuá-los à força... De qualquer forma, apressem-se.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Entendido!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ótimo. É só isso.」"
+  },
+  {
+    "message": "...*suspiro*..."
+  },
+  {
+    "message": "Meiya, como você pôde contar uma mentira descarada dessa? Tudo o que temos feito é ficar aqui sentados de braços cruzados nos nossos Fubukis!"
+  },
+  {
+    "message": "Não há a menor chance daquela velha simplesmente sair com todas as suas coisas empacotadas."
+  },
+  {
+    "message": "...Ela nunca vai evacuar por vontade própria. E a Meiya também não tem intenção de forçá-la, tem?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tem certeza de que tudo bem usar um canal criptografado durante esta operação?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A mulher idosa está nos chamando.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "message": "É verdade. Ela está lá fora balançando a cabeça para cima e para baixo em nossa direção..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Será que ela mudou de ideia?」"
+  },
+  {
+    "message": "...Até parece."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Vou desembarcar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu vou com você.」"
+  }
+]

@@ -1,0 +1,2199 @@
+[
+  {
+    "message": "Extra 23/12 (Dom)"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Do que a gente deve brincar agora?」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Tanto faz...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você parece meio triste. O que foi?」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Nada...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é esquisita mesmo.\nEi, já sei — vamos brincar na caixa de areia.」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Tá bom.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos fazer montanhas e cavar túnel nelas.」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Tá bom.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não parece muito animada.\nSua barriga tá doendo ou algo assim?」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Não tá doendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se você diz... Ei, qualé, tem que fazer mais alto do que isso.」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Qual é o seu nome?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sou Shirogane Takeru!」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Shirogane Takeru?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode me chamar de Takeru. E você?」"
+  },
+  {
+    "name": "Garota",
+    "message": "「Eu sou... Meiya...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é o nome da sua família?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nome da família?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tem nada que vem antes de Meiya?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então que tipo de Meiya você é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Eu não sei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não sabe o seu próprio nome?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá legal... Então, quando é o seu aniversário?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Meu aniversário?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso você tem que saber, pelo menos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Bem, hã, hoje é meu aniversário...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não creio... O meu também!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas todo mundo tá ocupado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então não vão comemorar?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sei lá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você vai ganhar presentes?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sei lá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou ganhar um capacete do Gorban.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Que sorte...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E no Natal eu vou ganhar o videogame do Ultamen Powered.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Natal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que você vai pedir?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não preciso de nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nossa montanha ficou pronta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá triste porque não vai ter festa?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não é isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu vou derrubar ela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quêêê? Mas a gente acabou de fazer...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou derrubar!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas por quê...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você gosta de bolo?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim, eu gosto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, vamos fazer um bolo!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Como a gente faz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é muito bobinha.\nA gente faz de areia, né!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nunca fez isso antes?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu nunca tinha entrado em uma caixa de areia antes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, entendi. Eu te ensino como faz.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tá bom...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É só juntar um monte de areia assim...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas a gente não pode comer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que não. É só areia.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ah, é verdade...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer ir lá em casa?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ên?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente faz aniversário no mesmo dia,\nentão vamos comemorar juntos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos jantar juntos.\nTem um bolo de verdade lá em casa.\nVocê até pode ficar com alguns dos meus presentes.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não posso fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não se pode fazer uma coisa dessas até se casar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Casar?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, se você for minha esposa, poderemos comemorar nossos aniversários juntos?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então vamos nos casar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quer se casar comigo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Você vai ser minha noiva.\nAí a gente vai poder comemorar nossos aniversários juntos e tal.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A gente não pode se casar até crescer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quêêê!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Adultos podem fazer um monte de coisas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Eles podem brincar a noite toda e não levam bronca.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é justo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É, não é justo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza! Então vamos crescer, nos casar e comemorar nossos aniversários juntos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É, a gente podia fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom! Então vamos fazer uma promessa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tá bom. Eu prometo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, já que a gente não pode se casar hoje, acho que vamos ter que fazer um bolo de areia no lugar. O que acha?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tá bom, pode ser.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Venha, hora de ir para casa agora.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Não seja teimosa, ou vai ficar para trás.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já vai para casa?」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Muito obrigado por brincar com ela.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Posso perguntar o seu nome?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É Shirogane Takeru.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Takeru-kun...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, senhor.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Façam um aniversário para ela.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Celebrem com uma refeição farta, bolo e presentes!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Takeru-chan, você está preocupado com a Meiya?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, estou.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Que amigo legal.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É, o Takeru é legal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já vão embora?」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não quero!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela não quer ir.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Receio que tenhamos de ir indo.\nA noite logo vai cair.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não... Eu quero brincar mais com o Takeru.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Você também deveria correr para casa, Takeru-chan.\nVamos lá, hora de ir.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!!」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Aandamos... Nossa, você está pesadinha.\nQuando foi que você cresceu tanto...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!! Takeru!!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Chega. Não precisa fazer birra.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não quero ir!! Takeru!! Takeru!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Para! Ela não quer ir! Você não pode obrigá-la!!」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Já chega...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Não faça isso. Vocês vão se ver de novo amanhã.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eles estão mentindo! Eu nunca mais vou te ver!!\nEles estão me levando para um lugar muito longe!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Para! Deixa ela em paaaz!!」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Comporte-se!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「!?」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Não me importa de quem você seja filho, já está me irritando!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*soluço*...」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Diga adeus agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Os adultos... não são justos.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Meu Deus...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Os adultos não são justos!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「O que este menino está dizendo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vocês não são justos! Nada justos!!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Comporte-se!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Waah... Aahhh...」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Querida!」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Francamente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu... Eu vou cumprir a nossa promessa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou cumprir a nossa promessa!!\nEu nunca vou ser como esses adultos malvados!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru... Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente vai se ver de novo quando crescer! Vai sim! A gente tem que ir!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É... A gente vai! Não importa o que aconteça!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Garantido que a gente vai!\nA gente vai com certeza absoluta, absoluta!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É! Com certeza, certeza absoluta!!」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「...Entendo. Parece que vocês fizeram uma promessa, não é, Takeru-kun?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É!!」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Então não tem problema em voltar para casa por enquanto.\nContanto que se lembrem da promessa, vocês vão se ver de novo.」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Vamos, enxugue essas lágrimas...\nDesculpa ter gritado com você.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「Muito bem, Meiya. Diga adeus ao Takeru-kun.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Tchau-tchau.」"
+  },
+  {
+    "name": "Yuuta",
+    "message": "「Tchau-tchau, vovó.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não diz 'tchau-tchau'! Diz 'até logo'!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Yuuta, você gostaria de me ver de novo algum dia?」"
+  },
+  {
+    "name": "Yuuta",
+    "message": "「Sim, eu gostaria!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então não diga 'tchau-tchau'. Em vez disso, diga 'até logo'.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...'Até logo'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É isso que o Gorban sempre diz.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Gorban?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É isso aí. Até logo, Yuuta.」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「...'Até logo', hein...?\nVai lá, você pode dizer.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Até logo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Até! Eu te vejo de novo logo, logo!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim! Até mais tarde!!」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「...Isso está demorando demais...」"
+  },
+  {
+    "name": "Idosa",
+    "message": "「Tudo bem, tudo bem... Vamos indo agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Waaah...*hic*... waaaah...」"
+  },
+  {
+    "message": "──!!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「────Meiya!!」"
+  },
+  {
+    "message": "...Puta merda! Eu lembrei agora!!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya! Meiya!!」"
+  },
+  {
+    "message": "Eu lembro qual é a ligação entre nós...!\nFoi com ela que eu prometi me casar...!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya!? Você tá aí!? Tsukuyomi-saaan!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya!? Tsukuyomi-san!?\n...Eeei! Três Patetaaas!!」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Não tem... ninguém aqui?"
+  },
+  {
+    "message": "...14h. Eu dormi até super tarde... Será que a Meiya e a comitiva dela foram pra algum lugar?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas que diabos? ...E bem quando eu precisava perguntar pra você também...」"
+  },
+  {
+    "message": "Huh?"
+  },
+  {
+    "message": "...Que... diabos...?"
+  },
+  {
+    "message": "......Cadê a porta?\nCadê a porta do quarto da Meiya?"
+  },
+  {
+    "message": "──Pra onde ela foi!?!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumiu! Por que sumiu!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya!!」"
+  },
+  {
+    "message": "...O que tá acontecendo!? Mas que inferno é esse!?!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Argh! Que se dane!!」"
+  },
+  {
+    "message": "Vou ter que dar a volta! Até a porta da frente!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Wh-...」"
+  },
+  {
+    "message": "Que DIABOS é isso!?!?"
+  },
+  {
+    "message": "Que diabos... está acontecendo aqui!?"
+  },
+  {
+    "message": "Por que a casa da Meiya sumiu?"
+  },
+  {
+    "message": "Eu tenho certeza absoluta de que a Meiya estava aqui ontem à noite... Ela entrou no meu quarto tarde da noite......"
+  },
+  {
+    "message": "Agora sumiu! Sumiu, sumiu, sumiu, sumiu!!"
+  },
+  {
+    "message": "Não importa o quanto eu procure, a porta sumiu!"
+  },
+  {
+    "message": "Mas por quê!? O que significa tudo isso!?"
+  },
+  {
+    "message": "O que tá acontecendo!?!? Isso não faz o menor sentido!!"
+  },
+  {
+    "message": "...Ah."
+  },
+  {
+    "message": "É o anel que a Meiya me deu.\nPor que ele está em cima da minha mesa?"
+  },
+  {
+    "message": "...Estou com um pressentimento péssimo disso! A Meiya deve ter deixado isso aqui, né? Por que eu sinto que... algo terrível está acontecendo!?!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ei, dorminhoco...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika...? Ah! Sumika!\nOnde está a Meiya...!? Você viu a Meiya!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você está me ouvindo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A Meiya... foi para casa.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela voltou... para a propriedade da família dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qu-Por quê!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, ei!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Porque... ela não pôde cumprir o juramento.\nFoi isso que ela disse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Juramento!? Que juramento!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aquele que você ouviu ela falando ontem...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não ouvi nada sobre isso!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah... Então eu estava certa, né... Entendi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê? Você estava certa sobre o quê!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan... Você sabia que fez uma promessa com a Meiya?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, eu sei.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...!? Espera, você sabia!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu acabei de lembrar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, se você é minha esposa,\nnós podemos fazer aniversário juntos?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então vamos nos casar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nos casar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Você vai ser minha noiva.\nAí a gente vai poder comemorar nossos aniversários juntos e tal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou cumprir a nossa promessa!!\nEu nunca serei um daqueles adultos chatos!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru... Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós vamos nos ver de novo quando crescemos!\nVamos sim! Nós temos que ver!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu entendi... Agora eu entendo por que ela veio pra cá... Eu me lembro de tudo...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então... você acabou se lembrando sozinho, afinal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu me lembro agora... eu acho.\nMas eu preciso ter certeza. Por que a Meiya foi pra casa!?\nQue juramento é esse que você tá falando!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Entendi, você lembrou por conta própria... Quem diria...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você... sabe exatamente o que tá acontecendo, não sabe?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É... A Meiya me contou tudo...\nImagino que... rivais realmente se tornam as melhores amigas, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então... você sabe sobre a promessa que eu fiz...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...É, eu sei. Você prometeu se casar com ela, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Calma, mas... isso significaria... q-que isso realmente aconteceu, então?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aconteceu sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...M-Mas, quer dizer... Ela é a herdeira do Grupo Financeiro Mitsurugi! E eu nem sei onde fica a verdadeira casa dela!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Na verdade, a Meiya me disse que, quando era bem pequena, ela costumava morar nesta área...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê? ...A Meiya morava por aqui? Tá de zoação, né?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Olha, a Meiya disse que na verdade ela é a caçula de duas irmãs gêmeas. Só que elas nunca tiveram a chance de se conhecer...」"
+  },
+  {
+    "message": "A Meiya é gêmea...?"
+  },
+  {
+    "message": "Eu não fazia ideia."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Na família Mitsurugi, gêmeos sempre foram vistos como um mau presságio que significava que a família seria destruída. Então, a Meiya foi enviada para morar com alguns parentes distantes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ela foi adotada?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É por isso que ela morou com alguém perto daqui, até mais ou menos três anos de idade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas um dia... os pais e a irmã dela morreram em um acidente... e a Meiya se tornou a única herdeira...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, naquele dia — no aniversário dela... Estavam trazendo ela de volta para a mansão da família?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...É, eu acho que sim.」"
+  },
+  {
+    "message": "...Isso explica o velho e a velha, arrastando aquela menina que nem sabia o próprio nome."
+  },
+  {
+    "message": "Ela estava completamente transtornada... Chorando aos berros..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「É por isso também que... ela deixou aquele parque intocado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, e aquela promessa que eu mencionei antes...? Era que ela não podia te contar... sobre a promessa que você fez com ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......Ê?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você tinha que se lembrar por conta própria... Esse foi o trato que ela fez com o avô dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Então é por isso... que ela não pôde me dizer o motivo quando eu perguntei na caverna?"
+  },
+  {
+    "message": "Não tinha nada a ver com a família dela!! Não é nada grandioso assim!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é loucura! ...Aquela idiotinha... Então, que história é essa que você tava falando sobre ontem à noite...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A Meiya disse... que você descobriu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não é verdade! Eu não sei do que você tá falando!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela disse isso também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não faz o menor sentido!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A Meiya acabou percebendo que você não tinha ouvido nada de fato. Mas ela disse que até mesmo te dar a chance de escutar sem querer... significava que ela já tinha falhado em cumprir a promessa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela disse que era basicamente a mesma coisa que te contar pessoalmente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... isso é exagero demais!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Foi o que eu disse... mas você conhece a Meiya...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela te perguntou ontem à noite, não foi?\nSe você lembrava ou não?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......É.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então foi há poucas horas.\nSe fossem apenas algumas horas a mais, você poderia tê-la alcançado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Foi só isso que levou... para ela desistir da promessa que tentou cumprir por todos esses anos... e voltar para casa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você deveria... ir atrás dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A Meiya disse... que se ela falhasse e voltasse para casa... haveria um casamento arranjado esperando por ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Hã!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Um cônjuge escolhido pelo avô dela,\ncom quem ela nunca sequer se encontrou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela disse que é algo com que se conformou há muito tempo. Mas, se isso fosse verdade... então por que ela veio para cá?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Claro... Agora eu entendo..."
+  },
+  {
+    "message": "...Então era isso."
+  },
+  {
+    "message": "Esse... era o sonho da Meiya."
+  },
+  {
+    "message": "Esse é... o sonho que não era permitido a ela ter..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela... me pediu para te dizer uma coisa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que é?」"
+  },
+  {
+    "message": "──Tchau-tchau."
+  },
+  {
+    "message": "──Tchau-tchau."
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Tchau-tchau.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não diz 'tchau-tchau'! Diz 'até logo'!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...'Até logo'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É isso que o Gorban sempre diz.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Gorban?」"
+  },
+  {
+    "name": "Idoso",
+    "message": "「...'Até logo', hein...? Vai em frente, você pode dizer.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Até logo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Até! Eu te vejo de novo logo, logo!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim! Até mais tarde!!」"
+  },
+  {
+    "name": "Yuuta",
+    "message": "「Tchau-tchau, vovó.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Yuuta, você gostaria de me ver de novo algum dia?」"
+  },
+  {
+    "name": "Yuuta",
+    "message": "「Sim, eu gostaria!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então não diga 'tchau-tchau'. Em vez disso, diga 'até logo'.」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Yuuta",
+    "message": "「'Até logo'〜?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É isso aí. Até logo, Yuuta.」"
+  },
+  {
+    "name": "Yuuta",
+    "message": "「Isso, até logo〜!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Takeru-chan, eu te amo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A gente tá junto há tanto tempo. Rindo, brigando, fazendo todo tipo de coisa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que você tá dizendo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas eu não sou boa o bastante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é o quê?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu finalmente entendi... que simplesmente não sirvo para você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que você tá querendo dizer?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Outro dia, finalmente me caiu la ficha... que você e eu nunca poderíamos ser mais do que amigos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Outro dia?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Na fonte termal... quando estivemos juntos no banho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sabe... eu queria que alguma coisa tivesse acontecido lá atrás.」"
+  },
+  {
+    "message": "...Sumika."
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu realmente esperava que acontecesse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-O que você tá dizendo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aquela noite significou tudo para mim... Então, mesmo com muito medo, consegui me manter firme... E mesmo me esforçando de todo coração... simplesmente não foi o bastante.」"
+  },
+  {
+    "message": "Mas fui eu quem teve medo demais de destruir nossa relação para fazer qualquer coisa..."
+  },
+  {
+    "message": "Eu disse a mim mesmo para não ter pressa...\nPensei que, se fizesse isso, nunca seria capaz de dar a você ou à Meiya uma resposta significativa... e isso me assustava."
+  },
+  {
+    "message": "E mesmo assim... ainda assim... você está me dizendo que a minha atitude mandou uma mensagem clara o suficiente...?"
+  },
+  {
+    "message": "Eu sabia quão fortes eram os seus sentimentos!\nEu sabia o quanto você estava se esforçando!"
+  },
+  {
+    "message": "Foi exatamente por isso... que eu não pude fazer nada..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Por favor... Onde quer que a Meiya esteja... Vá até ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nunca daria certo, Takeru-chan. A gente simplesmente não consegue se levar a sério o suficiente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Estou cansada de me sentir assim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu realmente não queria me machucar, mas não podia deixar as coisas como estavam... então dei o meu melhor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu sei disso. Muito bem.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tudo isso parece tão estúpido agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「No fim das contas, acho que fiz a coisa mais dolorosa possível.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu sei que não deveria dizer isso,\nmas bem que poderíamos ter continuado apenas amigos para sempre.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika, você tá...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Certo. Parece que não consigo mais me segurar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan...\nMe desculpa de verdade... tchau-tchau...」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika!? Sumika!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika!! Por que você tá pedindo desculpas!?\nPor que você tá se despedindo!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, eu sei que você tá me ouvindo!! O quê — vai simplesmente decidir isso sozinha sem nem me ouvir?!?!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika! Me responde! Aparece!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika! Sumika! Sumika!!」"
+  },
+  {
+    "message": "──Cala a boca aaaaall!!!!"
+  },
+  {
+    "message": "!?!?!?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Cala a boca, cala a boca, cala a boca, cala a boca!!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, cala a boca e vai logo pra Meiya!! Só esquece que um dia me conheceu!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como diabos você espera que eu faça isso!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vai logo... só vai de uma vez...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Não me importa mais... Já chega disso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O que você tá fazendo?\nPara com isso... Para de falar meu nome!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tem noção do que tá dizendo!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quem devia te perguntar isso sou eu, Takeru-chan!\nSó para com isso, chega...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Para... Para de fazer isso...\nPara de falar meu nome!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu não entendo...\nEu não entendo nada disso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mesmo sabendo que tá errado... Eu sei que tá errado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Vai pra perto da Meiya... e nunca mais volta!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não dá pra voltar a ser como antes!\nVocê entendeu? Takeru-chan, eu nunca mais quero ver a sua cara!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O que você pensa que tá fazendo!? Você nem conseguiu me escolher!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você sabe que não pode trair a Meiya, depois de todo esse tempo que ela esperou por você... Então por quê...? Por que você tá fazendo isso...!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Quer dizer, você não percebe!?\nVocê não percebe que eu tô mentindo!?!?\nÉ óbvio que eu não quero que você vá com a Meiya!!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas já é tarde demais! Eu não sirvo para você!!\nEu nunca fui nada além de uma amiga para você!!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...*sniff*...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...É claro que eu não quero que você vá para a Meiya...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Como eu poderia querer uma coisa dessas!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas eu não sou boa o bastante! Eu nunca serei boa o bastante para você!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu sou só a garota do lado, e isso nunca vai mudar!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hey! Sumika!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O que você é para mim, Takeru-chan!? O que você quer de mim!? Por que você está sendo tão cruel!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu não aguento mais... Eu não quero me machucar... E não quero mais aguentar isso...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu não me importo mais... Eu não sei o que fazer...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Para com isso... Só para com isso...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Estou farta dessa dor...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Já chega... Chega de tudo isso...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não me machuque mais do que você já machucou...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Me deixe em paz... me deixe em paz de uma vez por todas...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, você...\nTakeru-chan, por que você não...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vai embora... Vai logo!\nDepressa, some daqui!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu sei... de verdade, eu sei... que dizer essas coisas... está te machucando... eu odeio isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, eu...\nTakeru-chan, eu não...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu não quero... te perder...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "message": "Mas que porra─!?"
+  },
+  {
+    "message": "...Ela... Ela nem está usando casaco!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ei! Espera, Sumika!!\nO que diabo você tem na cabeça!?」"
+  },
+  {
+    "message": "*fufa*...*fufa*..."
+  },
+  {
+    "message": "Procurei por ela em todo lugar... Só sobrou este lugar."
+  },
+  {
+    "message": "Se ela não estiver aqui... Estou completamente sem ideias."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Droga! Ela não está aqui!"
+  },
+  {
+    "message": "Está muito frio... e ela não estava de casaco...\nClaro que ela não viria para cá..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*suspiro*...」"
+  },
+  {
+    "message": "E agora, o que eu faço?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──!? Sumika...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ts-...Tsukuyomi-san!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Por-Por que você está aqui!?\nQue diabo está acontecendo!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que história é essa de um juramento que a Meiya fez para o avô dela!? Ela entendeu tudo errado e sumiu sem avisar ninguém──」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama... Esse não é o caso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é mesmo!? Como assim!? A Sumika já me contou tudo!! Se isso tudo estiver errado, então comece a explicar!!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Muito bem... Explicarei a você tudo o que sei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Quando o Chefe da Casa adoeceu, Meiya-sama tornou-se a próxima herdeira da família Mitsurugi.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Um noivo foi escolhido prontamente,\nmas Meiya-sama o recusou.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O noivo era maravilhoso de várias formas, mas a Meiya-sama jamais concordaria com ele.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por sua culpa, Takeru-sama...\nPorque você havia prometido se casar com ela.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「A família Mitsurugi ficou em polvorosa.\nCom todo o respeito, Takeru-sama, você é um mero plebeu. Era impossível que você se tornasse o próximo chefe da casa.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Após alguns dias de debate acalorado entre a Meiya-sama e o Mestre da Casa, ele aceitou as exigências da Meiya-sama sob certas condições.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então esse é... o juramento que ela mencionou...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Exatamente... A primeira condição era que a Meiya-sama jamais trouxesse à tona o assunto da promessa de infância.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Segundo, a Meiya-sama jamais deveria revelar que foi com ela que você fez tal promessa.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Terceiro, que você, Takeru-sama, seja aquele que se lembra não apenas da promessa, mas também de que a Meiya foi a pessoa para quem você fez essa promessa.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「E por fim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O Takeru-sama deve amar a Meiya-sama com todo o seu coração.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por sinal... o prazo limite que deram a ela foi 31 de dezembro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Pois bem, agora é a minha vez de lhe perguntar uma coisa. O que exatamente o senhor pensa estar fazendo aqui?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã!? ...Ah, a Sumika... Eu estou procurando a Sumika.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O que pretende fazer quando a encontrar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que quer dizer...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Pretende escolher a Kagami-sama?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Essa não é a questão...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Então qual é a questão?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu me lembrei da promessa que fiz com a Meiya... Eu me lembrei de tudo o que ela queria me dizer, mas não conseguia!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「É mesmo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É verdade! Hoje de manhã... eu me lembrei disso, totalmente sozinho!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E aí, quando fui contar para a Meiya... tudo tinha sumido!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Foi mesmo, é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você sabe que ela entendeu mal o que aconteceu ontem à noite, não sabe!? ...Não acha que você já provou o seu ponto!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Infelizmente, você ainda não respondeu à minha pergunta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como ela pôde simplesmente... nos deixar assim!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Será tarde demais?\nSerá que não há nada que eu possa fazer além de escolher entre a Sumika ou a Meiya!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「É isso o que tanto a Meiya-sama quanto a Kagami-sama desejam.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por quê...? Por que tem que ser tão de repente...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Quanto tempo elas teriam que esperar para que não fosse 'de repente'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Até mesmo a Kagami-sama, com quem você passou bem mais de uma década, parece sentir o mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Se você nunca passou por uma despedida repentina, então você viveu uma vida verdadeiramente invejável...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Pessoalmente, acredito que a coisa mais importante na vida é ser capaz de aproveitar uma oportunidade sempre que ela se apresenta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aproveitar?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Desde que você agarre suas chances, seus esforços posteriores darão frutos com o tempo. Mas o esforço em si não pode produzir um momento de oportunidade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Oportunidades como esta não vão esperar até que você esteja 'pronto'.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Se você deseja realizar algo... haverá momentos em que precisará tomar decisões, esteja preparado para elas ou não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Quando a Meiya-sama enfrentou o Chefe da Casa... e quando a Kagami-sama teve que se adaptar à vinda da Meiya-sama para cá... você acha que elas estavam preparadas?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que entendo o seu ponto...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Kagami-sama...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Sumika!!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama, agora é justamente um desses momentos para você. Se deixar essa chance escapar, não lhe restará mais nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é absurdo...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「A Meiya-sama não tem a menor dúvida em sua mente. Se você duvidar dos seus sentimentos por ela nem que seja um pouquinho, então ela não tem uso para eles.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama... Quando a Meiya-sama estava passando o tempo com você... o jeito que ela olhava para você enchia meu coração de alegria.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Takeru-sama... pela primeira vez na vida, desobedeci a uma ordem da Meiya-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O quê!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Vir até aqui foi uma decisão estritamente pessoal. Fiz isso para poder trazê-lo de volta para ela...\nAssumo total responsabilidade por esse ato egoísta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tsukuyomi-san.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Você é apenas um homem, Takeru-sama. Portanto, ou a Kagami-sama ou a Meiya-sama pode ser sua... mas nunca ambas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Agora... o que você vai fazer?」"
+  },
+  {
+    "message": "O que eu vou fazer?\n...Ela quer que eu escolha agora mesmo...?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "Mas ela tem razão...\nO que diabos eu ia fazer se encontrasse a Sumika?"
+  },
+  {
+    "message": "Eu ia consolá-la só para dar o fora nela depois? Ou ia abraçá-la forte e nunca mais soltar?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan... Desculpa.」"
+  },
+  {
+    "message": "────!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por que você está pedindo desculpas?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu queria tanto... ter te dado uma despedida melhor do que esta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não importa o que aconteça, para mim você sempre será o Takeru-chan.」"
+  },
+  {
+    "message": "────!"
+  },
+  {
+    "message": "──A Sumika sempre vai ser a Sumika... A Meiya sempre vai ser a Meiya──"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eu só quero que o meu Takeru-chan... continue sendo esse sonhador que eu conheço... só isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sumika.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Estarei no portão da frente.\n...Se você estiver firmemente decidido a escolher a Meiya-sama, por favor, venha me ver... No entanto...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Se você for escolher a Kagami-sama...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então é aqui que nossos caminhos se separam.\nE... eu não devo ir até o portão...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Exato...\nVocê tem... quinze minutos...\nNão esperarei um segundo a mais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu entendi.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Com licença.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Quando éramos bem pequenos...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Desde aquele primeiro Natal... você tem me dado presentes todo ano, não é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Não fala assim...\nTem vários anos em que eu não dei.\nÀs vezes eu esquecia... ou a gente brigava...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas você ainda assim me dava um depois.\nVocê pode ser distraído, Takeru-chan... mas nunca quebra uma promessa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ainda bem... que a gente não fez nenhuma promessa... sobre o Natal deste ano...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não ia querer... que as coisas ficassem confusas por causa disso... logo no fim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu te perguntei o que você queria, mas...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas eu nunca respondi.\nE ainda bem que não respondi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei, não fala assim... Bem, na verdade...\nAcho que eu não tenho moral nenhuma para te falar para não falar.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Já vai dar cinco minutos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É verdade...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você vai levar três minutos até o portão da frente daqui mesmo correndo, sabia?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Por favor, deixe um tempinho para se despedir de mim, tá bom? Você nunca lembra de detalhes assim, Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você também não.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Seu bobo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então... Eu devia apenas responder... enquanto ainda posso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você... já tomou sua decisão?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... Embora eu tenha demorado mais do que devia... Eu seria o pior dos piores se ainda hesitasse, mesmo depois de tudo isso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Entendi... Então, deixe-me ser eu a te perguntar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quem você escolhe, Takeru-chan? Eu... ou a Meiya?」"
+  },
+  {
+    "message": "Sumika"
+  },
+  {
+    "message": "Meiya"
+  }
+]

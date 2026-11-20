@@ -1,0 +1,54 @@
+name: Release Translation Package
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate repository and strict SHA-256 hashes
+        run: python3 scripts/validate_repo.py
+
+      - name: Package muvluv-ptbr-translation.zip
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, zipfile
+          root = pathlib.Path(".")
+          meta = json.loads((root / "metadata.json").read_text(encoding="utf-8"))
+          zip_path = root / "muvluv-ptbr-translation.zip"
+          fixed_dt = (2026, 1, 1, 0, 0, 0)
+          with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
+              targets = [root / "metadata.json"] + sorted((root / meta["translation_dir"]).glob("*.json"))
+              for p in targets:
+                  zi = zipfile.ZipInfo(p.as_posix(), date_time=fixed_dt)
+                  zi.compress_type = zipfile.ZIP_DEFLATED
+                  zi.external_attr = 0o644 << 16
+                  zf.writestr(zi, p.read_bytes())
+          digest = hashlib.sha256(zip_path.read_bytes()).hexdigest()
+          (root / "muvluv-ptbr-translation.zip.sha256").write_text(
+              f"{digest}  muvluv-ptbr-translation.zip\n", encoding="utf-8"
+          )
+          print(f"Created {zip_path.name}: {zip_path.stat().st_size} bytes, sha256={digest}")
+          PY
+
+      - name: Upload Release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          generate_release_notes: true
+          files: |
+            muvluv-ptbr-translation.zip
+            muvluv-ptbr-translation.zip.sha256

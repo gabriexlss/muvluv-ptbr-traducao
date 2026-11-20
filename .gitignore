@@ -1,0 +1,37 @@
+# Arquivos proprietarios do jogo (NUNCA subir para o Git)
+*.rio
+*.rio.*
+*.exe
+*.dll
+*.rbt
+*.ici
+*.ruo*
+*.drcruo*
+*.5rf
+*.5RF
+
+# Banco/manifesto com textos originais em EN/JP e projetos locais
+manifest.json
+data/manifest.json
+speakers_reference.json
+*.lg
+*.lg-shm
+*.lg-wal
+
+# Saidas, backups e pacotes temporarios
+backups/
+output/
+test_roundtrip/
+*.zip
+*.zip.sha256
+*.xdelta
+*.tmp
+
+# SO / Python / Editores
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+.vscode/
+.idea/

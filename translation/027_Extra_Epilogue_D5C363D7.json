@@ -1,0 +1,220 @@
+[
+  {
+    "message": "Epílogo de Extra"
+  },
+  {
+    "message": "...Mnnn."
+  },
+  {
+    "message": "...Mmnnn."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru, acordou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm...? Mikoto?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você dormiu tanto que fiquei com medo de estar morto...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, ha-ha. Muito engraçado... Ai-ai-ai...」"
+  },
+  {
+    "message": "Minha cabeça dói..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "...É isso que chamam de ressaca?"
+  },
+  {
+    "message": "Tenho quase certeza de que vencemos o festival esportivo ontem... e comemoramos na casa da Meiya..."
+  },
+  {
+    "message": "Isso mesmo! O Mikoto disse que o pai dele tinha trazido algumas \"lembranças\" para casa... Especificamente, álcool."
+  },
+  {
+    "message": "Achei que aquela vitória merecia pelo menos uma dose... então eu bebi... e é aí que minha memória falha."
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que aconteceu?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bem, é o seguinte...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E mais importante, onde diachos nós estamos!?」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "O quê?"
+  },
+  {
+    "message": "O que foi isso?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Eh, bem... Foi mal por isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não me diga... Eu fui...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ahahah! Parece que meu pai nos sequestrou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Mas POR QUE EU!?!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Talvez porque você era o único cara lá?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não é motivo!! Meiya! Meiyaaa!!\nOnde está o helicóptero!? Onde está a equipe de resgate!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É inútil.\nEstavam todos apagados por causa da bebida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não... Não pode ser...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bem, tivemos sorte de sermos resgatados por este navio pesqueiro de atum. Eventualmente ele vai voltar pro Japão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Seu idiota! Eu não quero 'eventualmente'!!\nMe leve para casa, agora mesmo!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ei, não esquenta com isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não sou você!! Eu vou morrer aqui fora!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bem pensado. Toma isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que diabo é isso!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Uma vara de pesca.\nVocê tem que conseguir sua própria comida.\nSenão vai morrer de fome.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é ridículo!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você já usou uma antes?\nCerto, olha só. Este é o molinete...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Só pode estar de sacanagem!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você segura esta parte assim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Para de me ignorar aaah!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「E aí você lança assim... Ah! Takeru, não agarra a vara desse jeito!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grrraaaaaaaaaaaaaaaahhh!!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Eba! Agora nossa sobrevivência está garantida!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh... Urp... Eu tô me sentindo... péssimo...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「O que foi? Tá enjoado?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como... você consegue engolir isso...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Aaah! Não, não, não! Se for vomitar, vai o mais longe possível! Isso é uma isca valiosa!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urp... Ãh, a propósito... Isso aqui é mesmo... um barco atuneiro...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Por que a pergunta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tem... ninguém nele... urp...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É, mas o navio em si é um atuneiro!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O rádio e o leme tão quebrados... urp...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bem, o oceano é grande, então coisas assim acontecem de vez em quando. Pense nisso como uma viagem só de garotos!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tenho quase certeza... argh... que ficar preso à deriva no mar... não é férias... ugh...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Hã? O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Deixa... pra lá...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Beleza, vou ali filetar esse infeliz.\nVamos banquetear como reis hoje à noite!!」"
+  }
+]

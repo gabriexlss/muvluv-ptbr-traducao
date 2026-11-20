@@ -1,0 +1,1306 @@
+[
+  {
+    "message": "Unlimited 22/12 (Sáb)"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uaaaaaaaargh...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bwaaaaaaaaaargh...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Uaaaaaaaaargh...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Uargh...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Querem parar com isso já? Vocês estão chamando atenção. E você, Ayamine! Não os encoraje!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas não está acontecendo absolutamente nada! Quantos dias fazem desde que fui liberado?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Foi por isso que eu disse para fazerem treinamento independente. O que aconteceu com aquelas corridas de vinte quilômetros?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu tenho feito todo santo dia... E como não tenho uma Fubuki, estive usando a sala de simuladores. Já faço treino independente de sobra.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então qual é o problema?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não te incomoda, Representante? Tem algo errado.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「É claro que sim... mas o que podemos fazer? A instrutora Jinguuji está sempre ocupada com alguma coisa.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「A base inteira parece estranha.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É. É como se todo mundo estivesse no limite, sabe?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Uaaaargh...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Dá pra parar, quer fazer o favor!? A última coisa de que precisamos é de mais shiroganês!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quer tentar?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não, não quero!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Por que não? Tem minha permissão.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu NÃO preciso da sua permissão!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ah, vocês estão todos aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Meiya...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Vocês parecem positivamente letárgicos...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não me coloque no mesmo saco que essa gente.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Talvez eu possa oferecer alguma forma de entretenimento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah? Vai contar umas piadas?」"
+  },
+  {
+    "message": "Sabe... A Meiya tentando contar uma piada provavelmente já seria engraçado por si só."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não, muito pelo contrário. É uma história de arrepiar a espinha, talvez imprópria para um dia de inverno tão frio como este...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ué!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sério!? Que tipo de história!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Não, não! É melhor fingir que nada aconteceu!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Pra mim parece divertido.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mitsurugi salva o dia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, Meiya. Manda ver. Sou todo ouvidos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem... Aconcheguem-se todos, por favor...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Waaa! Waaa! Waaa! Waaa!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cala a boca, Mikoto!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「S-Se você vai mesmo fazer isso, eu tô voltando pro meu quarto!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Imobilizando.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Agh! P-Por favor, não!! Kei-san, sua malvadaaa! Me soltaaae!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vai doer só um pouquinho.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Me solta! M-... Gmfh! ...Mmphmmpphh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, ótimo. Agora vamos ouvir essa sua história de fantasma.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De fato... Devo perguntar, todos conhecem a lenda do hangar 90?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hangar 90? Ãh, que tem ele?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Quer dizer aquele hangar misterioso que dizem existir em algum lugar desta base?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ooh...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Há cerca de vinte e cinco anos, enquanto as forças combinadas sino-soviéticas fugiam pelo continente executando uma operação de terra arrasada...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Uma certa base Militar Imperial começou a conduzir um tipo de pesquisa muito peculiar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que tipo de pesquisa?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Você realmente deseja saber?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... E-Bem, sim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tratava-se... do desenvolvimento de uma arma biológica.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eles estavam pesquisando armas biológicas com a capacidade extraordinária de prejudicar apenas os BETA... Tudo foi conduzido sob sigilo máximo. E o grupo encarregado dessa pesquisa era...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O Departamento de Pesquisa Biológica das FSDI... Também conhecido como Unidade 90.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Correto, Sakaki... Então você já sabia, afinal...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu só ouvi a história. Ainda não sei como diabos conseguiram uma amostra de BETA, no entanto.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A existência da Unidade 90 é alvo de bastante ceticismo, afinal...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu nunca tinha ouvido falar disso antes.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Isso porque é conhecido apenas entre um pequeno grupo de oficiais das FSI.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então o que isso tem a ver com a nossa base?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você deveria saber muito bem... que esta já foi uma base Militar Imperial.」"
+  },
+  {
+    "message": "É verdade... A Sra. Kyozuka disse que está aqui desde aquela época."
+  },
+  {
+    "name": "Meiya",
+    "message": "「A pesquisa da Unidade 90 manifestou-se como consequência de a humanidade ter sido encurralada. Não tínhamos mais o luxo de nos preocupar com problemas de ética.」"
+  },
+  {
+    "message": "Aham..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mesmo quando se tratava de experimentos com humanos vivos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Experimentos humanos?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eles receberam instalações subterrâneas, disfarçadas de hangar, para realizar esta pesquisa... Dizem que nem uma única pessoa que entrou retornou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso está ficando tenso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「As pessoas começaram a chamá-lo de... Hangar 90...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uhum...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Segundo aqueles que tiveram apenas um vislumbre lá dentro, era um laboratório de horrores indescritíveis... Cérebros e colunas humanas encapsulados em tanques de estase de vidro, com corações e outros órgãos espalhados pelo chão...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cérebros e colunas humanas!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...N-Nada... Só me esquece. Então, por que fariam isso com humanos...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Ninguém sabe o porquê. Mas aparentemente esses cientistas acreditavam que tais coisas eram de importância paramount para a nossa sobrevivência.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Em outras palavras, eram cientistas loucos... A esse ponto chegou o desespero da humanidade por causa dos BETA...」"
+  },
+  {
+    "message": "Cientistas loucos, hein..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "É, isso com certeza parece bem louco mesmo..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mhmf... Pfwah! P-Por favor, pessoal! Chega!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sabe o que fazer, Ayamine.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Shh. Sem mais dor. Só sonhos agora.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mmffgghh...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Aparentemente, os planos deles foram cancelados em resposta à invasão dos BETA no território continental japonês. Mas, até então, dizem que esses experimentos já haviam feito de três a quatro mil vítimas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caralho...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso, é claro, teria sido um assunto de grande preocupação nacional... mas a operação supostamente era ultrassecreta. Por isso, sua existência nunca foi revelada ao público.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E? E?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Depois disso, a Unidade 90 foi dissolvida e tudo acabou... Ou assim parecia...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ahhh!!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Após as Forças da ONU retomarem o continente, os rumores dizem que os militares americanos confiscaram os resultados da pesquisa deles.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, não pode ser!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O cientista-chefe da Unidade 90 continua desaparecido até hoje... e com ele está o protótipo dessa arma biológica...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba! Agora SIM é disso que eu estou falando!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Como ele não poderia ter continuado sua pesquisa dentro do Japão, há rumores de que ele desertou para os militares dos EUA.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nossa...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Outros rumores dizem que os americanos já haviam obtido a pesquisa muito antes disso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Há quem diga que as novas bombas americanas usadas para retomar o continente... as bombas G... são frutos desse programa de pesquisa monstruoso...」"
+  },
+  {
+    "message": "Ah, é verdade. A professora Yuuko dizia que essas bombas eram o principal motivo de termos conseguido recuperar o continente."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Claro que eu não consigo ver o que armas biológicas e um explosivo puro como a bomba G poderiam ter em comum.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que as pessoas acham isso?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O pesquisador que desapareceu... o nome dele... era Gotou...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Gotou... Então se chamava bomba G... porque o nome dele começa com G!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Esta exata base foi construída sobre as ruínas daquela instalação de pesquisa... e nossa luta contra os BETA continua até hoje...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Então quer dizer que a Unidade 90 realmente existiu...!? Ou melhor... Será que ela ainda existe, até agora!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Quem sabe? ...Isso não passa de sussurros ao vento.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...E então? Isso foi só o prólogo, né?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De fato... Nós estamos apenas começando.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine, continua segurando o Mikoto aí, beleza?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Pode deixar, chefe.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mmfghmmfmf! Mmmnfnhfnnngh!!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O boatos de que o Hangar 90 está escondido em algum lugar desta base são contados principalmente pelo exército.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pelo 'exército'... Você quer dizer aqueles caras nas áreas de treinamento de TSF?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Exato.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O rumor diz que o Hangar 90 fica no subsolo, embaixo das florestas nos campos de treinamento...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Minhas fontes me dizem que ontem à noite, sons estranhos puderam ser ouvidos vindo daquela área...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oooh?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Um som profundo e soturno... que parecia ecoar debaixo da terra...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E, algumas horas antes desse som ser ouvido, houve relatos de testemunhas de uma figura não identificada na área...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「T-Talvez tenha sido uma coincidência...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Certo indivíduo achou estranho ver alguém andando por aí depois do anoitecer, então chamou pela sombra...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O que aconteceu?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O desconhecido correu como se quisesse evitar ser visto... Quem chamou foi atrás, mas logo o perdeu de vista.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Será que era uma das cobaias...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Então... você acha que a voz que ouvimos algumas horas depois podia ser...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quem me dera saber...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas vocês acham mesmo que era humano?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá... Vai ver era uma das vítimas deles...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mngfh!!! *ARGH!*\nP-Por favor, chega! Chega disso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...que morreu e virou um FAAAAAAAANTASMA!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Q-...WAAAAAAAAAGH!!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hrk... Nngh... A-Ayamine... Eu tinha dito... para segurar ele direito...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Queria terminar com chave de ouro.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Foi uma maneira bem divertida de acabar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Seus... desgraçados...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Humph! Te odeio, Takeru!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ora? Isso ajudou a aliviar o seu tédio?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ajudoou, mas... Ugh... A que preço...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ótimo. Fico feliz em saber disso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora, não deveria ficar!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bwaaaaaaaarrrgh...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você está fazendo isso de novo!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O quê? Você ainda está aqui?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, tenta você também, Meiya! Bwaaaaargh...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você não está fazendo o menor sentido. O que isso quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É só o grito de guerra de um humano numa situação completamente sem esperança. Viu? Bwaaaaaaaaargh.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não soa nem um pouco digno o suficiente para ser chamado de grito de guerra...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quer dizer que você ainda está entediado? Eu acabei de lhe contar uma história emocionante, não contei?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É, e eu estava indo na onda também!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera... Você estava fazendo aquilo de propósito!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nada disso! Eu estava com muito medo, seu idiota!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, agora estou entediado de novo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sério, o que eu faço com você? ...Bem, permita-me falar sobre os espíritos caídos que descansam sob as cerejeiras nos portões da frente da nossa base...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Droga!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Que falta de consideração, Yoroi. Esta não é uma história de fantasma. Você está desrespeitando aqueles que perderam suas vidas defendendo este país.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「E-Eu sei, mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah é, tinha um boato sobre pessoas mortas estarem enterradas debaixoquelas árvores...」"
+  },
+  {
+    "message": "Essa era uma das tais \"Sete Maravilhas de Hakuryo\" sobre as quais as pessoas sempre cochichavam... Diziam que costumava haver uma base militar ali, e os espíritos dos soldados que morreram em um grande ataque Aéreo ainda rondavam aquelas árvores."
+  },
+  {
+    "name": "Meiya",
+    "message": "「É mesmo? Eu não sabia disso.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Essa nem é a mesma história!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim, escutem... Eu preciso de algo que possa me manter ocupado por alguns dias. Não só por tipo, uma hora ou algo assim.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então pare de perder tempo aqui e vá fazer um treinamento independente!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh, por que você tem que ser Tão chata com isso!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu simplesmente não suporto gente indecisa! Você está sentado aqui há, o quê... duas horas? Só fazendo 'bwaaaaargh'!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A-Alô desculpa.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E é bom mesmo!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Volteeei!! Fui lá limpar a minha Fubuki!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sorte a sua. Cara, seria tão legal ter uma Fubuki pra limpar... Né, Meiya?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hm? Minha perna ainda não recuperou totalmente, então eu não conseguiria pilotar um TSF de qualquer forma. Estou tentando fazer um pouco de fisioterapia leve nos simuladores.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Enfim! Se decide logo de uma vez!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom, já entendi! Urgh, me larga do pé...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas falando sério, fico imaginando o que está acontecendo...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É. A base toda tá tão estranha ultimamente...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nossos superiores com certeza têm estado com muita pressa nestes últimos dias. Deve ser algo sério...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu me meti em apuros.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「A Instrutora ainda tá estressada...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu tava lá no telhado, tentando ter uma vista melhor... e levei bronca de lá de baixo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...De lá de baixo? Onde no telhado você tava?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Em cima da cerca.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nossa, claro que ela ia ficar brava com você!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qualquer um olhando pra você lá de embaixo ia achar que você ia pular...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Foi mal.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「De qualquer forma, somos todos cadetes aqui. Não podemos nos dar ao luxo de ficar despreocupados assim.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Quando vocês acham que a gente vai se formar?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Por que a pergunta?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, tipo... não tem treinamento, e ninguém nos disse nada sobre isso. Não acham um desperdício ficar aqui à toa coçando o saco desse jeito?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Bom ponto.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Será que é porque nós fomos mal na primeira Avaliação?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não consigo imaginar que esse seja o motivo. No entanto, Yoroi levanta um bom ponto. Isso mal pode ser considerado um uso produtivo do nosso tempo.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O-O que você está dizendo!? Isso é só mais uma parte do nosso treinamento! Eles estão nos observando para ver como fazemos uso do nosso tempo... Isso é só mais um teste!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você realmente acredita nisso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que você quer dizer com isso?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se quer saber minha opinião, eu apostaria que os instrutores simplesmente não têm tempo para gastar conosco no momento...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「B-Bem...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que você quer!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Será que esta base... faz alguma coisa no Natal?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Ãh, o quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, sério, cara. Eu estava pensando se talvez seja para isso que todo mundo está se preparando...」"
+  },
+  {
+    "message": "Tenho quase certeza de que a cidade de Yokosuka sempre montava aquela confusão toda com luzes de Natal..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Lá vem você de novo com seus devaneios aleatórios...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O que exatamente a gente faz comemora isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, qual é. A gente vai mesmo falar sobre essa tolice numa hora dessas?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, quero dizer... Vocês SABEM o que é o Natal, né?」"
+  },
+  {
+    "message": "Não é possível que nossas culturas sejam tão diferentes assim, né!?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nós não somos tão ignorantes... É o nome americano para o Dia de Ano Novo, certo?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não exatamente, Yoroi. É o equivalente deles à véspera de Ano Novo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai meu Deus, gente...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Vocês dois estão errados. É um evento cristão para celebrar a natividade de Cristo. O dia vinte e cinco é o Natal, e o dia vinte e quatro é a véspera de Natal.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Natividade...? Então é tipo... o aniversário dele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso, é isso aí! Você arruma uma árvore e enfeita ela toda bonita, aí come um monte de coisa gostosa e faz uma festona! Aí, no meio da noite, o Papai Noel desce pela sua chaminé e...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Que festival terrivelmente suspeito. Quem é esse Papai Noel? Por que diabos ele invade a casa dos outros pelas chaminés?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmm... Eu não sei por que ele entra pela chaminé, mas ele não é nenhum tarado nem nada. Ele é só um velhinho alegre que deixa presentes para as crianças embaixo da árvore de Natal.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Um velhinho daqueles consegue mesmo caber numa chaminé...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essa é só a história. Sabe como é... O lance do Papai Noel é que, na verdade...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa, deve ser muito difícil ser pai, hein...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pois é. O Papai Noel desperta a imaginação nas crianças... Os pais têm que fazer os filhos acreditarem nisso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ainda assim, faço a menor ideia de por que você está puxando esse assunto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pensem bem. Os instrutores estão ocupados demais para ligar para a gente, então só temos tempo de sobra... e é a época certa do ano. Por que a gente não faz uma festa de Natal?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「La vamos nós de novo...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O Papai Noel vai estar lá?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, na verdade não. Mas em compensação, todos nós podemos fazer um amigo secreto!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Amigo secreto?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É! Basicamente, todo mundo traz um presente e a gente senta em círculo. Aí a gente toca uma música e fica passando os presentes de mão em mão enquanto ela toca...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Aham...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aí, quando a música parar, o presente que estiver no seu colo vira seu. É super empolgante porque você não faz ideia de quem vai ficar com o presente de quem!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nossa〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai ser especialmente empolgante com alguém como a Ayamine lá.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O que isso quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Só Deus sabe que tipo de presente você traria...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Isso é discriminação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Na verdade, eu tô ansioso para ver o que qualquer uma de vocês faria... É, isso vai ser divertido!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É, eu quero tentar!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Qual é, Tamase! Logo você também não!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mas parece divertido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, então tá decidido!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Shirogane!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, relaxa. Talvez uma festa seja exatamente o que você precisa para aliviar toda essa tensão!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu não preciso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desde que a gente continue com o treinamento independente, qual é o problema?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「No entanto, essa sua festa... Como e onde nós poderíamos realizá-la?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é... A gente com certeza não pode usar o refeitório, então talvez a sala de aula...? Sabe de uma coisa, vou dar uma investigada.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Não me responsabilizo se você nos der problemas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu me encargo da Marimo-chan e de tudo mais, então tudo o que vocês precisam fazer é trazer seus próprios presentes.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E quanto às decorações?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é... Sabe de uma coisa, você pode ficar encarregada disso! Não deve exigir muita pesquisa descobrir o que usar.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Beleza, combinado!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Então acho que está decidido!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, com certeza.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ebaaa!!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Será mesmo que você vai conseguir dar conta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Deixa Comigo! Vamos fazer dessa festa um enorme sucesso!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Estou falando do seu treinamento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「ARGH!! Quantas vezes vou ter que dizer que vou fazer!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Qual é, Chizuru-san! Não há nada de errado com um pouco de recreação. Você deveria se juntar a nós!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Isso pode não ser tão chato afinal.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De fato... Que razão teríamos para não acompanhar a ideia de Takeru?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「*suspiro*... Tá bom... Supondo que a Instrutora sequer aprove isso...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ebaaaaa〜!\nNatal〜! Natal〜!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu acho que posso ajudar com os enfeites também... mas, em troca, é melhor você se responsabilizar por tudo isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode deixar!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Bem, vou voltar aos treinos então... Não se esqueça de enviar o requerimento!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu também vou! Nossa, eu mal posso esperar pelo Natal〜!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Beleza, Takeru! Todos nós estamos contando com você!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, pode deixar comigo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Até mais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Foi uma ótima cartada da sua parte.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Acho que foi uma excelente ideia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Embora seja mais óbvio no caso da Sakaki, todas nós estamos nos sentindo bastante confusas e irritadas... Por mais que nossos temores sejam vagos, parece que isso pode ser apenas a calma antes da tempestade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, eu sei.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É por isso que não conseguimos reunir o mínimo de entusiasmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmm... Eu não tinha pensado por esse lado. Você realmente presta muita atenção em todo mundo... Foi por isso que você contou aquela história de fantasma?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hm? Bem, sim. Embora a parte sobre heróis de guerra estarem enterrados sob as cerejeiras seja verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Também vou voltar ao meu treino. Esforce-se bastante por aí também. Estarei disposta a ajudar caso precise de algo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você só foca em curar essa perna.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Heh... Muito bem.\n...Até a próxima, então.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Tá, eu sei que fiz parecer bem fácil, mas agora que penso nisso... Como diachos eu vou dar uma festa num lugar com tantas regras e regulamentos?"
+  },
+  {
+    "message": "Grgh... É melhor eu voltar pro meu quarto e planejar tudo isso..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah! Instrutora! Era exatamente a mulher que eu queria ver!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──Hm? Shirogane?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Preciso falar com a senhora sobre uma coisa!!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Pode ser mais tarde?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por favor! Só alguns minutos, é tudo o que eu preciso!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Isso não é notícia ruim, é?\nVocê parece realmente sério por uma vez...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Essa doeu.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bom, tudo bem... O que é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O Esquadrão 207 gostaria de dar uma festa de Natal, e eu estou aqui para pedir permissão.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Uma festa... de Natal?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente não tem feito nada além de treinamento independente há dias, e ninguém nos disse o porquê.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bom...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por causa disso, todo mundo tá começando a ficar meio ansioso. Parece que o nosso treinamento tá ficando cada vez menos produtivo.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quando eu perguntei, nosso líder de esquadrão foi o único que soube o que era o Natal. Então, achei que isso seria uma boa forma de aliviar o clima...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Façam o que quiserem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Êh?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Onde vai ser realizada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, hã... Eu tava esperançoso de que a gente pudesse usar uma sala de aula...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Tudo até o 4º subsolo, exceto o centro de controle, está liberado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sério!? ...Hã, eu não preciso preencher um requerimento formal nem nada...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Pra quê? Se tiverem qualquer problema, é só citar o meu nome ou o da professora Kouzuki.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Nada... Eu só não achei que você seria tão receptiva à ideia...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Só certifique-se de fazer isso direito. Não vai ajudar muito na moral da tropa se você não der o seu melhor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bom, estou meio com pressa, então...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-...Muito obrigado!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...*risada*... Você está tão educado ultimamente.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Cara... Que diabos foi isso?"
+  },
+  {
+    "message": "A Marimo-chan está muito mais gentil do que o normal."
+  },
+  {
+    "message": "...Bem, consegui a autorização, e acho que é isso que importa."
+  },
+  {
+    "message": "Na verdade, parece até que ela estendeu o tapete vermelho..."
+  },
+  {
+    "message": "...Nesse caso, acho que a gente só tem que fazer dessa a maior festa que esta base já viu!!"
+  }
+]

@@ -1,0 +1,987 @@
+[
+  {
+    "message": "Unlimited 19/11 (Seg)"
+  },
+  {
+    "message": "Urgh... Tô acabado..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*boceeejo*」"
+  },
+  {
+    "message": "*suspiro*... É, eu definitivamente não tô no meu melhor estado."
+  },
+  {
+    "message": "Mesmo sem um espelho, dá pra notar o quão pálido meu rosto deve estar... e tô um pouco enjoado também."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「B-Bom dia...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A-Ah, bom dia...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Por favor... Não me venha com esse silêncio constrangedor."
+  },
+  {
+    "message": "Eu sei que você tá desconfortável.\nEu também tô."
+  },
+  {
+    "message": "Mas eu não tenho culpa... É um fenômeno biológico!"
+  },
+  {
+    "message": "Você não precisa fugir assim que acorda. Não fui eu que fiquei falando besteira ontem à noite, hein!?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Vamos só... esquecer o que aconteceu ontem à noite, tá?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Eu também queria esquecer...\nMas a sensação do corpo da Mikoto...\n──Ah, droga, não! Takeru malvado!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「... Toma, pega isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah, valeu...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você não vai melhorar se não comer, né? Claro, o fato de você ter apetite já significa que seu corpo tá se recuperando.」"
+  },
+  {
+    "message": "Urgh, cogumelos e folhas de novo...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso aqui realmente vai me fazer melhorar...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Sim, faz super bem pra saúde.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Posso comer junto com as rações também?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Claro, bobinho. Coma o máximo que puder.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　*croc*...*croc*..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso é horrível...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bom, o que você esperava de ração de campanha.」"
+  },
+  {
+    "message": "*suspiro*... Quase consigo sentir meu apetite indo embora por ralo abaixo."
+  },
+  {
+    "message": "Quer dizer, imagino que não dê pra reclamar muito, considerando como as coisas estão neste mundo..."
+  },
+  {
+    "message": "Mas a qualidade das refeições deve afetar o moral das tropas, né? Aposto que essa gororoba acaba totalmente com o espírito da galera."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grgh... Droga! Queria comer um Combo de Hambúrguer do Templo dos Céus!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Templo dos Céus? ...O que é isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Liga não.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「A-Ah, tá...」"
+  },
+  {
+    "message": "Ah..."
+  },
+  {
+    "message": "Lembrei agora. A Mikoto deixou cair as coisas dela ontem."
+  },
+  {
+    "message": "...E eu aqui, comendo ração e ainda reclamando do gosto..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Vamos dividir isso aqui.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Ên?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Te dou metade. Embora não tenha muita coisa.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Tem certeza?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Comer mato não vai matar sua fome. Quer dizer... isso aqui também não, e tem gosto de merda, mas...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...É, mas mesmo assim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi você que vacilou e deixou suas coisas caírem.」"
+  },
+  {
+    "message": "...Eu podia ter falado isso de um jeito mais suave."
+  },
+  {
+    "message": "Mas tô exausto demais para me importar..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas você também foi quem salvou minha vida.\nEntão... tipo... Vai logo, come... Come essa porra!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Obrigada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não precisa agradecer.」"
+  },
+  {
+    "message": "Eu tô seriamente de saco cheio desse meu jeito sem tato. Será que eu não podia ter me expressado melhor?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Preciso sim... Obrigada, Takeru.」"
+  },
+  {
+    "message": "Dá para parar de fazer essa cara, caramba!?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "　...*croc*...*croc*..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Eu falo isso, mas sei que ela não faz por mal..."
+  },
+  {
+    "message": "...Não é como se ela estivesse tentando me deixar desconfortável, droga..."
+  },
+  {
+    "message": "Droga... Se ela fosse homem... eu estaria bem de boa agora..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Foi mal.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você estava certo ontem. Eu meio que estive te evitando... sem realmente querer.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Isso é...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É só que... você é muito parecida com alguém que eu conheço. Meu melhor amigo, na verdade. Sua aparência, sua personalidade, sua voz... até o seu nome.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Ent-Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas o problema é que... ele é um cara.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ugh... Bem, isso é um pouco deprimente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ééé... Bem, é o que tem pra hoje. É só que... sei lá...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Eu entendo.\nÉ... Sem problemas. Não me incomoda.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ufa... Ainda bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pelo quê?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bom, tipo... Isso significa que você não estava me evitando porque me odiava nem nada assim!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A-Ah, é. De jeito nenhum...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「S-Só para constar, porém, eu sou uma garota.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「B-Bem... É, depois de ontem à noite, eu tô totalmente convencido disso... Porque... Digo, você sabe...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...V-Você realmente conseguiu perceber só por isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bom, quero dizer... Eu não tenho muito na parte de, hã...」"
+  },
+  {
+    "message": "...Você não podia ter escolhido um assunto pior para puxar!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Este não é o lugar para discutir isso! Nós estamos no meio de uma missão agora! Seja mais discreta!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Todo mundo me diz que sou esguia e bonita, mas...」"
+  },
+  {
+    "message": "Cara, você não pode simplesmente começar a me ignorar AGORA!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「*suspiiiiiro*... Então eu sou só como um garoto, hein...?」"
+  },
+  {
+    "message": "Espera um minuto. A culpa é minha de ela estar ficando tão pilhada com isso!?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Eu como a mesma comida que eles, então o que nos faz tão diferentes?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não pergunta pra mim!」"
+  },
+  {
+    "message": "E você tá se comparando com quem, afinal?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru, do tamanho de quanto você gosta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não peeeeeeeerde!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「O que é isso? Você parece bem mais enérgico agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "message": "Caramba... É como se a minha força de repente..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Uaa! Takeru...!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...」"
+  },
+  {
+    "message": "Tanta grama no caminho..."
+  },
+  {
+    "message": "Mikoto está fazendo todo o possível, mas... Eu ainda tô com dificuldade só pra levantar as pernas..."
+  },
+  {
+    "message": "Ainda mais porque tava chovendo agorinha pouco... Droga!"
+  },
+  {
+    "message": "Meus pés não param de escorregar... Não acho chão firme em lugar nenhum!"
+  },
+  {
+    "message": "E pra piorar, tá um calor escaldante... Argh, que merda..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Acho melhor a gente descansar um pouco agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...N-Não fode! ...A gente ainda... não chegou... no ponto de encontro!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mas ainda tem veneno no seu corpo. Você realmente não deveria se forçar tanto assim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...Mas se a gente não... não vai dar tempo... Desse jeito não...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Eu sei.」"
+  },
+  {
+    "message": "...Droga!"
+  },
+  {
+    "message": "...Se eu estivesse bem... a gente nem teria precisado parar mais cedo pra escapar da chuva."
+  },
+  {
+    "message": "Eu só faço atrasar a gente toda vez... Já se passaram doze horas desde que a gente partiu."
+  },
+  {
+    "message": "Mikoto achou que conseguiríamos em nove, mas já passamos três horas disso... e o nosso destino AINDA nem sinal. Que porra eu tô fazendo!?"
+  },
+  {
+    "message": "Meu vacilo estúpido... vai acabar... impedindo todo mundo de passar...!"
+  },
+  {
+    "message": "Com certeza o Mikoto... tava planejando tudo... pra gente chegar lá o mais cedo possível."
+  },
+  {
+    "message": "Mas por minha culpa... Por minha culpa... Droga...!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você tá bem? Talvez devêssemos parar por hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...A gente tem que chegar lá... até amanhã de manhã... não importa como.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...Olha... Até a chuva parou...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...Eles vão... deixar a gente... deixar a gente para trás... e aí todo mundo vai rodar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*arquejo*...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru? Você tá...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...O-...O quê? Não se preocupe comigo...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Para! Não se esforce tanto!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*wheeze*...N-Não me toque...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você está com febre...」"
+  },
+  {
+    "message": "A mão dela está tão boa na minha testa..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...」"
+  },
+  {
+    "message": "Droga... E logo depois de chegarmos tão longe... Que patético da minha parte!!"
+  },
+  {
+    "message": "Não importa o quanto ela esteja sendo gentil... Não fraqueje agora, droga!"
+  },
+  {
+    "message": "Não! Para! Eu não posso descansar aqui!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...Mikoto... O que... O que você está fazendo...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Vamos parar por aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sua idiota! A gente não pode!」"
+  },
+  {
+    "message": "Ela vai simplesmente desistir... Ela vai usar o rádio e..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...Para...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você está se exaurindo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...Não me subestime... Eu não sou tão fraco assim. Isso não é nada...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Você está mentindo.」"
+  },
+  {
+    "message": "...De fato estou."
+  },
+  {
+    "message": "Mas agora, eu não tenho escolha a não ser fingir até conseguir...!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...Você... Você acha que mais alguém vai desistir desta Avaliação?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Todo mundo está indo em direção ao ponto de encontro. Eles provavelmente continuaram andando até lá durante toda aquela chuva!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mas...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu... Eu não vou desistir.\nEu não vou segurar todos vocês...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ninguém disse que ia...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não vou desistir por causa de uma mordida de cobra de uma figa!! Eu sou mais do que apenas um peso morto!! Eu não... vou deixar vocês reprovarem por minha causa!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu consigo! E vou conseguir! Eu não sou um peso morto! Eu não sou tão fraco assim!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...Eu não vou ser o cara que fica com as pernas bambas e desmaia de vez!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ouçam bem... EU VOU passar nessa porcaria... e EU VOU pilotar um TSF!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "message": "Mesmo que a minha própria vida seja o que tenho de mais precioso... Eu não consigo protegê-la sozinho."
+  },
+  {
+    "message": "Nunca pensei que as palavras da Representante fossem fazer tanto sentido..."
+  },
+  {
+    "message": "Durante aquela convocação de emergência, eu fui o único que desmaiou daquele jeito... Se os BETA tivessem atacado de verdade, o que teria sido de mim!?"
+  },
+  {
+    "message": "Talvez num mundo perfeito alguém tivesse me protegido. Mas se não tivessem, eu estaria morto ali mesmo!!"
+  },
+  {
+    "message": "O mesmo aconteceu com a cobra. A Mikoto sugou o veneno, saiu pra catar cogumelos pra mim e me ajudou a lidar com o frio."
+  },
+  {
+    "message": "Mas eu não fiz porcaria nenhuma!!"
+  },
+  {
+    "message": "Eu não consigo nem proteger a minha própria vida!\nApesar de ser a coisa mais importante que eu tenho!!"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Para que estou vivendo? Por que me importo se vou morrer ou não?"
+  },
+  {
+    "message": "Será que estou só nutrindo a esperança de acordar de volta no meu próprio mundo um dia? É esse o único motivo pelo qual estou tentando continuar vivo?"
+  },
+  {
+    "message": "Não há nada neste mundo que eu queira proteger? Será que eu só quero ir para casa?"
+  },
+  {
+    "message": "──É para isso que eu estou vivendo?"
+  },
+  {
+    "message": "Droga, o único motivo pelo qual quero pilotar um robô é porque eu acho \"legal\", né? Os BETA são completamente irrelevantes?"
+  },
+  {
+    "message": "Para mim, os BETA não são diferentes daquela cobra idiota... A única coisa que importa é que eu sobreviva, certo?"
+  },
+  {
+    "message": "...Se isso for verdade mesmo, então sou o único neste mundo inteiro que está vivendo nele só para poder abandoná-lo."
+  },
+  {
+    "message": "Estou dificultando a vida de todo mundo... para poder deixar todos para trás."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "É assim mesmo que funciona?\nEu realmente estou bem com isso?"
+  },
+  {
+    "message": "Talvez estivesse no começo.\nMas será que ainda sinto o mesmo?"
+  },
+  {
+    "message": "Meiya... Mikoto... Representante... Tama... Ayamine... Kasumi... Yuuko-sensei... Marimo-chan... Sra. Kyozuka..."
+  },
+  {
+    "message": "Eu só vou aproveitar a boa vontade deles e dar o fora deste mundo assim que puder?"
+  },
+  {
+    "message": "Então por que não desisto aqui e agora?"
+  },
+  {
+    "message": "Qual é o problema de ser um peso morto?\nSe me deixarem viver, que diferença faz?"
+  },
+  {
+    "message": "Se estou apenas vivendo até o \"tal dia\" chegar, então nem importa se eu conseguir pilotar um TSF ou não. E se for esse o caso, passar neste teste também não importa."
+  },
+  {
+    "message": "Não haveria motivo nenhum... para eu me esforçar tanto e sofrer tanto."
+  },
+  {
+    "message": "Até com aquele Game Guy... Por que eu deveria se importar se alguém se isolou dos outros ou não?"
+  },
+  {
+    "message": "Eu não deveria me importar... mas..."
+  },
+  {
+    "message": "Será que essa febre... está me dando uma epifania?"
+  },
+  {
+    "message": "Não importa quantas vezes eu pense nisso... Eu não me importo de verdade com \"salvar o mundo\"."
+  },
+  {
+    "message": "...Essa é a verdade."
+  },
+  {
+    "message": "Mas, por algum motivo... eu ainda quero continuar tentando."
+  },
+  {
+    "message": "Eu não entendo direito, mas isso não é por orgulho... e eu também não estou só sendo teimoso. Por algum motivo, eu realmente quero fazer tudo o que puder."
+  },
+  {
+    "message": "Não é sobre mim... É sobre as pessoas que cuidam de mim... e com o que elas se importam, eu acho."
+  },
+  {
+    "message": "...Acho que eu quero... me tornar alguém em quem elas possam confiar."
+  },
+  {
+    "message": "Eu me acostumei a este mundo. Ao ponto de não querer mais ser apenas um turista aqui."
+  },
+  {
+    "message": "E... se eu vou passar minha vida aqui... eu quero fazer dela uma vida da qual eu possa me orgulhar!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você tá bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*fufu*...*fufu*...Hã...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você ficou... muito quieto...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*off*...*off*...」"
+  },
+  {
+    "message": "É mesmo... Eu não sou deste mundo, então é difícil ficar empolgado com a ideia de salvar o planeta ou coisa parecida."
+  },
+  {
+    "message": "E ainda assim, treinar duro com todo mundo no Esquadrão 207... não tem sido nada ruim."
+  },
+  {
+    "message": "Talvez... seja isso que eu queira proteger.\nNão é muita coisa, mas pode ser exatamente isso."
+  },
+  {
+    "message": "Eu ainda não... tenho certeza absoluta disso, mas... no meu estado, pensar mais um pouco só vai me dar uma enxaqueca..."
+  },
+  {
+    "message": "Mas uma coisa é certa! Eu com certeza não quero segurar ninguém! Não posso permitir que isso aconteça!!"
+  },
+  {
+    "message": "Eu quero... estar no mesmo nível que todo mundo!!"
+  },
+  {
+    "message": "──De jeito nenhum vou parar por aqui!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*ofegante*...*ofegante*... Mikoto... Me dá... esse rádio.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Ên?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me dá logo!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「A-Ah, tá...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Até mais...!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "...L-Lá se vai, direto para o pântano... H-Heh..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「H-Hahah... Agora não temos outra escolha a não ser continuar...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mikoto, se você tivesse que desistir agora, conseguiria se perdoar?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Conseguiria?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Olha, eu também não quero desistir... Mas... o seu bem-estar é mais...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*... Seu idiota... Eu não vou morrer aqui!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*... Lembra... Lembra quando eu entrei para o esquadrão... e tive aquela discussão com a Representante sobre seguir ordens?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Sim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*... Naquela época... todos vocês disseram... que ela estava certa.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Sim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Naquela época, você disse... que quando o dever chama, e não há mais ninguém por perto para atender a esse chamado... então você simplesmente tem que dar conta do recado...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「──!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É bem patético, eu sei... mas para mim, acho que esse momento já chegou...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*... É, a Representante podia estar com a razão... Acho que estou começando a entender o que ela quis dizer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*pant*... Então, vamos lá... Por que você não me prova isso, de uma vez por todas...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「... Seu grandessíssimo idiota.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「... É... Eu sou um idiota mesmo.\nMas agora... é isso que eu preciso ser.」"
+  },
+  {
+    "message": "Eu definitivamente... estou ficando meio maluco por causa dessa febre."
+  },
+  {
+    "message": "Talvez... quando eu estiver totalmente recuperado, depois que passarmos pela Avaliação... o fato de eu ter dito tudo isso vá me dar uma vergonha dos infernos."
+  },
+  {
+    "message": "Quer dizer... isso não é nada a minha cara."
+  },
+  {
+    "message": "Mas é por isso que... eu preciso ter certeza de que desistir simplesmente não é uma opção."
+  },
+  {
+    "message": "Se eu não tiver nenhuma outra escolha... Se eu não me der nenhuma outra escolha... então eu consigo fazer o que precisa ser feito."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Ai, meu Deus... Você sempre tem que ser tão atrevido e teimoso com tudo, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*offo*... Parece que sim. Valeu...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Isso não foi um elogio...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*offo*...*offo*... Você mesmo disse... Eu sou um grandessíssimo idiota, não é...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Tá bom, beleza. Mas nada mais de trilha hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos só ir um pouco mais longe...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Não!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ngh...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Só... melhore até amanhã de manhã.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você já me provou o seu valor o suficiente. Agora por favor... use essa mesma determinação para voltar a ficar 100%.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Se a gente esperar um pouco, as árvores e o chão vão dar uma secada. Aí a gente não precisa se encharcar todo... Tá bom?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh... Tá bom... Eu espero...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ótimo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Calma, de novo...?」"
+  },
+  {
+    "message": "Por que eu não tenho forças para resistir a isso...?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não ouse... dar uma de 'ahn' para cima de mim...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Eu não posso deixar você resfriar de novo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha... você não tá me escutando...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「E além disso... Você prometeu, não prometeu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「P-Prometi o quê?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「De ficar completamente bom até amanhã.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... é verdade.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Então...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「B-Bem, tá bom...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Então tá... Boa noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "*suspiro*..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Zzz... zzz...」"
+  },
+  {
+    "message": "Isso pode ser bom pra minha saúde física... mas com certeza não pra minha saúde mental..."
+  },
+  {
+    "message": "Ela é tão quentinha e macia..."
+  },
+  {
+    "message": "Não sei dizer... se a minha mente tá travando por causa da febre... ou por causa dele..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mm... Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Não... faz... isso... Takeru...」"
+  },
+  {
+    "message": "N-Não pode estar falando sério..."
+  },
+  {
+    "message": "Que diabo de barulhos são esses que ele tá fazendo...!?"
+  },
+  {
+    "message": "I-Isso é péssimo... Tenho que pegar no sono, e rápido..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mm... P-Por favor... aí... não...」"
+  },
+  {
+    "message": "AAAAAH!!! Que porra é essa, cara!?"
+  }
+]

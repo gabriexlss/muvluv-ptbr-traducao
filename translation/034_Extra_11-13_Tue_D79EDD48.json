@@ -1,0 +1,2931 @@
+[
+  {
+    "message": "Extra 13/11 (Ter)"
+  },
+  {
+    "message": "...Que droga."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Parece que hoje faltaram... a Sakaki-san e a Ayamine-san.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Deve ser por causa daquele assunto, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas a Ayamine-san ainda pode aparecer.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você pode estar certa quanto à Ayamine.\nMas ainda precisamos discutir como lidar com a Sakaki mais tarde.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É, entendi.」"
+  },
+  {
+    "message": "...*suspiro*..."
+  },
+  {
+    "message": "Não aguento ouvir todas essas conversas \"secretas\"."
+  },
+  {
+    "message": "Mesmo que o que estejam dizendo não tenha nada a ver com o incidente, ainda me incomoda."
+  },
+  {
+    "message": "Deixando Meiya e Sumika de lado, isso me incomoda não importa quem esteja falando."
+  },
+  {
+    "message": "Se eu pudesse, começaria a gritar enlouquecido e a quebrar qualquer porcaria na sala de aula."
+  },
+  {
+    "message": "Mas se eu fizesse isso, só pioraria as coisas para a Representante."
+  },
+  {
+    "message": "É muito estranho como os humanos se comportam em momentos assim."
+  },
+  {
+    "message": "Os mais fracos são os que mais se machucam."
+  },
+  {
+    "message": "...Que merda."
+  },
+  {
+    "message": "Bando de idiotas."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "message": "Esse peso na minha barriga..."
+  },
+  {
+    "message": "Falando em idiotas."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Outra vez você? Cachorro estúpido.」"
+  },
+  {
+    "message": "Não pule na barriga dos outros assim."
+  },
+  {
+    "message": "Você vai encher meu uniforme de marcas de patas!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pronto.」"
+  },
+  {
+    "message": "Ora, veja só! Você é só um pacotinho de energia, né? Deve ser bom não ter preocupação nenhuma na vida."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cara, os cães têm vida mole...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não necessariamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Tem que ser sempre assim..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não apareça do nada assim.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá.」"
+  },
+  {
+    "message": "Hm...? O quê?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que deu em você, é estúpida!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Chataum.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é? Eu sou o chato da história!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Parece que você está se divertindo, Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tô não.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「«...Não tô falando com você, Shirogane.»」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Aquele cachorro idiota com certeza parece feliz."
+  },
+  {
+    "message": "Ele está abanando o rabo com tanta força que parece que vai cair..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Espero que não caia.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não liga não, só tô falando sozinho.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...A gente vai ao hospital hoje?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é o certo a se fazer?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Acho que sim.」"
+  },
+  {
+    "message": "...O hospital..."
+  },
+  {
+    "message": "Agora estou lembrando do que o Sagiri-san disse..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, estava pensando aqui. A gente deveria parar de mentir sobre isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ontem... depois que você fugiu, eu falei com o Sagiri-san.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ele não parecia ter a menor ideia de que eu estava mentindo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, acho que era de se esperar.\nQuem mentiria sobre uma coisa dessas?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...E?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ele estava preocupado com você.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu acho.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E cara, o jeito que o rosto dele se iluminou quando falou de você... Acho que nunca vi o rosto de ninguém se iluminar assim antes.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pensando bem... Isso me deixa meio P da vida... Acho que não tenho nada quesignifique tanto pra mim...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você tá falando umas coisas cafonas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-Olha... Eu tô falando sério agora.\nNão fica de brincadeira.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá mesmo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, eu tô falando sério!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Se você diz.」"
+  },
+  {
+    "message": "Por que é que eu tenho que ficar Tão irritado...?"
+  },
+  {
+    "message": "E logo com a Ayamine, de todas as pessoas."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim! Aquele cara não é um stalker de verdade, né?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...N_p.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não admite assim com tanta naturalidade!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Preferia que eu deixasse isso se arrastar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não! ...Ah, esquece.\nDe qualquer forma, acabei de fingir ser seu namorado.」"
+  },
+  {
+    "message": "...Não é nem de longe algo tão grave quanto eu tô fazendo parecer."
+  },
+  {
+    "message": "Mas mesmo assim, eu ouvi uma coisa que não devia."
+  },
+  {
+    "message": "Eu vi uma expressão que acho que não deveria ter visto."
+  },
+  {
+    "message": "Aquela expressão vulnerável..."
+  },
+  {
+    "message": "Isso é motivo mais do que suficiente para eu me sentir péssimo com essa historinha toda."
+  },
+  {
+    "name": "Kei",
+    "message": "「...O quanto ele te contou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Sobre a gente.」"
+  },
+  {
+    "message": "...\"A gente\"...?"
+  },
+  {
+    "message": "Por algum motivo... essa palavra me atinge em cheio."
+  },
+  {
+    "message": "E eu não tô falando isso só como o ex-namorado de mentira dela, não."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá me ouvindo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não quero te dar ideia errada, então vou te falar o que ele disse. Mas tenho quase certeza de que não ouvi nada de importante.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Entendi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo o que eu ouvi ele dizer foi: 'Eu a traí'... Só isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não faço ideia do que ele quis dizer com isso, no entanto.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É algo que eu preferiria não lembrar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Uma expressão meio perdida, solitária... e ainda assim, suave..."
+  },
+  {
+    "message": "Exatamente como a que o Sagiri-san fez naquela época."
+  },
+  {
+    "message": "Como posso dizer qualquer coisa para um rosto desses?\nDroga..."
+  },
+  {
+    "message": "Então... A Ayamine sente o mesmo em relação a ele..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O que foi?」"
+  },
+  {
+    "message": "Não havia a menor possibilidade de eu ter me intrometido, mesmo desde o início."
+  },
+  {
+    "message": "E ainda assim..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por que você mentiría assim?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que você me fez mentir para ele?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Será que isso era realmente necessário eu fazer com ele?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Irrelevante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que diabo isso quer dizer?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você está dizendo que isso não tem nada a ver comigo? Ou com o Sagiri-san? O que é irrelevante para o quê?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual dos dois é?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E por que eu?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Me responda...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me responda, Ayamine.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você me fez contar uma mentira muito cruel. Você pelo menos me deve uma explicação... Por que você me meteu nisso!?!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quem concordou com isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Quem tomou a decisão de mentir?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é tão...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá legal. Entendi... Vá ao hospital você mesma, que se dane.」"
+  },
+  {
+    "message": "Não pareceria certo vê-lo de novo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu não posso continuar com isso com você.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "　──*aperta*"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Espera.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que você quer?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vai comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vai comigo ao hospital.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E por que eu faria isso?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Por favor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E você nem vai me dizer o motivo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não acha que isso é um pouco egoísta?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Acho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Espera só um pouco, tá?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pra quê!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não posso dizer... Ainda não. Espera mais um pouco...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não quero saber se eu tiver que te forçar a falar... Vai sozinha.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Te conto depois... então vai comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bom. Mas não pense que vou ficar esperando muito tempo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Tá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E como eu disse antes, não vou fingir ser seu namorado de novo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Tá bom.」"
+  },
+  {
+    "message": "Por que estou perdendo a paciência?"
+  },
+  {
+    "message": "O que me deixou tão irritado com isso...?"
+  },
+  {
+    "message": "Droga. A culpa é toda dela."
+  },
+  {
+    "message": "Eu odeio isso. Ela está me mostrando todas essas expressões que nunca vi nela antes..."
+  },
+  {
+    "message": "...E nenhuma delas tem a ver comigo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...E aí, meu bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Estou impressionado que você ainda consiga falar assim numa situação dessas.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É um dom.」"
+  },
+  {
+    "message": "Isso é antinatural, isso sim..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tanto faz. O almoço já vai acabar, então vou voltar.」"
+  },
+  {
+    "message": "Ela estava... se segurando na minha manga agorinha pouco..."
+  },
+  {
+    "message": "Sinto que... pude ver um breve lampejo de quem a verdadeira Ayamine é. Nem que tenha sido por um momento fugaz..."
+  },
+  {
+    "message": "Aquela mão trêmula... não era um dos joguinhos dela de sempre."
+  },
+  {
+    "message": "Ela ainda é um enigma, claro, e não têm fim as perguntas que tenho sobre ela..."
+  },
+  {
+    "message": "Mas a Representante é quem está realmente com problemas."
+  },
+  {
+    "message": "Quer dizer, ontem foi um caos..."
+  },
+  {
+    "message": "E ela faltou de novo hoje... Que diabos ela está fazendo? A cara dela não é..."
+  },
+  {
+    "message": "Isso só vai piorar a situação."
+  },
+  {
+    "message": "A Representante é inteligente o bastante para saber disso."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, o que acha que devemos fazer?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pelo menos finja que está tão estressada quanto eu com isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Estou, estou sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Estou Tão preocupada que não consigo dormir à noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É por isso que você está sempre atrasada?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Totalmente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Para de mentir.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "...Sério, porém. Você realmente precisa parar de mentir."
+  },
+  {
+    "message": "Se continuar empilhando sua torre de mentiras cada vez mais alto, mais dia menos dia ela vai desmoronar sob o próprio peso."
+  },
+  {
+    "message": "Droga... Quem me dera nunca ter contado aquela mentira."
+  },
+  {
+    "message": "Independente do motivo, a Ayamine tinha razão. Fui eu quem decidiu fazer aquilo."
+  },
+  {
+    "message": "Dizer \"Mas eu nunca pensei que daria nisso\" mal serve de desculpa."
+  },
+  {
+    "message": "O problema agora é meu."
+  },
+  {
+    "message": "Seria injusto bancar a vítima, dizendo que a culpa é dela por ter me metido nisso tudo."
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? O que foi? Por que parou?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não é nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah. Bem, nesse caso... Ei!」"
+  },
+  {
+    "message": "...Aquela ali não é a Representante!? Ayamine..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sua mentirosa! Obviamente não é nada.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você acha?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, eu acho!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vou me esconder.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ê-Ê! Hã? Ei!」"
+  },
+  {
+    "message": "Ela tá sendo considerada, ou só não quer lidar com isso?"
+  },
+  {
+    "message": "...Sou só eu que estou achando que é o segundo caso?"
+  },
+  {
+    "message": "Bem, mais importante..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Representante!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que foi? Com essa cara, parece até que viu um fantasma.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O que você quer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sabe, se vai faltar à aula, provavelmente não é uma boa ideia ficar zanzando pela estação logo na hora que a escola acaba.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Obrigada pelo conselho.\nDa próxima vez sarei mais cuidadosa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é isso que eu quero dizer... Não deveria ter próxima vez.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O que isso te importa, Shirogane-kun?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...'O que isso te importa, Shirogane-kun?'」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Olha... Não venha mais à minha casa, mesmo que o Sensei peça.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qual é. Chega disso, vamos logo para o hospital...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Ei...!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Acabou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tenho certeza absoluta do que foi tudo aquilo, mas é. Parece que acabou.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não desanime.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Diz a garota que fugiu e se escondeu.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Achei que seria melhor se eu não estivesse lá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Talvez, mas mesmo assim!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Ainda vamos ao hospital?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós vamos.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Droga.」"
+  },
+  {
+    "message": "...Este é o quarto dia desde o incidente."
+  },
+  {
+    "message": "Acho que a terceira tentativa não foi a da sorte. Estamos apenas andando em círculos aqui."
+  },
+  {
+    "message": "Eu realmente tenho que fazer alguma coisa."
+  },
+  {
+    "name": "Takeru",
+    "message": "「É melhor você não fugir desta vez.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「... Só nos resta esperar.」"
+  },
+  {
+    "message": "Então, contanto que cheguemos ao quarto dela sem esbarrar no Sagiri-san..."
+  },
+  {
+    "name": "Akane",
+    "message": "「Ora... Voltaram de novo, hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Con-Conseguimos! ...Finalmente alcançamos nosso objetivo!」"
+  },
+  {
+    "name": "Akane",
+    "message": "「...Calma aí, Sr. Entusiasmo. Dá para abaixar a bola?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai em frente, agora é sua chance. Pede logo desculpas!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Me desculpe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu estive ralando pra caramba, e É SÓ isso que você consegue fazer!?」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Eu já disse, você não precisa se desculpar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós só precisávamos de um desfecho.」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Tá bom, tá bom. Eu te perdoo, ou sei lá o quê. Feliz agora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pareceu bem sincero... mas acho que é melhor do que nada. Enfim, quanto tempo mais vão te manter aqui?」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Infelizmente, parece que estou presa aqui até o fim de semana... Vou morrer de tédio, sério.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Akane",
+    "message": "「E tudo o que consigo pensar é no quanto quero nadar. Como é que você vai compensar isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, não jogue a culpa em mim. Reclama com a Ayamine.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Me desculpe.」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Ah! N-Não, eu só estava alfinetando ele! Sorte! Não se preocupe com isso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, é bom ter uma pausa de vez em quando.」"
+  },
+  {
+    "name": "Akane",
+    "message": "「...É, vou ficar com essa.\nEntão, onde está a Chizuru? Ela ainda está ocupada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... Sobre isso...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Akane",
+    "message": "「O quê? ...Aconteceu alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso tá ficando bem complicado...」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Como assim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quer saber?」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Parece que eu vou acabar descobrindo de qualquer jeito quando voltar, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Praticamente.」"
+  },
+  {
+    "message": "Rumores tão espalhados assim não vão sumir do dia para a noite."
+  },
+  {
+    "message": "Ela vai ficar sabendo, querendo ou não.\nEles estão longe de passar despercebidos."
+  },
+  {
+    "name": "Akane",
+    "message": "「...Então eu dispenso por enquanto. Se eu descubrisse que algo estava rolando bem embaixo do meu nariz, e não pudesse fazer nada porque estou presa no hospital... Eu não aguentaria do jeito que ela aguentou. Eu ficaria louca...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem verdade. Deve ser uma droga estar aqui.\nSem poder sair, não importa o quão saudável você se sinta.」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Ah, não. Não era disso que eu estava falando...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não era?」"
+  },
+  {
+    "name": "Akane",
+    "message": "「...D-Deixa para lá. Não é nada.」"
+  },
+  {
+    "message": "O que é isso agora? Então até a garota mais popular da escola tem seus problemas emocionais, hein?"
+  },
+  {
+    "message": "Isso é meio surpreendente. Ela não vai estudar no exterior com uma bolsa de natação? Dá a impressão de que o futuro dela já está ganho."
+  },
+  {
+    "message": "Bem, imagino que ela seja humana afinal."
+  },
+  {
+    "name": "Akane",
+    "message": "「Você vai cuidar das coisas para mim, né, Shirogane-kun?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tem um telefone, não tem?\nPor que não liga para a Representante?」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Ah, é verdade. Eu podia fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que toda essa natação encheu seu cérebro de água...」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Disse alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Nada. Nada não.」"
+  },
+  {
+    "message": "Caramba, ela assusta!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim, por favor, faça isso. Diga a ela que você está literalmente morrendo de tédio ou algo assim. Jogue a culpa nela, sei lá.」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Não tenho certeza se entendi, mas tudo bem... Ah! Aaaah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-O que foi?」"
+  },
+  {
+    "name": "Akane",
+    "message": "「Eu perqueci a hora!\nEu tinha que ir ver o médico!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「De novo?」"
+  },
+  {
+    "message": "──Que diabo de hospital é esse!?"
+  },
+  {
+    "name": "Akane",
+    "message": "「Até a próxima!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, até.」"
+  },
+  {
+    "message": "...\"Próxima vez\"?\nEi, o que te faz ter tanta certeza de que vou estar aqui de novo?"
+  },
+  {
+    "message": "E por que eu respondi como se fosse!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Terminamos o que tínhamos vindo fazer... então, bora voltar para casa?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah, Sagiri-san... Ayamine, espera!!」"
+  },
+  {
+    "message": "Ela vai me mandar pelosares se eu tocar nela.\nMas não posso simplesmente deixar ela fugir!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gwaaagh!!」"
+  },
+  {
+    "message": "Vou te mostrar do que sou feito dessa ve-... Não, esquece───!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aghaaaah!!\nDe novo nãooooooooo!!!」"
+  },
+  {
+    "message": "...Pelo visto, não sou feito de muita coisa."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai, ai, ai...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você está bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? ...É, tô sim.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Foi um tratamento bem severo... Era de se esperar que ela fosse mais gentil com o próprio namorado.」"
+  },
+  {
+    "message": "...Por favor, não me dê esse sorriso cínico."
+  },
+  {
+    "message": "Você tá fazendo a culpa me corroer por dentro..."
+  },
+  {
+    "message": "Talvez contar a verdade fosse a coisa certa a se fazer, afinal de contas."
+  },
+  {
+    "message": "...Bom, obviamente."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Como eu suspeitava... Parece que ela não quer saber de mim...」"
+  },
+  {
+    "message": "...Sagiri-san."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Shirogane-kun... você não deveria ir atrás dela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... É, provavelmente.\nMas a gente só veio ver a Akane hoje, então tudo bem.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Entendo. Sendo assim... você se importaria de vir comigo por um instante?」"
+  },
+  {
+    "message": "Depois de tudo isso... vai ser difícil dizer a ele que foi tudo uma mentira."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Um pouco friozinho aqui em cima, não acha...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nah, eu tô bem.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Desculpe, mas quando estou no hospital, nunca consigo ver o lado de fora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Como a Kei tem aguentado?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Bem, com um cara como você de namorado, acho que não tenho muito com o que me preocupar.」"
+  },
+  {
+    "message": "Arghhh..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sagiri-san... Que tipo de pessoa era a Ayamine quando você a conhecia?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Hm? ...Boa pergunta.」"
+  },
+  {
+    "message": "Quando ele se põe a lembrar assim... não consigo olhar nos olhos dele diretamente."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Hahah... Agora que você me colocou contra a parede, é surpreendentemente difícil dizer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Exatamente o que eu penso.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Será que é porque eu sei o que estava pensando naquela época...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Acho que eu pensava nela... quase como se fosse minha própria irmãzinha. Desculpe, espero que isso seja o bastante?」"
+  },
+  {
+    "message": "...É mesmo só isso?"
+  },
+  {
+    "message": "Quem dera eu pudesse perguntar isso a ele."
+  },
+  {
+    "message": "Mas não tenho o direito, como um terceiro e um mentiroso."
+  },
+  {
+    "message": "Não é meu lugar perguntar."
+  },
+  {
+    "message": "É como bisbilhotar os sentimentos dos outros... Droga..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu não vejo a Kei desde antes de ela começar a frequentar a Hakuryo, sabe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Faz tanto tempo assim?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Sim. A essa altura... já se passaram três anos? ...Não — mais do que isso, eu acho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você realmente não sabe de nada, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela não fala muito sobre si mesma.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Eu sou o responsável por fazer a Kei ficar assim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Eu não te disse ontem? Eu a traí.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Disse.」"
+  },
+  {
+    "message": "...Eu realmente deveria ouvir mais sobre isso?"
+  },
+  {
+    "message": "Eu tenho o direito de...?"
+  },
+  {
+    "message": "Não tenho de jeito nenhum."
+  },
+  {
+    "message": "Eu sei que não é da minha conta, mas..."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você não vai me pedir para continuar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sinceramente, eu não sei se isso é algo em que eu deveria me envolver.」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E... se a Ayamine não vai me contar isso pessoalmente, não seria certo ouvir de outra pessoa enquanto ela não está aqui...」"
+  },
+  {
+    "message": "Mas a verdade é que eu simplesmente não quero descobrir os segredos deles sob falsas pretensões."
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Você pode estar certo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Você é forte.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não é...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Eu era um caso perdido.\n...Eu nunca consegui contar a verdade a ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer, a Ayamine?」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Sim. Quando você se acostuma a reprimir seus sentimentos, a dor passa a ser nada.」"
+  },
+  {
+    "message": "Então... é mais difícil dizer isso do que ficar calado?"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Conquistei muitas coisas como resultado, mas perdi tudo o que eu realmente amava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「De fato... acho que dá para dizer que tudo o que conquistei como resultado não valia nada em comparação...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sagiri-san...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「...Mas... de todas as coisas que perdi, a mais preciosa de todas... foi ela, eu diria...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「Me desculpe... eu não queria te contar isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem...」"
+  },
+  {
+    "name": "Sagiri",
+    "message": "「É só que... o que eu realmente sinto...\nÉ só que a Kei significava muito para mim, eu suppose.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Até eu sou tonto o bastante para não entender depois de ouvir tudo isso."
+  },
+  {
+    "message": "O Sagiri-san realmente tem sentimentos pela Ayamine..."
+  },
+  {
+    "message": "Que sentimento incômodo é esse...?"
+  },
+  {
+    "message": "Eu não consigo me acalmar por algum motivo."
+  },
+  {
+    "message": "Achei que queria saber, então perguntei — e é isso que eu ganho?"
+  },
+  {
+    "message": "Isso não era o que eu esperava de jeito nenhum..."
+  },
+  {
+    "message": "Agora eu realmente não posso dizer a ele que foi uma mentira."
+  },
+  {
+    "message": "──Mas... de todas as coisas que perdi, a mais preciosa de todas... foi ela, eu diria..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Aposto que a Ayamine sentiu o mesmo."
+  },
+  {
+    "message": "...Então eles costumavam namorar."
+  },
+  {
+    "message": "E não acabou totalmente entre eles."
+  },
+  {
+    "message": "Mesmo que não se vejam há três anos..."
+  },
+  {
+    "message": "A Ayamine ainda faz parte do Sagiri-san, mesmo que o oposto não seja verdade."
+  },
+  {
+    "message": "...Eu podia sentir isso pelas palavras e expressões dele..."
+  },
+  {
+    "message": "Então, o que a Ayamine está pensando?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "E por que isso me incomoda tanto...?"
+  },
+  {
+    "message": "Eu não tenho nada a ver com isso..."
+  },
+  {
+    "message": "...Nunca consegui dizer que foi uma mentira."
+  },
+  {
+    "message": "Não que eu pudesse, depois de ouvir tanta coisa."
+  },
+  {
+    "message": "É tarde demais agora."
+  },
+  {
+    "message": "O que eu faço?"
+  },
+  {
+    "message": "Não tenho mais motivo para vir ao hospital."
+  },
+  {
+    "message": "Nem mesmo a desculpa de que a Ayamine está indo."
+  },
+  {
+    "message": "Chega de coincidências."
+  },
+  {
+    "message": "O acidente no festival esportivo está totalmente fora de cogitação a partir de hoje."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que ela está tentando fazer...?」"
+  },
+  {
+    "message": "Ela vai simplesmente deixar assim?"
+  },
+  {
+    "message": "A Ayamine está evitando ele porque isso também a incomoda, né? Porque não acabou totalmente entre eles?"
+  },
+  {
+    "message": "Nesse caso..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você de novo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vamos para casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não vem com essa de 'vamos para casa' pra cima de mim!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Você não quer ir para casa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você sabe muito bem o que eu quero dizer!! Argh... O que você pretende fazer em relação ao Sagiri-san?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai continuar fugindo até que tudo isso passe?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Isso não tem nada a ver com você, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que você acabou de dizer?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você é surdo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Bem, ela não está errada. Não tem nada a ver comigo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não me meteu nisso ao me fazer de seu namorado de mentirinha!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...E quem concordou em fazer isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E quem concordou em fazer isso?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mais alguma coisa a dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não vou ouvir se for idiotice.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha, beleza... O Sagiri-san quer te ver.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não estava esperando aqui por mim porque isso também te incomoda?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fuja sem responder.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Por que eu deveria vê-lo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como é?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como assim, por quê...? Que diabo eu sei?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas, de qualquer forma...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vocês dois saíram, não foi?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ora, ora. Entendi agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que diabo você quer dizer com isso?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Então era a isso que você queria chegar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Não, é...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu sabia que ia ser alguma idiotice.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se é idiotice, então por que você ficou me esperando aqui!? Nós já vimos a Suzumiya hoje. Você não tem mais nenhum motivo para estar aqui! Não é verdade!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acha que pode simplesmente fazer essa cara de paisagem e esperar a poeira baixar?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Talvez eu não tenha o direito de me meter nisso ou te dizer o que fazer, mas mesmo assim...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Diga alguma coisa de uma vez.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Se você já sabe, então para de ficar me enchendo o saco com isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que disse?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Não é da sua conta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É da minha conta sim e você sabe.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O que é que você sabe?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como pode dizer uma coisa dessas? Foi você mesma quem me disse para não perguntar! Não acha isso injusto!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É, é sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga... Por que você tá virando as costas pra mim assim!? Que ódio!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Então era melhor não ter dito nada desde o início.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como é que é!? Olha aqui, você precisa...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você não tem que se preocupar comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não foi você quem me pediu para ir com você?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você faz tudo o que te pedem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Chega dessas perguntas infantis!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você gosta de me tirar do sério?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "...Droga!"
+  },
+  {
+    "message": "...Por que só eu tô me estressando com isso?"
+  },
+  {
+    "message": "Com que cara eu tô ficando agora!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Por que eu tenho que ficar tão P da vida por causa da Ayamine...? Que droga..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que você simplesmente não vai ver ele e conversa?\nEu não sei o que aconteceu no passado, mas...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Mas... o quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você não... ainda... ama o Sagiri-san?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aiifii!! ──Que porra foi essa!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Continua falando que eu bato mais forte.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você simplesmente não...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá legal, talvez eu não saiba de nada sobre os seus foras do passado...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas você tá se forçando... e fingindo que tá tudo bem... Você não precisa fazer isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não tô.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você realmente precisa guardar tudo isso engolido a seco aí dentro?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não consegue ser um pouco mais sincera consigo mesma, nem que seja uma vez?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Posso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu posso mesmo fazer isso com ele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fazer o quê com ele? ...Do que você tá──」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ele tem esposa, sabia...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Eu posso ser egoísta... e mandar ele ficar comigo de novo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Posso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Me responde.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Me responde.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso é...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É. Bem o que eu disse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Se falar mais alguma coisa, eu te bato de verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Shirogane, você já amou alguém na vida?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Se não, nem vem bancar o sabichão como se pudesse entender.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não quero ouvir nenhuma das suas generalizações baratas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Já chega de conselhos clichês... então guarda eles pra você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ayamine... Eu...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Eu achei que você fosse diferente, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu vou para casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Adeus.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu posso mesmo fazer isso com ele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fazer o quê com ele? ...Do que você tá──」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ele tem esposa, sabia...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Eu posso ser egoísta... e mandar ele ficar comigo de novo?」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "...E acabou nisso."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você quase não tocou na comida.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru, qual é o problema? Não gostou do tempero?」"
+  },
+  {
+    "message": "...Não importa o que tenha acontecido entre o Sagiri-san e a Ayamine, eu não quero saber mais."
+  },
+  {
+    "message": "Eles se separaram, mas... nenhum dos dois superou isso ainda."
+  },
+  {
+    "message": "E isso... não tem nada a ver comigo."
+  },
+  {
+    "message": "...Droga. Eu não gosto disso, mas é a verdade."
+  },
+  {
+    "message": "Eu podia ter pensado diferente só porque passamos um tempo juntos e fomos ao hospital juntos, mas..."
+  },
+  {
+    "message": "...Agora que eu penso nisso, eu não sei nada sobre a Ayamine."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan? Não me ignore...」"
+  },
+  {
+    "message": "Eu nunca deveria ter metido o bedelho nisso."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Seria um desperdício deixar sua comida esfriar.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sério, o que deu em você?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Acho que não há outro jeito... Kamiyo, Tomoe, Ebisu.」"
+  },
+  {
+    "name": "Tomoe",
+    "message": "「Chamou, Meiya-sama...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ajudem-no com o jantar.」"
+  },
+  {
+    "name": "Kamiyo",
+    "message": "「Entendido.\nCerto, segure os hashi assim.」"
+  },
+  {
+    "name": "Kamiyo",
+    "message": "　──Aperta!"
+  },
+  {
+    "name": "Ebisu",
+    "message": "「Certo, agora abra o bico!」"
+  },
+  {
+    "name": "Ebisu",
+    "message": "　──Mmmm〜!"
+  },
+  {
+    "name": "Tomoe",
+    "message": "「Isso mesmo, agora mastiga tudo!」"
+  },
+  {
+    "name": "Tomoe",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Ei, o que vocês estão fazendo!? Parem com isso!」"
+  },
+  {
+    "name": "Tomoe",
+    "message": "「Opa! Ele se mexeu!!」"
+  },
+  {
+    "name": "Kamiyo",
+    "message": "「Pronto. Agora coma o resto sozinho.」"
+  },
+  {
+    "name": "Ebisu",
+    "message": "「Nosso trabalho aqui terminou...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Já podem se retirar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que história foi essa...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quem mandou nos ignorar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me deixe comer o meu jantar no meu próprio ritmo!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nem pensar! Não podemos limpar a mesa até você terminar.」"
+  },
+  {
+    "message": "Tá bom, tá bom... chega, já chega."
+  },
+  {
+    "message": "...Ai, meu Deus."
+  },
+  {
+    "message": "Ainda assim... Eu não tenho a menor ideia do que vou fazer quanto a isso..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Devo chamar a Tsukuyomi desta vez?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por favor, não.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É hora do jantar, então concentre-se em comer!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, é. Tá bom, já entendi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Os problemas não têm fim."
+  },
+  {
+    "message": "Para começar, aquela mentira mal contada que eu disse ao Sagiri-san..."
+  },
+  {
+    "message": "E ele ainda me pediu para trazer a Ayamine ao hospital..."
+  },
+  {
+    "message": "...Mas... desse jeito... Duvido que a Ayamine vá me contar o que aconteceu."
+  },
+  {
+    "message": "Não sei nem se ela vai vir à escola amanhã..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Mesmo se vier, com certeza não chegará perto de mim..."
+  },
+  {
+    "message": "É patético, mas eu não faço ideia do que dizer a ela."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu sei...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Shirogane, você já amou alguém na vida?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Se não, nem vem bancar o sabichão como se pudesse entender.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não quero ouvir nenhuma das suas generalizações baratas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Já chega de conselhos clichês... então guarda eles pra você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ayamine... Eu...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Eu achei que você fosse diferente, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu vou para casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Adeus.」"
+  },
+  {
+    "message": "Qualquer coisa que eu diga a ela agora... vai soar só como desculpa."
+  },
+  {
+    "message": "Só porque eu não sabia, não justifica o que eu fiz."
+  },
+  {
+    "message": "Eu sabia que ela não queria falar sobre isso..."
+  },
+  {
+    "message": "Eu vi a mão dela tremendo enquanto segurava a minha manga."
+  },
+  {
+    "message": "Ela não queria que eu perguntasse... porque não queria que eu soubesse."
+  },
+  {
+    "message": "E eu não consegui lidar com isso..."
+  },
+  {
+    "message": "Mesmo ela tendo me dito para esperar."
+  },
+  {
+    "message": "Eu deveria ter apenas aceitado isso."
+  },
+  {
+    "message": "...Embora eu não estivesse tentando bancar o sabichão..."
+  },
+  {
+    "message": "Mas acho que isso é só mais uma desculpa patética."
+  },
+  {
+    "message": "Além disso..."
+  },
+  {
+    "message": "──Shirogane, você já amou alguém?"
+  },
+  {
+    "message": "Essa doeu de verdade..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pode entrar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Estou entrando.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya? O que você está fazendo a essa hora?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「'O que estou fazendo', você pergunta?\n...Você deve estar pior do que eu pensava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ãh, o quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Seria bom se você se lembrasse do seu comportamento no jantar desta noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A-Ah, é verdade.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Era óbvio para todos que você não estava bem... Você nem tinha consciência disso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu estou... Eu estou bem.\nSó estou com muita coisa na cabeça.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se afirma estar bem, então não preocupe os que estão ao seu redor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quando você está tão claramente perturbado, Kagami não é a única que percebe. Deve estar bem grave.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que você está falando da Sumika?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「*suspiro*... Ora, essa... Você simplesmente não tem jeito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-O quê...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Kagami o conhece e convive ao seu lado há muito mais tempo do que eu... Por mais frustrante que seja, essa é a realidade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não é o mesmo para você? Não há momentos em que você sabe exatamente o que Kagami está pensando?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem, é. A gente se conhece há muito tempo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「No entanto, é difícil para mim fazer o que vem tão naturalmente para Kagami e para você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Há coisas que você e Kagami transmitem de uma só vez que provavelmente jamais conseguiria me explicar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Muito menos para Ayamine.\nDada a personalidade dela, é particularmente difícil se comunicar com ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que você tá falando da Ayamine?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso não vai sem dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, entendi o seu ponto.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que aconteceu entre vocês dois?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não posso dizer. É só patético.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Então... poderia contar para Kagami, talvez?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru?」"
+  },
+  {
+    "message": "Será que eu poderia contar para a Sumika...? Humpf..."
+  },
+  {
+    "message": "Ela tem razão. Há certas coisas que ela simplesmente entende sobre mim sem eu precisar contar."
+  },
+  {
+    "message": "E eu nem sempre preciso perguntar o que ela está pensando."
+  },
+  {
+    "message": "Não é tão fácil assim com mais ninguém."
+  },
+  {
+    "message": "...Não que eu pretenda julgar tudo o que faço em relação à Sumika, porém."
+  },
+  {
+    "message": "Eu tenho a sensação de que isso é algo sobre o qual eu poderia falar com ela..."
+  },
+  {
+    "message": "Mas não é como se eu quisesse ficar correndo até ela toda vez que tenho um problema."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Takeru?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ãh, desculpa.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Tudo bem. Não tenho a intenção de forçar isso de você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas, quando vi seu rosto agorinha pouco... isso me preocupou. Eu apenas gostaria de ver se podia ser de alguma ajuda, é só isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, calma...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Desculpa incomodá-lo... Boa noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Espera, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A verdade é que... Bem... Eu briguei com a Ayamine.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Uma briga? Você e a Ayamine?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não posso contar todos os detalhes, já que seria uma invasão à privacidade dela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quando fomos visitar a Suzumiya no hospital, esbarramos em um velho amigo dela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Algo aconteceu entre eles naquela época... e ela não quer vê-lo novamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ela prometeu me contar o motivo depois, então aceitei um pedido dela...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Um pedido?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi... Bem, resumindo a história, eu menti para o velho amigo dela...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Depois disso, por coincidência tive a chance de falar com ele... e depois disso, não consegui criar coragem para lhe dizer a verdade... e agora tenho certeza de que a Ayamine está entendendo algo errado...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi ruim mentir, e embora eu saiba que não era da minha conta, disse a ela para esclarecer as coisas com ele... mas ela me afastou, dizendo que não tinha nada a ver comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas isso não é mais verdade. Ela me envolveu, não é? ──Além disso, quem sabe quanto tempo vai demorar até ela me contar?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...E?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Então eu fiquei com raiva e comecei a dizer coisas que não queria...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E aí... ela retrucou com algo ofensivo... e eu não soube responder.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Viu? Eu te disse que foi patético.\n...Não é nada que vale a pena perder seu tempo...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Certamente é patético, com certeza...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, qual é...」"
+  },
+  {
+    "message": "──Você podia discordar de mim nessa, sabe!!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ainda assim... é um acontecimento raro.\nPara a Ayamine discutir com alguém, quero dizer...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Não é não. Ela briga com a Representante todo santo dia.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso não são brigas.\nSão apenas choques de personalidade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se-sei. Parece que você já entendeu tudo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você está zombando de mim...?\nEssas duas não podiam ser mais fáceis de entender.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hahaha, desculpa.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Idiota... mas não importa.\nEntão, quão furiosa ela estava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmmm... Ela parecia genuinamente irritada... Eu acho?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Portanto, até a impassível Ayamine consegue ser feroz quando encurralada...」"
+  },
+  {
+    "message": "Feroz, é... Pois."
+  },
+  {
+    "message": "Normalmente, ela simplesmente faz e diz o que quer."
+  },
+  {
+    "message": "Ela quase nunca demonstra as suas emoções."
+  },
+  {
+    "message": "E, no entanto, acabo de testemunhá-la a ficar genuinamente chateada."
+  },
+  {
+    "message": "Tudo porque lhe disse aquela coisinha."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso não é um bom sinal?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Po-Por que razão seria?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Haveria alguma utilidade em continuar com o mesmo bate-boca que você tem com ela dia após dia para sempre?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quais forem as circunstâncias, a Ayamine mostrou as suas verdadeira emoções à tua frente. Isso é um enorme passo em frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, é verdade, acho eu... Só queria que tivesse sido uma emoção diferente, sabe?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você é bastante exigente.\n...Se é isso que quer, então terá que aprender a lidar com ela com um pouco mais de tato.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu faria isso se soubesse como.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então qual é o problema?\nTakeru — você é dono de si mesmo, não é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Acho que... sim?」"
+  },
+  {
+    "message": "Arrepender-me do que fiz não vai resolver nada."
+  },
+  {
+    "message": "Puxar os cabelos por causa disto não me vai fazer sentir melhor."
+  },
+  {
+    "message": "Até eu sei que isso seria uma perda de tempo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas já pode ser tarde demais.\nPosso ter dito algo que não devia.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso não passa de um assunto insignificante.\nA questão em mãos é o que TU pretendes fazer daqui para a frente, estou errada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...É fácil reprimir-se por medo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É fácil fugir quando você pensa que se envolver só vai causar problemas para aqueles ao seu redor...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas mesmo assim... você não pode mentir para os seus próprios sentimentos. É por isso que eu vim aqui para começar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por que você está dizendo isso...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Heh... Não pergunte o que é óbvio...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "message": "É verdade..."
+  },
+  {
+    "message": "...É isso mesmo. Eu sei qual era o objetivo que a trouxe até aqui desde o início."
+  },
+  {
+    "message": "Eu sei que ela não está brincando."
+  },
+  {
+    "message": "Mas eu devo ter fingido esquecer disso... conforme minha vida ia ficando cada vez mais caótica..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Todo mundo fica frustrado quando tenta saber mais sobre alguém, apenas para descobrir que isso se volta contra si.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é como se eu estivesse 'tentando saber mais' sobre ela...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não desvie o olhar de mim, Takeru.\nAgora mesmo, você deseja saber mais sobre a Ayamine... Estou errada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Não, você está certa."
+  },
+  {
+    "message": "E... não é só curiosidade..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Eu quero mesmo saber mais..."
+  },
+  {
+    "message": "Será que ela está tentando dizer que é assim que eu me sinto?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Na mesma linha... eu gostaria de saber mais sobre você...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "message": "Mas o quê..."
+  },
+  {
+    "message": "Espera um minuto..."
+  },
+  {
+    "message": "...É por isso que eu estive Tão irritado esse tempo todo?"
+  },
+  {
+    "message": "Isso é... ciúme?"
+  },
+  {
+    "message": "É porque eu sinto que não há lugar para mim entre a Ayamine e o Sagiri-san...?"
+  },
+  {
+    "message": "Porque eu sou um intruso...?"
+  },
+  {
+    "message": "É isso que é tão frustrante...?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Você finalmente entendeu...? Que tolice...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã!?」"
+  },
+  {
+    "message": "Mas... então, por quê...?"
+  },
+  {
+    "message": "Se os nossos sentimentos são os mesmos, então... isso significaria que a Meiya está..."
+  },
+  {
+    "message": "Com ciúme... da Ayamine?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm... Por que você está me ajudando desse jeito?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...É tão estranho assim eu desejar ser útil a você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu estou apaixonada por você.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por isso, quero lutar abertamente e em igualdade de condições com as jovens ao seu redor, para conquistar você de forma justa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu estava preparada para travar um combate mano a mano com a Kagami até o fim... Nunca pensei que a Ayamine entraria na briga.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você é mesmo... um homem ganancioso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não me entenda mal.\nEu ainda não vou desistir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É-É...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Primeiro, acerte suas contas com a Ayamine.\nEu cuidarei da Kagami e das outras assim que isso terminar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Haverá mais por hoje...\n...Vou me recolher aos meus aposentos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hm? ...O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Obrigado.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Mantenha-se firme.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "message": "É, Meiya... Você tem toda razão."
+  },
+  {
+    "message": "...Eu fui muito patético."
+  },
+  {
+    "message": "Eu estava mesmo agindo como uma criança..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*...」"
+  },
+  {
+    "message": "E ainda assim... uma mulher nobre como você se apaixonou por mim... É uma verdadeira honra..."
+  },
+  {
+    "message": "Eu não vou mais fugir, Meiya..."
+  },
+  {
+    "message": "Não vou mais virar as costas para os meus problemas..."
+  },
+  {
+    "message": "Serei sincero com meus próprios sentimentos... e farei o que é certo para mim."
+  },
+  {
+    "message": "Isso é a única coisa que posso fazer."
+  },
+  {
+    "message": "Me desculpe por ter se apaixonado por um inútil como eu... Mas talvez — só talvez — eu consiga levar isso adiante sem desrespeitar suas nobiliárquicas intenções."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá.」"
+  },
+  {
+    "message": "...Amanhã vou ao hospital de novo."
+  },
+  {
+    "message": "Isso não vai dar em lugar nenhum a menos que eu abra o jogo primeiro."
+  },
+  {
+    "message": "Talvez eu pudesse simplesmente deixar isso pra lá. Poderia até esquecer tudo um dia. Mas essa seria a forma mais idiota e covarde de fugir."
+  },
+  {
+    "message": "...Muito bem, então. Decidido. Vou ao hospital."
+  },
+  {
+    "message": "Vou me desculpar com o Sagiri-san e bater um papo longo e sincero com ele."
+  },
+  {
+    "message": "Preciso vê-lo... antes de conseguir encarar a Ayamine..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Esse sentimento no meu coração agora..."
+  },
+  {
+    "message": "Se esse aperto indescritível no meu peito é realmente o que penso que é, então..."
+  },
+  {
+    "message": "Ayamine... Por acaso... pode ser que eu até saiba o que é se apaixonar por alguém, afinal de contas."
+  }
+]

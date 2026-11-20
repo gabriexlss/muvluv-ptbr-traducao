@@ -1,0 +1,1509 @@
+[
+  {
+    "message": "Extra 21/10 (Dom)"
+  },
+  {
+    "message": "──Gah!!"
+  },
+  {
+    "message": "Essa não!"
+  },
+  {
+    "message": "Esse último ataque reduziu meus escudos para 10%!!"
+  },
+  {
+    "message": "Argh! Qualé, logo agora! Por que eu não consigo travar nele!?"
+  },
+  {
+    "message": "Que DIABOS de golpes são esses!?"
+  },
+  {
+    "message": "Esse mecha realmente tem uma mobilidade muito maior!"
+  },
+  {
+    "message": "Você andou treinando pelas minhas costas, não é!?"
+  },
+  {
+    "message": "Deixei ele com apenas 5% de HP."
+  },
+  {
+    "message": "────Porém!"
+  },
+  {
+    "message": "Não consegui causar mais nenhum arranhão desde então!"
+  },
+  {
+    "message": "Pelo contrário — estou levando uma surra!"
+  },
+  {
+    "message": "──Mísseis!?"
+  },
+  {
+    "message": "Droga, essa foi por pouco!"
+  },
+  {
+    "message": "Quase fui atingido!"
+  },
+  {
+    "message": "───!"
+  },
+  {
+    "message": "Ele tá indo pra direita!?"
+  },
+  {
+    "message": "Agora ele vai mudar pra armas de fogo!?"
+  },
+  {
+    "message": "────Ele tá se aproximando!"
+  },
+  {
+    "message": "O Xao-myun muda de arma automaticamente dependendo da distância do inimigo."
+  },
+  {
+    "message": "A troca automática é prática, mas também entrega ao seu oponente o quão perto ele está!"
+  },
+  {
+    "message": "Eu percebi isso rapidinho, e tem sido a chave pro meu sucesso até agora."
+  },
+  {
+    "message": "────Então por que isso não tá mais funcionando!?"
+  },
+  {
+    "message": "────Droga!!"
+  },
+  {
+    "message": "O Xao-myun se aproxima com sua mobilidade incomparável!"
+  },
+  {
+    "message": "──À queima-roupa!!"
+  },
+  {
+    "message": "Ele vai pro mano a mano!?"
+  },
+  {
+    "message": "Droga, não consigo me livrar dele!"
+  },
+  {
+    "message": "Ora, sua maldita──!!"
+  },
+  {
+    "message": "Dois podem jogar esse jogo!"
+  },
+  {
+    "message": "────!!"
+  },
+  {
+    "message": "*cabum*..."
+  },
+  {
+    "message": "...Eu tenho certeza absoluta de que meu sabre atravessou o Xao-myun."
+  },
+  {
+    "message": "Mas antes do golpe registrar, meu Kaizer caiu de joelhos, tomado por explosões."
+  },
+  {
+    "message": "Meu assento chacoalha enquanto eu fervo de raiva."
+  },
+  {
+    "message": "Ah, qualé, mano!!"
+  },
+  {
+    "message": "O Guia de Estratégia Oficial mentiu pra mim!!"
+  },
+  {
+    "message": "O Kaizer Saber era pra ser mais rápido que isso!"
+  },
+  {
+    "message": "Era pra ser a arma corpo a corpo mais rápida de todo o jogo!!"
+  },
+  {
+    "message": "Exatos três frames mais rápido que o soco do Xao-myun...!!"
+  },
+  {
+    "message": "Se a gente atacou ao mesmo tempo, eu não deveria ter perdido...!!"
+  },
+  {
+    "message": "Caramba..."
+  },
+  {
+    "message": "E essa tela de \"GAME OVER\" só está jogando sal na ferida.\nCom certeza absoluta que eu não vou perder na próxima!"
+  },
+  {
+    "message": "Coloco minhas mãos de volta no controle e aperto o gatilho para sair da tela de resultados..."
+  },
+  {
+    "message": "Hm? O que é isso?"
+  },
+  {
+    "message": "Desde quando eles começaram a fazer esses gatilhos tão macios?"
+  },
+  {
+    "message": "Que sensação... molenguinha é essa...?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é só você, Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hawa... wawa...」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Sumika-chaaan? Aquele meu filho inútil já acordou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika... Você não acordou muito cedo, não? Afinal, é domingo e tudo mais. E então? O que manda?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Só pra deixar claro, você entende que isso tá fora do meu controle, né?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ótimo. Fico feliz que a gente esteja na mesma página. E eu posso acrescentar que seus peitos parecem um pouco maiores hoje?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Grrrrr...\nMAS QUE PORRA VOCÊ PENS QUE TÁ FAZENDO!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Chobham──!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ai... Não precisava bater tão forte...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, cala a boca... A culpa é sua, Takeru-chan. Foi você que tava de pervertido!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já falei, eu não podia evitar! Foi só um reflexo!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mentira! Você tava apertando elas!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não me lembro disso.\nAcho que o seu ataque pode ter causado algum tipo de amnésia temporária...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quer que eu te ajude a lembrar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Idiota. Quem em sã consciência ia querer tocar nessas coisas!? Esquece que é de VOCÊ que a gente tá falando!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você é tão maaaau! Por que naaaão!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê — então quer dizer que você quer que eu toque nelas? Se decide logo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu não me importaria, sabia...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Olha. Desculpa, tá legal...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Humf. Um dia desses, você vai ter que parar de ficar de gracinha o tempo todo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pegadinha! Achou mesmo que eu ia te escutar tão fácil assim!?!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aiinhooo!!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desde quando você ficou toda toda!? Hã!? Tem muita marra pra falar assim comigo, pirralha!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso dóóêu... Por que você fez isso!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi você quem me deu um soco na cara!\nEu achei mesmo que ia bateras botas!\nIsso é só o troco.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Foi você quem me apalpou primeiro!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já disse, aquilo foi só um──!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você ainda apertou elas!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Supera isso logo de uma vez!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você apertou elas! Você apertou elas! Você apertou elas! Você apertou elas!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ai, ai, ai!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Guarda isso pra quando você tiver peitos de verdade! Um par de respeito tem volume, tem peso, tem...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, seu...」"
+  },
+  {
+    "message": "────Argh!"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Idioooota!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gagariiin!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nossa... Não é pra tanto a ponto de bater nos outros...」"
+  },
+  {
+    "message": "Ai, ai, ai... É bom que isso não tenha deixado roxo."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você também me bateu, Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh... Ainda tô me sentindo todo tonto...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Claro que tá. A gente tá num trem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh... Mais importante, por que você me arrastou até aqui cedo pra caralho numa manhã de domingo...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você não tava brincando sobre ter amnésia de curto prazo. A gente tá ajudando seus pais a comprarem umas coisas que eles precisam para a viagem deles!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ninguém me avisou disso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é. Sua mãe me pediu pra te arrastar junto, porque ela tinha certeza de que o 'filhinho idiota' dela não tava prestando atenção quando ela contou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quêêê!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eles vão viajar hoje à noite, sabia! E os dois já tão com a cabeça cheia, então o mínimo que você pode fazer é dar uma mãozinha!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A culpa é deles por me avisarem em cima da hora. E por que escolheram 'Frio Incomparável: A Experiência Siberiana Completa', afinal!? Estão tentando se matar!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã? Não era o 'Tour pelos Mitos e Lendas do Mar Egeu ao Longo da Rota da Seda'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Foi isso que sua mãe me disse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não foi isso que meu pai disse.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É mesmo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Então, o que tem na nossa lista de compras?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Protetor Solar Super da TQ Arms, e...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eles não precisariam disso na Sibéria, precisariam?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas com certeza é algo que você ia querer ter no Mar Egeu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, tanto faz. É melhor nem esquentar a cabeça com isso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Pelo menos liga para eles e pergunta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esses dois têm uma incapacidade séria e fundamental de se comunicar. Que isso sirva de lição para eles.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vendo como você acabou saindo, até que dá para acreditar...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aiinhooo!!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fica ofendendo os outros achando que vai sair impune.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ai... Essa já é a terceira vez que você me bate hoje...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E você me devolveu em dobro nas duas primeiras.\nEntão para de choramingar.」"
+  },
+  {
+    "name": "Locutor do Trem",
+    "message": "「Distrito de Tachibana... Chegando agora ao Distrito de Tachibana. As saídas serão...」"
+  },
+  {
+    "message": "As portas se abrem, e todos os passageiros tentam passar empurrando ao mesmo tempo. É por isso que eu odeio vir a Tachibana nos fins de semana!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Anda, a gente tem que ir!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aaah! E-Espera por miiim...!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chaaan, me ajuda a carregar um pouco disso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nossa, agora que o festival cultural acabou, finalmente está começando a parecer outono por aqui... Dá até vontade de deitar e relaxar, sem nenhuma preocupação no mundo... Sabe o que eu digo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Alôôô? Isto aqui tá pesando pra caramba...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não dá pra falar em outono sem pensar em comida.\nAliás, tô com uma fome danada agora.\nQuer comer algo no caminho de casa?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ah, tudo bem... Por mim tudo bem...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Sumika — a sua mãe cozinha muito bem, né? Já deu para comer algum prato da estação?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã? Humm, deixa eu ver...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esses dias eu comi arroz com castanhas. Tava muito bom... Eu amo esse tempero sutil, é bom demais...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vejamos, até agora eu comi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas de novo, eu ainda não tive a chance de comer nenhum cogumelo matsutake este ano...\nAfinal, plebeus como nós simplesmente não podem se dar ao luxo de gastar milhares e milhares de ienes num fungo...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã? Eu comi uns dias atrás.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「UFFFF!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「V-Você tá bem!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai, ai, ai...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nossa, são só cogumelos. Não é pra tanto a ponto de dar de cara num postes telefônico.\nTakeru-chan, você se estressa demais por qualquer coisa.」"
+  },
+  {
+    "message": "Só... cogumelos...!? Ela disse \"SÓ\" cogumelos!?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não é como se fossem uma iguaria rara nem nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá falando sério!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tô.」"
+  },
+  {
+    "message": "Caramba... A família dela é mais rica do que eu pensava..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, tipo... já que seus pais vão viajar... você não queria... vir comer lá em casa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério mesmo!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso, isso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Com certeza, eu vou!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Beleza, vou ligar pra minha mãe e avisar.\nE aí, o que você tá com vontade de comer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Posso escolher o que eu quiser!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hmm... Bom, desde que seja dentro do razoável.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Maravilha!!\nEntão, pra começar, acho que a gente tem que pedir um arroz frito...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é, isso parece bom mesmo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E depois... que tal um churrasco?\nIsso seria muito bom também...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom, se você quiser grelhar numa chapa, eu acho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sem. Problema. Nenhum!! E — ah, é, claro!! Caramba! Como é que eu pude esquecer o prato principal!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É mesmo? O que é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Dobin cozido no vapor!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Dobin cozido no vapor?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nunca ouviu falar?\nVocê pega um dobin — uma espécie de bule —, coloca dourada, camarão, matsutake e temperos dentro, e aí ferve tudo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Uau, dourada e camarão?\nParece ser uma iguaria bem chique...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, se você já tem cogumelos matsutake, o rei das montanhas, então o único acompanhamento à altura seriam os tesouros do mar, não acha?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nossa. Matsutake parecem ser bem incríveis mesmo.\nAcho que nunca tinha percebido, já que sempre vão na velha e boa sopa de missô.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「No missô? Não num caldo claro?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não, missô.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E aí, vejam só... Ah, é! A gente pode refogar com um pouco de espinafre, bacon e ovos. Fica bom demais assim também...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Não pode ser sério.\nCara... O que você tá falando... Isso é só..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「AAAAARRGHHH!!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Uou!! Q-Qual é a desgraça do seu problema!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ai!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é idiota ou o quê!? Ou só burra mesmo!?!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Pra que isso!? Dói, sabia!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora, sua... sua... AAALGUÉM ME AJUDA!!\nDroga, isso não é matsutake porcaria nenhuma!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Corta essa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essas aí que você tá pensando... Não passam de simples cogumelos shimeji...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada de matsutakeeeee!!!!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu já tinha dito... Isso DÓI!!!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ei, ainda tá vivo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-quiiiiin?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, qualé. Levanta logo.\nTem uma multidão juntando.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso tá meio vergonhoso, então...\nEu vou indo pra casa, tá?」"
+  },
+  {
+    "message": "Ah, ah ou não vai!"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Suuuu-miiikaaaaa!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, tá vivo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não acredito... que você ia me deixar aqui pra morrer...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ora, bem feito por ter me batido do nada daquele jeito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas Sumika...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não vou te deixar comer nenhum matsutake se você não se comportar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, eu já te disse, aquilo não é...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Entendeu bem!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Sr. Kagami... Sra. Kagami... Onde foi que vocês erraram...? Que diabo aconteceu no passado da Sumika...?"
+  },
+  {
+    "message": "Ela tá completamente enganada... Essa garota foi na onda de alguma ilusão maluca..."
+  },
+  {
+    "message": "Afinal, como ela passou tanto tempo sem perceber isso!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu vou para casa.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quêêê!? Mas e o almoço?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「De repente, estou exausto demais para me importar. Eu vou para casa.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quêêê!?!? Mas eu tô com tanta fome...!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cala a boca! Eu disse que vou para casa e pronto!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nan-ni-ca.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Deixa de ser infantil!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Je-ito nenhum! Não vou para casa enquanto não comer alguma coisa!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se divirta com isso. Tchau.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "........."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba... Não fica aí fazendo bico com as mãos ocupadas.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*... Tá bom, o que você quer comer?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã!? Sério mesmo!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não exagera. Foi você que me obrigou a fazer isso. Se não, eu vou ficar com cara de vilão da história.\nMas quem paga é você — entendeu?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Pode deixar!! Deixa comigo!!」"
+  },
+  {
+    "message": "Oho? Não foi bem essa a reação que eu esperava."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sua mãe já tinha me dado um dinheiro!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Whaaat!? Por que você não disse antes!? Anda, vamos logo!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah!! Ei, para onde você tá indo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pra onde mais!? Pro Templo do Céu, ué!」"
+  },
+  {
+    "message": "Não há nada melhor do que restaurantes familiares!"
+  },
+  {
+    "message": "Sabe quais são os pratos especiais de outono?\nEu com certeza sei! Isso mesmo, eu já dei uma olhada."
+  },
+  {
+    "message": "O rei brilhante e radiante das montanhas: a Refeição Matsutake, por 1.890 ienes!! E nenhum restaurante mentiria sobre isso. São matsutakes de verdade!"
+  },
+  {
+    "message": "Ah, e por mais 150 ienes, posso adicionar um pratão de arroz frito. Heh-heh-heh... Parece que vou conseguir o que queria, afinal."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é que ela só me deu 750 ienes para cada um.」"
+  },
+  {
+    "message": "Qu-Qu-QUÊêê!?!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não tá certo...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá um calorzinho bom hoje, né...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como foi que isso aconteceu!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tem bastante gente aqui hoje, hein...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Inaceitável!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, olha só! Um cachorrinho! Olha, Takeru-chan, tem um cachorrinho! Vem cá, garoto! Vi-i-em cá, garoto!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「GRRRUHOO!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei!! Pra que foi isso!?\nVocê assustou ele!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Em que momento a minha preciosa Refeição de Matsutake foi rebaixada para um podrão de hambúrguer comum!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você ainda tá choramingando por causa disso...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não acha isso um pouco injusto!? Você me transformou no seu criado particular e é só isso que eu ganho em troca!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, qualé. Vai ser uma boa mudança de ares.\nAlém do mais, eu gosto desse tipo de coisa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu se recuso a aceitar isso!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então acho que você não vai precisar disso.\nCá, au-au! Vem cá, garoto!! Eu tenho uma comidinha pra você〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Devolve isso aqui!!」"
+  },
+  {
+    "message": "Você acha mesmo que eu ia deixar você dar isso para um vira-lata sarnento!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*chomp* *chomp* *chomp*..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「E-Ei... Qualé, né. Senta direito e mastiga essa comida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cala a boka! Mfgh...*glup*...*engasgo*...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Viu? ...Toma, bebe um pouco de chá!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Fwaaah! Ufa! Por um segundo, achei que ia bater as botas.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bem feito por agir que nem idiota!\nAnda, senta aí.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, o cachorro voltou! Vem cá, garotinho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Dá pra parar com isso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, Takeru-chan, posso dar suas batatas fritas pra ele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que tem que ser as minhas? De jeito nenhum.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Toma aqui〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que diachos...!? Ei!!」"
+  },
+  {
+    "message": "Maldito cachorro idiota... Para de me encarar com esses olhinhos miúdos!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grrrrrrrrrrrr...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Para com isso, seu idiota! Toma, pode comer o quanto quiser.」"
+  },
+  {
+    "message": "Não!! As minhas batatas fritas, não!!"
+  },
+  {
+    "message": "Primeiro, a minha refeição Matsutake — o ápice do cardápio de outono do Templo Celeste (com arroz frito de acompanhamento) — foi rebaixada a um simples e velho hambúrguer, e agora..."
+  },
+  {
+    "message": "Até as minhas pobres batatas fritas foram roubadas de mim... e aquele cachorro idiota tá só mastigando elas todo feliz..."
+  },
+  {
+    "message": "Por quê? Por que você tem que me castigar assim!?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, você tá chorando!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Minhas batatas... Minhas preciosas batatas...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*suspiro*... Você não muda nunca.\nPronto, pode ficar com metade das minhas, tá bom?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sumika...」"
+  },
+  {
+    "message": "Mesmo sabendo que é irracional,\neu tô me sentindo muito tocado agora!"
+  },
+  {
+    "message": "Entendi... Então é assim que a bondade superficial pode ser usada para enganar os outros..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas sabe? A gente não sentava pra comer junto assim há um bom tempo, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Digo, a gente comia junto o tempo todo antigamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quando isso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tipo quando a gente tava no jardim de infância, e tal.」"
+  },
+  {
+    "message": "...Tempo demais atrás. Eu chamaria isso de bem mais do que 'um bom tempo'."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Lembra? A gente comia naquele parque...? Aquele perto de casa...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah é. O Parque do xixi, você quer dizer?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu ainda acho esse nome um nojo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qualé.」"
+  },
+  {
+    "message": "Antigamente, eu e meus amigos competíamos para ver quem conseguia mijar mais alto nas paredes."
+  },
+  {
+    "message": "A bem da verdade, a gente começou a fazer isso na sua casa primeiro. Mas aí a sua mãe ficou uma fera, então a gente mudou pro parque."
+  },
+  {
+    "name": "Takeru",
+    "message": "「E por isso, é seu dever carregar esse nome pro resto da vida.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Ên?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada. Mas aê, você reparou que trocaram o escorregador e todos os bancos de lá?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu tenho quase certeza de que fizeram isso há tempinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu sei.」"
+  },
+  {
+    "message": "Eu só nunca tive a oportunidade de puxar o assunto até agora, só isso."
+  },
+  {
+    "message": "Quando a gente era criança, tinha aquele escorregador em formato de foguete,\ne ele dava voltas conforme você descia."
+  },
+  {
+    "message": "Acho que foi por volta da época em que eu ia entrar no ginasial... a tinta começou a descascar, ficou todo enferrujado,\n e aquele foguete pastel virou um borrão marrom."
+  },
+  {
+    "message": "Mas agora, até isso sumiu, e o que botaram no lugar é só um escorregador comunzinho, sem graça."
+  },
+  {
+    "message": "A parte da calha ainda é de alumínio,\nentão continua com aquela cor prateada que queima a bunda de sempre.\nMas simplesmente não parece a mesma coisa."
+  },
+  {
+    "message": "E a algum ponto pintaram bichinhos fofos em todos os bancos."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas eu ainda vejo crianças brincando naquela caixa de areia, de vez em quando.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmm? Ah. É, aquelas pobre crianças.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu fiz muita barbaridade naquela joça antigamente. Cavar buracos e mijar neles, enterrar bosta de cachorro, forçar sapos à hibernação... Todo tipo de atrocidade.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O quêéé!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que você tá fazendo?」"
+  },
+  {
+    "message": "Por que você tá limpando as mãos na minha camisa!?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Monstro nojento...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E eu aqui, tentando relembrar os velho tempos...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu também tava, até você estragar tudo... seu otário.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Humf. É infantil, mas tem seu charme e você sabe disso.」"
+  },
+  {
+    "message": "Cara... Que época aquela."
+  },
+  {
+    "message": "Com certeza, eu passei uma porção de tempo brincando naquele parque quando era da pré-escola."
+  },
+  {
+    "message": "Para uma garota, a Sumika brincava bastante com a gente."
+  },
+  {
+    "message": "E agora ela é a única com quem posso conversar sobre aqueles dias. No fim das contas, todos os outros caras se mudaram..."
+  },
+  {
+    "message": "Aliás..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mmf? Qq foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fale de boca cheia.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você não vai ganhar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nem quero.」"
+  },
+  {
+    "message": "...Aliás, eu... eu me lembro de ter feito uma promessa ridícula naquela caixa de areia..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vaamos lá, me conta!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, lá naquela caixa de areia, será que eu e você... ahm... Você lembra se a gente fez algum tipo de promessa sobre alguma coisa?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Promessa? Que promessa?」"
+  },
+  {
+    "message": "──Você vai ser minha noiva."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Por que seu rosto tá tão vermelho...?\nQue tipo de promessa era?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Nada... Se você não lembra, tudo bem.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quêêê...? Agora eu tô super curiosa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai por mim, é melhor não saber.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Beleza, já passou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi rápido...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Digo, você já me fez um monte de promessas e não cumpriu nenhuma sequer!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quêêê!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você prometeu que ia me apresentar um alienígena, que ia me dar um bicho de pelúcia gigante no meu aniversário, e também...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá legal, tá legal! A culpa é toda minha!\nEntão esquece o que eu disse!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E aquela vez, no Natal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já disse, é para esquecer isso!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......Tudo bem.」"
+  },
+  {
+    "message": "Hm?"
+  },
+  {
+    "message": "Hmmm?"
+  },
+  {
+    "message": "Tem algo batendo na minha janela.\n...Ah, deve ser a Sumika."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, isso doeu! O que pensa que está fazendo!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahahaha... Desculpa, achei que você não fosse me ouvir...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é estúpida ou quê!? Podia ter quebrado o vidro!! Da última vez que você fez isso...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, depois passa.\nEntão, seus pais viajaram, né?」"
+  },
+  {
+    "message": "Depois passa o caramba."
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. A partir de amanhã de manhã, sou um homem livre.\n...Já tô até achando que não vou conseguir ir pra aula amanhã...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você tá com um sorriso irônico.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa, é melhor eu parar com isso!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi? Sinto que você tá agindo meio estranho desde a hora do almoço.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Do nada, parei de temer pela minha vida.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom, parabéns.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Obrigado.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Suspiro...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que foi?\nO hambúrguer não caiu bem?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não, não é isso... Mas enfim — hoje foi bem divertido, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmmm?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não foi divertido pra você, Takeru-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... Acho que foi bem divertido sim.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você não parece ter se divertindo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você é foda... Além de ter sido privado da minha preciosa Refeição de Matsutake do Rei da Montanha e forçado a me contentar com um hambúrguer, você ainda foi lá e deu minhas batatas fritas para aquele cachorro desgraçado.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah é, eu esqueci completamente do jantar...\nFoi mal por isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, tudo bem, tudo bem. Não se preocupa com isso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Sério? Talvez amanhã à noite eu possa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, não se preocupa com isso.\nDecidi trilhar meu próprio caminho na vida a partir de agora.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Entendo...」"
+  },
+  {
+    "message": "Talvez você devesse considerar fazer o mesmo...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu nunca vou perdoar aquele cachorro maldito!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você ainda não superou isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É claro que não! Ele devorou minhas batatas fritas inteirinhas. E aí começou a rosnar pra mim com aqueles olhinhos miúdos dele, lembra?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E daí? Ele era fofinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aquela fofura é fachada!\nVocê está sendo enganada!」"
+  },
+  {
+    "message": "Igualzinho com os matsutake e os shimeji!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É igualzinho a pandas e coalas — todo mundo acha essas coisas fofas, mas dá uma boa olhada!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Os olhos deles... Aqueles olhinhos tortos... São todos animais ferozes e selvagens!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「*suspiro*...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim! Da próxima vez que eu ver aquela fera,\nvou dar um gostinho do próprio remédio!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá, tá. Boa sorte com isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É uma lei da selva lá fora, sabia!! Não seja tão apática!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, a propósito — para onde os seus pais foram passar as férias?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? ...Agora que você falou, eu nunca perguntei.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não creio nisso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tanto faz. Não preciso de tundras nem de mitos. Eu preciso da minha liberdade pessoal!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Amanhã eu ainda vou vir te acordar, sabia?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E como exatamente você planeja fazer isso? He-he-he. Você não é nada sem a sua cúmplice, e minha mãe está lá nas alturas a esta altura do campeonato.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não interessa! Eu vou vir te acordar sim, e ponto final!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ééé mesmo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É! Afinal de contas, é meu dever te acordar toda manhã!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora, veja só! Tente a sua melhor sorte!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... O quê...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É bom você não esquecer dessas palavras.\nHe-he-he! Beleza, boa noite〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-Quê-... Ei...!」"
+  },
+  {
+    "message": "...Como diabos ela pode estar Tão confiante disso? Tenho quase certeza de que vai ser impossível sem minha mãe estar lá para deixar ela entrar."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Bem, suponho que ESSA seja a mesma garota que acreditava firmemente, sem a menor sombra de dúvida, que shimeji e matsutake eram a mesma coisa."
+  },
+  {
+    "message": "Bom, tanto faz. Finalmente tenho um pouco de liberdade agora, e não vou desperdiçar isso pensando nela!"
+  },
+  {
+    "message": "Agora, é hora de uma longa e satisfatória maratona de videogame.\nValgern-On, aí vou eu..."
+  },
+  {
+    "message": "Será que hoje eu dou uma voltinha com o meu amado Kaizer!?"
+  },
+  {
+    "message": "Infelizmente, não importa o quão boa seja a versão de console, jogar no controle deixa a desejar."
+  },
+  {
+    "message": "Eu realmente preciso jogar o de verdade."
+  },
+  {
+    "message": "Talvez amanhã eu pergunte pro Mikoto se ele pilha de ir ao fliperama depois da aula."
+  },
+  {
+    "message": "Caramba... Eu só comprei o Dreamcost por causa desse único jogo, mas ainda não acredito que já descontinuaram o console..."
+  },
+  {
+    "message": "Acho que o próximo deve sair para o PlayStallion 2."
+  },
+  {
+    "message": "Eu devia ter comprado um desses desde o começo..."
+  },
+  {
+    "message": "Acho que foi divertido."
+  },
+  {
+    "message": "Eu nunca vou perdoar aquele cachorro maldito!"
+  }
+]

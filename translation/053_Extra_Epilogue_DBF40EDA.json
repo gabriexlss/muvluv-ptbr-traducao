@@ -1,0 +1,702 @@
+[
+  {
+    "message": "Epílogo de Extra"
+  },
+  {
+    "name": "Voz",
+    "message": "「Iiih!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uaagh! Tá congelando! Ma-Mas que porra você acha que tá fazendo!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Anda logo! Acorda pra vida, seu dorminhoco! É melhor se arrumar rápido, senão vai se atrasar pro seu encontro!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hããã!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Kagami, o Takeru já acordou?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tentando acordar!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O café da manhã está pronto.\nÉ melhor descerem logo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Espera um minuto!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quêêê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-Como é que vocês duas sabem do encontro de hoje!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã? A Mitsurugi-san me contou.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A Tsukuyomi me contou.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Eu fiquei sabendo por você mesmo, Takeru-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Espera... Será que eu cheguei a te contar?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Você não estava falando todo animado no telefone ontem à noite?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela ouviu tudo.\nJá ouviu falar em manter as coisas em privado, Takeru-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-E que tal respeitarem a minha privacidade!?」"
+  },
+  {
+    "message": "──Não fiquem me escutando, porra!!"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ele está dizendo que você estava de espreita.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Ora, que ideia.\nEu não pude deixar de ouvir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Será que eu tô pensando alto de novo de Cérebro Frito!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você fala sozinho alto, sua voz ao telefone é alta, e suas ações e expressões revelam claramente suas emoções.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A ninguém importa a sua privacidade, Takeru-chan! É pela Miki-chan que sentimos pena!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ggh... Nngh...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas enfim, chega disso tudo!\nVocê não supunha se encontrar com a Miki-chan!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-...É.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, santa paciência! Acorde, espertinho! Não podemos continuar cuidando de você para sempre!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Concordo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas a Tama disse que nem se importa... Na verdade, disse que ia me deixar aos cuidados de vocês duas pelas manhãs...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Isso não é bom... Ele não entende o que passa na cabeça das garotas de jeito nenhum.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Posso ver que esta será uma jornada longa e árdua... Sinto muita pena da Tamase...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Né...!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Grrrrrr...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A Miki-chan também é garota, sabe.\nÉ melhor tomar cuidado para não fazê-la perder a paciência com você.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mesmo que você venha chorando correndo para nós, será tarde demais.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, mas se as coisas não derem certo, eu estou sempre disponível!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Idiota.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahahaha... Tô brincando, tô brincando! Beleza, hora de ir! Até mais!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein? Ah... É.」"
+  },
+  {
+    "message": "Perder a paciência comigo, hein..."
+  },
+  {
+    "message": "Elas têm razão. A Tama pode ser teimosa às vezes... É melhor eu tomar mais cuidado."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Que diabo está acontecendo?"
+  },
+  {
+    "message": "...Eu não venho à casa da Tama há vários dias."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Ainda está aqui."
+  },
+  {
+    "message": "...Aquela placa ainda está aqui."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que DIABOS está acontecendo aqui!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Seja bem-vindo, Takeru-san! Você estava bem barulhento agorinha! Por que não tocou a campainha logo?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Ah... É você...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh! E aí, coroa!!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「C-Coroa...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que ainda não tiraram essa placa!?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「...Hnngh!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nossa! É verdade, ainda está aqui!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você precisa de óculos ou o quê!?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Ela é deveras uma placa charmosa, minha querida Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Com certeza é...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você está perdendo o foco da questão!!」"
+  },
+  {
+    "message": "Que diachos essa placa ainda tá aqui!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Muito bem, por que vocês não me dizem que diachos está acontecendo aqui?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「E-Eu não consigo respirar...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Se você o levantar por essa parte da roupa, ele vai sufocar!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Eu tô morrendo... Vou morrer...」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Que algazarra vergonhosa, Genjousai. Será que a sua morte iminente realmente justifica tanta gritaria?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essa voz...!」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Francamente, que espetáculo deplorável...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Argh!! É aquele velho... e o Quatro-Olhos!!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Oh, Jingorou!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──????」"
+  },
+  {
+    "message": "Eles estão agindo de um jeito estranhamente amigável... O que deu neles?"
+  },
+  {
+    "message": "Mas que diachos está acontecendo!?"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Vemos hoje para compartilhar os bolinhos de arroz que a Suiko fez.」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Ohh, que delícia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qu-Qu-Qu...」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Vejamos só... *nhoc*... *chomp*...\nMmh! Divino!」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Muito obrigada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ma-Mas que porra... está acontecendo aqui!?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Não pode estar de brincadeira...」"
+  },
+  {
+    "message": "Tudo aquilo não passou de uma farsa..."
+  },
+  {
+    "message": "Foi só um grande teatro para ajudar a Tama a superar o medo dela..."
+  },
+  {
+    "message": "──Ela logo deixará a equipe da qual faz parte há três anos, e não haverá mais ninguém lá para ajudá-la."
+  },
+  {
+    "message": "──Decidi que esta era a última chance que eu tinha de ajudar minha filha, que havia perdido o rumo."
+  },
+  {
+    "message": "──Eu não me arrependeria de arriscar meu dojo pelo bem do futuro."
+  },
+  {
+    "message": "──Mesmo que eu não o perdesse agora, se isso continuasse... seria o mesmo que apenas esperar pelo dia em que ele me seria tomado."
+  },
+  {
+    "message": "...Então ele chegou ao ponto de consultar seu rival de longa data... tudo para ajudar a filha."
+  },
+  {
+    "message": "Então é isso que significa ser pai..."
+  },
+  {
+    "message": "Ele previu tudo isso desde o princípio..."
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Embora eu não esperasse... que um pirralho como você fosse se intrometer.」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Digo o mesmo!\nAgora você não tem mais com o que se preocupar!!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Isso mesmo! Ho-hoooh! Está com inveja de mim!? Está, não está!? Wahahahahahaha!!」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Argh... Suiko! Você não conhece nenhum homem decente!?」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「E-Eu... Ma-Mas o que você está dizendo!?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Wahahahahahaha!!」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Grrgh... nnngh...\n...Pffft... bwahahahahaha!!!」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Haja paciência...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hein? O que foi? Do que vocês estão rindo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá eu.」"
+  },
+  {
+    "name": "Genjousai e Jingorou",
+    "message": "「Wahahahaha...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é o problema desses dois...?」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Mas, sabe, Miki-san...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「S-Sim?」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Isso não muda o fato de que somos rivais.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E-É verdade!」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Treine duro para poder me vencer algum dia.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Pode deixar!」"
+  },
+  {
+    "message": "...Isso é bem legal.\nQue momento tocante."
+  },
+  {
+    "name": "Suiko",
+    "message": "「Vou continuar a aperfeiçoar minhas habilidades para nunca perder para você.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E-Eu vou dar o meu melhor!」"
+  },
+  {
+    "message": "...Um aperto de mão entre rivais.\nCaramba, isso é ótimo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Deixem-me participar também.」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Serei forte o suficiente para rivalizar com você daqui a dez anos! Hehe.」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Bem, Pai. Vamos indo?\nPassar bem, Miki-san.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quêeee─!? Maldita!」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Sim, acho melhor.\n...Genjousai, logo retornarei para a nossa verdadeira centésima partida.」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Mal posso esperar. Por que não competimos na loteria de Ano Novo!? Imagino que pretenda comprar a sua.」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Mas é claro. Aceito o desafio!」"
+  },
+  {
+    "message": "...Esses pais adoram mesmo umas Batalhas acirradas."
+  },
+  {
+    "message": "Eles deveriam aprender uma coisa ou outra com as filhas."
+  },
+  {
+    "name": "Suiko",
+    "message": "「Vamos indo, então.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esperem, só mais uma coisa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　*pula!*"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Avvvuuu...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「S-Suiko-san?」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「Hawawawawawawaaa!\nMeus óculos! Sem os meus óculos eu não enxergo nada!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Wahahahaha! Mal posso esperar para te desafiar daqui a dez anos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aqui.」"
+  },
+  {
+    "name": "Suiko",
+    "message": "「E-Eu não vou deixar isso barato!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por favor, não deixe.」"
+  },
+  {
+    "name": "Jingorou",
+    "message": "「Ora, ora, Suiko. Vamos andando.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tchauzinhooo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Muito bem, então...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Será que a gente já deve ir também?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Hm? Onde vocês vão?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, eu e o Takeru-san vamos ver um filme.」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Aquele que vocês comentaram no telefone ontem à noite? Eu mesmo estava com vontade de ver. Na verdade, acho que vou acompanhar vocês...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「N-Não pode!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「P-Porque eu tô mandando!!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「P-Por quê...? A gente costumava sair tanto juntos...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hoje eu vou sair com o Takeru-san!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Painho?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「...-cê tá me chamando de-...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「QUEM VOCÊ ESTÁ CHAMANDO DE PAAAII!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Waaaaaagh!!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Seu maldito! Que tipo de bruxaria você usou na minha Tama!? Convidando ela para o cinema, mas fazendo todo tipo de coisa obscena... S-Seu monstro!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uou, e-espera um...」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Isso é imperdoável! Simplesmente imperdoável!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera um minuto!!」"
+  },
+  {
+    "message": "O pai da Tama pirou de vez!"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Me leve junto também! Me leve com vocênnês!!」"
+  },
+  {
+    "message": "M-Me dá um tempo, cara!"
+  },
+  {
+    "message": "Ah!?"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san! Corra!!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Grrr! Volta aqui! Alguém, traz o meu arco!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é mais rápido do que correr!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　*pula!*"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah!」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Gwaaaaahhh!! Como ousa fugir com a minha filha na minha frente!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos nessa, Tama!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...O que foi?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... Mmn...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, recarreguei as energias!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, por favor〜...」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Seu malditooooo!! O que você acabou de fazeeeer!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu beijei ela... Heh-heh.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ele me beijou... Eh-heh-heh.」"
+  },
+  {
+    "name": "Genjousai",
+    "message": "「Onde está meu arco!? Onde está meu arcoooo!!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É!」"
+  },
+  {
+    "message": "──Takeru-san, eu te amo TANTOOO!!"
+  }
+]

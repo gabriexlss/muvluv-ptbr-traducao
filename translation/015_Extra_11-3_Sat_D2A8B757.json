@@ -1,0 +1,2252 @@
+[
+  {
+    "message": "Extra 03/11 (Sáb)"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Certo, Kagami-san! Longo passe!!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Toma!」"
+  },
+  {
+    "message": "──Ah!"
+  },
+  {
+    "message": "Ah... Ah, aaah...!"
+  },
+  {
+    "message": "A bola voa para longe e desaparece..."
+  },
+  {
+    "message": "──Meu Deus."
+  },
+  {
+    "message": "Ela certamente tem força... se não mais nada..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Acho que já basta por hoje.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Desculpa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「... tirando sortes como essa, você parece estar progredindo nos fundamentos...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Essa foi uma forma bem delicada de colocar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Estou errado?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Exatamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tanto faz. Vou buscar a bola e trazê-la de volta. Vocês guardam o resto das coisas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Obrigada.」"
+  },
+  {
+    "message": "Muito bem... Onde está a bola...?"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "Aquele chorinho agorinha... Parece estar despertando meus instintos protetores... O que será?"
+  },
+  {
+    "message": "...Não pareceu muito com um cachorro, isso é certeza."
+  },
+  {
+    "message": "Acho que ouvi vindo destes arbustos... Ah!"
+  },
+  {
+    "message": "...O que é isso?"
+  },
+  {
+    "message": "...Olha, foi uma pergunta retórica. Eu sei que você é um gato."
+  },
+  {
+    "message": "Mas por que tem um gato abandonado dentro do terreno da escola?"
+  },
+  {
+    "message": "...Quem diabos abandonaria um gato num lugar desses?"
+  },
+  {
+    "message": "Será que algum dos alunos é o responsável?"
+  },
+  {
+    "message": "Ah, ei... Bem, achei a bola."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desculpa, amiguinho, mas não posso te levar para lugar nenhum.」"
+  },
+  {
+    "message": "Eu sei que o mundo pode ser duro e impiedoso, mas tenta resistir... Adeus."
+  },
+  {
+    "message": "Quer dizer, o zelador vai acabar achando uma hora ou outra."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...N-Não pense que pode apelativo para o meu emocional, não vai funcionar!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Droga...」"
+  },
+  {
+    "message": "P-Por que esse miado está derretendo o meu cérebro? Por quê?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Agh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urgh... a-ackh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh! Tá bom! Já entendi, então chega de choradeira miserável!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "『SHIROGANE TAKERU obteve GATINHO!』"
+  },
+  {
+    "message": "...Mas que diabo eu faço com isso?"
+  },
+  {
+    "message": "Caramba... Esse coitado parece TÃO feliz agora... Você vai me fazer me sentir pior ainda!"
+  },
+  {
+    "message": "Foi mal, mas você vai direto para a sala do zelador."
+  },
+  {
+    "message": "Eu não tenho experiência nenhuma cuidando de animais..."
+  },
+  {
+    "message": "Eu ganhei um peixinho dourado numa feira uma vez, mas ele foi ralo abaixo num instante... E mamíferos? Isso é totalmente território desconhecido para mim."
+  },
+  {
+    "name": "Voz",
+    "message": "「Ora, ora...? Que foi, Takeru-chan?」"
+  },
+  {
+    "message": "...Ora! (Oho!)"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Achou a bola? ...Calha, isso é...? Ah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika, tenho um favor para te pedir.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Wa... Wawa... Por quê? Por que você tá segurando um gatinho...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A bola se transformou.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Wah〜! Ele é tão, tão, tão fofinho〜!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Para de dançar...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, você vai ficar com ele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nem a pau.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então o que vai fazer com ele?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Levar ela pra sala do zelador.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você não pode fazer isso... Vão acabar levando ela pro canil.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Além do mais, fiquei sabendo que o zelador odia gatos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Então o que a gente faz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Que foi?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela parece tão triste... Será que ela sabe o que a aguarda?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, tá. Até parece... Ah, quer saber, vai ver ela tá com fome?」"
+  },
+  {
+    "message": "Agora que eu penso nisso, não tinha nenhuma comida ou água na caixa."
+  },
+  {
+    "name": "Sumika",
+    "message": "「O quê!? Que horror!! Espera só um minuto!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eiíi! Sumika〜!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Volteeei!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Uau!!」"
+  },
+  {
+    "message": "P-Por que você tá trazendof todo esse pão!?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Acha que isso vai ser o bastante?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você comprou tudo o que tinha na lojinha da escola, não comprou!?」"
+  },
+  {
+    "message": "Sanduíches de atum, sanduíches de filé empanado, sanduíches de presunto, cachorro-quente, pão de feijão doce, pão com geleia, pão com creme, pão de bolinho de arroz, pão com yakitori..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Espera — Pão de natto? Quando diachos eles começaram a vender isso...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, pois é!\nNatto, o rei dos alimentos saudáveis!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tanto faz se é o rei OU a rainha.\nEu não quero comer isso!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom, de qualquer forma, eu não trouxe pra você comer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sem falar que — eu duvido um pouco que esse bichinho consiga terminar nem que seja um só desses troços.」"
+  },
+  {
+    "message": "Eu mesmo nem tenho certeza se conseguiria dar conta de uma avalanche dessas de pão..."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Entendi... Acho que vou ter que devolver então.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Olha só quem é.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Eles não deixaram eu devolver.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, andava meio óbvio.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O queé que eu supposed fazer com tudo isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Na falta de opção melhor, vamos ter que comer tudo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Acho que você tem razão... Gatinha, qual você quer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela disse que tanto faz.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então vou te dar um sanduíche de sardinha...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem sardinha aí dentro também!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Achei que ela talvez gostasse de uma com peixe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, tá bom, tanto faz. Só dá logo pra ela comer.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahaha... Ela tá comendo! Ela tá comendo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E agora, o que a gente faz com ela?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Boa pergunta... Acho que deveríamos levá-la para casa hoje à noite.\nAí amanhã tentamos procurar o dono de novo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bããão...」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Qual é o problema? Você parece perturbado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... é você, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Encontraram a bola?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Err... Bem...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que é isso que você está segurando?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É um gato de rua.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Um gato de rua...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Embora eu ache um absurdo alguém abandonar um bichinho nos grounds da escola.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mmm...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nada... Estou apenas maravilhada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então este é o 'gato de rua' de quem tanto se fala nas lendas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você nunca tinha visto um gato de rua antes?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E-Entendo... Bom, de qualquer forma, eu estava justamente a caminho da sala do zelador.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「A sala do zelador? Não acho que seja uma boa ideia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se não me falha a memória, me disseram que o velho que trabalha como zelador desta escola odeia gatos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se você levá-la até um homem desses, o destino dela estará selado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem pensado.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Felizmente, estudei as medidas que devem ser tomadas quando se encontra um gato de rua.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Deixe tudo comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Era exatamente isso que eu esperava ouvir.」"
+  },
+  {
+    "message": "Afinal, Meiya é a herdeira de um enorme conglomerado financeiro. Por mais que ela não conheça muito do mundo, é muito confiável em horas como esta."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Devemos aguardar uminstante. Pedirei a Tsukuyomi que faça os arranjos.」"
+  },
+  {
+    "message": "Deve ser bom ter recursos financeiros absurdos à mão nesse tipo de situação..."
+  },
+  {
+    "message": "Parece que acabei de pulhar de uma balsa para um transatlântico de luxo."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Certo... Entendi... Entendi... Compreendo.\nEntão esperaremos aqui.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não haverá falhas. Fique tranquilo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau, Meiya, você é demais!\n É seu dia de sorte, gatinha!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uou! Ela já chegou?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama, trouxe um veículo do abrigo de animais...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fora!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como você pode simplesmente levá-la para o abrigo assim!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「M-Mas... Tsukuyomi me disse que este é o melhor curso de ação...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não tem pena dela!?\nEles vão sacrificar o animal, sabia disso!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Sacrificar? O que quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Calma — quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ela não será adotada por novos donos depois de ser levada para o abrigo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Entendi. Elas só conhecem o lado feliz das coisas, né? Talvez a Tsukuyomi-san seja bem inocente de coração..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que não tenho escolha, então... Vou levar ela para minha casa, por enquanto.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...E-Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem algo errado?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ah, bom... É que eu não tenho experiência em criar um animal de estimação, só isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você não tinha nenhum Golden Retriever gigante ou Galgo Afegão na sua antiga casa?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Bem, se por cães você quer dizer... nós tínhamos Dobermans para o serviço de guarda.\nO número exato é sempre mantido em segredo por motivos de segurança.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É. Isso não é exatamente a mesma coisa que ter animais de estimação.\nDe qualquer forma, vou levá-la para casa.」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah〜! É o Takeru-san!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E aí, Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Você achou a bola?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu achei a bola.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A bola aprendeu a miar.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O que tem nessa caixa de papelão?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eis!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Uau! Você colocou um gato na caixa〜!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Onw〜! Que fofinho! Você não pode fazer isso, Takeru-san.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Você não pode simplesmente abandonar um gato!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não, você entendeu errado.\nEu achei ela aqui. Ela tinha sido deixada no pátio.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ahhh, então era isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já que eu não tenho muita escolha, ia levar ela para a sala do zelador.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O quê!? Nem pense em fazer isso!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「P-Por que não!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O zelador não é alérgico a gatos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê, sério!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Se você levar um gatinho para ele, é capaz de desmaiar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Seria um problema... e agora, o que eu faço...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O queee você fazzzz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não sei o que eu fazzzou.」"
+  },
+  {
+    "message": "...Agora ela me fez falar assim também."
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu também não sei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não tenho muita escolha.\nVou levar ela pra minha casa por enquanto.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho melhor começar a procurar um dono em potencia depois disso...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você vem comigo pra dar uma ajuda?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Posso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro, desde que você não esteja muito cansada.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Beleza, eu vou!!」"
+  },
+  {
+    "name": "Voz",
+    "message": "「O que vocês estão fazendo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, Representante...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Acharam a bola?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, achamos.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Que som é esse?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O som de uma bola.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que tem nessa caixa de papelão?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Um gato.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Enfim, aqui está a bola...\nVou levar essa gatinha para a Zeladoria agora.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ele não conseguiria ajudar de alguma forma?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Ela vai acabar indo para o abrigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você não sabia? O zelador não se dá bem com gatos. Ele tem alergia ou algo assim, então nem consegue tocar neles...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... então é melhor eu não levar ela para lá.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então o que vai fazer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não faço a menor ideia... Ei, espera um segundo! Por que você não cuida dela, Representante?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sem chance.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi direto ao ponto.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Desculpa, mas não estou em condições de cuidar de um animal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você odeia gatos ou algo assim?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não é isso. É só por causa do ambiente em que eu vivo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendi. Acho que não tenho escolha, então... Vou levar ela para a minha casa......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você vai cuidar dela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「De jeito nenhum. Vou dar um jeito de pensar em outra opção... Quer vir junto?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu só achei que você provavelmente conseguiria oferecer um ponto de vista respeitável sobre isso... O que me diz?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「C-Certo...」"
+  },
+  {
+    "name": "Voz",
+    "message": "「...Você está carregando algo divertido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「AARGH!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Fiquei ofendida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desculpa, você só me assustou.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Que fita é essa com o gato?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Só um gato de rua que eu achei.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「A bola se transformou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, ela tá BEM aqui.」"
+  },
+  {
+    "message": "Pronto, pronto. Seus miados chegam na hora perfeita."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Que surpresa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tem a menor chance de você estar surpresa de verdade.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É TÃO fofinho... Que pena que o Shirogane vai comer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que tipo de monstro você acha que eu sou!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Pronto, pronto.」"
+  },
+  {
+    "message": "...Não deixa ela te atingir... Respira fundo..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Parece que ela foi abandonada. Me parece uma raça de gato bem rara e cara para ser abandonada assim nos jardins da escola.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Acha que é uma espécie protegida?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, eu com certeza nunca tinha visto um igual.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Então vai comer mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não, não vou! Só vou levar ela pra saleta do zelador.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não é uma boa ideia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...O zelador odeia gatos.\nEla vai parar direto no abrigo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Nem pensar! Sério mesmo!?\n...Bom, então... É melhor não.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Que dilema.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que não tenho escolha... Vou levá-la para minha casa por enquanto. Depois eu penso em alguma coisa.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Pode ser uma boa ideia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine, se você já topou, poderia me ajudar a pensar em algo?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Claro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, decidido então.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「H-Huh? Huh!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Marimo-chan, o que foi?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Chame-me de Jinguuji-sensei!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você parece estar com muita pressa.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É... Bem, veja só... A Tsukiji-san da turma D desapareceu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Turma D?」"
+  },
+  {
+    "message": "Nunca ouvi falar.\nAcho que é só mais uma desconhecida no meio da multidão."
+  },
+  {
+    "name": "Marimo",
+    "message": "「A Yuu-...A professora Kouzuki fez o maior escândalo... Ela estava correndo para todo lado gritando, e não dava para entender nada do que dizia.」"
+  },
+  {
+    "message": "...Bom, a professora Kouzuki nunca diz nada que faça sentido."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então agora eu estou ajudando ela a procurar também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É difícil imaginar a Yuuko-sensei agindo assim...」"
+  },
+  {
+    "message": "...E ela nem sequer piscou depois de atropelar a Sumika."
+  },
+  {
+    "message": "Ela nem moveria um músculo se alguns alunos desaparecessem, e mesmo assim..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「De qualquer forma, você não a viu, viu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não faço ideia de com quem ela se parece, então...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ai, meu Deus... O que diabos aconteceu com ela...?」"
+  },
+  {
+    "message": "...Isso está começando a ficar meio complicado."
+  },
+  {
+    "message": "Ah, que seja, não tenho nada a ver com isso."
+  },
+  {
+    "message": "Hmmm... Pensando bem... Acho que eu podia ter dado o gato para a Marimo-chan."
+  },
+  {
+    "message": "...E agora."
+  },
+  {
+    "message": "...Que diabo foi acontecer pra chegar a esse ponto?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nossa, este quarto mal consegue caber nós seis...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Verdade. Talvez precisemos fazer algumas obras de ampliação.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O que você quer dizer com 'obras de ampliação'?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Não há necessidade de explicar isso agora.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ei, por que a Ayamine-san está aqui...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eek, Sakaki-san... Não fale com um tom tão assustador.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Demos-nos ao trabalho de nos reunirmos em um só quarto. Não fique tão estressada com isso.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Parece até que estamos na nossa sala de aula.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E então?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Pois não?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Por que vocês estão todas aqui?」"
+  },
+  {
+    "message": "Isso é muito estranho.\nEu sei que não contei para todo mundo sobre o gato!"
+  },
+  {
+    "name": "Miki",
+    "message": "「Boa pergunta... Por que estamos todas aqui?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Parece que as más notícias voam rápido.」"
+  },
+  {
+    "message": "...Nesse caso, a Kashiwagi deve ter sabido disso também..."
+  },
+  {
+    "message": "Ah, entendi. Ela foi a única do grupo que tomou a decisão racional de não se envolver..."
+  },
+  {
+    "message": "Agora que penso nisso, ela podia ter impedido as outras de se meterem... Será que ela está gostando disso em segredo?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então, o que a gente faz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como assim?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não viemos aqui para decidir o destino deste gatinho?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mais ou menos isso.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Todas nós demos ao trabalho de vir até aqui,\nentão é melhor você tomar uma decisão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Este gatinho é tão fofo! Vai, ronrona para mim〜!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nyahahahaha.\nRonrona, ronrona, ronrona〜!」"
+  },
+  {
+    "message": "*ron ron* *ron ron* *ron ron* *ron ron*..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Nyahahahaha〜!」"
+  },
+  {
+    "message": "...Por que você também está ronronando?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, isso parece divertido... Ei, gatinho! Ronrona, ronrona, ronrona〜!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nyahahahaha〜!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hrm...\nTalvez eu deva tentar também...\nRonrona, ronrona... ronrona, ronrona......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nyahahahaha〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama, para com esse ronronado.」"
+  },
+  {
+    "message": "Vamos acabar perdendo a conta de qual deles a gente trouxe para casa!"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Talvez a gente precise colocar alguém no comando dessa discussão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Certo, enfim.\nAlguém aqui estaria disposto a adotá-la?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quem você tinha em mente?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, boa pergunta.」"
+  },
+  {
+    "message": "Quem aqui seria a melhor pessoa para cuidar de um gato...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika, se importa se eu der ela para você?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom, se você vai me implorar para fazer isso, acho que não tenho muita escolha.」"
+  },
+  {
+    "message": "...Eu estava implorando?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Bom, eu gostaria de dizer que posso, mas tenho quase certeza de que não consigo cuidar dela por muito tempo.\nJá teríamos trabalho suficiente só para dar conta dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Era isso que eu temia... mas ainda é melhor do que nada. Pelo menos fica com ela por um tempo.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá bom.\nVocê me deve uma grande por essa, hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desde que o que você pedir em troca seja razoável.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Heheheh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que diabo é isso? Por que essa risada parece tão sinistra?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Era exatamente isso que eu achava que ia acontecer! Contemplem! Comida de gato!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau... você tá bem preparada...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Leite e papinha de bebê.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aqui está o recibo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Calma, o quê?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Paga aí!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Paga a comida do gatinho!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ahaha, hahahaha〜!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san, sua masculinidade tá sendo testada.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo... Um teste de masculinidade, hã...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O que diz sobre a sua pessoa se você for pão-duro numa hora dessas?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grrr...」"
+  },
+  {
+    "message": "Como exigir que eu pague por isso é menos pão-duro!?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu tô disposta a ajudar, então vamos fazer isso juntos. Beleza, Takeru-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não é como se eu tivesse escolha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sumika, posso confiar isso a você?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Q-Quê? E-Eu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Numa hora dessas, em quem mais eu confiaria além da minha amiga de infância!?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Você só joga essa carta quando te convém.\nAlém disso, eu não tô preparada para isso de jeito nenhum〜!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Olha, sem querer ser direta, mas criar um animal é uma enorme responsabilidade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu já saquei isso...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Além disso, Kagami-san, você já teve algum gato antes?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nem pensar.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tem alguém por perto que possa te ensinar como?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ninguém.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tem algum veterinário perto da sua casa?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Acho que não.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então você não fica com pena do coitadinho? Se quer ficar com ele, deveria pelo menos dar um jeito nisso primeiro...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sakaki, você já criou algum animal antes? Parece bem informada sobre o assunto.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu morava perto de alguém que criava, só isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas, tirando tudo isso — ele ainda vai precisar jantar hoje.\nEssa pequena criatura não vai esperar a gente achar alguém que saiba cuidar dela.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então, Shirogane-kun — já que vai deixar a Kagami-san cuidar dele, certifique-se de dar uma olhada nela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... e-esse...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que foi? Foi você quem achou o gatinho para começar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urgh... Mf...」"
+  },
+  {
+    "message": "...Eu definitivamente não consigo vencer ela em uma discussão."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sugiro que o Shirogane-kun cuide dele sozinho por um tempo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Mas eu...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ninguém nasce sabendo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tem razão.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......Só que não.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Ayamine-san, há algo que queira me dizer?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......Na verdade, não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso é um problema sério, pessoal. Então me façam o favor de não criar tensão desnecessária.」"
+  },
+  {
+    "message": "E isso não é diferente do que vocês duas fazem na escola."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bom, mesmo que o Takeru-chan vá cuidar dele, deve ter algo que eu possa fazer. E eu realmente quero ajudar essa coisinha indefesa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, já que é assim...\nMeiya, gostaria que você cuidasse dela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Em situações assim, falando realistamente, você é a mais confiável.」"
+  },
+  {
+    "message": "Vou depositar minha confiança nos recursos excêntricos... ou melhor, incomparáveis da Meiya."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem. Se me pede isso, então aceito de bom grado.\nVou providenciar os arranjos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sou eu. Preciso que você... Ah, já sabia?」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então isso deve ser rápido.\nPor favor, apresse-se.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Isso não demorou nada...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tsukuyomi está cuidando disso. Não há necessidade de preocupação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não tenho privacidade nenhuma.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ê? Disse alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A-Ahahahaha...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Rápida como sempre, Tsukuyomi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Se passaram apenas alguns minutos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sou eu.」"
+  },
+  {
+    "message": "...Essa é uma forma estranha de atender ao telefone."
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Certo... Sim.\n...Sim, entendo.\nBom trabalho... Sim, por favor, faça exatamente isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que a Tsukuyomi-san disse?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Parece que ela encontrou uma ilha conveniente ao sul.\nO gato poderá ser transportado para lá antes do pôr do sol.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Impeça-a imediatamente.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ora? Tem certeza?」"
+  },
+  {
+    "message": "...Vejam, é disso que estou falando."
+  },
+  {
+    "message": "É por isso que gente absurdamente rica é simplesmente..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você só tem que mantê-la em algum canto da sua casa.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É-É só isso...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, já que é assim...\nMeiya, gostaria que você cuidasse dela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Muito bem.\nNunca fiz algo assim antes, mas farei o que puder.」"
+  },
+  {
+    "message": "Mesmo que a própria Meiya não tenha experiência, não há absolutamente nada com que se preocupar se ela a acolher."
+  },
+  {
+    "message": "A partir deste dia, este gato será um dos mais felizes do planeta."
+  },
+  {
+    "message": "Estou com tanta inveja pra caralho!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, nesse caso... Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Queeee?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu indico a Tama como a cuidadora deste gato!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nossa. Isso é uma responsabilidade séria...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É bom levar isso a sério, então.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Beleza! Deixa Comigo!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você parece bem confiante.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「A gente tem um monte de gatos em casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Um monte?」"
+  },
+  {
+    "message": "...Isso explica muita coisa.\nNa verdade, faz até sentido demais."
+  },
+  {
+    "name": "Miki",
+    "message": "「Bem, acho que este gatinho vai ser o mais novo membro do Clube dos Membros Tamase.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que diachos é isso?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O grupo de gatos que vive por volta do nosso campo de arqueria.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ué, o quê?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É assim que o papai chama eles.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, nesse caso... Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Queeee?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu indico a Tama como a cuidadora deste gato!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O quê!? Ahããã... Isso pode ser meio difícil...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então não dá?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Se você esperar um pouquinho... acho que vou conseguir...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Bem agora o Clube de Membros dos Tamase está com lotação máxima.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E o que vem a ser isso?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O grupo de gatos que vive por volta do nosso campo de arqueria.」"
+  },
+  {
+    "message": "Elas formaram uma sociedade de membros...? Esses gatos são bem organizados."
+  },
+  {
+    "name": "Miki",
+    "message": "「É assim que o Papai chama eles.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E qual é a lotação máxima?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Um, vejamos... um... dois... três... quatro...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então uns dez?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não, estou contando de vinte em vinte...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá, desculpa, deixa para lá.」"
+  },
+  {
+    "message": "...Não tenho coragem de perguntar o número real."
+  },
+  {
+    "name": "Miki",
+    "message": "「Então, desculpa não poder ajudar com isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, bom... Mas a culpa não é bem sua...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sendo assim — Representante!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Eu sabia que você ia me indicar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora, você capta as coisas rapidinho.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu já estava com essa sensação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode cuidar dela?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Como se eu tivesse escolha. Não podemos simplesmente abandoná-la ou deixar que seja levada para o abrigo...」"
+  },
+  {
+    "message": "Os ombros dela caem como se estivesse decepcionada... Bem, esta não é hora para se preocupar com detalhes tão insignificantes."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Certo, dê ela para mim.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Quê!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Es-Esta gatinha... ela me lambiu... Ela lambeu meu dedo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ué... Parece que ela gostou do seu gosto.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Uau! Ela tá mordendo... Ela mordeu meu dedo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso só significa que ela gostou de você.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「P-Por que um gato gostaria de mim!?」"
+  },
+  {
+    "message": "...Haveria algum motivo para não gostar?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Representante, agora mesmo você tá tão...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O-O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você até parece uma garota de verdade.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ei! Tá querendo dizer que eu não sou feminina!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, hã... sobre isso...」"
+  },
+  {
+    "message": "...Ah, deixa pra lá."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tentar me safar dessa não vale o esforço. Tô fora.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Precisa mesmo falar assim...?」"
+  },
+  {
+    "message": "...Ainda assim, a Representante parece estar considerando a ideia, então espero que dê certo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sendo assim — Representante!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Hã!? P-Por que eu!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom... Você é a única aqui com um senso de responsabilidade real e maduro — não é?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Mas você não pode me jogar uma dessas do nada! Eu não tô preparada pra isso!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que você veio aqui pra começo de conversa?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu fiquei sabendo que você ia criar um gato de rua... e quis dar uma olhada... só isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que te deram informações meio desatualizadas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Enfim! Eu não posso cuidar de um gato de rua!\n Eu não posso assumir essa responsabilidade!」"
+  },
+  {
+    "message": "...Encontrei uma resistência teimosa."
+  },
+  {
+    "message": "Hmm... Achei que a Representante seria a melhor pessoa para confiar um gato... mas se ela não pode..."
+  },
+  {
+    "message": "...E agora?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, nesse caso... Ayamine, eu deixo ela com você!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...*suspiro*」"
+  },
+  {
+    "message": "Ei, qualé. Não precisa suspirar desse jeito alto."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você parece bem despreocupada com isso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Eu tô máxima-despreocupada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso sequer existe?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mas este gatinho não tem culpa de nada.」"
+  },
+  {
+    "message": "Nesse momento, ela tira do bolso nada mais, nada menos que... um sanduíche de yakisoba!"
+  },
+  {
+    "message": "...Não guarde comida no bolso..."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Coma.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah! Awn! Ela tá comendo! Ela tá comendo!」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Então até gatos comem sanduíche de yakisoba...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E-Ei!! Isso não vai fazer mal pra ela!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Vai torná-la mais forte.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza, chega, vocês dois... Parem de brigar...\nEscuta, Ayamine, você se importaria de cuidar dela?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Só vou treiná-la.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já tá de bom tamanho.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "O gato parece mesmo gostar dela."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, nesse caso... Ayamine, eu deixo ela com você!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Nah.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi muito rápido!!!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não faz muito meu estilo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério? Você tem toda a pinta de quem gosta de gatos.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...A realidade é cruel.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você não é só incapaz de cuidar dela? Nem de si mesma você consegue cuidar direito.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Sim, exatamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não se auto-intimide assim.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Foi mal, não dá.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Acho que não tenho escolha, então..."
+  },
+  {
+    "message": "*iiiiiiiiiiiiiin*...!!"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Hã!?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ué?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qu-Que barulho foi esse?」"
+  },
+  {
+    "message": "Houve um som alto de freada bem na frente da minha casa agora pouco... Qu-Qué que tá acontecendo?"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Shirogane!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba! Yuuko-sensei!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O gato! Onde tá o gato!?」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "Por que a Yuuko-sensei tá tão desesperada por causa de um gato?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer... esse gato?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah! Te achei! Tsukiji!」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Kouzuki-sensei, o que está acontecendo?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Nada demais.\nAgora me devolva o Tsukiji... Digo — o gato.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Êêêh? Quer dizer que ele é seu, Kouzuki-sensei?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ele é meu de um jeito, e de outro é...\nE-Enfim!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Não pergunte nem conte nada sobre isso para mais ninguém.\nEntenderam, todo mundo?」"
+  },
+  {
+    "message": "...*silêncio*"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Eu não consigo compreender isso.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Não contem isso a ninguém! Isso é uma ordem!!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu não posso aceitar isso, Sensei! Ao menos nos dê uma razão...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ordens não precisam de razões!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「──!!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tchauzinho!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela levou o gato embora...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tsukiji... Tsukiji...」"
+  },
+  {
+    "message": "...Já ouvi esse nome em algum lugar antes..."
+  },
+  {
+    "message": "...Espera."
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Eu vou lá falar com ela.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Queeee?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「──Ah! Espera!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Professora Yuukooo!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah... Shirogane.\nEu não tenho tempo para perguntas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela é a Tsukiji da Turma D, né?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「......!」"
+  },
+  {
+    "message": "...Car-Caramba, que bizarro..."
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Onde você ouviu esse nome?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não foi você quem chamou assim...?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Tem razão. Acho que eu chamei mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, por que aquele gato é a Tsukiji?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Quer saber?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai me contar!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O progresso acadêmico é construído através de hipóteses ousadas e experimentos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tudo neste mundo é construído com base na probabilidade. Se conseguirmos desvendar como esse sistema funciona, seremos capazes de viajar para outros universos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Cada um dos universos possíveis deve existir como ramificações alternativas do nosso. O mundo em que vivemos agora é apenas um entre infinitos!! Pode até existir um universo onde os dinossauros ainda estão vivos. Pode até existir um universo em que a Terra não existe. Não podemos descartar nenhuma possibilidade!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ué... Gritar assim comigo não torna isso mais fácil de entender.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Para cada resultado ramificado possível, existe um universo alternativo paralelo ao nosso!! E eu estive conduzindo pesquisas para substanciar essa teoria.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Então e o gato?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Aparentemente, há um mundo lá fora em que a Tsukiji é na verdade um gato, e de alguma forma ela trouxe a causalidade daquele mundo para cá.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Como é que é?」"
+  },
+  {
+    "message": "Isso significa que existe um mundo paralelo onde EU na verdade sou um gato também...? Não gostei muito disso."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas como isso aconteceu?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ora, que bom que perguntou!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer saber? Na verdade, estou bem.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Pare aí mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tudo neste mundo é baseado em probabilidade. Você só assumiu a forma da pessoa que é agora porque todos os resultados potenciais e variáveis simplesmente convergiram dessa forma. Não só isso, mas você também é parcialmente composto por tudo o que o cerca.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo, acho que já é muita informação para um dia só. Fica para a próxima?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Então o que aconteceria se eu o favasse retornar ao que era antes de convergir como um humano?\nVocê não seria nada mais do que uma possibilidade ainda indeterminada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mamãeeeezinha!!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Depois de devolvê-lo a um estado de possibilidade, você seria rematerializado tanto pela própria possibilidade quanto pelas vontades que a cercam! Como resultado, a Tsukiji converteu-se na forma de um gato! E mesmo assim, eu nunca pensei nela como um gato! Foi aí que percebi que algum outro mundo deve ter interferido, transformando a Tsukiji em um gato! É isso!\nTem que ser isso! A causalidade é a chave para a viagem interdimensional!!\nMinha Teoria da Causalidade Quântica era perfeita afinal!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Estou com medo...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Bem, é basicamente isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Estou muito ocupada, então tchau.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "E assim, o gatinho fofo foi arrebatado pela maluca do Stratos."
+  },
+  {
+    "message": "Que diachos acabou de acontecer?"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, qualé a daquele gato?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah. Eu não entendi direito.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Por que a Kouzuki-sensei estava com tanta pressa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... aparentemente agora temos todas as respostas.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É só ler toda a teoria da Sensei... aparentemente.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nem pensar. Eu não entendo nada dessas coisas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, basicamente isso.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É.」"
+  },
+  {
+    "message": "Aquele gatinho... provavelmente é tudo o que restou da pobre da Tsukiji, depois de ser submetida a alguma experiência maluca."
+  },
+  {
+    "name": "Takeru",
+    "message": "「É algo que provavelmente nunca seremos capazes de entender.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas é só um gatinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Perguntas difíceis às vezes podem ser encontradas em coisas muito banais.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hmm... É, acho que sim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não tem treino matinal amanhã?\nVá dormir.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É... Vou sim. Certifique-se de acordar na hora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é... Até mais.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Boa noite〜!」"
+  },
+  {
+    "message": "Sumika"
+  },
+  {
+    "message": "Meiya"
+  },
+  {
+    "message": "Miki"
+  },
+  {
+    "message": "Chizuru"
+  },
+  {
+    "message": "Ayamine"
+  }
+]

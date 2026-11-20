@@ -1,0 +1,4192 @@
+[
+  {
+    "message": "Unlimited 24/11 (Sáb)"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Em suma, o computador auxiliará na maioria dos movimentos básicos. A operação manual é realizada usando os manches nos apoios de braço do console e os pedais de aceleração nos apoios para os pés.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Esses são os controles básicos. Direi novamente. O valor do TSF reside em sua capacidade de manobra tridimensional... Entendido?」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Sim, senhorita!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Certo. Como podem ver, eles têm uma cabeça, dois braços e dois pés. Seus elementos estruturais são iguais aos de um ser humano.\n──No entanto...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Cada articulação foi construída para ter mais graus de liberdade do que a de um humano... Não há nada que um humano possa fazer que um TSF não consiga.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Além disso, os TSFs tornam possível que as pessoas realizem proezas que seriam totalmente absurdas de outra forma. Eles dão aos seus corpos insignificantes a habilidade de saltar a alturas impossíveis e desferir socos com força impossível, ao mesmo tempo em que aguçam seus sentidos e os protegem de danos.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Há apenas uma coisa que vocês podem fazer aqui. Dominar os controles o mais rápido possível... e destruir nossos inimigos, os BETA!」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Sim, senhorita!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eradiquem-nos da face da Terra!」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Sim, senhorita!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Isso é tudo para a aula de hoje de manhã. Estão todos dispensados. Certifiquem-se de folhear o manual de controle uma vez por dia, de capa a capa.」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Sim, senhorita!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Esta tarde, vocês vão vestir seus trajes fortificados e avaliar sua aptidão para pilotos de superfície.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Cada um de vocês terminará o almoço uma hora mais cedo e depois se reunirá no vestiário. É só isso.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ei, hã... Você acha que temos que memorizar tudo neste manual?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Boa pergunta.」"
+  },
+  {
+    "message": "Tem uns caras bem velhos que tiveram que ser retreinados como pilotos de superfície, não é? Não consigo imaginar que ELES decoraram tudo isso."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer, pessoalmente, sinto que é mais o tipo de coisa com a qual você simplesmente pega o jeito.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Pegar o jeito?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "message": "Afinal, ninguém aprende a andar de bicicleta estudando a física por trás disso."
+  },
+  {
+    "message": "Você só tem que continuar caindo até pegar o jeito!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Poxa, assim espero... Não há a menor chance de eu memorizar todas essas coisas...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Muito bem, todo mundo pronto para ir à PX?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Oh... Claro!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? Mas, ahm... não tá meio cedo...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Você não ouviu ela? Ela disse que a gente tem que terminar o almoço uma hora mais cedo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Afinal, como exatamente eles avaliam nossa aptidão pra TSF?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, relaxa. Você vai descobrir depois do almoço.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Vocês estão sendo bastante maliciosos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer que você sabe, Meiya?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Vamos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, Meiya, logo você também não!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Relaxa aí...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que vocês estão escondendo!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*arroto*... Ugh, tô cheio...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tudo bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não vem bancar a preocupada. Foram vocês que me fizeram comer tudo isso.」"
+  },
+  {
+    "message": "Os pratos da Sra. Kyozuka já são grandes por si só, mas vocês ficaram atiçando ela pra me dar cada vez mais... Que diabo foi aquilo!?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, eu tentei impedir ela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu também.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「S-Sorte a sua, ganhando toda essa comida...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É-É!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Bem impressionante...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ei pessoal, que tipo de traje fortificado vocês acham que vamos receber?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Boa pergunta. Nunca vi um traje feminino ao vivo. Mas já vi os masculinos várias vezes.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu só vi uma ilustração monocromática num livro. No entanto, não parecia ser tão diferente da versão masculina.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「A gente devia ter pedido pra Suzumiya-san mostrar pra gente, né?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não é como se eles ficassem desfilando com eles o tempo todo... De qualquer forma, é melhor andarmos. Vamos logo, pessoal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esperem... P-Peguem leve, seus...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Levanta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urp...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Anda.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urgh...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...E assim, o gorducho foi deixado para trás.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「H-Heeey!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não ficou nada mal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「I-Isso parece meio... Sei lá, é difícil explicar exatamente...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é colado nem nada, mas molda-se muito bem ao corpo. Não assadura nenhuma, mesmo quando dobro os braços e as pernas... e também não é grosso nem magro demais.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Afinal de contas, é equipamento de última geração para pilotos de superfície.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas sei lá... Sinto que não protege muita coisa, para falar a verdade.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ah, é mesmo? Bem, então por que você não aperta ele devagar...? Tanto faz onde, então... que tal no peito?」"
+  },
+  {
+    "message": "...? Ãhn, tá bom. Acho que sim."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É macio.」"
+  },
+  {
+    "message": "Acho que isso é meio óbvio, mas... uma ova."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora tente bater nele o mais forte que puder.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Pra que vai servir isso, além de me deixar com um roxo!?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Só faz logo. Ou... preferia que eu fizesse isso com aquele cano ali?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「P-Pode deixar, senhora!」"
+  },
+  {
+    "message": "Beleza, caramba... Eu faço, pelo amor de Deus..."
+  },
+  {
+    "message": "A Marimo-chan deste mundo é assustadora para caralho..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera... quê?」"
+  },
+  {
+    "message": "Isso não doeu absolutamente nada..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "message": "Parece que... que acabei de socar isopor ou sei lá o quê..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que acha? Um cano de chumbo não seria diferente. Ainda acha que ele não vai te proteger?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Car... Caramba, essaporra é incrível...」"
+  },
+  {
+    "message": "Mas quando aperto de leve, é tão macio..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Viu? A mão que você usou para socar está protegida pelo mesmo material. Ele é à prova de perfuração e altamente resistente a traumas contusos. Não tem com o que se preocupar.」"
+  },
+  {
+    "message": "Caramba... Essa membrana fininha consegue fazer tudo isso...? E dos dois lados ao mesmo tempo?"
+  },
+  {
+    "message": "Falar em alta tecnologia! Meu Game Guy não chega nem aos pés disso!!"
+  },
+  {
+    "message": "Bem, acho que o Game Guy era impressionante mais pela portabilidade e valor de entretenimento. Quer dizer, foi assim que ele foi comercializado, pelo menos..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「...A propósito, por que a sua barriga está desse jeito?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Foi mal, comi demais... Quer dizer, enfiei a comida na minha goela abaixo que nem um porco para o abate.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「As garotas?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E a Sra. Kyozuka.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Ela não mudou nada, hein...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Elas só ficavam mandando eu comer mais e mais. Tem algum motivo pra isso?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você vai descobrir logo, logo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... tá...」"
+  },
+  {
+    "message": "Até a Marimo-chan tá sorrindo.\n...Tem algo muito errado aí."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas afinal, por que as outras estão demorando tanto?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hm? Ah, é verdade... Elas já devem ter terminado de vestir os trajes. Talvez estejam só com um pouco de vergonha, já que é a primeira vez que usam um.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Q-Quê... O quê!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「WHAAAAAAAAAAT!?」"
+  },
+  {
+    "message": "Qu-Qu-Que diabos é ISSO!?!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi, Takeru?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「A-Algum problema?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-E-Eu digo, isso é...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Parece que já estamos todos.\nEntão, vamos para a sala do simulador.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você está ficando para trás, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「D-Desculpa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Seu rosto está vermelho. Aconteceu alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, nada demais... É só que...」"
+  },
+  {
+    "message": "...É que eu, ahm... não sei muito bem para onde olhar."
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-Não olhe com tanta intensidade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Seu rosto também parece estar ficando meio vermelho, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Estar não está de jeito nenhum!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é muita falta de educação cruzar os braços na frente da Marimo-chan?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu recebi permissão dela para fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério mesmo?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não me lembro de nenhuma conversa assim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Ggh... mrgh.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bem, vocês vão se acostumar com isso logo logo. Vão em frente e cruzem os braços, se lhes agrada... Ora bem. Esta é a sala do simulador.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-Não fique circulando atrás de mim!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acha que eu tenho escolha?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「V-Vai Takeru na frente!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Droga.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Disse alguma coisa!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Não...」"
+  },
+  {
+    "message": "Mas caramba, isso sim é impressionante... Olha o tamanho desses monstros alinhados uns ao lado dos outros."
+  },
+  {
+    "message": "Eu estava meio imaginando como seriam os simuladores, mas... Caralho... Isso aqui é para valer."
+  },
+  {
+    "message": "...Quer dizer, eu já sabia disso, mas... Enfim, você sabe."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vamos medir a aptidão de vocês para TSF daqui a pouco. Mas primeiro, vou explicar um pouco mais sobre seus trajes enquanto estamos todos juntos na sala de prontidão.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Juntas, as membranas protetoras e os headsets que vocês estão vestindo são chamados de Traje Fortificado de Piloto de Superfície Tipo-99. Este é um equipamento de última geração encomendado pelos militares japoneses em 1999.」"
+  },
+  {
+    "message": "...Um traje de piloto, hein? É bem coisa de anime."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Para falar a verdade, esses trajes fortificados fazem parte do sistema de interface que permite controlar o TSF.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eles também acabam sendo a sua armadura corporal de dotação padrão. Shirogane, dê um passo à frente.」"
+  },
+  {
+    "message": "...Eep."
+  },
+  {
+    "message": "Estou com1 um péssimo pressentimento sobre isso..."
+  },
+  {
+    "name": "Todos",
+    "message": "「──!!」"
+  },
+  {
+    "message": "Eu sabia..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ele pode defendê-los de força contusiva e trauma perfurante, calor e frio, ácido e alcalino. Ele também regula sua temperatura corporal, absorve impactos, além de fornecer outros recursos necessários para mantê-los vivos. Uma peça de tecnologia realmente incrível.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O headset e o traje juntos medem suas ondas cerebrais e outros impulsos bioelétricos. Seus pensamentos e intenções são constantemente digitalizados e analisados, e isso se refletirá no seu mecha, seja um TSF ou um protetor de feedback.」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Quanto mais vocês treinarem, mais o seu TSF se adaptará a vocês, permitindo que o controlem quase sem esforço. Quando dados suficientes se acumularem, vocês começarão a sentir os movimentos do TSF como se fossem seus próprios. Ele vai agir como uma extensão do seu próprio corpo.」"
+  },
+  {
+    "message": "Caramba..."
+  },
+  {
+    "message": "Caralho, isso é muito foda! Totalmente sci-fi!!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os headsets que todos vocês estão usando nos queixos são terminais de link de dados para informações de combate. Considerem-os o núcleo funcional destes trajes.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eles se conectam com o computador do seu TSF quando vocês se sentam. Eles também fornecerão uma tela frontal (HUD) através de projeção na retina.」"
+  },
+  {
+    "message": "Projeção na re-o quê agora?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vocês podem alternar os dispositivos de projeção pressionando os módulos nas bochechas de ambos os lados. Todo mundo, tentem fazer isso vocês mesmos.」"
+  },
+  {
+    "message": "Ah, alguma coisa apareceu."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora deslize os dedos horizontalmente.」"
+  },
+  {
+    "message": "...Uoooaaaa!!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Conseguem ver alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Está escrito 'Sem Link'.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Isso indica que você não está conectado a um TSF no momento. Se estiver aparecendo no centro da sua visão, então está funcionando corretamente.」"
+  },
+  {
+    "message": "Isso é tão maneiro...!"
+  },
+  {
+    "message": "Agora eu entendi... Com uma tecnologia dessas sendo o padrão... não é à toa que eles nunca desenvolveram telas LCD nem nada nesse mundo!"
+  },
+  {
+    "message": "Então foi por isso que ela ficou tão surpresa com a tela do Game Guy!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Todos os TSFs projetam seus dados em suas retinas através desse aparelho. Estes simuladores não são exceção.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O assento inteiro é coberto por nós conectores, então, contanto que pelo menos uma parte do seu traje esteja em contato com ele, vocês permanecerão online.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E-Erm, o que a gente faz se o visor estiver torto?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hm... Deixa eu dar uma olhada...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Desculpa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba, gente! Isso aqui é irado demais!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Pois é... Ainda bem que a projeção é na retina. Nem preciso me preocupar com a minha visão.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Pronto, assim tá bom?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, sim! Agora tá funcionando!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Esses trajes são super flexíveis.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Nada...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quer ver meus peitos?」"
+  },
+  {
+    "message": "──Quero!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Claro que não!!」"
+  },
+  {
+    "message": "Argh..."
+  },
+  {
+    "name": "Kei",
+    "message": "「A gente não pode usar os simuladores sem isso. Vamos ter que nos acostumar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você tem toda a razão.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mas tipo... ainda é meio vergonhoso andar por aí assim. Digo, eu não tenho muito peito... Tá vendo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eu acredito em você...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Olha, liso que nem tábua!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-Você não precisa me provar isso!」"
+  },
+  {
+    "message": "Já tá sendo difícil o bastante me conter para não olhar! Não piora as coisas para o meu lado!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Certo. Agora vamos usar os simuladores em duplas, revezando.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ê? A gente não vai todo mundo de uma vez?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hm...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, eles estão todos bem ali...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Isso... Acho que devo explicar para que tenham noção dos custos envolvidos. Prestem atenção, todo mundo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Como devem imaginar, cada simulador exige financiamento e pessoal. Entendido?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Tecnicamente, um único simulador exige um operador, um controlador e um instrutor.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Na prática, ter os três é considerado um luxo a essa altura. Normalmente, um único instrutor acumula as funções de operador e controlador para dois ou três simuladores de uma vez... como eu farei hoje.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vocês devem estar se perguntando se vale a pena economizar quando vidas estão em risco. Mas, se pretendem aproveitar ao máximo este treinamento, precisam entender o quanto está sendo investido em vocês... Fui clara?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ter consciência dos custos financeiros envolvidos na educação de cada um de vocês... faz parte do que significa ser um piloto de superfície excepcional.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Sim, senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Além disso... no momento, todos os simuladores após o número seis foram completamente desativados. Sabem por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Não temos gente suficiente para precisar de tantos. Pensem bem no que isso significa... e tratem de não nos decepcionar.」"
+  },
+  {
+    "name": "Todos",
+    "message": "「Sim, senhora!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Dito isso, agora vocês vão entrar nos simuladores. Levem isto com vocês.」"
+  },
+  {
+    "message": "...Hm? Um saco de papel com forro de plástico?"
+  },
+  {
+    "message": "Eu já não tinha visto algo assim antes...?"
+  },
+  {
+    "message": "...Ah é, lembrei. A gente levava isso no ônibus nas excurções da escola primária..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Sakaki no número um, Mitsurugi no número dois. O resto de vocês, fiquem de prontidão!」"
+  },
+  {
+    "message": "Agora que os vejo em pé na frente dos simuladores, dá para notar o quão massivos eles são."
+  },
+  {
+    "message": "Caramba... Eles são irados demais..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Assim que estiverem sentados, avisem se não houver nenhuma mudança no visor.」"
+  },
+  {
+    "message": "Há um monte de pistões hidráulicos saindo deles... O que significa que o simulador com certeza vai se mexer."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Muito bem, vamos embarcar. Desta vez, tudo o que precisam fazer é permanecer sentados por quinze minutos.」"
+  },
+  {
+    "message": "....Espera um segundo. Sacos plásticos? Pistões hidráulicos? Movimento!?"
+  },
+  {
+    "message": "Não pode ser... Não creio...!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Iniciem a simulação!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「TSFs, avante!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "message": "Mas que porra é essa!?"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Caramba! Olha como aquilo chacoalha!」"
+  },
+  {
+    "message": "Aquele pressentimento que eu tive antes... Era um presságio!"
+  },
+  {
+    "name": "Miki",
+    "message": "「P-Poxa... Isso parece bem intenso.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora, corrida em velocidade máxima!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-Cara!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Isso parece meio, ahm...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "Então aqueles eram mesmo saquinhos de vômito!?"
+  },
+  {
+    "message": "Tá de sacanagem!? Os TSFs chacoalham tanto assim!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se não aguentarem mais, aperta o botão de parada de emergência em qualquer um dos lados!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Muito bem, velocidade máxima!」"
+  },
+  {
+    "message": "Meu Deus... Isso é mal..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vocês... Planejaram isso tudooo de propósito!!」"
+  },
+  {
+    "message": "É por isso que vocês me entupiram de comida até o talo!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Na verdade, a gente, ahm... A gente já tinha feito algo assim na primavera. Só que não nesses simuladores.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「pera, já?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É, pois é. Eles não iam começar a treinar a gente como pilotos de TSF se não soubessem que daríamos conta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pensando bem, faz sentido...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa, aquilo foi horrível...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Foi mesmo...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que vocês não me avisaram antes...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, é que agora você é um dos nossos, então a gente não queria te deixar de fora〜!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Isso aí!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Um de nós. Um de nós.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Maldição...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Freio de emergência!」"
+  },
+  {
+    "message": "Caramba! Nossa, essa foi por pouco!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Simulação encerrada.\n...Cadetes, podem desembarcar.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem, Representante?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei.」"
+  },
+  {
+    "name": "Sakaki",
+    "message": "　──*aceno*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "message": "Ela tá acenando para eu ir embora?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer que... É melhor eu não falar com você agora?」"
+  },
+  {
+    "name": "Sakaki",
+    "message": "　──*confirmação*"
+  },
+  {
+    "message": "Nossa... Agora olhando bem para ela, está completamente pálida."
+  },
+  {
+    "message": "Ainda assim... a bolsa dela continua parecendo vazia."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa, olha por onde anda!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「D-Desculpe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem certeza de que está bem?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Desculpe...」"
+  },
+  {
+    "message": "Xi... A coisa tá feia..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem, Meiya?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Então este... é o ápice do intelecto humano...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ãh, o quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Se eu pretendo dominá-lo... devo primeiro dominar a mim mesma...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Alôôôô?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Rrgh...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mmnngh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá bem?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「D-Desculpem... Sinto as minhas pernas um pouco... bambas...」"
+  },
+  {
+    "message": "Nossa... Agora olhando bem para ela, está completamente pálida."
+  },
+  {
+    "message": "Ainda assim... a bolsa dela continua parecendo vazia."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu tô bem, não precisa pedir desculpas, mas...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não baixe... a guarda lá dentro...」"
+  },
+  {
+    "message": "...Contra o quê?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hey, Mikoto...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Sim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não tem a sensação de que, ahm... todo mundo meio que morreu?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É... Só de olhar pra isso já me dá enjoo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, cai na real...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Acho que já aguentei o bastante...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você nem entrou lá ainda! Para de choramingar e sai de cima de mim!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Tsc... Que chato...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Certo. Próximas, Tamase na número um, Ayamine na número dois.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「L-Lá vou eu!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Boa sorte.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você também vai!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Huh?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Anda logo! Somos todos companheiros de esquadrão aqui. Vai lá sentir na pele o sofrimento que a Representante e a Meiya acabaram de passar!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Iniciem a simulação!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Simulação encerrada!\nCadetes, já podem desembarcar.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tamaaa? Ainda tá viva?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hauuugh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Seus olhos estão totalmente revirados.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hauuugh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hauuugh...」"
+  },
+  {
+    "message": "Nossa... Agora olhando bem para ela, está completamente pálida."
+  },
+  {
+    "message": "Ainda assim... a bolsa dela continua parecendo vazia."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Alôôôô?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hauuugh...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hauwhawhah...」"
+  },
+  {
+    "message": "...Não tem jeito."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine...? Ainda tá viva?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que você aprendeu a respeitar o estômago de aço dos seus companheiros de esquadrão.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...E U T O T E M B E M.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sua voz tá esquisita.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「M A R A V I L H A.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você não tá bem.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Isso... foi tenso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tão ruim assim?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Nnk!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa, cara. Tem certeza de que tá bem?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Foi... punk pra caralho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Entendido. Vou lembrar disso.」"
+  },
+  {
+    "name": "Kei",
+    "message": "　──*pat*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "message": "Tira essa cara de falsa piedade, droga!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Próximos! Yoroi no um, Shirogane no dois!」"
+  },
+  {
+    "message": "Caraca! Minha hora chegou!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Erm...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Menos corpo mole e entra logo!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Espero que já tenha feito suas orações.」"
+  },
+  {
+    "message": "Droga, tá legal! Tá bom, já vou! Tô entrando!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uou... Então é assim que é a cabine de um TSF!?」"
+  },
+  {
+    "message": "É exatamente igualzinho ao do manual."
+  },
+  {
+    "message": "...Disso eu sei. É óbvio que têm que ser idênticos."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então tá...」"
+  },
+  {
+    "message": "O banco também não é nada desconfortável."
+  },
+  {
+    "message": "Ahhh... As almofadas entre as minhas pernas e nas costas se encaixam direitinho!"
+  },
+  {
+    "message": "É igualzinho àquele colchão Tempura-Pedic que eu testei na TQ Arms aquela vez! Aquele que eu sempre quis ter!"
+  },
+  {
+    "message": "E o design dos consoles ao meu redor... É, isso aqui tem mesmo a cara de uma cabine de robô!"
+  },
+  {
+    "message": "Uma pena que não tenha nenhum visor bem na minha frente, no entanto."
+  },
+  {
+    "message": "Quer dizer, eu meio que esperava uma coisa dessas numa cabine."
+  },
+  {
+    "message": "Embora, na prática, este projetor retinal deva ser mais do que suficiente."
+  },
+  {
+    "message": "...\"Transferência Inicial de Dados em Andamento\"?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Shirogane, Yoroi, estão me ouvindo?\nSe sim, respondam.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Estou ouvindo, senhora.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Não consigo ouvir a voz do Mikoto."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Yoroi, deslize mais para o fundo do banco. Shirogane, se estiver confortável para você, continue como está.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então vamos começar o teste. Tudo o que vocês precisam fazer é continuar sentados por quinze minutos. Se sentirem enjoo, apertem os botões de parada de emergência de cada lado.」"
+  },
+  {
+    "message": "...Finalmente chegou a hora."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora, vamos começar.」"
+  },
+  {
+    "message": "...Ah, lá vamos nós!"
+  },
+  {
+    "message": "...Caramba!"
+  },
+  {
+    "message": "Qu-Que diabo é isso!?"
+  },
+  {
+    "message": "Caramba, tá de brincadeira...? Isso parece tão real... Bem, eu acho que é de certa forma, né."
+  },
+  {
+    "message": "Isso é incrível..."
+  },
+  {
+    "message": "Hã?"
+  },
+  {
+    "message": "Ah... Parece que os visores mudam em resposta a alguma variável de entrada do usuário."
+  },
+  {
+    "message": "...É baseado para onde eu olho?"
+  },
+  {
+    "message": "Ah... Ei, olha só. Tá a minha mão ali... Lógico, né."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uau!」"
+  },
+  {
+    "message": "...Caraca, caraca, caraca... Agora tá começando a tremer."
+  },
+  {
+    "message": "Mas não tá tão ruim quanto eu esperava... Talvez tenha algum tipo de amortecedor embutido nessa coisa."
+  },
+  {
+    "message": "Beleza, lá vamos nós! A gente tá se movendo!"
+  },
+  {
+    "message": "Ah... A gente tá numa cidade agora."
+  },
+  {
+    "message": "Caramba... Então é assim que é visto de cima de um TSF... Vamos ver..."
+  },
+  {
+    "message": "Nossa! Dá até para ver os carros e os pedestres lá embaixo!!"
+  },
+  {
+    "message": "Eles não vão olhar para cima para me ver... mas acho que isso faz parte do charme."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora, corrida para frente!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uhu maneiras!」"
+  },
+  {
+    "message": "Agora tá sacudindo de verdade!"
+  },
+  {
+    "message": "Mas isso ainda não tá tão ruim assim, sério..."
+  },
+  {
+    "message": "Isso não é quase pior do que um brinquedo de parque de diversões..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*boceeeeeeeejo*...」"
+  },
+  {
+    "message": "Essa sacudida é meio gostosa... Estou com sono..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora, velocidade máxima!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah. Pegou um ritmo legal agora...」"
+  },
+  {
+    "message": "É, eu definitivamente consigo imaginar pegando enjoo de movimento por passar tempo demais nessa coisa..."
+  },
+  {
+    "message": "Nem o Valgern-On sacudia assim."
+  },
+  {
+    "message": "Os prédios logo adiante estão se aproximando gradualmente."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "...Caramba, que diabo é isso!? A gente vai bater nele!!"
+  },
+  {
+    "message": "Caramba, caramba, caramba!! Não guinada desse jeito!"
+  },
+  {
+    "message": "──Hã?"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Freio de emergência!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Às 06:20 desta manhã, uma horda do tamanho de uma brigada de BETA emergiu da Colmeia de Sadogashima e começou a se mover para o sul ao longo do assoalho oceânico."
+  },
+  {
+    "message": "──Às 06:27, o inimigo penetrou a Linha de Defesa Oceânica mantida pela frota da Marinha Imperial no Mar do Japão. Eles vieram à tona em Niigata."
+  },
+  {
+    "message": "Às 06:48, a 12ª Divisão do Exército Imperial encontrou o inimigo na antiga rodovia nacional."
+  },
+  {
+    "message": "Às 07:10, a linha de batalha entrou em colapso diante de um número esmagador de BETA após reforços não conseguirem chegar a tempo..."
+  },
+  {
+    "message": "E às 07:29, a 12ª Divisão foi aniquilada, tendo destruído aproximadamente dois terços das forças inimigas."
+  },
+  {
+    "message": "──Os BETA restantes se dispersaram e avançaram para o interior. Perdemos o rastro deles devido à incapacidade da 14ª Divisão de persegui-los."
+  },
+  {
+    "message": "Ah... Aah..."
+  },
+  {
+    "message": "O que nos traz a trinta minutos atrás... Os BETA espalhados se reagruparam, romperam a Linha de Defesa Secundária e chegaram a um ponto dez quilômetros a noroeste do Monte Hakkai."
+  },
+  {
+    "message": "V-Você... É você...!"
+  },
+  {
+    "message": "Posteriormente, eles se moveram para o sul ao longo da Linha de Defesa Final do Norte de Kanto, depois mudaram para uma marcha rápida rumo ao sudeste através das províncias de Niigata, Nagano e Gunma."
+  },
+  {
+    "message": "Se permitirmos que continuem ainda mais, é quase certo... que eles cruzarão a Linha de Defesa Final."
+  },
+  {
+    "message": "O Exército Imperial está atualmente engajado para evitar isso... mas o inimigo está pressionando-os com força."
+  },
+  {
+    "message": "Os reforços do Exército da ONU despachados da Base de Atsugi estão se aproximando de Maebashi no momento. No entanto, há uma forte possibilidade de que não cheguem a tempo."
+  },
+  {
+    "message": "Além disso, nossa análise mais recente sugere que o objetivo do inimigo é... a nossa própria Base de Yokohama."
+  },
+  {
+    "message": "──!!!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Hm? Shirogane? O que foi?」"
+  },
+  {
+    "message": "...A situação não está boa. Todas as bases imperiais na área estão enviando reforços, mas fazer a junção com as tropas da linha de frente está se mostrando difícil."
+  },
+  {
+    "message": "...Eu posso morrer."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Seu ritmo cardíaco está disparando.\nSe estiver se sentindo mal, aperte o botão de parada de emergência.」"
+  },
+  {
+    "message": "Se o Exército Imperial for forçado a recuar, então a batalha sem dúvida se moverá para a Linha de Defesa Final."
+  },
+  {
+    "message": "...Eu posso morrer."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você está me ouvindo? Se vomitar aí dentro, você é quem vai limpar!! Me responda ou aperte o botão!」"
+  },
+  {
+    "message": "O Comandante da Base de Yokohama acabou de declarar o DEFCON 2."
+  },
+  {
+    "message": "Se o Exército Imperial recuar e esta base passar para o DEFCON 1, até mesmo vocês, cadetes, serão enviados para a batalha."
+  },
+  {
+    "message": "...O caralho que eu vou morrer."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Shirogane...? Que estranho... O canal deveria estar aberto...」"
+  },
+  {
+    "message": "Ouçam com atenção... Isto não é um exercício. Nossos companheiros de armas estão arriscando suas vidas e lutando contra o inimigo neste exato momento, bem na nossa porta."
+  },
+  {
+    "name": "Takeru",
+    "message": "「O caralho que eu vou morrer...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Shirogane? Me escuta? Se sim, responda.」"
+  },
+  {
+    "message": "Eu ordeno que vocês seis cadetes se armem e fiquem em posição de espera até novas ordens!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não vou me encolher num canto que nem da última vez! Quero ver esses desgraçados passarem dessa linha de defesa!! Vou acabar com todos vocês!!!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Simulação encerrada.\n...Cadetes, já podem desembarcar.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Este exame de aptidão foi realizado para podermos ver o desempenho de cada um de vocês em comparação com os resultados anteriores.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Sakaki, Mitsurugi, Tamase, Ayamine, Yoroi... Todos vocês estão progredindo muito bem. Tudo o que falta é experiência.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu tenho uma pergunta!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Algum problema já foi descoberto no passado ao comparar esses resultados?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「De fato.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Como o quê, por exemplo?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vocês sabem que movimentos bruscos repetidos podem afetar o ouvido interno, resultando no fenômeno que conhecemos como enjoo de movimento, correto?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bem, por exemplo, já tivemos casos de cadetes que se tornaram mais suscetíveis ao enjoo de movimento após sofrerem lesões na cabeça durante o treinamento.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Caramba... Isso não é bom.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Também dizem que informações visuais, a configuração da cabine e a saúde pessoal podem ser fatores importantes. Mudanças na condição física de uma pessoa entre os exames também podem afetar os resultados.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Entendido.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ainda bem que esse não parece ser o caso de nenhum de vocês. Esta é uma ótima notícia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Como eu disse antes, seus dados se acumulam no capacete. Assim que começarem a receber o feedback do próprio TSF, os chacoalhões começarão a parecer cada vez menos severos. Então não se preocupem muito com isso.」"
+  },
+  {
+    "name": "Todos",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bem, nunca vai ser menor do que a força que vocês exercem correndo, mas duvido que alguém aqui fique enjoado com uma leve trotada.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Anteriormente... Shirogane entrou recentemente, então ele não tem resultados antigos. Eu estava imaginando como os dele seriam, mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Houve... algum problema?」"
+  },
+  {
+    "message": "...É, aposto que houve. Eu tive um pequeno surto bem no finalzinho."
+  },
+  {
+    "message": "Droga... Eu não tinha ideia de que aquele dia tinha sido tão traumático para mim."
+  },
+  {
+    "message": "No momento em que ouvi as sirenes... minha mente simplesmente apagou."
+  },
+  {
+    "message": "Os TSFs sempre foram os que lutam contra os BETA frente a frente... o que torna seus pilotos os mais propensos a morrer."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Eu me sentia tão inútil naquela época... Mas então, na ilha, senti que finalmente havia encontrado qual deveria ser o meu lugar neste mundo... e achei que estava satisfeito com isso. Pelo visto, estava errado..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os solavancos não foram um problema para você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah, não... Não foi, hã... Não foi nada demais.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「S-Sério?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você parecia bem pálido quando saiu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, é, mas...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Nenhuma anormalidade nas ondas cerebrais ou no pulso dele. Ele teve um leve surto, mas é o tipo de coisa que qualquer cadete pode ter... Mais importante...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Há várias maneiras de avaliar esses números, mas Shirogane tem o nível de aptidão mais alto que já registramos em um primeiro teste.」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Quêeee!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esperador, quer dizer que... Eu passei?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Exatamente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. Quem diria.」"
+  },
+  {
+    "message": "...Construindo uma vida para mim neste mundo... Estou chegando cada vez mais perto da morte..."
+  },
+  {
+    "message": "Mas que se dane... Eu vou fazer isso."
+  },
+  {
+    "name": "Todos",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Aqueles trancos repetidos realmente não te afetaram em nada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Parece que foi bem difícil para você, hein, Meiya?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Qu... I-Isso não é verdade de jeito nenhum.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro, o que você disser.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Seu labirinto é feito de aço ou o quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá porra nenhuma.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ainda assim, isso é incrível!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Obrigado.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Nada mal, CDF.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Valeu.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mas, ahm, você não parece muito animado com isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Achcha?」"
+  },
+  {
+    "name": "Voz",
+    "message": "「Shirogane!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ê...? Ah... Marimo-chan.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ora, seu...\nTanto faz. Apenas venha comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sobre o que é isso?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Emm...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「*risada*...」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ainda preso no que aconteceu semana passada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ê...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eu não te disse? Acontece com todo mundo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se tem algo te incomodando... é só falar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Mas...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não me importo com o que seja, me diga sem rodeios... Isso é uma ordem, Cadete Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Uma silhueta de BETA apareceu na simulação...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quando a sirene tocou... tudo voltou à minha mente... Eu não conseguia pensar direito... Tudo o que pude fazer foi assistir aquilo acontecer de novo...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O mesmo vale para o que aconteceu na ilha, quando aquela cobra me mordeu... Se fosse venenosa... eu podia ter morrido...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A Representante... quer dizer, Sakaki me disse uma coisa. Ela disse que neste mundo, mesmo que sua própria vida seja o mais importante para você, você não pode protegê-la sozinho...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tive que encarar isso... e me aterrorizou... Eu só pensava: 'Droga! Não consigo fazer nada sozinho! Eu não quero morrer!'」"
+  },
+  {
+    "message": "Eu quero ir para casa. No fim das contas, tudo o que eu realmente quero é voltar para casa. Farei o que puder até lá, mas... isso não significa que estou disposto a morrer."
+  },
+  {
+    "name": "Marimo",
+    "message": "「...O medo não é vergonha nenhuma. É isso que permite que você sobreviva.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não importa o quão corajoso você seja, uma vez morto, acabou. Não importa o que digam sobre você... não importa o quão legal você seja... se morrer, já era. Você não pode proteger nada nem ninguém nesse ponto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Aqueles que conhecem o medo podem ser ridicularizados como covardes. Mas... são também os que sobrevivem. Qual deles você quer ser, Shirogane?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu não sei.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Alguém disse uma vez... que as pessoas vão para o campo de batalha em busca de um lugar para morrer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Alguém...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Mas eu concordo em gênero, número e grau? Não. Quando as pessoas não têm escolha a não ser morrer, devem fazer todo o possível para encontrar a maneira menos vergonhosa de morrer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sensei...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então não tem problema em ser um covarde. Desde que, bem no final... você mostre sua força como pessoa. Não importa se isso é agora, ou daqui a várias décadas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「E, se possível, tente continuar vivendo e veja essas décadas com seus próprios olhos. Tudo bem se ninguém te chamar de corajoso. Apenas fique por perto e proteja o máximo de pessoas que puder.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「De certa forma, continuar vivendo é muito mais doloroso do que a morte.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... acho que... faz sentido...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A Yuuko me contou sobre você, sabe. Ela falou sobre o quanto você tem se esforçado, só para poder pilotar um TSF.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Bem, não exatamente...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você finalmente chegou até aqui, então tente ficar feliz. Guarde essa cara amarrada para quando vir um BETA de verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Pessoalmente, acho que as pessoas que sentem medo são na verdade mais fortes por isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sensei...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você tem o talento natural para se tornar um piloto de superfície incrível.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu... de verdade, não...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Sabia que esta academia produz alguns dos pilotos de superfície mais bem-avaliados do mundo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não sabia...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「E de todos os soldados que já passaram por este programa... você tem a pontuação de aptidão mais alta que já vimos. Bem, pelo menos no teste inicial.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Quando você se formar aqui e seguir para o campo de batalha, vai puxar o gatilho por reflexo, não importa o quanto esteja com medo. Mesmo que sua mente fique em branco, você derrotará o inimigo apenas por instinto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É para isso que serve este treinamento.\nE é por isso que... eu não vejo você morrendo assim tão fácil, Shirogane.」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「*risadinha*... Não sei se isso foi muito consolo, mas... ei, eu tentei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Muito... obrigado.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ah? Então você é capaz de agradecer às pessoas direito, afinal de contas?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A Sakaki e os outros não disseram nada sobre seus padrões de fala estranhos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, bem... Às vezes até chamam de 'shiroganês'...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Bom, é bom saber que, mesmo em shiroganês, ainda é de bom tom dizer obrigado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que é!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ótimo. De qualquer forma, tente erguer a cabeça. Se ficar muito deprimido, vai fazer seus colegas de esquadrão se preocuaprem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Tenho certeza de que estão todos esperando por você no sopé destas escadas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã!?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É assim que camaradas são, sabe...? Tchauzinho.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Pessoal..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Galera...?"
+  },
+  {
+    "message": "...Alô?"
+  },
+  {
+    "message": "...Onde vocês estão?"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "E-Eles não estão aaaaqui!!!"
+  },
+  {
+    "message": "V-Vocês não têm coração..."
+  },
+  {
+    "message": "──Uau!"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Oi, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「S-Sim, olá... Você tomou um susto?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Não importa.」"
+  },
+  {
+    "message": "──Uaaaaaaagh!!!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aiiiiieeeee!!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ahahahahah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「V-V-Vocês! Não apareçam de um em um!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Qual é, Meiya-san! Você tem que dar tudo de si igual a mim, senão nunca vai dar certo!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas eu dei o meu melhor... Será que não fui descarada o bastante?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nem perto. Caramba, talvez isso não tenha jeito...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Isso só parece assim porque você tentou fazer a Mitsurugi participar. Você leva muito jeito para essas coisas, Yoroi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas ainda assim foi divertido.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Tentativa fofa, Mitsurugi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vocês...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Ela terminou de te dar bronca?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah, sim... Mas por que você chama aquilo de bronca?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você não com cara muito boa quando saiu do simulador. Você deve ter feito alguma besteira lá dentro, tô errada?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Bom, então... Vamos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não tá brava, Representante?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Eu chego lá.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Animem-se, o recordista chegou.」"
+  },
+  {
+    "message": "Cala a boca..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*suspiro*...」"
+  },
+  {
+    "message": "Caramba... Não importa aonde eu vá, ou o que eu faça, eu sempre acabo deixando todo mundo preocupado."
+  },
+  {
+    "message": "*suspiiiro*... E eu supposedamente sou o único homem aqui... Isso é patético."
+  },
+  {
+    "message": "Eu já nem consigo mais usar a desculpa de que sou um estranho neste mundo."
+  },
+  {
+    "message": "Eu definitivamente não quero que elaschem que eu sou sempre assim."
+  },
+  {
+    "message": "Eu... Eu nem quero admitir..."
+  },
+  {
+    "message": "Eu tenho que fazer o que puder."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Devo ir ver a Kasumi."
+  },
+  {
+    "message": "Isso... Eu tenho que levar um barbante para ela brincar de cama de gato, de qualquer forma."
+  },
+  {
+    "message": "Se eu ficar mofando no meu quarto sozinho agora, vou acabar pirando com isso. Provavelmente vai me fazer bem brincar um pouco com ela."
+  },
+  {
+    "message": "...Agora, preciso pedir um barbante emprestado."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Representante!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei! Ei! Ei!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que foi? Meu Deus, como você é chato...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, rapidinho, se importa de me emprestar um barbante para cama de gato?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Como é? De onde tirou isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não tem nenhum? Preciso de um tamanho para duas pessoas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não importa para quantas pessoas você precisa... É super fácil de fazer sozinho. O que você quer com isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, sabe... Eu só prometi pra Kasumi que ia brincar com ela.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Kasumi...? Quer dizer Yashiro Kasumi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A própria.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Onde?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? Ah, é... No quarto dela, eu acho?」"
+  },
+  {
+    "message": "Provavelmente não é uma boa ideia falar sobre aquele quarto, né..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...E onde fica isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Afinal, você sabe qualé a dessa garota?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eeeh, bem... Eu...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Bem... Não é exatamente novidade você saber de coisas que a gente não sabe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Exatamente!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tanto faz. Entre.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo, beleza...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que você esperava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada de mais, na verdade...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tanto faz. Aliás, você estava tentando se gabar das suas habilidades de Super Soldado de Elite agorinha pouco?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Do que você tá falando?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não se faça de tonto. Você tirou a maior pontuação já registrada... Finalmente posso ver do que você estava falando.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bom, isso... não é bem assim...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Devo tomar essa modéstia como... foi fácil pra você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qualé, não foi isso que eu disse... Para de pegar no meu pé com isso.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, desculpa, não foi minha intenção... Feri seus sentimentos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não, tá tudo bem. Enfim, você já achou a corda?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, é verdade, é verdade... Mas escuta, você sabe jogar cama de gato o suficiente para brincar com ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah, é, bem lembrado... Mas tipo, foi isso que a Kasumi quis fazer, então...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Se tivéssemos o Game Guy, ela só podia jogar aquilo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aquilo não é um brinquedo, sabe.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu sei disso. Mas tem muito valor de entretenimento, não tem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, pois é. Mas a gente não pode usar.\nA gente já sabe o que acontece quando cai nas mãos erradas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Não tenho como discordar disso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hahaha...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Mas... com certeza é uma peça de tecnologia incrível. Ainda fico boquiaberta só de pensar nisso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, sei não. Acho que aqueles projetores retinais são muito mais impressionantes.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não seja idiota. Você pode levar o Game Guy para qualquer lugar, e é TÃO divertido que te dá vontade de treinar para sempre... Nem consigo imaginar como a Professora conseguiu conceber uma coisa dessas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não sei se é para tanto...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O que eu realmente queria saber é por que ela não aplicou esses mesmos conceitos em outras áreas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá, cara... Tenho certeza de que ela tem os motivos dela.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tratando-se da Professora... imagino que ela não quisesse ajudar tanto os militares de qualquer forma, né...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, nada. Deixa para lá... Enfim, aqui está.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Deixa para lá. Não quero ser intrometida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Aliás, sobre o que aconteceu no simulador hoje... É isso que te deixa tão 'especial'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Disseram que você é o melhor que já viram.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é... É que, hã...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Bom, tanto faz. Enfim, entra.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Certo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que você esperava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada de mais, na verdade...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Mas enfim... Você sequer sabe jogar cama de gato o suficiente para brincar com ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah, é, bem lembrado... Mas tipo, foi isso que a Kasumi quis fazer, então...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não me diga... Bem, aqui está.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh, grazie!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E eu também não preciso de volta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério mesmo? Valeu, você quebrou um galho enorme.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu acabei me acostumando com o seu shiroganês.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério? Então posso começar a usar mais disso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Como, por exemplo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, deixa eu pensar... Quer dizer, eu tenho me segurado muito pra não falar merda, então seria do caralho se você me deixasse soltar a franga, mano! O que acha dessa?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Recusado. Eu definitivamente não vou ficar traduzindo tudo isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, acho que fui longe demais dessa vez, né. Bem, ainda fico feliz em saber que isso já não te incomoda tanto.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Tudo bem, eu acho... Estou aprendendo a conviver com isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Até mais. Valeu por isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eiíi, Meiyaaa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hm? É você, Takeru?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, tipo... Se importa de me emprestar um barbante para jogar cama de gato?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Um barbante de cama de gato? Para que diabos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu queria jogar pega-bolinha com ele.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O que você está dizendo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fala sério, Meiya. Eu acabei de dizer para que vou usá-lo. Não mudei de ideia de lá para cá.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso é verdade, mas... é um pedido bem estranho vindo de você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é, na verdade é porque eu prometi para a Kasumi que brincaria com ela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Kasumi? ...Quer dizer a Yashiro?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, isso mesmo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você sabe onde a Yashiro mora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ela aparece para nós de vez em quando, mas ninguém sabe quem ela é ou onde fica na maior parte do tempo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, entendi...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você sabe?」"
+  },
+  {
+    "message": "...Provavelmente é melhor não dizer a ela que a garota está naquela sala com o cérebro."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hum... Bem... Ela é...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo. Você é um Super Soldado de Elite, então não seria estranho se soubesse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é! Com certeza!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Dizem os rumores que ela também está sob a supervisão direta da Professora Kouzuki.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso mesmo!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então me diga... O seu desempenho no simulador hoje também foi resultado de você ser um Super Soldado de Elite?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah, é... Quer dizer as pontuações de aptidão?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, agh, eu não tenho muita certeza sobre isso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo... Bem, você estava precisando de corda, não é? Venha esperar lá dentro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por mim, sem problemas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ué, é igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hm? O que você esperava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Algo chique para caramba.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É mesmo? Peço desculpas por decepcioná-lo... Ah, a propósito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você pode ter o barbante, mas conhece a cama de gato bem o bastante para ensiná-la?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah, é, bem lembrado... Mas tipo, foi isso que a Kasumi quis fazer, então...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por que não lhe ensina Shogi? É bastante divertido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi mal. Eu dei essa opção, mas ela não escolheu.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo. Talvez o Game Guy também teria tido utilidade aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Pode ser uma forma de treinamento, mas é altamente divertido. Não vejo nenhum problema em usá-lo como brinquedo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas não é exatamente seguro.\nVocê sabe disso melhor do que ninguém.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mmm... Ponto para você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Wahaha...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mesmo assim, o Game Guy é realmente magnífico.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Os projetores de retina são bem mais incríveis, se quer saber.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas o Game Guy é portátil e divertido... Tais qualidades são simplesmente inéditas para um terminal de treinamento. O uso engenhoso é o cerne de toda tecnologia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, acho que você tem razão.」"
+  },
+  {
+    "message": "Eu entendo o ponto de vista dela."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Mas eu me pergunto... por que a Professora não aplicou essas ideias em outros lugares...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá... Ela deve ter os motivos dela.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por que a Professora está no Exército da ONU? O que será que ela espera alcançar...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Perdão. Eu estava apenas falando sozinha... Aqui está o seu barbante.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Tudo bem. Não é minha intenção interrogá-lo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desculpa.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você não precisa se desculpar. No entanto, eu me pergunto... Foi aquela exibição de hoje que faz de você alguém 'especial'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ãh? Ah, quer dizer as notas de aptidão?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Exato. Nenhum humano comum sairia ileso de uma experiência tão chocante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não saberia dizer, sinceramente... Digo, se é realmente tão ruim quanto você diz, então talvez eu seja especial, mas... Eu não tenho certeza.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Entendo. Bem, você queria um barbante, correto? Venha esperar lá dentro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por mim, sem problemas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ué, é igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hm? O que você esperava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Algo chique para caramba.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「É mesmo? Peço desculpas por decepcioná-lo... Ah, a propósito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você pode ter o barbante, mas conhece a cama de gato bem o bastante para ensiná-la?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah, é, bem lembrado... Mas tipo, foi isso que a Kasumi quis fazer, então...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por que não lhe ensina Shogi? É bastante divertido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi mal. Eu dei essa opção, mas ela não escolheu.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo. É uma pena.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya, você sabe jogar cama de gato ou brincar de ioiô?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ficaria... um tanto ridículo se eu fizesse, com certeza.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ahahaha... É, acho que você tem razão...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Tá brava?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Seu bobo. Não havia necessidade de concordar comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi mal, foi mal.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não importa. Aqui está o seu barbante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh, grazie!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não precisa devolvê-lo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem certeza?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Absoluta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, se você diz...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Certifique-se de ensinar a Yashiro direito, hein. Entendido?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, vai dar tudo certo. Deixa comigo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não sei por que tanta confiança... mas dê lembranças à Yashiro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, pode deixar. Valeu pelo barbante!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eiíi, Tama〜!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Jaaá estou indo!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Boa noite, Takeru-san!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eh, ahm... desculpa vir incomodar com isso, mas você poderia me emprestar um pouco de barbante para jogar cama de gato?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Claro! Vai praticar um pouco?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Na verdade, gostaria de pegar dois emprestados, se você tiver sobrando.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tudo bem, sem problemas. Então você vai brincar com mais alguém?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Prometi pra Kasumi que ia brincar com ela.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Kasumi? Quer dizer a Yashiro-san?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, ela mesma.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Onde?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? Ah, bem... No quarto dela, eu imagino?」"
+  },
+  {
+    "message": "Provavelmente não foi uma boa ideia falar sobre aquele lugar, hein..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Você sabe onde fica o quarto dela, Takeru-san?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Bem, eu a vejo por aí de vez em quando, mas ela não fala muito... então parece que ela deve morar em algum lugar afastado do resto de nós.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... Provavelmente é verdade...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ela não é uma cadete, né? Eu sempre me perguntei o que ela está fazendo aqui, mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, eh... Bem... É que, hã...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, mas você é um Super Soldado de Elite, então faz todo sentido que você saiba, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é! Com certeza, cara!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Acho que isso explica os resultados de hoje no simulador também, hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Você não era o melhor cadete de todos!? Eu não acredito que aquela trepidação toda não te afetou em nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, acho que eu sou foda mesmo...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Você nem tinha percebido? Você é realmente um Super Soldado de Elite! Você é incrível!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ahaha...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, desculpa... Eh, entra aí e me dá um segundinho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-Claro...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Claro que é.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá, eu imaginei que você pudesse ter, tipo... uma cauda de gato ou algo assim pendurada na parede...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hã? Por que isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é uma longa história.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas enfim, Takeru-san — você tem certeza de que vai conseguir ensinar cama de gato para ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ééé, eu não tô muito confiante com isso também, mas foi o que a Kasumi pediu...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Seria legal se a gente tivesse aquele Game Guy.\nÉ tão divertido que dá até pra esquecer que é treinamento de verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Nada, sabe que não dá. A gente aprendeu na pele que eu sou o único ser humano capaz de aguentar aquilo.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Uuuuh... Desculpa por isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hahaha...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas eu me pergunto... por que a Professora Kouzuki nunca usou essa tecnologia em mais nenhum lugar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá, mas... tenho certeza de que ela tem os motivos dela.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É verdade... ela não quer muito cooperar com os militares, né...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, desculpa, não é nada... Certo, aqui está!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, tudo bem! Não se preocupa. Eu não tô tentando fuçar na sua vida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, beleza.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas eu tava pensando... Aquela sua performance de hoje faz parte do que te torna 'especial'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Digo, todo mundo ficou tão surpreso, sabe?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, sobre a pontuação de aptidão?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É, essa mesma! Você tirou a maior nota de todas!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Todo mundo fala isso, mas pra mim não foi grande coisa. Então nem parece que eu conquistei muita coisa.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É isso que é incrível.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Achas?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim! Ah... Desculpa, esqueci do seu cordão! Vem esperar lá dentro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-Claro...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Claro que é.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá, eu imaginei que você pudesse ter, tipo... uma cauda de gato ou algo assim pendurada na parede...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hã? Por que isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é uma longa história.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas enfim, Takeru-san — você tem certeza de que vai conseguir ensinar cama de gato para ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ééé, eu não tô muito confiante com isso também, mas foi o que a Kasumi pediu...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Entendi... Bom, aqui tem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh, grazie!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Pode ficar com isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério mesmo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É! De verdadezinha!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... droga. Não fica me imitando muito senão a Representante vai ficar brava com você.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah, é verdade... Mas é meio divertido, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo com moderação.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Olha quem fala, Takeru-san!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Wahaha... É, talvez sim. Beleza, acho que vou levar isso aqui então.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Isso, manda um abraço pra Yashiro-san por mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode deixar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamine〜? Tá aí〜?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Ayamine...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qualé...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera, de novo!?」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Drogaaa..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ayamineee〜! Ayamineee! Ayamine, Ayamine, Ayamineee...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Cala a boca, batedor de recordes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não precisaria gritar se você viesse atender a porta na hora.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Eu vim. Várias vezes, aliás.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E bateu a porta na minha cara! Ai, meu Deus... Mas tanto faz. Dá pra me emprestar um barbante pra jogo do elástico?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Jogo do elástico?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso. Dois, de preferência.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Pra quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pra brincar com a Kasumi.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Yashiro Kasumi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essa mesma.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Você sabe... onde fica o quarto dela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Huh? Ah, é... pois é...」"
+  },
+  {
+    "message": "Não que eu possa contar para a Ayamine sobre aquela sala com o cérebro."
+  },
+  {
+    "name": "Kei",
+    "message": "「Qual é a dessa garota?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Ela não é uma criança comum... Nem uma cadete...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, na verdade eu estou Tão perdido quanto você no que diz respeito a ela...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Quer dizer que há coisas que nem os Super Soldados de Elite sabem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, pois é.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Você estava mostrando seu verdadeiro poder no simulador hoje?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah-Ah, é... É, você me pegou.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「A Área 37 tem muitos terremotos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É Área 51. Se vai inventar merda, pelo menos inventa algo crível.」"
+  },
+  {
+    "message": "...Não que eu tenha moral para falar."
+  },
+  {
+    "name": "Kei",
+    "message": "「...Venha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, c-certo...」"
+  },
+  {
+    "message": "Ela é tão seca..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É totalmente diferente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Como assim?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「O-Olha cuidado!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quê!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mais um passo e você teria acionado uma mina terrestre.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......Sei.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Mas enfim... tem certeza de que pode ensinar cama de gato para ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Bem... Não tenho certeza, mas foi o que a Kasumi pediu.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「O Game Guy teria sido legal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ahh... Sei não, considerando o feitiço que ele lançou sobre você...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Me endireitei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, não posso te culpar tanto assim, né.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É incrível.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que os nossos projetores de retina são muito mais incríveis.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quem é que inventa um dispositivo que serve de terminal de treino e de entretenimento portátil ao mesmo tempo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Digo, o conceito é bem inovador, sim...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Por que a Professora tá escondendo isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai saber... Quer dizer, tentar analisar o processo de pensamento de uma cientista maluca...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Tem razão. Ninguém sabe de verdade o que se passa na cabeça da Professora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, pois é. Mas o mesmo vale pra você...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Imagino que ela realmente não queira ajudar os militares...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Nada. Enfim, toma.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você desistiu bem rápido.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Não adianta insistir...」"
+  },
+  {
+    "message": "...É, esse pessoal é bem irredutível quanto a essa parada de não intervenção na maior parte do tempo."
+  },
+  {
+    "name": "Kei",
+    "message": "「Mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Acho que você é realmente especial, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como assim?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Sua aptidão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, isso... Falando sério, aquela vibração toda simplesmente não me incomodou tanto. Acho meio difícil achar que isso tem algo de especial...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Tão modesto, o recordista?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha, e daí? Não é como se eu pudesse competir em qualquer outro departamento.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É verdade... Vamos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pelo menos finge que vai me defender.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É totalmente diferente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Como assim?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「O-Olha cuidado!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quê!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Mais um passo e você teria detonado uma granada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Tem um arame armadilha a dez centímetros do chão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mentira!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sério?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "............"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não tô vendo nada.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Por que você tá de quatro?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não disse que tinha um arame armadilha?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Tá escrito 'otário' no teto também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que você disseeeeee!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Mas enfim... tem certeza de que pode ensinar cama de gato para ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Bem... Não tenho certeza, mas foi o que a Kasumi pediu.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Coitado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que que foi isso agora?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Bom, dá o seu melhor... Toma.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh, grazie!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Guarda com você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério mesmo?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É... Só que eu quero o seu de volta depois.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ata, entendi.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que foi?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Essa resposta foi sem graça.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah é? Então eu não vou devolver.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Mmm... Justo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Até mais!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Mikoto!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Já vou!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, achei que podia ser você, Takeru! ...E aí, o que houve?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, pois é... Será que eu poderia emprestar uns cordões para jogar cama de gato?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Hã? Claro, por mim tudo bem. Mas o que você vai fazer com eles?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Tenho quase certeza que acabei de dizer o que vou fazer com eles.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Digo... mas por que você precisa de dois...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é verdade. Prometi pra Kasumi que ia brincar com ela.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Quem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, o nome dela é Yashiro Kasumi... Ela é, hã...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ahhh! Quer dizer a Kasumi-san?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não foi isso que eu acabei de dizer?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Poxa, seu bobão. Por que não disse logo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas eu...」"
+  },
+  {
+    "message": "...Deixa pra lá."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Sabe onde ela mora, Takeru?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Bom, quer dizer... É, por que a pergunta? Você não sabe?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ninguém sabe. Ela não é cadete e quase nunca diz uma palavra.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é. Faz sentido...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru... você sabe quem é a Kasumi-san? Ou o que ela está fazendo aqui?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã, é... Sobre isso...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa, claro! Você é tipo um Super Soldado de Elite! É óbvio que saberia!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É-É, isso mesmo.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Entããão... Então Super Soldados de Elite não enjoam, né. Isso é bem impressionante...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não vejo nada demais nisso, sinceramente.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Eu achei que ia desmaiar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, então você não desmaiou? Não precisou usar o saquinho de enjoo, né?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, então você disse que queria um barbante, né...? Entra aqui e espera.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza...」"
+  },
+  {
+    "message": "Vamos tentar ter uma conversa um pouco mais coerente desta vez, hein?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Claro que é. O que você esperava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá, talvez algumas lanças e escudos de alguma tribo indígena... Ah, e mais alguns...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Por que diabos você acha que eu teria coisas assim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você tem cara.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa. Essa foi... tipo, muita maldade. Mas enfim, você tem certeza de que sabe ensinar ela a brincar de cama de gato?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? É, a-hã... Bem certo eu não tô, mas foi o que a Kasumi quis fazer.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Quem dera a gente ainda tivesse o Game Guy...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, a fazer o quê... Não adianta chorar pelo leite derramado.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Digo, para um terminal de treinamento, aquilo era MUITO divertido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mas... tenho quase certeza de que ela ia acabar igualzinho a você se eu desse aquilo para ela.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ahahahaha... E-Eu ainda me sinto mal com aquilo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Relaxa, o que tá feito tá feito.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Mas os conceitos por trás do Game Guy são incríveis mesmo. Será que a Professora Kouzuki já pensou em usar isso em alguns dos nossos outros equipamentos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, vai saber... Aquela mulher é um mistério, afinal...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Vai ver... ela não quer muito saber de ajudar os militares, né...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ênf! Ah, n-não é nada!! Enfim, aqui está.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, se você não quer me contar, tudo bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É-É, valeu.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ata. Sabe, Takeru — os resultados de hoje têm a ver com o que te torna 'especial'?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer as notas de aptidão?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É, é isso mesmo. A primeira coisa com que todo mundo sofre ao pilotar TSFs é o enjoo que aquela vibração toda causa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não me diga...?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「É. Dizem que carros não dão enjoo quando você mesmo dirige... mas parece que a história é outra com os TSFs.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Porque eles chacoalham para todos os lados. É bem difícil até os dados começarem a se acumular.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Faz sentido.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「No começo não tinha mecanismos de feedback, então antigamente os pilotos de superfície tinham que se virar para aguentar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa, mas eu ainda não acredito que você tirou a nota mais alta da história! ...Ah, é verdade! Desculpa, você queria um cordão, né...? Espera aqui dentro um instante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã. É igualzinho ao meu quarto...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Claro que é. O que você esperava?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sei lá, talvez algumas lanças e escudos de alguma tribo indígena... Ah, e mais alguns...」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Por que diabos você acha que eu teria coisas assim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você tem cara.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Nossa. Essa foi... tipo, muita maldade. Mas enfim, você tem certeza de que sabe ensinar ela a brincar de cama de gato?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? É, a-hã... Bem certo eu não tô, mas foi o que a Kasumi quis fazer.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Ah, entendi. Desculpa, quem dera eu tivesse um manual de cama-de-gato para te emprestar...」"
+  },
+  {
+    "message": "Ahm... Tem um manual...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, não tem problema... Não há nada que possamos fazer quanto a isso. Dou um jeito.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Certo. Aqui está, então.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oh, grazie!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Uhum. E não precisa devolver, viu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério? Valeu.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Bom, é melhor você correr e ir ver ela agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm? Ah, é verdade. Acabei perdendo a noção do tempo... É melhor eu ir indo, então.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Certo. Bem, manda um abraço para a Kasumi-san por mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode deixar. Até mais!」"
+  },
+  {
+    "message": "...Hã?"
+  },
+  {
+    "message": "A porta não abre?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Hm?"
+  },
+  {
+    "message": "Que estranho...\nSerá que devia tentar a sala da Sensei?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Senhorita Profeseeeora...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai!」"
+  },
+  {
+    "message": "...Ai, ai, ai... Então essa sala também não deu em nada?"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ora, se não é o Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E aí, Sensei.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O que foi?\nVocê tá com o nariz e a testa tudo vermelho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu só dei uma batida com a cabeça na porta... A senhora tava no quarto da Kasumi, Sensei?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tava. E eu tava voltando pro meu escritório agora. Pode dar licença?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Pois não, desculpa.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Legal da sua parte vir até aqui, aliás. Mas receio que a Yashiro já esteja dormindo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Tá?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Hoje foi um dia meio desgastante pra ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, entendi...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「E eu tô com trabalho demais acumulado pra ficar de conversa com você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, ufa...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「'Ufa'? Nossa, que falta de educação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Opa, ato falho... Bom, acho que vou voltar pro quarto por hoje.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Aliás, eu vi os resultados dos seus testes de aptidão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, viu?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Agora eu tô com vontade de te dissecar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ênf?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Quero ver quão grosso é o seu couro. Você disse que aquela chacoalhada não te incomodou em nada, né? ...Você não é normal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é isso que vivem me dizendo.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Bom, finalmente você vai começar a treinar nos seus TSFs amados, então aproveite bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pode deixar.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Quando é mesmo que os seus modelos de treino vão chegar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「sei lá... Qualquer dia aí.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Hmm... Parece que você não tá com pressa nenhuma.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não que eu possa fazer com que cheguem mais rápido...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Essas coisas são que nem carros. O melhor jeito de aprender é pulando dentro e sentindo na prática.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada...」"
+  },
+  {
+    "message": "É verdade."
+  },
+  {
+    "message": "É melhor aprender esse tipo de coisa com experiência prática do que lendo um manual, né?"
+  },
+  {
+    "message": "Acho que a Sensei concorda."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então a memória muscular é o mais importante, é?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Eu não acabei de dizer isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas tem que ter alguma diferença entre carros e TSFs...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Em vez de ficar criando um diagrama de Venn, que tal usar esse tempo para ganhar mais experiência de pilotagem?」"
+  },
+  {
+    "message": "...Bem pensado."
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Bom, tanto faz. Tchauzinho...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tchau.」"
+  },
+  {
+    "message": "Caramba... A Kasumi nem tá acordada...\nQue droga. Eu tava ansioso para ver ela.\nFaz parte. Acho melhor eu ir dormir."
+  },
+  {
+    "message": "Tudo bem, Representante?"
+  },
+  {
+    "message": "Tudo bem, Meiya?"
+  },
+  {
+    "message": "Ei, Mikoto..."
+  },
+  {
+    "message": "Tamaaa? Ainda tá viva?"
+  },
+  {
+    "message": "Ayamine...? Ainda tá viva?"
+  },
+  {
+    "message": "Acho que vou pegar emprestado da Representante..."
+  },
+  {
+    "message": "Acho que vou pegar emprestado um pouco da Meiya..."
+  },
+  {
+    "message": "Acho que vou pegar emprestado da Tama..."
+  },
+  {
+    "message": "Acho que vou pegar emprestado da Ayamine..."
+  },
+  {
+    "message": "Acho que vou pegar emprestado do Mikoto..."
+  }
+]

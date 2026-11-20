@@ -1,0 +1,629 @@
+{
+  "schema_version": 1,
+  "version": "1.0.0",
+  "language": "pt-BR",
+  "game": "Muv-Luv (Extra / Unlimited) — Steam 2016 + Director's Cut",
+  "required_executable": "muvluv16.exe",
+  "required_overlay": "muvluv16.rio.drcruo1",
+  "expected_base_ruo_sha256": "57a9cc354300a3f4ac680332b3c0cb6a3ef751823a1622f6f95644ac3ad83765",
+  "expected_base_ruo_size": 359226836,
+  "expected_exe_sha256": "0bfb31f2127d1ac4039f13097a137471838256128a63012c9ff44e5dac7f4b71",
+  "unit_size": 2,
+  "file_count": 102,
+  "total_entries": 63242,
+  "translation_dir": "translation",
+  "files": [
+    {
+      "filename": "000_UI_System_Menus.json",
+      "entry_count": 48,
+      "wait_tag_count": 0,
+      "sha256": "06d07a9061a473888ca830722f389f31032c160bca6d01e2450ca5fcc24921f8"
+    },
+    {
+      "filename": "001_Extra_Prologue_ADBA7DB4.json",
+      "entry_count": 64,
+      "wait_tag_count": 2,
+      "sha256": "824daf8e658abe920be7140e259f8f026dfb2c17d55fca707b1e063db70c1cc7"
+    },
+    {
+      "filename": "002_Extra_10-21_Sun_AE2241E3.json",
+      "entry_count": 406,
+      "wait_tag_count": 0,
+      "sha256": "cb2a45e9734cb33d6568b0b06c14aa87b21525a5fbb2b378962de0fd75ab7dd4"
+    },
+    {
+      "filename": "003_Extra_10-22_Mon_BD86DE07.json",
+      "entry_count": 681,
+      "wait_tag_count": 0,
+      "sha256": "499f62fa5e654d808e70d343c23adf8abc858eec1214c1b1fd7fe9ed4c1ef8e5"
+    },
+    {
+      "filename": "004_Extra_10-22_Tue_C1162476.json",
+      "entry_count": 1294,
+      "wait_tag_count": 0,
+      "sha256": "332edd82030cfd07ba0c60a4296a29b5dff43c14fa67a57b061a571e66dfa5c9"
+    },
+    {
+      "filename": "005_Extra_10-24_Wed_C7A90796.json",
+      "entry_count": 1455,
+      "wait_tag_count": 0,
+      "sha256": "26502a632725d8b3701c5351d7d79f89f128b08151f61ba6e1b4e2099372469b"
+    },
+    {
+      "filename": "006_Extra_10-25_Thu_C9D09A7D.json",
+      "entry_count": 2025,
+      "wait_tag_count": 0,
+      "sha256": "b87abcee143b92feb07755ed05bbcb94e05a7a7ef8ea86d2fc0b180f7b5eda29"
+    },
+    {
+      "filename": "007_Extra_10-26_Fri_CB4D8762.json",
+      "entry_count": 376,
+      "wait_tag_count": 0,
+      "sha256": "455db6bad392783855a0476c9303371244a6dd7d75cf56492b244ef15d1009c5"
+    },
+    {
+      "filename": "008_Extra_10-27_Sat_CC202E9E.json",
+      "entry_count": 739,
+      "wait_tag_count": 0,
+      "sha256": "324ab273b6d9492f41b54163a98fdf521b1c4315b2dd86595a1e355d3485c65f"
+    },
+    {
+      "filename": "009_Extra_10-28_Sun_CD3547FD.json",
+      "entry_count": 1538,
+      "wait_tag_count": 0,
+      "sha256": "67f969ea4236a7b8982eee1f5172ea577c0ddeb0539c1c6107032d6bb445dee6"
+    },
+    {
+      "filename": "010_Extra_10-29_Mon_CEA13C20.json",
+      "entry_count": 597,
+      "wait_tag_count": 0,
+      "sha256": "dc8bc8d23bfcf6764c2cd11fe8bc563141ad9459511c1a4af5c0c37ef8f33f72"
+    },
+    {
+      "filename": "011_Extra_10-30_Tue_CF61A1BF.json",
+      "entry_count": 748,
+      "wait_tag_count": 0,
+      "sha256": "ec2f9f174814f1796385b739ccbcbe6f57b2857be2aac41fdf0bcb7a9d0b9238"
+    },
+    {
+      "filename": "012_Extra_10-31_Wed_CFFA5D54.json",
+      "entry_count": 1154,
+      "wait_tag_count": 0,
+      "sha256": "d48394246b295f648c33bfe5f904e3bfec7be8b61b1b8e66ae36702234816934"
+    },
+    {
+      "filename": "013_Extra_11-1_Thu_D08B80D5.json",
+      "entry_count": 646,
+      "wait_tag_count": 0,
+      "sha256": "d8005c4e5d2747ede17d18ab90801f8d2ad3deec970238f9628e0e7307a96f6d"
+    },
+    {
+      "filename": "014_Extra_11-2_Fri_D19BECBC.json",
+      "entry_count": 634,
+      "wait_tag_count": 0,
+      "sha256": "1bffb771bfd151bc1a86d124cd8611a53f00d82e25d97a8e600e6a4c80a61f37"
+    },
+    {
+      "filename": "015_Extra_11-3_Sat_D2A8B757.json",
+      "entry_count": 589,
+      "wait_tag_count": 0,
+      "sha256": "ffccce305d3483db99fb696c9e5eb5676e450ba4b21ed3c438cfd956f5b2f5d0"
+    },
+    {
+      "filename": "016_Extra_11-4_Sun_D304ECCD.json",
+      "entry_count": 641,
+      "wait_tag_count": 0,
+      "sha256": "b267c4538f994974ee1b4d63688a53b07d35f6104d36f4f9f927d13f354968a7"
+    },
+    {
+      "filename": "017_Extra_11-5_Mon_D3C5A2D2.json",
+      "entry_count": 202,
+      "wait_tag_count": 0,
+      "sha256": "bc04634866815a6f1208cc7b4fa1b08fd20d0ea7b7caebe06105800ff88841e4"
+    },
+    {
+      "filename": "018_Extra_11-9_Fri_D3C61C56.json",
+      "entry_count": 28,
+      "wait_tag_count": 0,
+      "sha256": "6703b8875b8dba843a00e3c6da4ec5d6d58c9f940d763532065bd4ce6dc34141"
+    },
+    {
+      "filename": "019_Extra_11-7_Wed_D3C63873.json",
+      "entry_count": 499,
+      "wait_tag_count": 0,
+      "sha256": "7731d4bb6f31d2d2dd0cdb6113542ba01de78cdd86c32af74cc317e914c7e01c"
+    },
+    {
+      "filename": "020_Extra_11-6_Tue_D4199BAF.json",
+      "entry_count": 489,
+      "wait_tag_count": 0,
+      "sha256": "95ee46a5cb1fe5281c5a194f87304c0891ad09c4d51255c9c7ebeec5910fabe8"
+    },
+    {
+      "filename": "021_Extra_11-8_Thu_D46812B0.json",
+      "entry_count": 319,
+      "wait_tag_count": 0,
+      "sha256": "bb8e3b921eeac63e53af524f3ee636673cdf6e72ad2ec9085ddc77206696fea8"
+    },
+    {
+      "filename": "022_Extra_11-7_Wed_D4B122DE.json",
+      "entry_count": 238,
+      "wait_tag_count": 0,
+      "sha256": "0ebb0b58807972556627706263a7418540e67c33634bbd81413cc75910018b6d"
+    },
+    {
+      "filename": "023_Extra_11-9_Fri_D519E9D9.json",
+      "entry_count": 1329,
+      "wait_tag_count": 0,
+      "sha256": "b81225f1eb67dccf6810d974456cc77f4405802dd87ae13a2cc98e5019b5f404"
+    },
+    {
+      "filename": "024_Extra_11-9_Fri_D53CBD66.json",
+      "entry_count": 623,
+      "wait_tag_count": 0,
+      "sha256": "1709cd3a81ea2f09146ebe59b3c69f9806557d5fb495baecb6077a171f51ea5d"
+    },
+    {
+      "filename": "025_Extra_11-10_Sat_D598AA4E.json",
+      "entry_count": 655,
+      "wait_tag_count": 0,
+      "sha256": "86f69befdb41b488ab3e7bed4e4165a988b6b06aaa4ec34e01315c6dd167378b"
+    },
+    {
+      "filename": "026_Extra_11-10_Sat_D5C1BD57.json",
+      "entry_count": 658,
+      "wait_tag_count": 0,
+      "sha256": "cad71710b8f3c09ea3cc9dc2718caafb78475f3b6cfda2c1500b1e7d3b5122cf"
+    },
+    {
+      "filename": "027_Extra_Epilogue_D5C363D7.json",
+      "entry_count": 58,
+      "wait_tag_count": 0,
+      "sha256": "f03d8145396c50892739ce8e32719b31746bf3f2c01412f91c6660f253b83fe6"
+    },
+    {
+      "filename": "028_Extra_11-10_Sat_D5D04D5D.json",
+      "entry_count": 380,
+      "wait_tag_count": 0,
+      "sha256": "e389620fd8cf84492d681718e9f023ec5a3f5645393709036ac5ac17484df62d"
+    },
+    {
+      "filename": "029_Extra_11-12_Mon_D626B6B6.json",
+      "entry_count": 270,
+      "wait_tag_count": 0,
+      "sha256": "56366f4b9074397e1ace4f5d047dce5ee2a68573d3b1d8f0712776279ac43d46"
+    },
+    {
+      "filename": "030_Extra_11-12_Mon_D6806801.json",
+      "entry_count": 567,
+      "wait_tag_count": 0,
+      "sha256": "fe6aa02435db5df7dbe9dffe13ebc2662c135931891413ae4bcb916e1ec73e35"
+    },
+    {
+      "filename": "031_Extra_11-12_Mon_D6BA06A0.json",
+      "entry_count": 183,
+      "wait_tag_count": 0,
+      "sha256": "d0125f531216af0cfbe1e408f0332c3c64a74116bc29576ab0dfa7f3cc80dabe"
+    },
+    {
+      "filename": "032_Extra_11-26_Mon_D747B416.json",
+      "entry_count": 314,
+      "wait_tag_count": 0,
+      "sha256": "1b0ee4d2b9b5787e39e5ee84c248966b1a71b2bac113be74873011e918c974a0"
+    },
+    {
+      "filename": "033_Extra_11-13_Tue_D77C88FB.json",
+      "entry_count": 283,
+      "wait_tag_count": 0,
+      "sha256": "69f27d19c2d981575aa8d66f245a3644f32c7d673e0c16af068f1ff41fefd7de"
+    },
+    {
+      "filename": "034_Extra_11-13_Tue_D79EDD48.json",
+      "entry_count": 787,
+      "wait_tag_count": 0,
+      "sha256": "f72ff9bf783c3c1a78a0e2cadf668d9fb0f2761b17e498bec9ebed4444f172b9"
+    },
+    {
+      "filename": "035_Extra_11-13_Tue_D7BCAADE.json",
+      "entry_count": 405,
+      "wait_tag_count": 0,
+      "sha256": "8736892d96ae216a417d4e9b36764782628fd4ab434af97d24947ba9e76c1f47"
+    },
+    {
+      "filename": "036_Extra_11-27_Tue_D817BB8A.json",
+      "entry_count": 149,
+      "wait_tag_count": 0,
+      "sha256": "3651139afbd036ea64900273a0ef1fc82d95fc17d9269f55096c272a70a04e3c"
+    },
+    {
+      "filename": "037_Extra_11-14_Wed_D8525ADA.json",
+      "entry_count": 142,
+      "wait_tag_count": 0,
+      "sha256": "862703880a0b6ac6411e7b932c050b29d0ddb5c7f32011d554b6a717578e98b5"
+    },
+    {
+      "filename": "038_Extra_11-14_Wed_D887F100.json",
+      "entry_count": 609,
+      "wait_tag_count": 0,
+      "sha256": "7df1fba2003c005ae906461eddd6880b1cb90678aca7c15fc47dff4124a92f07"
+    },
+    {
+      "filename": "039_Extra_11-14_Wed_D8BF9161.json",
+      "entry_count": 488,
+      "wait_tag_count": 0,
+      "sha256": "fe33182ea8bf2403d41469b775add82917e43b72e647b8a5d5afcdbcd202975c"
+    },
+    {
+      "filename": "040_Extra_11-28_Wed_D8F03E2D.json",
+      "entry_count": 122,
+      "wait_tag_count": 0,
+      "sha256": "cc80d38a452f0f9f574f4a7dd99c457ef283c26b26bc8526f0414e77762b45fc"
+    },
+    {
+      "filename": "041_Extra_11-12_Mon_D90847ED.json",
+      "entry_count": 331,
+      "wait_tag_count": 0,
+      "sha256": "d19d8567e97b40534097d22fa225dabd7e17e50b658eade0a1d3c9d80b94ebd8"
+    },
+    {
+      "filename": "042_Extra_11-15_Thu_D934764A.json",
+      "entry_count": 419,
+      "wait_tag_count": 0,
+      "sha256": "8b1a38f27f6a0134cf5c49ae9fa4ee077fcc5e48236ad46f3e8df8bc5325cca0"
+    },
+    {
+      "filename": "043_Extra_11-15_Thu_D96C1E41.json",
+      "entry_count": 830,
+      "wait_tag_count": 0,
+      "sha256": "cfc2dc9559b25158ca008d3315591319fe523071aea058fa540c39789c26e16a"
+    },
+    {
+      "filename": "044_Extra_11-29_Thu_D9A0422D.json",
+      "entry_count": 294,
+      "wait_tag_count": 0,
+      "sha256": "3a40a7df361f839ccd7c64a70ea5ce7a39ad58e73ab647f0e1754331da75519a"
+    },
+    {
+      "filename": "045_Extra_11-18_Sun_D9B242BD.json",
+      "entry_count": 279,
+      "wait_tag_count": 0,
+      "sha256": "109937c38dc913397d3cdcf092d5807ab0899895819d084aea2f7f99a67cb786"
+    },
+    {
+      "filename": "046_Extra_11-16_Fri_D9D8DCF1.json",
+      "entry_count": 1057,
+      "wait_tag_count": 0,
+      "sha256": "662e015b9a992ad8a60deeda21098a80373267518d524dd285cdd0842e3d0e4e"
+    },
+    {
+      "filename": "047_Extra_11-16_Fri_DA227176.json",
+      "entry_count": 335,
+      "wait_tag_count": 0,
+      "sha256": "8a96ea259eb48348ea49fdf0b3ef144e1c8a62d4804232f6afcb03b1c2c9163c"
+    },
+    {
+      "filename": "048_Extra_11-30_Fri_DAA8CD45.json",
+      "entry_count": 368,
+      "wait_tag_count": 0,
+      "sha256": "eaae433ead70421da38f3de349513f7f74b0d3cca2e91b97d0b338aacc4a404f"
+    },
+    {
+      "filename": "049_Extra_11-19_Mon_DAC8C0DE.json",
+      "entry_count": 461,
+      "wait_tag_count": 0,
+      "sha256": "aeeb5e1c4a91f59fea5d28bf4d6cf14da3c9720eb61e1559976418bbde1953e0"
+    },
+    {
+      "filename": "050_Extra_Epilogue_DB2B842F.json",
+      "entry_count": 83,
+      "wait_tag_count": 0,
+      "sha256": "ca93e479d1cd03ecf409a610ae48802add44407941a0ff734ac88305488bd246"
+    },
+    {
+      "filename": "051_Extra_11-17_Sat_DB654C1C.json",
+      "entry_count": 1416,
+      "wait_tag_count": 0,
+      "sha256": "2544e370d9e11d6957bb32d88adf9e9ddf5af241ba9875e3f06848686ce5e6c5"
+    },
+    {
+      "filename": "052_Extra_12-7_Fri_DBB62E8E.json",
+      "entry_count": 319,
+      "wait_tag_count": 0,
+      "sha256": "1f59e827c17b059af2d4a47b994d09f2a7acd7be9965dda98612e113bb0c7427"
+    },
+    {
+      "filename": "053_Extra_Epilogue_DBF40EDA.json",
+      "entry_count": 183,
+      "wait_tag_count": 0,
+      "sha256": "f6dca354a5ae74e0b56c73987ba66ac0c6004d4fab6abe70119daa1cd44a217f"
+    },
+    {
+      "filename": "054_Extra_Epilogue_DC7A1696.json",
+      "entry_count": 221,
+      "wait_tag_count": 0,
+      "sha256": "76534c7d9441ff1af33fa7dd95680b79507f199cf50f390da95dba70d0a88e93"
+    },
+    {
+      "filename": "055_Extra_12-10_Mon_DD2DDC7A.json",
+      "entry_count": 496,
+      "wait_tag_count": 0,
+      "sha256": "72fca16d2be7006fc9f9725dd65dad2330da19d85ae87ebe78c4ea452dbe5eba"
+    },
+    {
+      "filename": "056_Extra_12-15_Sat_DDF7B4B6.json",
+      "entry_count": 303,
+      "wait_tag_count": 0,
+      "sha256": "fddef0e7fe560165c969b7edb1f40f8c608d3426ed85094ccc95d1102ccc36f9"
+    },
+    {
+      "filename": "057_Extra_12-16_Sun_DE47C256.json",
+      "entry_count": 355,
+      "wait_tag_count": 0,
+      "sha256": "2144fce7da43bb0e83c938082b3ccaeead20df912693f30237876d62b2e41730"
+    },
+    {
+      "filename": "058_Extra_12-19_Wed_DE78A3AF.json",
+      "entry_count": 1051,
+      "wait_tag_count": 0,
+      "sha256": "178e971892c5dc3cc76718d1a8a3f8a9d86c1d5110a36275ca71a53915e58176"
+    },
+    {
+      "filename": "059_Extra_12-20_Thu_DF335426.json",
+      "entry_count": 489,
+      "wait_tag_count": 0,
+      "sha256": "f8ae22bfdf3aecdaa513195bc1f5b1faccfae2b1c5d90aff35097960a040f8b6"
+    },
+    {
+      "filename": "060_Extra_12-21_Fri_DFC99241.json",
+      "entry_count": 726,
+      "wait_tag_count": 0,
+      "sha256": "afadc52367cb8b8507be1886264d16cbba1fb889d97ca33f131edef581a8acbf"
+    },
+    {
+      "filename": "061_Extra_12-22_Sat_E0557B28.json",
+      "entry_count": 201,
+      "wait_tag_count": 0,
+      "sha256": "99fe1c2aeee9d8503f7ec3b7829d2cfc3baa8eceed53bec23aa8c62727e55bb4"
+    },
+    {
+      "filename": "062_Extra_12-23_Sun_E0BDA6D0.json",
+      "entry_count": 567,
+      "wait_tag_count": 0,
+      "sha256": "db7b470792dbbfdaab4c25251cb2fde7de43e2d8e3ad367c596af46ff0bbd00b"
+    },
+    {
+      "filename": "063_Extra_Epilogue_E137F84B.json",
+      "entry_count": 534,
+      "wait_tag_count": 0,
+      "sha256": "6a7b462fc40edfc733611241f4c2e171650e05a0851e0f16826594bcdbef81ac"
+    },
+    {
+      "filename": "064_Extra_Epilogue_E138A98F.json",
+      "entry_count": 858,
+      "wait_tag_count": 0,
+      "sha256": "5b6d1bc757c09d80987420e4d49d37260ad6a6689c6cb1bcfe09e1d2449c6002"
+    },
+    {
+      "filename": "065_Unlimited_Prologue_E369AB8F.json",
+      "entry_count": 33,
+      "wait_tag_count": 0,
+      "sha256": "d177f7a228e4225e656928709eaddb3492a55c3b1d24192ba22fd32e2502379a"
+    },
+    {
+      "filename": "066_Unlimited_10-25_Thu_E369C086.json",
+      "entry_count": 726,
+      "wait_tag_count": 0,
+      "sha256": "86f001b291cb1ac323b65f9ceb8c98f59d2448f047920c39f27f9bc5c5e711f6"
+    },
+    {
+      "filename": "067_Unlimited_10-26_Fri_E423A6A2.json",
+      "entry_count": 605,
+      "wait_tag_count": 0,
+      "sha256": "8f4e3d3c100d90fe5648ca4280d658af95639a4597ca311a2ffb31251b0163c6"
+    },
+    {
+      "filename": "068_Unlimited_11-1_Thu_E4D2A643.json",
+      "entry_count": 794,
+      "wait_tag_count": 0,
+      "sha256": "f8803b266186b6cb66bf684c6e884028c97f7493bb437d0817f20fa3f3771d7b"
+    },
+    {
+      "filename": "069_Unlimited_11-2_Fri_E5FB9A4E.json",
+      "entry_count": 846,
+      "wait_tag_count": 0,
+      "sha256": "f0df7f322b21edc58d7c42984f6653386cebaa04ce29e38432c49a2a30612a83"
+    },
+    {
+      "filename": "070_Unlimited_11-3_Sat_E6AE137F.json",
+      "entry_count": 1905,
+      "wait_tag_count": 0,
+      "sha256": "a32c950f2294f69a77f48f0084784beb5bc98608c66b9700bac20bee11e27d65"
+    },
+    {
+      "filename": "071_Unlimited_11-4_Sun_E7581D9B.json",
+      "entry_count": 2589,
+      "wait_tag_count": 0,
+      "sha256": "dde3d3bbbc1761ddf1636de48c56aea94c1e5fe84ad89d9068f00b84b9ac73f2"
+    },
+    {
+      "filename": "072_Unlimited_11-11_Sun_E86BBB75.json",
+      "entry_count": 381,
+      "wait_tag_count": 0,
+      "sha256": "b97d682cfde93906f2cf7bf2f3897094c21719daf8d66b7ac6cafeccc11a52f5"
+    },
+    {
+      "filename": "073_Unlimited_11-16_Fri_E96CA29A.json",
+      "entry_count": 37,
+      "wait_tag_count": 0,
+      "sha256": "d594063aa8002931844005b6b9a1656451c4ee5018729e4a17438a7ba9ab6e52"
+    },
+    {
+      "filename": "074_Unlimited_11-17_Sat_E9A049BB.json",
+      "entry_count": 304,
+      "wait_tag_count": 0,
+      "sha256": "f9b810c705706c57b33ec27930074ba52c24b620e954ae1f35fd8d2b603eb46f"
+    },
+    {
+      "filename": "075_Unlimited_11-18_Sun_EA10FDB0.json",
+      "entry_count": 409,
+      "wait_tag_count": 0,
+      "sha256": "ccd8ebf930ab6e359d2666cdee7e2e9ffedeaa33e5e68626f4bb519dc48ab331"
+    },
+    {
+      "filename": "076_Unlimited_11-19_Mon_EA5A7AEA.json",
+      "entry_count": 273,
+      "wait_tag_count": 0,
+      "sha256": "fb4eb39c51067f8753c9ffded9e3413d198fcc84ebadf48b327c64539ed12963"
+    },
+    {
+      "filename": "077_Unlimited_11-20_Tue_EA7DE25D.json",
+      "entry_count": 1086,
+      "wait_tag_count": 0,
+      "sha256": "f44269997ce371140dd3a449055a8529b9264175a9a511e0f88814feb88a32ed"
+    },
+    {
+      "filename": "078_Unlimited_11-21_Wed_EADCD753.json",
+      "entry_count": 358,
+      "wait_tag_count": 0,
+      "sha256": "060a7d609097f09470ffb66125b39656c1f174c1be7e6e910045c08435266ce2"
+    },
+    {
+      "filename": "079_Unlimited_11-22_Thu_EB69FDF0.json",
+      "entry_count": 325,
+      "wait_tag_count": 0,
+      "sha256": "4d219b43e1d97ad76c5177add71f7643d4dd714a9318a03ab301393d7a457f80"
+    },
+    {
+      "filename": "080_Unlimited_11-23_Fri_EBAD5ADF.json",
+      "entry_count": 289,
+      "wait_tag_count": 0,
+      "sha256": "332406fe80b7ee169a9e935271f9405a208b20fda2903f701b0700d32f73c0c4"
+    },
+    {
+      "filename": "081_Unlimited_11-24_Sat_EBCB1077.json",
+      "entry_count": 1099,
+      "wait_tag_count": 0,
+      "sha256": "de70dc68d67acebde6beae1acce08db8255c386b06ce66fff650baa11f285f9f"
+    },
+    {
+      "filename": "082_Unlimited_11-25_Sun_ECC6BF00.json",
+      "entry_count": 153,
+      "wait_tag_count": 0,
+      "sha256": "d977570d205752a8abc162e892bd3f55801e9669843a2ce5fa0b64d7a5d7d863"
+    },
+    {
+      "filename": "083_Unlimited_11-27_Tue_ED58A5B3.json",
+      "entry_count": 573,
+      "wait_tag_count": 0,
+      "sha256": "ca17b9a4a3faa519f35a4aee7397bebfc7495d6b16699dee2480ede5f55ed53e"
+    },
+    {
+      "filename": "084_Unlimited_11-28_Wed_EE30B191.json",
+      "entry_count": 419,
+      "wait_tag_count": 0,
+      "sha256": "e40b3bbf5c865e49322394631d65872376221e8c2ac763a801ebc401f2a0e2bd"
+    },
+    {
+      "filename": "085_Unlimited_11-30_Fri_EEA2795F.json",
+      "entry_count": 1131,
+      "wait_tag_count": 0,
+      "sha256": "37d152b5c6a0e3c3a6decde8e084dc54c8c4bfccdaab1fb1b15188f3b20dbca2"
+    },
+    {
+      "filename": "086_Unlimited_12-2_Sun_F0E9F780.json",
+      "entry_count": 400,
+      "wait_tag_count": 0,
+      "sha256": "b8e10e7ce55312b52b87f7b15ddfa2fc4d91df59c0c37d044ebe0b8fc11adeb1"
+    },
+    {
+      "filename": "087_Unlimited_12-3_Mon_F1F531D1.json",
+      "entry_count": 262,
+      "wait_tag_count": 0,
+      "sha256": "1baf2b655280306c717ca13d3c2432497486d4d54d8a292dfe7445018f5f683b"
+    },
+    {
+      "filename": "088_Unlimited_12-4_Tue_F22D8EE8.json",
+      "entry_count": 57,
+      "wait_tag_count": 0,
+      "sha256": "4bbe2d4be6da1a2db83fe8493e7f0c0f2e736991a7f6e803f03cd1e2002b8e93"
+    },
+    {
+      "filename": "089_Unlimited_12-5_Wed_F256B8F2.json",
+      "entry_count": 139,
+      "wait_tag_count": 0,
+      "sha256": "6dda79903847a95d6e6a2f0cf8c932b32164fabdeb9223536344069c7cc8a41e"
+    },
+    {
+      "filename": "090_Unlimited_12-6_Thu_F25FF42D.json",
+      "entry_count": 920,
+      "wait_tag_count": 0,
+      "sha256": "2b464ba3cb8aad637af51facc7fef39b7403b151e0f73cb0e93c917bc852c6a6"
+    },
+    {
+      "filename": "091_Unlimited_12-7_Fri_F287D4C5.json",
+      "entry_count": 277,
+      "wait_tag_count": 0,
+      "sha256": "fcb05157831793dea5b5797760fe7d358d090b762c582de2c75fe703d5c64a3d"
+    },
+    {
+      "filename": "092_Unlimited_12-9_Sun_F4548A6B.json",
+      "entry_count": 268,
+      "wait_tag_count": 0,
+      "sha256": "d707899bdf1c06c15988ecb031fb3c8e2c8aabc5006ed6a833d42a62ecbe4d85"
+    },
+    {
+      "filename": "093_Unlimited_12-10_Mon_F4EABE34.json",
+      "entry_count": 907,
+      "wait_tag_count": 0,
+      "sha256": "e77c4cc53c9819274ac5bfd768cda13c5dff84a05775ac774e04ef34ea4deb92"
+    },
+    {
+      "filename": "094_Unlimited_12-11_Tue_F753A3B3.json",
+      "entry_count": 165,
+      "wait_tag_count": 0,
+      "sha256": "f8e462e2a04fd680310468583bb72ac62d3c3ebd25d41ffaeb389d47c45f0271"
+    },
+    {
+      "filename": "095_Unlimited_12-16_Sun_F7DA77E6.json",
+      "entry_count": 82,
+      "wait_tag_count": 0,
+      "sha256": "a2aca3caa80a22696a14fd73e18ba3e3f00545746d1a375e96272656ac24e7ac"
+    },
+    {
+      "filename": "096_Unlimited_12-19_Wed_F7F40287.json",
+      "entry_count": 123,
+      "wait_tag_count": 0,
+      "sha256": "0b65f77e52407cd5fbc85d0d456b89bd12fb2ae34c151883425528a8aae127e6"
+    },
+    {
+      "filename": "097_Unlimited_12-20_Thu_F7F6711F.json",
+      "entry_count": 58,
+      "wait_tag_count": 0,
+      "sha256": "9c835de66e0073ad0b886117726d05534f1a6bfdf2ba173fcdcb13bb42dfcc83"
+    },
+    {
+      "filename": "098_Unlimited_12-22_Sat_F806EEC3.json",
+      "entry_count": 331,
+      "wait_tag_count": 0,
+      "sha256": "0522079c6b3db94160e5a641e5fd86ecfe60881b96d6b0825ca66750357bf863"
+    },
+    {
+      "filename": "099_Unlimited_12-24_Mon_F8107CB5.json",
+      "entry_count": 6631,
+      "wait_tag_count": 0,
+      "sha256": "5af9e835fbf1fb65355104528f935cff5711e12127726dc141ec7fef926a2916"
+    },
+    {
+      "filename": "100_Unlimited_Epilogue_F9D9BFFE.json",
+      "entry_count": 2559,
+      "wait_tag_count": 0,
+      "sha256": "f753847fb60046f82221820fdf48a5d0bf8735058ff3db43f0bdb3eaf773a6cc"
+    },
+    {
+      "filename": "101_Scene_FC842B22.json",
+      "entry_count": 120,
+      "wait_tag_count": 0,
+      "sha256": "8fe6ddd9fd04c02878e5b07be1bf39bf0cbb17c87710a7a5302445287c61506e"
+    }
+  ]
+}

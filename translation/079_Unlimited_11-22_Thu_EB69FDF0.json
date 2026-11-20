@@ -1,0 +1,1170 @@
+[
+  {
+    "message": "Unlimited 22/11 (Qui)"
+  },
+  {
+    "message": "Nosso novo ponto de evacuação fica em uma pequena ilha, completamente separada da principal."
+  },
+  {
+    "message": "E como se isso não bastasse, ela é cercada por penhascos super íngremes em todos os lados..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Os penhascos do nosso lado também são bem íngremes... É uma longa queda até o nível do mar..."
+  },
+  {
+    "message": "Ah, e como um bônus..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esta ponte está caindo aos pedaços...」"
+  },
+  {
+    "message": "Dá a impressão de que, mesmo se atravessarmos um de cada vez, ainda vai ser arriscado."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「A gente... consegue mesmo andar nisso aqui?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Se usarmos uma corda nova para consertá-la, talvez a gente consiga melhorar um pouco...」"
+  },
+  {
+    "message": "É, mas isso não significa necessariamente que vai ser seguro atravessar..."
+  },
+  {
+    "name": "Miki",
+    "message": "「A ponte lá do fundo é de metal.」"
+  },
+  {
+    "message": "...É mesmo."
+  },
+  {
+    "message": "Mesmo dessa distância, aquele arco de metal desbotado lá no fundo dá para ver claramente."
+  },
+  {
+    "message": "Parece que ela também liga àquela outra ilhazinha."
+  },
+  {
+    "message": "Eu definitivamente preferiria usar uma ponte com uma base sólida."
+  },
+  {
+    "message": "E não uma que parece que pode ser derrubada por uma brisa leve."
+  },
+  {
+    "message": "Eu não tocaria nessa coisa nem com uma vara de dez metros."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Só dizendo, mas eu preferir de verdade usar aquela outra ponte.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「No entanto... perderíamos muito tempo simplesmente chegando lá.」"
+  },
+  {
+    "message": "...É verdade."
+  },
+  {
+    "message": "A costa tem muitas voltas e reviravoltas. Seria uma caminhada bem longa chegar até a de metal."
+  },
+  {
+    "message": "Atravessar esta ponte capenga economizaria bastante tempo, mas..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Acho que seria mais sensato consertar esta ponte com a corda e correr para atravessar. Não podemos nos dar ao luxo de perder mais tempo.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Você tem razão.」"
+  },
+  {
+    "message": "Bem, já que temos os meios para consertá-la, faz muito mais sentido atravessar por aqui."
+  },
+  {
+    "message": "...O problema é saber se realmente poderemos usá-la com um conserto tão precário."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Yoroi, Ayamine — vocês duas vão trabalhar no conserto da ponte.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Entendido, capitã〜!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Entendido.」"
+  },
+  {
+    "message": "As duas pegam a corda e vão em direção à ponte."
+  },
+  {
+    "message": "Caramba, elas são rápidas... parecem esquilos correndo pelos galhos das árvores."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Representante.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Eu preferiria muito ser chamada de líder de esquadrão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Supondo que a gente consiga atravessar, o que vamos fazer com a bateria automática?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O mais rápido seria chegar por trás e destruí-la por completo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quem vai fazer isso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Está se oferecendo como voluntário?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grita não! Já ouviu aquela expressão: 'Não se manda um gênio fazer o trabalho de um idiota'?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Claro que já. É por isso que eu sempre deixo o trabalho pesado para você.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Beleza, tá tudo 100% agora!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Reparos concluídos.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Só não esperem muita coisa. Tipo... se vocês andarem de corpo mole na travessia, vão cair.」"
+  },
+  {
+    "message": "Vou cair, é...?"
+  },
+  {
+    "message": "Precisa falar com tanta certeza assim...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Caramba, valeu pelo voto de confiança, Mikoto.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Pise leve, ágil como a garça.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por quê?」"
+  },
+  {
+    "message": "Com o que eu pareço, um mestre de Kung Fu Shaolin ou o quê? E o que diabos isso quer dizer!?"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Porque as vigas de sustentação principais estão apodrecidas.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Certo, vamos nessa! Avançar!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Droga!」"
+  },
+  {
+    "message": "Tá me dizendo que eu não tenho escolha a não ser criar culhões e atravessar essa porcaria!?"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Bom, lá vou eu.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Cuidado.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Como se eu precisasse que você me dissesse isso.」"
+  },
+  {
+    "message": "Dito e feito, Ayamine começa a descer o penhasco..."
+  },
+  {
+    "message": "Se chamarmos muita atenção, vamos levar bala, então nem dá para olhar direito para ela."
+  },
+  {
+    "message": "Bem... pelo menos podemos torcer por ela."
+  },
+  {
+    "message": "Pelo amor de Deus... CLARO que aquela torre idiota tinha que começar a atirar na gente bem na hora que chegamos na ilha."
+  },
+  {
+    "message": "Faltou pouco para nos despedaçarem!"
+  },
+  {
+    "message": "E agora a gente tem que se esconder atrás dessas pedras que mal servem para nos proteger..."
+  },
+  {
+    "message": "Que situação merdhosa, cara..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E como ela vai desativar aquela bateria? Vai explodir aquilo ou algo assim?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Desde quando nós temos explosivos? Ela vai entrar por baixo de fininho e cortar a alimentação de munição ou os fios de controle.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A gente consegue dar fim naquela coisa com um par de tesouras?」"
+  },
+  {
+    "message": "Acho que é só mais uma peça de tecnologia delicada."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Vamos esperar aqui em posição até ela dar o sinal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem certeza de que a Ayamine consegue fazer isso sozinha?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ela vai ficar bem. Diga o que quiser sobre ela, mas ela dá conta do recado...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nossa... Nunca pensei que fosse te ouvir dizer isso.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Escuta... A gente pode não se dar bem, mas isso não significa que eu seja cega para os talentos dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Que comovente... Até me arrancou uma lágrima.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Isso é Sarcasmo, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nem um pouco.」"
+  },
+  {
+    "message": "...Até durante o festival esportivo, a Representante avaliava a Ayamine muito bem."
+  },
+  {
+    "message": "Apesar de ela não admitir isso até a pressão apertar."
+  },
+  {
+    "message": "O fato de ela estar disposta a deixar de lado seus preconceitos pessoais só prova que ela tem total pinta de comandante."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Vamos dormir um pouco?\nVai demorar um tempo até a Ayamine voltar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Particularmente, não estou tão cansado assim.」"
+  },
+  {
+    "message": "Mais importante que isso, não quero acabar entrando na linha de fogo enquanto durmo."
+  },
+  {
+    "name": "Meiya",
+    "message": "「A tensão constante entorpeceu seus sentidos. Mais hora, menos hora, a sua descarga de adrenalina vai passar e seu corpo inteiro vai ficar mole. Não podemos deixar você desmaiar sem aviso, então é melhor descansar enquanto pode.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Saber a hora de descansar é uma habilidade pouco valorizada, sabe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, você tem razão.」"
+  },
+  {
+    "message": "Mas eu não consigo dormir agora."
+  },
+  {
+    "message": "A Ayamine está arriscando a vida lá fora."
+  },
+  {
+    "name": "Miki",
+    "message": "「Até mesmo deitar de lado e fechar os olhos já pode ser o bastante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... deitar ainda parece meio perigoso... mas acho que vou tentar descansar um pouco, já que isso vai deixar vocês felizes.」"
+  },
+  {
+    "message": "Parece que vocês não vão me deixar em paz com isso até eu fazer."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Certo, vou dar uma olhada nela.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Cuidado pra não deixar que isso veja você. Pode até servir de distração, mas ninguém vai dormir direito se acontecer!」"
+  },
+  {
+    "message": "É, com certeza."
+  },
+  {
+    "message": "Comparado àquela coisa disparando, dez britadeiras do outro lado da rua iam soar como uma canção de ninar..."
+  },
+  {
+    "message": "Ahhh... A brisa do mar é tão boa..."
+  },
+  {
+    "message": "Seria tão bom acordar e descobrir que já passamos dessa coisa idiota..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "........."
+  },
+  {
+    "message": "...*rustle*...*rustle*"
+  },
+  {
+    "name": "Voz",
+    "message": "「──Takeru.」"
+  },
+  {
+    "message": "*rustle*...*rustle*..."
+  },
+  {
+    "name": "Voz",
+    "message": "「──Acorde, Takeru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Whuh...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você está acordado?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... O que aconteceu?」"
+  },
+  {
+    "message": "...Ah, ela voltou."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como foi?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Perfeito.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Fui lá na frente espiar para ver se havia armadilhas, mas quase não tinha nenhuma.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O que significa que podemos ir direto para o final!」"
+  },
+  {
+    "message": "Estamos com o tempo seriamente contado... então isso é uma enorme sorte."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Maravilha... Vamos acabar logo com isso para todo mundo poder ir nadar!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Você é tão simplório...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não seja uma estraga-prazeres só porque estamos com pouco tempo. Estamos numa ilha tropical, poxa vida. Seria um desperdício enorme não aproveitar ao máximo enquanto temos a chance!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Duvido que uma ideia tão absurda tenha passado pela cabeça de mais alguém aqui.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Apesar de que... o otimismo dele não chega a ser um defeito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, espere... Acho que nenhum de nós trouxe roupa de banho, né...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Que pena〜!」"
+  },
+  {
+    "message": "...Se eu estivesse sozinho, eu só daria um mergulho nu... mas se eu fizesse isso com essa turma, provavelmente seria preso por atentado ao pudor..."
+  },
+  {
+    "message": "Droga, que desperdício!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Hã... Agora eu fiquei com um pouco de pena...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não ligue para isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sério, o quê?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Beleza, vamos terminar isso logo!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ele vai aprender logo, logo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "　──*tap* *tap*"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que mania é essa de ficar fazendo carinho?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Coitadinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que estão todos com pena de mim!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Certo. Vamos fazer uma pausa de dez minutos e depois retomar a marcha!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me expliquem o que está acontecendo logo de uma vez!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uf... uf... uf...!」"
+  },
+  {
+    "message": "Argh..."
+  },
+  {
+    "message": "P-Parece que... perdi a vontade de pensar, de me mover, de fazer qualquer coisa..."
+  },
+  {
+    "message": "N-Não consigo mais correr..."
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "message": "D-Droga... Quem dera eu pudesse parar aqui e respirar um pouco..."
+  },
+  {
+    "message": "Mas ainda não acabou..."
+  },
+  {
+    "message": "Só... mais um pouco... Não deve... demorar muito agora...!"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "message": "Mais ninguém diz uma palavra..."
+  },
+  {
+    "message": "Quase lá... Quase lá!"
+  },
+  {
+    "message": "Ah, todo mundo está parando..."
+  },
+  {
+    "message": "Aquela é a linha de chegada!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*ofjo*...」"
+  },
+  {
+    "message": "...Onde está o helicóptero?"
+  },
+  {
+    "message": "...Não pode ser..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não chegamos a tempo!?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Takeru... Você não está ouvindo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ele está aqui...!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Parece que este é o ponto de evacuação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Mas não tem nada aqui!"
+  },
+  {
+    "message": "Mudaram de novo!?"
+  },
+  {
+    "message": "Não tenho energia suficiente para andar até nenhum outro lugar...!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "Esse som..."
+  },
+  {
+    "message": "Bem ali!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Missão cumprida.\nParabéns... Todos vocês passaram.」"
+  },
+  {
+    "message": "Está aqui..."
+  },
+  {
+    "message": "O helicóptero..."
+  },
+  {
+    "message": "Desta vez não vou cair em nenhuma armadilha. Não vou deixar vocês fugirem sem a gente!"
+  },
+  {
+    "message": "Tudo bem... comemorar...?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──CARALHO!\nCONSEGUIMOS ESSA PORRA!!」"
+  },
+  {
+    "message": "Acabou! Passamos! Chupa essa, teste de merda!!"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Nós... Nós passamos! Conseguimos! A gente realmente conseguiu!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Yaaay!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Era de se esperar.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Passamos.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Conseguimos, Takeru!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É! Graças a você, Mikoto!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Não, graças a todo mundo. Todos nós ajudamos a fazer isso acontecer, incluindo você!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, verdade...!」"
+  },
+  {
+    "message": "Que sensação é essa...?"
+  },
+  {
+    "message": "Não sei explicar o porquê... mas estou incrivelmente feliz."
+  },
+  {
+    "message": "É assim que se sente uma verdadeira conquista? Droga, eu poderia me acostumar com isso!"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Como não temos como consertar a ponte, não há outra escolha a não ser dar a volta por um caminho mais longo.」"
+  },
+  {
+    "message": "...Parece que sim."
+  },
+  {
+    "message": "Então vamos ter que atravessar para a outra ilha pela ponte de metal."
+  },
+  {
+    "message": "...Embora a gente vá perder bastante tempo fazendo isso..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Teremos que nos mover rápido a partir de agora, sem desativar nenhuma armadilha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sério mesmo!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não temos tempo! Mesmo se estivéssemos no auge da forma, ainda não sabemos quanto tempo vai levar para chegar ao ponto de evacuação!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Já devemos nos considerar com sorte por termos desativado a bateria antiaérea.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Yoroi, verifique se há armadilhas e informe-nos o mais rápido possível!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Entendido!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então vamos despistá-los sem perder você de vista! Vai dar tempo de sobra para recuperar as energias depois que passarmos!」"
+  },
+  {
+    "message": "Droga... A Representante está com fogo nos olhos."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga...! Já chegamos até aqui! Vamos conseguir!」"
+  },
+  {
+    "message": "Não vou recuar aqui!"
+  },
+  {
+    "message": "Eu tenho que continuar se movendo!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos acabar logo com isso para que todos possamos ir nadar!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De fato, essa é uma ideia esplêndida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, espere... Acho que nenhum de nós trouxe roupa de banho, né...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Que pena〜!」"
+  },
+  {
+    "message": "...Se eu estivesse sozinho, eu só daria um mergulho nu... mas se eu fizesse isso com essa turma, provavelmente seria preso por atentado ao pudor..."
+  },
+  {
+    "message": "Droga, que desperdício!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Hã... Agora eu fiquei com um pouco de pena...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Huh?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não ligue para isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sério, o quê?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Beleza, vamos terminar isso logo!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ele vai aprender logo, logo.」"
+  },
+  {
+    "name": "Kei",
+    "message": "　──*tap* *tap*"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que mania é essa de ficar fazendo carinho?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Coitadinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que estão todos com pena de mim!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Certo. Vamos fazer uma pausa de dez minutos e depois retomar a marcha!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me expliquem o que está acontecendo logo de uma vez!!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Rápido! O tempo está acabando!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Argh...!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Vamos...! Sigam-me!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Não pensem em pisar em nenhuma mina terrestre!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Achei que você estivesse verificando isso!?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Não há tempo para isso.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...V-Vamos, gente... Temos que nos apressar!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Ninguém vá tropeçar agora...!」"
+  },
+  {
+    "message": "Droga, mesmo se alguém tropeçasse, eu ARRASTARIA a sua bunda até a linha de chegada se precisasse...!"
+  },
+  {
+    "message": "A vitória está tão perto que posso senti-la...! Eu com certeza não vou desistir agora!!!"
+  },
+  {
+    "message": "*arf*...*of*...*arf*..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ugh...」"
+  },
+  {
+    "message": "Estou completamente esgotado..."
+  },
+  {
+    "message": "Não consigo mover mais nenhum centímetro..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Vocês conseguiram.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? Sensei? O que a senhora está...?」"
+  },
+  {
+    "message": "De onde ela veio...?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eu estive esperando por vocês.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qu-Que horas são!? A gente conseguiu!?」"
+  },
+  {
+    "message": "Droga... Será que eu fui sério o último a chegar!?"
+  },
+  {
+    "message": "A gente conseguiu...!? grime"
+  },
+  {
+    "message": "Me diz logo!!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Vocês chegaram cinco minutos adiantados.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não me ouviram? Faltam cinco minutos para o limite. Todos passaram.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "...Sério mesmo?"
+  },
+  {
+    "message": "Espera... Ela tá falando sério, né...?"
+  },
+  {
+    "message": "A gente conseguiu mesmo...?"
+  },
+  {
+    "message": "Será... Será que a gente passou de verdade!?"
+  },
+  {
+    "message": "Isso... não é nenhum tipo de pegadinha, né...?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──CARALHO!\nCONSEGUIMOS ESSA PORRA!!」"
+  },
+  {
+    "message": "Acabou! Passamos! Chupa essa, teste de merda!!"
+  },
+  {
+    "message": "Que se dane se foi só por cinco minutos!? A gente passou pra caralho! Acabou tudo!!"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Nós... Nós passamos! Conseguimos! A gente realmente conseguiu!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Yaaay!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Era de se esperar.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Passamos.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Conseguimos, Takeru!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É! Graças a você, Mikoto!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Não, graças a todo mundo.\nTodos nós ajudamos a fazer isso acontecer, incluindo você!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, verdade...!」"
+  },
+  {
+    "message": "Que sensação é essa...?"
+  },
+  {
+    "message": "Não sei explicar o porquê... mas estou incrivelmente feliz."
+  },
+  {
+    "message": "É assim que se sente uma verdadeira conquista? Droga, eu poderia me acostumar com isso!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ahahahaha! Toma essa! E essa!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Pum. Troco.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Você também, Mitsurugi-san! Toma essa, e essa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ngh... Agora você passou dos limites. Muito bem, que tal isso aqui então!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Wagh! Eu não!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Agora é a sua vez, Yoroi-san! Toma essa!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Yaaagh! Tá frio!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aê, escutem aqui, pessoal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Professora? A senhora também?"
+  },
+  {
+    "name": "Miki",
+    "message": "「...O que foi, Takeru-san?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você tá com cara de tacho aí sozinho.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Quer nadar?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não seria certo desperdiçar uma oportunidade dessas.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Tá irritado com alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que caralhos vocês trouxeram roupas de banho!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ora... por que você não trouxe?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Quero dizer, ISSO é uma ilha tropical, sabe. Não tivemos a chance da última vez porque ninguém estava com clima para isso.」"
+  },
+  {
+    "message": "Ah, é verdade... É a segunda vez delas aqui, então elas já sabiam..."
+  },
+  {
+    "message": "Obrigado por me avisarem, suas pirralhas."
+  },
+  {
+    "name": "Miki",
+    "message": "「Nadar é uma ótima maneira de comemorar〜!」"
+  },
+  {
+    "message": "...Mas caramba, olha como essas duas estão animadas."
+  },
+  {
+    "message": "Difícil acreditar que estavam totalmente esgotadas agorinha mesmo..."
+  },
+  {
+    "message": "Mas o mais embaraçoso... foi descobrir que a cobra que me mordeu nem era venenosa..."
+  },
+  {
+    "message": "Aparentemente era só um resfriado que eu havia pego lá no Japão..."
+  },
+  {
+    "message": "Acho que a Mikoto ficou tão abalada que simplesmente esqueceu de verificar que tipo de cobra era."
+  },
+  {
+    "message": "...O que significa..."
+  },
+  {
+    "message": "Se aquilo tivesse sido uma cobra venenosa de verdade... é bem possível que eu estivesse morto agora."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Aprendi uma lição com esta Avaliação..."
+  },
+  {
+    "message": "Cheguei a entender quão perto a 'morte' pode estar a qualquer momento... mesmo que os BETA não estejam aqui."
+  },
+  {
+    "message": "De algum modo, isso me ajudou a finalmente aceitar as coisas. Enquanto eu estiver neste mundo, pelo menos, preciso lutar... e acho que posso lidar com isso agora."
+  },
+  {
+    "message": "Agora que eu mesma... quer dizer, eu mesmo tenho um pouquinho de experiência, acho que estou começando a entender do que a Representante e as outras estavam falando."
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Vamos, Takeru! Pula logo!」"
+  },
+  {
+    "message": "Eu ainda sou um frangote total... mas tenho pessoas que me consideram seu camarada."
+  },
+  {
+    "message": "Elas estavam no meu mundo também, com os mesmos rostos e as mesmas personalidades. E ainda assim, essa galera é bem diferente em vários aspectos."
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-saaan! Vem loooogo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não sejam idiotas... Eu não tenho roupa de banho!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Que diferença faz? Junte-se a nós, com ou sem roupa de banho.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ela tem razão. Apenas não se preocupe com isso.」"
+  },
+  {
+    "message": "Vocês sabiam que isso ia acontecer o tempo todo...!"
+  },
+  {
+    "message": "Argh... Sinto que fui passado para trás!"
+  },
+  {
+    "name": "Miki",
+    "message": "「Vamos lá, vamos curtir pra valer〜!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Tudo bem! Não há nada do que se envergonhar!」"
+  },
+  {
+    "message": "Hã...?"
+  },
+  {
+    "message": "Segurem suas caralhadas de cavalos. O que vocês estão dizendo...?"
+  },
+  {
+    "message": "Vocês certamente não estão sugerindo que eu entre pelado, né?"
+  },
+  {
+    "message": "Desculpem, mas... isso não vai acontecer, mesmo que eu tenha a permissão de vocês."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Vamos, meninas. Vamos todas jogar o Shirogane na água.」"
+  },
+  {
+    "name": "Mikoto e Miki",
+    "message": "「Isso!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「HUH!?」"
+  },
+  {
+    "message": "Espera, fala sério!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá... de brincadeira, né? Tama? Mikoto?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Açúcar, malmequer! Vai nessa〜!」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Foi mal por isso, Takeru〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi mal o caralho, sua traidorazinha de uma figa!!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ooone!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Twooo...!」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Três.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gwaaoogh!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　...*glug-glug-glug*..."
+  }
+]

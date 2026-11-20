@@ -1,0 +1,1395 @@
+[
+  {
+    "message": "Unlimited 11/11 (Dom)"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Droga... Acordado a essa hora."
+  },
+  {
+    "message": "8h, hein...? Acho que dormi duas horas a mais do que o normal."
+  },
+  {
+    "message": "Eu ia ficar acordado até super tarde ontem à noite já que hoje é folga, mas meu corpo simplesmente não aguentou."
+  },
+  {
+    "message": "Então decidi que era melhor ir dormir na hora certa e capotar até meio-dia... e eis-me aqui, acordadão às 8 da manhã."
+  },
+  {
+    "message": "Argh! Que merda!? Me deixa dormir mais, caralho!!"
+  },
+  {
+    "message": "Me deixa curtir minha preguiça por mais um pouco!!"
+  },
+  {
+    "message": "...Odeio meu corpo por ter ficado Tão pontual."
+  },
+  {
+    "message": "Pensando bem, será que a Kasumi passou por aqui hoje...?"
+  },
+  {
+    "message": "Talvez eu devesse ir dar um oi pra ela depois do café hoje."
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ora, ora, se não é o Takeru. Como cê tá, desgraçado... Digo, que tal hein!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eita! S-Sra. Kyozuka!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Sua mãe não te ensinou a dar bom dia, não? Anda logo, cê é a última boca que eu tenho que encher nesse turno.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「A Chizuru-chan e o pessoal já terminaram e foram dar uma volta. Cê nunca vai ser porcaria nenhuma se continuar desperdiçando seu tempo livre!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu realmente acho que não é para tanto...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Muito bem então, aqui tá sua bóia.\nE aí, o que vai fazer hoje?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ummm...」"
+  },
+  {
+    "message": "Não posso dizer a ela que vou ver a Kasumi..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Opa,pera aí! Sra. Kyozuka, não tem a menor condição de eu comer tudo isso no café da manhã!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ora vejam só, se não é a Kasumi-chan.\nComo cê tem andado?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã!?!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba! Kasumi!」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ei agora, cê conhece a Kasumi-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mais ou menos...」"
+  },
+  {
+    "message": "Nossa, não achei que a Kasumi daria As caras num lugar desses..."
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Oh, se não é o Shirogane. O que houve? Perdeu a hora?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ora, hoje o dia tá cheio de surpresas! Que coincidência te ver por aqui, Yuuko-chan.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah, Sra. Kyozuka, por favor, não me chame assim. Ainda mais na frente das crianças...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá falando de mim!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Quem mais seria?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Argh!!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ora, qual é o problema? Não importa o quão alto cê chegue, pra mim você sempre vai ser a Yuuko-chan.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Não tem jeito mesmo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Sabe, eu costumava cuidar da Yuuko-chan e da Marimo-chan quando elas eram mais jovens.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ooooh...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Essa daqui sempre foi uma verdadeira ovelha negra... Vivia metida nas coisas mais esquisitas.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah, chega...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Todo mundo vivia falando sobre como você era uma gênio, mas pra mim, você era só uma garotinha doce, né...?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Eu realmente não sei por que cê tá me perguntando isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso é bem difícil de acreditar.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Se importa de repetir, Shirogane?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Er, não! Tô mudo agora!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「E então, como vão as coisas? A Marimo-chan até que vem, mas eu quase nunca te vejo por aqui, Yuuko-chan. O que te traz por esses lados?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ah, só vim dar uma espiada na vida dos mortais. Pensei que seria uma boa mudança de ares.」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ahaha... Esse seu jeito de falar não mudou nada! Enfim, vão comer alguma coisa ou quê?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Hmm, claro... Pode preparar duas porções pra gente?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Já vai!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Caramba... Então a Kasumi come a mesma comida que a gente..."
+  },
+  {
+    "message": "É, óbvio. Claro que come."
+  },
+  {
+    "message": "Mas sei lá... Eu meio que sinto que esse tipo de comida \"simples\" não combina muito com a imagem dela..."
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, eh... D-Desculpa, não liga pra mim.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Então, o que foi? Por que não estão treinando?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hoje é nossa folga.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Entendi... Anda logo, Shirogane. Pegue nossas bandejas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「É tão difícil assim de entender? Carregue a minha bandeja e a da Yashiro para nós.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não dou conta de carregar as três.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Então deixe a sua para trás.」"
+  },
+  {
+    "message": "...Fria como gelo."
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「D-Deixa comigo, relaxa.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Com o mesmo gosto horrendo de sempre. Meu coração transborda de simpatia...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, agradeço, eu acho...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Pela Sra. Kyozuka, digo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ela faz o melhor que pode com essa comida sintética. O talento culinário dela é totalmente desperdiçado aqui... Bem, suponho que seria ainda pior de outro jeito...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que a senhora costuma comer, Sensei?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Coisas sobre as quais definitivamente não posso falar aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Deve ser bom...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Estou farta daquelas porcaria. Não está, Yashiro?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Kasumi, você come o que a Sensei come?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*bal sacolejo*"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Por que você sempre tem que estragar a minha diversão...?」"
+  },
+  {
+    "message": "Que diabo de relação essas duas têm?"
+  },
+  {
+    "message": "Ela já tinha brincado antes sobre ser mãe dela, e ainda me parece possível. Mesmo que elas não se pareçam em nada."
+  },
+  {
+    "name": "Kasumi",
+    "message": "　...*rola*...*rola*..."
+  },
+  {
+    "message": "Hm?"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　...*rola*...*rola*..."
+  },
+  {
+    "message": "Por que a Kasumi está só sentada ali rolando as cenouras para lá e para cá?"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　...*rola*...*rola*..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Ela é até boa nisso..."
+  },
+  {
+    "name": "Kasumi",
+    "message": "　...*rola*...*rola*..."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Ah, entendi... Heh-heh."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Kasumiiiiii...?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*twitch!*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sabe que você tem que comer suas cenouras...」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não gosta de cenoura, né?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "message": "Bem irônico para uma garota com orelhas de coelho. Ela é uma figura, mesmo..."
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*munch*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah!?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem?」"
+  },
+  {
+    "message": "A expressão dela não mudou nem um pouco... mas a boca não está se mexendo."
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*crunch* *crunch*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oooooh!」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*gulp*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora, veja só! Eu sabia que você conseguia! Só lembre que não é legal ser enjoada para comer. Então vamos ser uma boa garota e raspar o prato, tá bom?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nossa. Foi uma careta o que eu acabei de ver?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*shake*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hmmm...?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*shake-shake-shake*"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「A propósito, Shirogane...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Parece que você está realmente progredindo ultimamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, acho que sim...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você não tem vindo reclamar comigo com tanta frequência. E parece estar visitando a Yashiro bastante também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não é como se eu tivesse minha vida totalmente resolvida nem nada. É só que eu não tenho tantas perguntas para você agora. E você também parou de me chamar lá embaixo.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Bom, eu já tirei bastante informação de você. Acho que minha parte favorita foi toda aquela história sobre a outra eu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas aposto que minhas histórias sobre a Marimo-chan ficaram em segundo lugar por pouco, né?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Provavelmente... Bem, pelo menos ainda BEM que eu sou a mesma em todos os mundos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem mais alguma coisa que você queria saber?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Tem muita coisa que me deixa curiosa, mas não importa o quanto eu me interesse, está se mostrando difícil entender vários elementos da cultura de vocês.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É mesmo?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Mas estou me divertindo, claro. Gênios só têm suas próprias maneiras de se divertir, sabe?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É mesmo?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você realmente não leva jeito com as palavras, hein? Bem, as coisas vão ser diferentes depois do CCSE, então você pode ter mais perguntas para fazer nessa altura.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se a gente passar, eu vou poder pilotar um TSF, né!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Exatamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então a gente vai passar com certeza! Digo, é por isso que eu tenho trabalhado tão duro!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ora, parece que alguém tá com a corda toda...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, Sra. Kyozuka.」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Eu trouxe um chá aqui... Querem um pouco?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, obrigado.」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Kasumi-chan, cê trata de comer essas cenouras, viu. Elas ajudam a crescer forte e saudável.」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*munch*"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Sabe, meu filho também é piloto de TSF.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*crunch* *crunch*"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Eu não sei onde ele tá lotado, no entanto... Eles vivem transferindo ele. Quer dizer, deve ser só porque tão com tanta falta de soldados...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi.」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Afinal de contas, só de ver um cadete homem por aqui já é raridade por si só.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Sabe, com os homens sendo os primeiros a serem convocados e tudo mais...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Eu moruei no distrito de Hiiragi a vida inteira, mas quando saiu a ordem de evacuação, fui ficar com uns parentes em Abashiri. Sabe, lá em Hokkaido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "　──*gulp*"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Hokkaido é o mais ao norte que dá pra ir, e Abashiri fica bem na costa Leste de lá. Não dá pra ficar muito mais seguro que isso, né?」"
+  },
+  {
+    "message": "...Espera. A Sensei disse que Hokkaido também era perigoso, não disse...?"
+  },
+  {
+    "message": "Por que evacuaram ela para lá...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É verdade...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Mas aí... a gente acabou penando só para conseguir sobreviver. Todo mundo tava perdendo a cabeça... Foi horrível.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Eles não conseguiram trazer suprimentos para nós rápido o bastante. Quer dizer, todos os evacuados de Tohoku praticamente dobraram a população lá em cima.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「E até a Balsa Seikan tem ficado bem regulada ultimamente, sabe?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A Balsa Seikan?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Como assim, nunca ouviu falar?\nÉ o barco que liga Aomori a Hakodate.」"
+  },
+  {
+    "message": "...No meu mundo, tenho quase certeza de que era o Túnel Seikan, não era?"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O Estreito de Tsugaru está sendo ocupado pelas Forças da ONU agora. Então os barcos que passam por lá estão todos sob lei marcial.」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「O pessoal que morava lá a vida toda aprendeu a conviver com isso... mas eu simplesmente não consegui me acostumar com a ideia de me estabelecer lá, então voltei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E agora você está morando nesta base?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Isso mesmo. Sou muito grata a esta base aqui por me emprestar um quarto e tudo mais. A propósito, Takeru, de onde você é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Eu sou...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você não disse que já morou em vários lugares diferentes?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Er, s-sim. É isso mesmo.」"
+  },
+  {
+    "message": "Essa foi por pouco, Professora!"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Não me diga...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você também disse que morou por aqui em algum momento, não disse?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Não acredito! Onde exatamente?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é... A três quadras da estação Hiiragi, na direção oposta à ponte... aí no cruzamento...」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Ora vejam só. Eu tinha um restaurante a duas quadras DAQUILO lá!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Onde ficava?」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Sabe aquela passagem de nível perto do distrito comercial? Bem ali na esquina... Chamava-se Restaurante Kyozuka...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah é, lá, né...?」"
+  },
+  {
+    "message": "...Eu acho que... na verdade não tinha restaurante nenhum naquela quadra. Provavelmente era só uma loja de conveniência."
+  },
+  {
+    "message": "Nesse caso, o que a Sra. Kyozuka estava fazendo no meu mundo?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Pensar nisso... me deixa meio triste."
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Muito bem, Yashiro. Já terminamos de comer, então por que não vamos amolar mais alguém?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Não judie muito deles, Yuuko-chan.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você me conhece. Eu simplesmente não consigo me conter... Vamos, Yashiro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Diga tchauzinho!」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「Tchau-tchau...」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ma-Mas que diabo é isso!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O alerta de emergência!? Shirogane!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sim, senhorita!」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Yashiro, rápido! ...Droga, o que está acontecendo!? Por que não me informaram...? Yashiro!」"
+  },
+  {
+    "name": "Kyozuka",
+    "message": "「Takeru! Anda logo!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「S-Sim, senhorita!」"
+  },
+  {
+    "message": "Ma-Mas que porra é essa!?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「──Esquadrão 207, em forma!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Certo, vou explicar a situação.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Hoje, às 06:20, uma horda de tamanho equivalente a uma brigada de BETA emergiu da Colmeia de Sadogashima e começou a marchar para o sul ao longo do fundo do oceano.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──Às 06:27, o inimigo rompeu a Linha de Defesa Oceânica mantida pela frota da Marinha Imperial no Mar do Japão. Eles emergiram em Niigata.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Às 06:48, a 12ª Divisão do Exército Imperial encontrou o inimigo na antiga rodovia nacional.」"
+  },
+  {
+    "message": "────!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Às 07:10, a linha de combate entrou em colapso diante de um número esmagador de BETA após os reforços não conseguirem chegar a tempo...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「E, às 07:29, a 12ª Divisão foi aniquilada, tendo destruído aproximadamente dois terços das forças inimigas.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「──Os BETA restantes se dispersaram e avançaram para o interior. Perdemos o rastro deles porque a 14ª Divisão não conseguiu continuar a perseguição.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que nos traz até trinta minutos atrás... Os BETA dispersos se reagruparam, romperam a Linha de Defesa Secundária e chegaram a um ponto dez quilômetros a noroeste do Monte Hakkai.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「M-Monte Hakkai...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Depois disso, marcharam para o sul ao longo da Linha de Defesa Final do Norte de Kanto, e então mudaram para uma marcha rápida rumo ao sudeste através das províncias de Niigata, Nagano e Gunma.」"
+  },
+  {
+    "name": "Kei",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se permitirmu-nos continuar mais do que isso, é quase certo... que eles cruzarão a Linha de Defesa Final.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O Exército Imperial está engajado no momento para evitar isso... mas o inimigo está pressionando-os com força.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os reforços militares da ONU despachados da Base de Atsugi estão se aproximando de Maebashi neste momento. No entanto, há uma forte possibilidade de que não cheguem a tempo.」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Além disso, nossa análise mais recente sugere que o objetivo do inimigo é... a nossa própria Base de Yokohama.」"
+  },
+  {
+    "message": "──!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...A situação não está boa. Todas as bases imperiais na área estão enviando reforços, mas fazer a junção com as tropas da linha de frente está se mostrando difícil.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se o Exército Imperial for forçado a recuar, então a batalha sem dúvida se moverá para a Linha de Defesa Final.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O Comandante da Base de Yokohama acaba de declarar o DEFCON 2.」"
+  },
+  {
+    "message": "DEFCON 2... Todas as tropas devem ficar de prontidão com equipamento completo... Estamos nos preparando para uma batalha real..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se o Exército Imperial recuar e esta base passar para o DEFCON 1, até mesmo vocês, cadetes, serão enviados para a batalha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ouçam com atenção... Isto não é um treinamento. Nossos companheiros de armas estão arriscando suas vidas e lutando contra o inimigo neste exato momento, bem à nossa porta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Eu ordeno que vocês, seis cadetes, se armem e permaneçam de prontidão até que novas ordens sejam recebidas!」"
+  },
+  {
+    "name": "Todos",
+    "message": "「Entendido!」"
+  },
+  {
+    "message": "...V-Você... tá falando sério?"
+  },
+  {
+    "message": "Você tá... Você tá mesmo dizendo que a gente... que a gente tem que l-lutar?"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Os BETA estão vindo pra CÁ!?"
+  },
+  {
+    "message": "N-Não, vai dar tudo certo... Eles disseram Sadogashima... Isso fica bem longe, na costa do outro lado do país!"
+  },
+  {
+    "message": "Os outros esquadrões vão dar jeito em tudo antes mesmo de chegarem aqui... Vão com certeza. Eles vão vencer! Eles têm que vencer! Eles PRECISAM vencer, droga!!"
+  },
+  {
+    "message": "──Kyushu, Okinawa, Shikoku e Chugoku aniquilados em uma semana."
+  },
+  {
+    "message": "──A capital de Kyoto caiu e trinta e seis milhões de pessoas morreram!!"
+  },
+  {
+    "message": "──Nem uma única folha de grama sobra por onde os BETA passam!!"
+  },
+  {
+    "message": "...Lutar... contra aquelas coisas...? ...Quem, nós!?"
+  },
+  {
+    "message": "──Isto não é um treinamento. Nossos companheiros de armas estão arriscando suas vidas para lutar contra o inimigo neste exato momento, bem à nossa porta."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você parece incapaz de acalmar os nervos. É bastante óbvio.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é... Desculpa.」"
+  },
+  {
+    "message": "Será que esses fuzil vão fazer nem que seja um arranhão nesses caras!?"
+  },
+  {
+    "message": "Não que esta seja a primeira vez que penso em algo assim."
+  },
+  {
+    "message": "Esgrima, artes marciais, tiro ao alvo... Grande ajuda isso vai ser! Como diachos alguma dessas coisas vai ajudar contra essas coisas... !?"
+  },
+  {
+    "name": "Miki",
+    "message": "「Qual é o problema?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-Nada...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Suas mãos estão tremendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...D-Desculpa.」"
+  },
+  {
+    "message": "Meu Deus... Que diabos está acontecendo lá fora?"
+  },
+  {
+    "message": "Qu Digo... Eles têm que estar exterminando os BETA, não é?"
+  },
+  {
+    "message": "──Isto não é um treinamento."
+  },
+  {
+    "message": "Sim, eu tô ligado.\nEu sei que isso não é um jogo."
+  },
+  {
+    "message": "Mas como é que eu supposed... Quer dizer, como vou aceitar qualquer uma dessas coisas?"
+  },
+  {
+    "message": "Como diabos eu devo lidar com isso?"
+  },
+  {
+    "message": "Eu já me acostumei a disparar uma arma de verdade.\nO barulho não me assusta mais."
+  },
+  {
+    "message": "Estou até bem confiante de que conseguiria usar qualquer arma aleatória melhor do que qualquer moleque armado com uma de chumbinho."
+  },
+  {
+    "message": "...Mas, por outro lado..."
+  },
+  {
+    "message": "...Eu posso morrer."
+  },
+  {
+    "message": "Eu posso morrer... hoje."
+  },
+  {
+    "message": "Eu não tô pronto pra isso!"
+  },
+  {
+    "message": "Eu nem tô perto de estar pronto!"
+  },
+  {
+    "message": "Que porra vai acontecer se eu morrer aqui!?"
+  },
+  {
+    "message": "E a Sumika?"
+  },
+  {
+    "message": "E a Meiya?"
+  },
+  {
+    "message": "E a Representante, e a Tama, e a Ayamine, e o Mikoto? Quer dizer, será que aquele mundo inteiro foi só um sonho meu!?"
+  },
+  {
+    "message": "Só uma ilusão!?"
+  },
+  {
+    "message": "Eu não posso cair nessa baboseira!"
+  },
+  {
+    "message": "Eu não aceitei este mundo.\nEste não é o meu mundo!"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「...Já se passaram... trinta minutos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "message": "Apenas trinta minutos...?"
+  },
+  {
+    "name": "Kei",
+    "message": "「Demorando.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "message": "──Esquadrão de Cadetes Número 207, apresentem-se na sala de briefing imediatamente. Repetindo..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Vamos! Passo dobrado!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...*pant*...」"
+  },
+  {
+    "message": "Que diabo...? O que está acontecendo? ...Meu corpo... parece Tão pesado..."
+  },
+  {
+    "message": "Minha cabeça está tão leve..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...*pant*...」"
+  },
+  {
+    "message": "...Eu me sinto péssimo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...*pant*...」"
+  },
+  {
+    "message": "Não é como se eu tivesse acabado de chegar... Por que estou tão sem ar por correr uma distância Tão curta?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O Esquadrão de Cadetes número 207 está reunido!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*pant*...*pant*...*pant*...」"
+  },
+  {
+    "message": "Droga! Por que logo agora, de todos os momentos!? A voz da Representante tá tão abafada..."
+  },
+  {
+    "message": "Que diabo de zumbido é esse que não para no meu ouvindo!?"
+  },
+  {
+    "message": "Droga, coração! Para de bater desse jeito! Vão todos achar que eu tô surtando!"
+  },
+  {
+    "name": "Marimo",
+    "message": "「As divisões do Exército Imperial que estavam engajadas com os BETA...」"
+  },
+  {
+    "message": "──\"Estavam\"!?"
+  },
+  {
+    "message": "Tempo pretérito!?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...conseguiram eliminar o inimigo com sucesso.」"
+  },
+  {
+    "message": "......Hã?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O pior cenário possível foi evitado.」"
+  },
+  {
+    "message": "......Hã?"
+  },
+  {
+    "message": "...Quê?"
+  },
+  {
+    "message": "Calma, quê?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「O DEFCON 2 foi cancelado às 11:23.\nRetornamos ao DEFCON 5.」"
+  },
+  {
+    "message": "Que diabo... que sensação é essa...?"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É isso. Estão dispensados.」"
+  },
+  {
+    "message": "A gente tá a salvo...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uaaaaaaaagh!!!!」"
+  },
+  {
+    "message": "*offo*...*offo*..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você tá bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ah...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você tava gemendo enquanto dormia.」"
+  },
+  {
+    "message": "Consigo sentir a mão fria da Professora na minha testa."
+  },
+  {
+    "message": "É tão bom..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você lembra o que aconteceu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você de repente desmaiou. Deixou todo mundo assustado.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Já se acalmou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não deixe de descansar bastante hoje à noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Tem certeza de que está bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu estou perfeitamente bem.」"
+  },
+  {
+    "message": "Isso é tão louco..."
+  },
+  {
+    "message": "Marimo-chan... Você está agindo exatamente como a Marimo-chan que eu conheço..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Seria ótimo se você fosse sempre assim...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não se acostume... Isso é uma exceção.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Droga.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「*risada*... Boa noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sensei...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「'Instrutora', quer dizer... O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Hm... Eu... Eu...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não se preocupe com isso. Acontece com todo mundo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vá dormir... Isso é uma ordem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhorita...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*...」"
+  },
+  {
+    "message": "...Não adianta."
+  },
+  {
+    "message": "...Não vou conseguir pegar no sono tão cedo."
+  },
+  {
+    "message": "Minha garganta está completamente seca, mas... Não estou com vontade de levantar..."
+  },
+  {
+    "message": "Minhas mãos ainda estão tremevendo um pouco."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*suspiro*...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Por quê... Por que isso está acontecendo comigo...?"
+  },
+  {
+    "message": "Aqui, neste mundo que eu nem conheço..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Qual é o real, e qual é apenas um sonho?」"
+  },
+  {
+    "message": "Talvez aquele mundo tenha sido o sonho, e eu estive dormindo por muito tempo."
+  },
+  {
+    "message": "Tremendo entre os lençóis, exatamente como hoje..."
+  },
+  {
+    "message": "...Me escondendo debaixo das cobertas para fugir de toda a luta."
+  },
+  {
+    "message": "...Talvez... este seja realmente o mundo ao qual eu pertenço."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*...」"
+  },
+  {
+    "message": "Droga, eu sou tão patético. Fui o único que surtou..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Isso... não é um sonho..."
+  },
+  {
+    "message": "...Eu tenho que treinar."
+  },
+  {
+    "message": "Neste mundo... é tudo o que posso fazer... É a minha única opção."
+  },
+  {
+    "message": "E então... um dia, eu..."
+  },
+  {
+    "message": "Eu vou dar jeito de voltar pro meu mundo, não importa o que custe."
+  },
+  {
+    "message": "Mas... e se algo assim acontecer de novo antes de eu ter a chance?"
+  },
+  {
+    "message": "...Se eu morrer, tudo acaba."
+  },
+  {
+    "message": "Bem, talvez se eu morrer, eu só acorde de novo, mas... Isso é uma coisa que eu realmente não quero testar."
+  },
+  {
+    "message": "Quer dizer... e se eu morresse no mundo real também!?"
+  },
+  {
+    "message": "...Eu não posso correr esse risco."
+  },
+  {
+    "message": "Então, quer este mundo seja um sonho ou a realidade... só me resta uma escolha."
+  },
+  {
+    "message": "Droga! Por que eu tô chorando!?"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Droga...」"
+  }
+]

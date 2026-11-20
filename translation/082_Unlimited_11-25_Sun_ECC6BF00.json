@@ -1,0 +1,604 @@
+[
+  {
+    "message": "Unlimited 25/11 (Dom)"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Resumindo, a unidade de assento do TSF também é a Armadura de Infantaria Mecanizada Tipo-89 e Interface de Feedback, que funciona como a estrutura interna do seu protetor de feedback.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A implementação disso elevou drasticamente as taxas de sobrevivência dos Pilotos de Superfície. Alguma dúvida até aqui?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Pois não?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Como devemos decidir quando usar o protetor de feedback e quando usar apenas o nosso traje fortificado?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Geralmente falando, o protetor de feedback é simplesmente um meio de fuga em condições de emergência.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Em outras palavras, vocês decidem se vão usá-lo apenas após determinar que precisam abandonar o TSF.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Uma evacuação de emergência padrão envolve a ejeção de toda a unidade de controle, com airbags sendo acionados no pouso...」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mas, se a ejeção falhar ou a escotilha apresentar problemas, é possível que vocês fiquem presos lá dentro.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Este é um exemplo clássico de quando devem utilizar o protetor de feedback.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Como eu disse no início, o protetor de feedback foi projetado primordiais e prioritariamente para trazer o piloto de superfície de volta com vida.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os protetores de feedback eram originalmente usados como armas anti-BETA pelo Exército Americano antes dos TSFs serem inventados. Na época, eram conhecidos como unidades 'Hardyman'.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ainda hoje, as forças de infantaria mecanizada em todos os principais países empregam um sucessor ou derivado do Hardyman.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...É claro que os modelos de combate são mais pesadamente armados e blindados, e vêm equipados com suas próprias unidades de salto.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Ayamine. O que eu disse que seria a situação menos eficaz para usar o protetor de feedback?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「...Ao se mover por espaços menores que um metro, como trincheiras, por longos períodos de tempo. E pior ainda quando é necessário um avanço furtivo.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「De qual terreno vocês devem desconfiar mais ao usar um protetor de feedback, Yoroi?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Qualquer terreno que contenha poços ou fossas nos quais o protetor possa cair. Dependendo da posição em que aterrissa, é quase impossível sair sozinho.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Correto. Agora, Tamase. Imagine que você ejetou no seu protetor de feedback e precisa voltar para a base sozinha. Quanto tempo você pode esperar sobreviver em uma zona de combate?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「8,3 dias.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Digam agora que vocês abandonaram o protetor de feedback também. Se o seu traje fortificado ainda estiver funcionando, vocês podem esperar viver mais seis dias. Isso dá quatorze no total... Lembrem-se desses números, pois eles são altamente relevantes para as suas chances de sobrevivência.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Se vocês optarem por dar uma volta para evitar um terreno desfavorável usando o protetor de feedback, precisam estar cientes de como esse tempo perdido afetará suas chances... Agora, Mitsurugi.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você pode continuar direto por uma trincheira ou pegar um longo desvio. Vai perder quatro dias se pegar o desvio. Já faz três dias desde que você abandonou seu TSF.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ma'am.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Não se sabe quanto tempo você vai economizar indo pela trincheira... O que você faz?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Pego o desvio.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Pegando o desvio, ainda restará uma semana inteira de autonomia. Mas se for pela trincheira usando apenas o seu Traje Fortificado, precisará retornar em até quatro dias.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entendo.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Como não há como saber se isso é possível, e a sobrevivência é o objetivo, acredito que o melhor seja seguir a rota mais segura.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Agora, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「M-Ma'am!」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora digamos que exista a possibilidade de haver BETA à espreita na rota do desvio. E agora, o que você faz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...!?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Vamos ouvir o seu ponto de vista.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uh... Umm...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu pegaria o desvio.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acho que o argumento da Meiya ainda vale.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu seguiria pela trincheira.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Porque suas chances de morrer aumentam drasticamente se você topar com os BETA.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mas depois de sair da trincheira, você não tem como saber quantos dias ainda vão restar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu só teria que dar um jeito de voltar em quatro dias.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「E como você faria isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Somehow.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então por que não pegar o desvio? Se você esbarrar em alguns BETA, pode derrotar eles 'dando um jeito', não pode?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Achar o caminho de volta é algo que eu talvez consiga resolver sozinho. Lutar contra BETA, não.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entendo... Muito bem. Cada um tem sua própria opinião. Podem sentar.」"
+  },
+  {
+    "message": "...Ufa."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Pelos resultados do CCSE, todos aprenderam a se manter vivos. Sakaki.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...A experiência que vocês ganharam na ilha transparece nas respostas de hoje e afetará as decisões que tomarão em campo. Shirogane fez a escolha que lhe pareceu mais sensata com base no que aprendeu na Avaliação.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A escolha de vocês pode ser diferente da dele.\nNo entanto, a única coisa que importa é voltar vivo.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mais alguma pergunta?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Então por hoje é só... Ah, é mesmo. Tem uma coisa que preciso contar a todos vocês.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que foi?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os TSFs de vocês vão chegar daqui a dois dias.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O quê!?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Além disso — a partir de agora, até o dia da formatura, o Esquadrão 207 recebeu acesso prioritário a esses TSFs e aos simuladores.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Mas por que... nós recebemos tratamento especial?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「TSFs não são diferentes de carros. A melhor forma de aprender é simplesmente entrar em um e dar uma volta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Nossa. Por que será que nós tivemos preferência?」"
+  },
+  {
+    "name": "Mikoto",
+    "message": "「Sei lá... Será que acham que vamos precisar mesmo de prática?」"
+  },
+  {
+    "name": "Kei",
+    "message": "「Ou talvez estejam esperando grandes coisas de nós...」"
+  },
+  {
+    "message": "...Não é isso. É coisa da professora Yuuko. Ela bem que disse que era a pessoa mais poderosa da base."
+  },
+  {
+    "name": "Marimo",
+    "message": "「No entanto, todos os dados de cadetes de vocês serão gravados e examinados minuciosamente.」"
+  },
+  {
+    "message": "O que eu falei? Ela definitivamente está tramando alguma coisa."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Nós discutimos os custos envolvidos em operar esses simuladores, não foi? Lembrem-se de que vocês estão recebendo um tratamento especial! É hora de provarem que merecem o investimento que estamos fazendo em vocês!」"
+  },
+  {
+    "name": "Garotas",
+    "message": "「──Sim, senhora!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Certo. Sakaki, Mitsurugi — venham falar comigo assim que terminarem de comer.」"
+  },
+  {
+    "name": "Chizuru e Meiya",
+    "message": "「Entendido.」"
+  },
+  {
+    "message": "...A Representante e a Meiya?"
+  },
+  {
+    "message": "Que dupla estranha..."
+  },
+  {
+    "name": "Marimo",
+    "message": "「Esta tarde, vocês vão aplicar o conhecimento sobre esses exoesqueletos nos simuladores. Todos coloquem os trajes e se apressem para o Hangar 4. É isso. Dispensados!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, Kasumi! E aí!?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Hm? Ora, vejam só se não é o Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah. Prazer em vê-la também, Professora.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Nossa. Então eu estou de vela, é isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não foi isso que eu... Ah, deixa pra lá. De qualquer forma, Professora, a senhorita passou dos limites dessa vez.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Com o quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nós temos direitos de uso prioritário dos simuladores, e nossos TSFs vão chegar depois de amanhã. Só pode ter sido obra sua, não é, Professora?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ora, ora, mas que perspicaz.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Quer dizer, a Marimo-chan praticamente citou você com aquele papo de 'é só entrar e sentir como é'.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「É ééé sério...? Essa plagiatrizzinha...\nMas a bem da verdade, isso não é bom?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quer dizer, mais ou menos...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Bem, pilotar um TSF é como colocar um pé na cova, afinal de contas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「E você veio aqui só para fazer turismo, então imagino que não deva estar muito feliz por ser jogado na linha de frente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você já sabia que isso ia acontecer, não sabia?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Digo... É bem difícil eu não saber quando você vai acabar pilotando um TSF na linha de frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Mas não me entenda mal.\nEu não estou tentando forçar você a fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu não disse que estava.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ainda não está a fim de acordar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se isso foi uma piada, eu não achei muita graça... Justo você deveria saber como eu me sinto.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Impossível. Eu já te disse antes, não tenho como saber se tudo isso não passa de um grande sonho para você. É perfeitamente possível que eu esteja apenas dançando na palma da sua mão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, pelo menos... Eu entendi que não posso fugir disso só chamando de sonho.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Entendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas ainda acredito que poderei voltar para casa algum dia.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Então, basicamente, você não está mais vendo isso como acordar de um sonho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sou igual a você, Sensei. Não tenho ideia se isso é um sonho ou não. Talvez morrer signifique acordar... mas não posso arriscar testar isso.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Porque você pode acabar morrendo de verdade?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. E é por isso que... eu preciso continuar vivo...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Mas você ainda vai se tornar um piloto de superfície?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... Já estou envolvido demais para voltar atrás... Não tenho muita escolha a não ser ir até o fim. Do jeito que estou agora, não vou conseguir nem me proteger...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Você ouviu isso, Yashiro? Shirogane agora está determinado.」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「...Sim.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Por sinal, dizem que os Pilotos de Superfície 'covardes' costumam ser os que sobrevivem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É o que dizem.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Acho que você tirou a sorte grande nesse aspecto, hein?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Eu realmente preferiria não morrer tão cedo.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「...Ainda bem. Gastamos muito tempo e dinheiro treinando você, então não vá morrer para cima da gente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá, tá. Tenha em mente os custos envolvidos, et cetera.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Estou apenas sendo sincera. Preferia alguma propaganda inspiradora no lugar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não, valeu.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「De qualquer forma, se há um esquadrão que eu não posso deixar correr para a morte, é o seu. Não pense que vou te deixar escapar tão fácil, entendeu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá, tá... Sabe, é meio estranho, mas sinto que você está realmente tentando me encorajar aqui.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Nossa. Você me entendeu terrivelmente mal.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas você acabou de... Ah, esquece.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「É mesmo? Sendo assim... Vamos, Yashiro. Estamos de saída.」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Isso significa que você também tem que vazar, Shirogane.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ê-Êh? Espera... Aonde vocês vão?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「O que foi? Já quase hora de apagar as luzes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ãh? Mas então... e a Kasumi?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ela vai voltar pro quarto dela, óbvio.\nPor que a pergunta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então quer dizer que ela não dorme aqui...?」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「E onde ela ia dormir aqui? No chão? Ele é tão sem noção, né?」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「D-Desculpa... Ah, mas... Pelo jeito hoje também não vamos poder jogar cama de gato.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Ora, você prometeu brincar com ela?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Interessante... Bem, por que não tenta de novo daqui a alguns dias? Estamos meio ocupados agora, então duvido que ela vá ter muito tempo livre.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Eu te aviso quando a agenda dela estiver livre, então até lá, aproveite bem as suas madrugadas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendido.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Já vamos indo, então.」"
+  },
+  {
+    "name": "Yuuko",
+    "message": "「Até mais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, a-até... Ah, tchauzinho!」"
+  },
+  {
+    "name": "Kasumi",
+    "message": "「...Tchauzinho.」"
+  },
+  {
+    "message": "Pegar o desvio"
+  },
+  {
+    "message": "Continuar pela trincheira"
+  }
+]

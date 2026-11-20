@@ -1,0 +1,1694 @@
+[
+  {
+    "message": "Extra 19/11 (Seg)"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...É realmente quieto aqui."
+  },
+  {
+    "message": "Pensando bem, onde está o resto do clube de arco e flecha?"
+  },
+  {
+    "message": "Não vi nenhum deles... Nem durante todo o período em que estivemos treinandos."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tama? ...Ah.」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Hmm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei...」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Você está esperando alguém?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esperando...? Bem, acho que sim.」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Os outros vão começar a vir de novo amanhã.\nEste é o último dia em que você poderá usar o estande.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Onde andaram todos?」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Testes de aptidão e fora do campus. Eles vão voltar a treinar amanhã, mas logo será a semana de provas finais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É mesmo... Eu não sabia.」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Eu fiquei sabendo... sobre a Tamase.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「É uma verdadeira pena... Embora até isso pareça um pouco understatement, para ser sincera.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A Tama realmente deu o melhor dela.」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Sim, foi o que fiquei sabendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu acho que... ela nunca mais vai entrar em pânico na frente dos outros.」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Eu soube disso também. Bem impressionante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, ela é incrível mesmo.」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「...Estou falando de você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Já vou indo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você não tinha algo para fazer aqui?」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Ah, eu só dou uma olhada no lugar de vez em quando. Já terminei por hoje.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「A Tamase tá vindo, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Capitão",
+    "message": "「Diz para ela trancar a porta quando sair. Até mais.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Eu pensei... que o nosso treino ia continuar, mesmo depois da competição."
+  },
+  {
+    "message": "Mas... a partir de amanhã, serei só mais um visitante aqui... e a Tama vai ser uma veterana aposentada..."
+  },
+  {
+    "message": "O que significa... que não vai ter lugar para nós aqui."
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Será que ela vai vir mesmo...?"
+  },
+  {
+    "message": "Tama... O que tá demorando tanto?"
+  },
+  {
+    "message": "Ela disse que tinha algo para falar depois da partida."
+  },
+  {
+    "message": "Eu podia ter falado com ela na aula, mas ela parecia ocupada, então não toquei no assunto."
+  },
+  {
+    "message": "Eu só imaginei... que a gente se encontraria aqui depois da aula, como de costume."
+  },
+  {
+    "message": "Achei... que a gente ia poder conversar aqui o quanto quisesse."
+  },
+  {
+    "message": "Vai ver ela não vem..."
+  },
+  {
+    "name": "Voz",
+    "message": "「Takeru... san?」"
+  },
+  {
+    "message": "Hm...? É a Tama..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá atrasada...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Você... esperou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que esperei.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O ex-capitão estava aqui. Ele disse que os calouros e segundanistas vão estar aqui de novo amanhã.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Anda logo e vai trocar de roupa.\nVai faltar tempo para o nosso último treino.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Afinal, eu ainda não acertei o alvo em cheio...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é mesmo. Pensando bem...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aquele cara disse para você não esquecer de trancar a porta.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tamaaa...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Terra chamando Tamaaa...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "message": "Ela não está prestando atenção."
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Por que... você me esperou?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... Imaginei que você viria.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você disse que queria me contar uma coisa...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E daí?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não sei por quê, mas... Tive o pressentimento de que você viria aqui.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Desculpa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Chega disso. Anda logo e vai se trocar.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Na verdade... Pensei em ir para casa em vez disso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E quanto àquela coisa que você queria me contar?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu havia prometido a mim mesma que diria se ganhasse...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendi.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas... eu perdi, então...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E quanto ao meu treino?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu não achei que você estaria aqui...\nEu tinha certeza de que não estaria...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por quê?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Eu não sei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qualé...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu não sei por quê... mas foi isso que eu senti.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que você está aqui?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu só tive essa sensação, como se você pudesse estar aqui afinal...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Quanto mais eu pensava sobre isso... mais provável parecia... e meu coração começou a disparar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu queria que você estivesse aqui... eu queria te ver...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... Você só queria me ver.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, então não é culpa sua se não consegue explicar. Às vezes a gente só tem vontade de ver alguém, mesmo sem ter um motivo.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então por que você não me conta o que queria falar? Entre nós dois, não importa se você ganhou ou perdeu, né?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu... não posso fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não? Pense nisso como o seu castigo por ter me feito esperar.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Quando a Suiko-san errou, eu achei que podia ganhar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas... como eu tinha prometido que te contaria se ganhasse... eu fiquei ansiosa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...E errei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Fiquei Tão triste... Logo depois que achei que conseguiria, minha mente simplesmente ficou em branco de novo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Então eu não vou dizer.\n...Eu não posso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu entendo que você só planejava contar se ganhasse... mas é tarde demais para mudar de ideia?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Será que eu não posso...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tentar realizar o seu desejo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acha que eu poderia tentar, pelo menos?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não se contenha.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se possível, Tama... Eu quero realizar o seu desejo. Seja qual for」"
+  },
+  {
+    "name": "Miki",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que acha?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Então...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Se eu conseguir acertar o alvo com todas estas quatro flechas, eu te conto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Você... realmente precisa fazer isso?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem então... Eu vou assistir.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Não tenho certeza do que ela quer fazer..."
+  },
+  {
+    "message": "Mas eu entendo o que ela está sentindo..."
+  },
+  {
+    "message": "E eu quero corresponder a esses sentimentos..."
+  },
+  {
+    "message": "Porque..."
+  },
+  {
+    "message": "Isso também realizaria o meu próprio desejo..."
+  },
+  {
+    "message": "Resta uma flecha."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Esta é a última.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Se esta flecha acertar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...por favor, saia comigo!」"
+  },
+  {
+    "message": "...Não sei quando comecei a me sentir assim, mas..."
+  },
+  {
+    "message": "Eu já planejava isso. Mesmo que você nunca tivesse dito essas palavras."
+  },
+  {
+    "message": "Eu quero que você faça parte da minha vida."
+  },
+  {
+    "message": "Imaginei que isso aconteceria naturalmente se eu apenas me fingisse de bobo."
+  },
+  {
+    "message": "Não sei quando começou, mas..."
+  },
+  {
+    "message": "Tama, eu..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "message": "Isso não está certo!"
+  },
+  {
+    "message": "O que estou fazendo apenas assistindo!?j"
+  },
+  {
+    "message": "Eu não posso simplesmente..."
+  },
+  {
+    "name": "Miki",
+    "message": "「......!」"
+  },
+  {
+    "message": "──Eu não posso simplesmente ficar sentado esperando!!"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ah!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ah.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Errei...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tamaaaaaaa!!!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Hã!?」"
+  },
+  {
+    "message": "Eu não posso simplesmente ficar esperando ela!"
+  },
+  {
+    "message": "A Tama me contou o que sente!"
+  },
+  {
+    "message": "Eu tenho que dar uma resposta a ela, droga!"
+  },
+  {
+    "message": "Não sair com ela só porque ela errou?"
+  },
+  {
+    "message": "Sair com ela só porque ela acertou o alvo!?"
+  },
+  {
+    "message": "Isso é ridículo!!"
+  },
+  {
+    "message": "A partir de agora, nós vamos... Eu vou... Eu v─!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha só isso!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Lá vou eu!"
+  },
+  {
+    "name": "Miki",
+    "message": "「──Ah!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ah... hwhawha...」"
+  },
+  {
+    "message": "...Eu acertei."
+  },
+  {
+    "name": "Miki",
+    "message": "「T-Takeru-saaan...」"
+  },
+  {
+    "message": "Quatro flechas estão espetadas no alvo."
+  },
+  {
+    "message": "E a que eu atirei... está cravada bem no centro."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pronto. As quatro acertaram.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Mas eu não consegui...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essa flecha não é só minha. Ela também é sua, Tama. Essa é a nossa flecha... e... ela acertou.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos ficar juntos a partir de agora.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O quê!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Juntos.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos ficar juntos.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bem?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru... san... Eu te amoo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cal-Calma, ei. Qualé, Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san! Takeru-saaan!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi graças a você que eu aprendi como o arco e flecha pode ser divertido...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu também! Você me lembrou o quanto podia ser divertido, Takeru-san!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Takeru-san, você vai ficar comigo para sempre...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　*afago* *afago*..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu estive ao seu lado esse tempo todo... E ainda assim, nunca fiz isso...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Estou Tão feliz... Estou tão feliz...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Mnn...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──O que foi? Tama?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...E-Este... É que eu tô... meio nervosa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tudo bem, numa hora dessas... Não tem problema nenhum estar estressada agora.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não sou diferente...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É... Consigo ouvir seu coração batendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...O que foi, Takeru-san?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu te amo.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É. Eu também te amo...」"
+  },
+  {
+    "message": "Coloco uma mão nas costas da Tama e puxo o corpinho dela para junto do meu..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「T-...Takeru-san...? O que foi...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada...」"
+  },
+  {
+    "message": "O corpo da Tama é tão pequeno e, ainda assim... tão quente."
+  },
+  {
+    "message": "Acho que eu nunca me cansaria de abraçá-la."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu estava só pensando... em como você é pequenininha.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... Des... desculpa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que você tá pedindo desculpa?\nVocê é do jeito que é...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... É que...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu te amo.」"
+  },
+  {
+    "message": "Mesmo quando ela veste aquele hakama fofo, parece que eu conseguiria envolver o corpo inteiro dela..."
+  },
+  {
+    "name": "Miki",
+    "message": "「T-...Takeru...-san...」"
+  },
+  {
+    "message": "Deslizo lentamente minhas mãos pelo corpo da Tama."
+  },
+  {
+    "message": "Conforme meus dedos se aproximam da cintura dela... o corpo dela começa a se contorcer em aflição."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... uhn... uhn...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ta-...Takeru-san...」"
+  },
+  {
+    "message": "A Tama está tremendo nos meus braços..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Tá com medo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「U... Um pouco...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você confia em mim?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então aguenta firme... Logo, não vai mais parecer tão assustador.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sério...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "message": "──*aperto*"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Tá bom.」"
+  },
+  {
+    "message": "Paro de me mover por um instante."
+  },
+  {
+    "message": "Nossa respiração se alinha e nossos corações batem no mesmo ritmo... enquanto nossos corpos tremem em silêncio."
+  },
+  {
+    "message": "Meus dedos... estão afundando na Tama através do hakama dela."
+  },
+  {
+    "name": "Miki",
+    "message": "「Kyah... Ah... Mmn... nn...!」"
+  },
+  {
+    "message": "A Tama fecha os olhos com força."
+  },
+  {
+    "message": "Ela aperta a minha mão com a sua."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Isso faz cócegas... Ah, nnf...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim... Ah... Ah...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama... Tama, Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... ahh...!」"
+  },
+  {
+    "message": "As pernas da Tama... estão tremendo tanto."
+  },
+  {
+    "name": "Miki",
+    "message": "「Fwah...! ...Ah... ah...!」"
+  },
+  {
+    "message": "Ela já não consegue mais ficar de pé sozinha, então está apoiando todo o peso do corpo em mim..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Fazer isso num lugar desses... é Tão vergonhoso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai ficar tudo bem...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...M-Mas... ainda é vergonhoso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vai ficar tudo bem...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "O hakama da Tama... cai no chão."
+  },
+  {
+    "name": "Miki",
+    "message": "「Não... mnn...」"
+  },
+  {
+    "message": "A peitoral dela sai facilmente quando afrouxo um pouco os cordões."
+  },
+  {
+    "name": "Miki",
+    "message": "「Aaah...!」"
+  },
+  {
+    "message": "A Tama não está usando sutiã, então, quando tiro o uniforme dela, seus seios ficam expostos ao ar livre."
+  },
+  {
+    "message": "Seu peito plano... e seus mamilos empinados para cima."
+  },
+  {
+    "name": "Miki",
+    "message": "「Não... Coloca de volta... Coloca de volta...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você fica tão fofa quando está com vergonha, Tama...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「N-Não diga... coisas assim... aaah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem, olha só para você.」"
+  },
+  {
+    "message": "Acaricio suavemente a boceta da Tama por cima de sua calcinha branca..."
+  },
+  {
+    "message": "Mesmo sem esfregá-la com tanta força, a Tama dá um solavanco para cima."
+  },
+  {
+    "name": "Miki",
+    "message": "「Hyah... ngh!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Parece que você está ficando molhada...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Aaah... Não diga isso... Não diga isso... Waah...!」"
+  },
+  {
+    "message": "Uma fragrância doce faz cócegas no meu nariz..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Nãooo... aahhn...!」"
+  },
+  {
+    "message": "Posso senti-la ficando mais molhada, o que umedece meus dedos."
+  },
+  {
+    "message": "Os fluidos embebem sua calcinha e se espalham pelo tecido branco..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Vou tirar isso aqui também.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Êêr...? Não, não, não... não! Nãão... ahhn...」"
+  },
+  {
+    "message": "Coloco meus dedos nas bordas da calcinha branca e fina dela... e puxo."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... ah! Aaah! Ah...!」"
+  },
+  {
+    "message": "Sua última peça de roupa desliza para fora."
+  },
+  {
+    "name": "Miki",
+    "message": "「Haaahn...!」"
+  },
+  {
+    "message": "Tama aperta as pernas uma contra a outra, mas já é tarde demais."
+  },
+  {
+    "name": "Miki",
+    "message": "「Nnk... mnn...」"
+  },
+  {
+    "message": "Estou abraçando uma Tama pelada neste lugar sagrado..."
+  },
+  {
+    "message": "...Isso meio que me faz sentir um formigamento estranho na parte de trás da minha cabeça..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vou colocar meu dedo dentro...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Não... ahn!」"
+  },
+  {
+    "message": "Entrou..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...!」"
+  },
+  {
+    "message": "Insiro apenas a ponta do meu dedo médio... na entrada quente e encharcada da Tama."
+  },
+  {
+    "message": "...Empurro um pouco mais fundo..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Hyaah... ah... ah... aan...!」"
+  },
+  {
+    "message": "Bem devagarzinho, ele afunda ainda mais..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Aaah...! Ha, uhn... ha... uhn...!」"
+  },
+  {
+    "message": "Acho que até meu dedo pode estar doendo um pouco para ela..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ta-...Takeru... san...」"
+  },
+  {
+    "message": "A respiração da Tama está quente."
+  },
+  {
+    "message": "...Acho melhor eu parar de provocar ela."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mm...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Desculpa... Eu ainda sou tão pequena...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Meus quadris... e meus seios... são tão pequenos...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Eu com certeza não devo ser o seu tipo, Takeru-san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Isso não é verdade, Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...O quê...?」"
+  },
+  {
+    "message": "Me sento no chão de madeira..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama, vem cá.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...T-Takeru-san...」"
+  },
+  {
+    "message": "A bunda da Miki está se contorcendo."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Algo quente... acabou de pulsar... contra a minha bunda...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É... Você tá sentindo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ah... ooh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Beleza... Tá pronta, Tama?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Lá vou eu...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... ah... ah...!」"
+  },
+  {
+    "message": "Eu coloco a Tama nos meus joelhos... e encosto a minha cabeça na entrada virgem dela."
+  },
+  {
+    "message": "Nngh... ggghh..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah... haaa...!」"
+  },
+  {
+    "message": "O aperto da Tama proíbe a minha entrada."
+  },
+  {
+    "message": "No entanto... o peso do corpo dela me ajuda a ir mais fundo."
+  },
+  {
+    "message": "Estou enfrentando uma forte resistência por parte do interior da Tama."
+  },
+  {
+    "message": "Mas ainda assim, o fluido que escorre dela facilita empurrar o meu caminho para dentro."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ai! ...Ai, ai...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tama...」"
+  },
+  {
+    "message": "Eu faço carinho na cabeça da Tama."
+  },
+  {
+    "name": "Miki",
+    "message": "「Mnn...!」"
+  },
+  {
+    "message": "Tremendo com o que deve parecer ser rasgada ao meio, ela agarra meu hakama com força."
+  },
+  {
+    "message": "O fato de ela estar disposto a aguentar isso... me deixa tão feliz."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ungh...!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Aah... ah... ah...」"
+  },
+  {
+    "message": "Meu membro se enterra dentro da Tama..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Você tá... Você tá tão fundo dentro de mim, Takeru-san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sei...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Por que... Por que tá assim...? Tá me rasgando inteira...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Para mim também dói...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Takeru... san... Takeru... san... Takeru... san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Miki.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Sim...」"
+  },
+  {
+    "message": "Junto meus lábios aos da Tama... aos da Miki."
+  },
+  {
+    "name": "Miki",
+    "message": "「Mfhaa...!」"
+  },
+  {
+    "message": "A Miki me responde com os lábios também."
+  },
+  {
+    "message": "Quando a provo com minha língua, os lábios dela se abrem."
+  },
+  {
+    "message": "Deslizo minha língua molhada para dentro."
+  },
+  {
+    "name": "Miki",
+    "message": "「Haah, ah...」"
+  },
+  {
+    "message": "A língua da Miki se entrelaça com a minha... e misturamos toda a saliva em sua boca."
+  },
+  {
+    "name": "Miki",
+    "message": "「Mm... mn! Nnn...!」"
+  },
+  {
+    "message": "Nós nos beijamos, e beijamos, e beijamos..."
+  },
+  {
+    "message": "O calor dentro da boca da Miki... e o gosto doce de sua saliva... É como se eu estivesse me desmanchando nela..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Fwa... ah...」"
+  },
+  {
+    "message": "Um fio de saliva se estende entre os cantos de nossas bocas."
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu nunca sabia que beijar... era tão gostoso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Miki.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「É como se... houvesse esse sentimento quente no meu peito... e tudo o que consigo ver é você, Takeru-san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu estou bem aqui com você.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Impossível... Você parece tão tranquilo, Takeru-san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso não é verdade... Eu nem sei o que fazer agora...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Ei, será que eu...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Será que você o quê?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Será que eu me mexo agora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tá bom... Aqui vou eu...」"
+  },
+  {
+    "message": "A Miki está... levantando lentamente os quadris..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Hwha... ah...」"
+  },
+  {
+    "message": "Sinto minha cabeça empurrando o interior da Miki... e a Miki solta um suspiro quente."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Haah... aah... ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nngh...」"
+  },
+  {
+    "message": "O interior da Miki... se aperta ao meu redor..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Hau... ah... aan...!」"
+  },
+  {
+    "message": "Apenas metade da minha ponta pode ser vista..."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Nngh!」"
+  },
+  {
+    "message": "Miki abaixa os quadris."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Gh...!」"
+  },
+  {
+    "message": "O corpo dela se aperta ao redor do meu membro, e o atrito me deixa sem ar."
+  },
+  {
+    "name": "Miki",
+    "message": "「Haah... hahn! Hnngh! Aaahn! Anfh!」"
+  },
+  {
+    "message": "Há barulhos altos e molhados toda vez que o corpo de Miki se ergue."
+  },
+  {
+    "message": "Aquele corpinho dela balança para cima e para baixo repetidamente."
+  },
+  {
+    "name": "Miki",
+    "message": "「Aaah... Nngh! Unngh! Ooh...!!」"
+  },
+  {
+    "message": "O interior de Miki está espremendo o meu membro... esfregando-o vigorosamente para cima e para baixo."
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san... Takeru-san! Takeru-san...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Miki... Miki...」"
+  },
+  {
+    "message": "Eu mascarei as pontas do peito plano de Miki e esfreguei meus dedos nelas."
+  },
+  {
+    "message": "O rosto terno dela parece extasiado... Ela não parece mais saber o que está acontecendo — apenas continua movendo os quadris."
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san... Você está... Você está pulsando dentro de mim! Eu consigo sentir... Não vai parar...!」"
+  },
+  {
+    "message": "O corpo de Miki está se movendo de forma cada vez mais violenta."
+  },
+  {
+    "message": "Eu a observo colocar toda a sua energia em se mover para cima e para baixo... Ela parece tão apaixonada e, de certa forma, isso é bastante sedutor."
+  },
+  {
+    "message": "A bunda de Miki treme, e seus braços e pernas me transmitem essas vibrações..."
+  },
+  {
+    "message": "...Meu membro absorve cada uma de suas estocadas rítmicas e está prestes a explodir..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Miki, eu tenho que tirar...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「O quê... N-Não...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se continuarmos assim... Eu vou gozar dentro de você...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Tudo bem... Takeru-san... Me abraça...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu quero ficar junto para sempre...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Então me abraça para sempre...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nngh...!」"
+  },
+  {
+    "message": "O interior de Miki de repente fica mais apertado, espremendo-me com força."
+  },
+  {
+    "message": "Um prazer agudo brota do fundo dos meus quadris, e um impulso irreprimível toma conta do meu baixo-ventre."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou gozar...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Takeru-san...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ungh...!」"
+  },
+  {
+    "message": "Miki agarra meu hakama com força."
+  },
+  {
+    "message": "O estímulo de suas mãos nas minhas coxas me faz disparar... e tudo o que remoinho dentro do meu membro corre para a superfície."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Urgh...!」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Auuugh...!」"
+  },
+  {
+    "message": "Miki fica completamente paralisada pela sensação, e todo o seu corpo treme enquanto cada última gota de sêmen quente é jorrada dentro dela."
+  },
+  {
+    "name": "Miki",
+    "message": "「Hah... Ah... ah... ah... ah...」"
+  },
+  {
+    "message": "O líquido branco e espesso começa a escorrer para fora de lá de dentro."
+  },
+  {
+    "message": "Tudo o que vaza de dentro da Miki e de mim se misturas... É praticamente escaldante..."
+  },
+  {
+    "name": "Miki",
+    "message": "「Tá... tão... quente...」"
+  },
+  {
+    "message": "O corpo da Miki se arqueia para trás... e ela solta um último suspiro."
+  },
+  {
+    "name": "Miki",
+    "message": "「Take...ru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Miki...」"
+  },
+  {
+    "message": "Miki se apoia contra mim, seu corpo emanando um calor aconchegante... enquanto fecha os olhos e aproveita a sensação pós-ato."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "...Olhar nos olhos um do outro assim é, ah... vergonhoso demais."
+  },
+  {
+    "message": "Será que nos faltam palavras, ou simplesmente não conseguimos encontrá-las...?"
+  },
+  {
+    "message": "...Ainda não acredito que fizemos isso aqui... Profanamos este lugar sagrado."
+  },
+  {
+    "message": "...Bem, não adianta se preocupar com isso agora."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Takeru... san...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Oi?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...E-Isto é meio vergonhoso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Agora que notei... Você me chamou só de 'Takeru' no final.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「E-Eu não consigo te chamar assim normalmente〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A sua cara mesmo, Tama.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Vê? Você ainda continua me chamando de Tama, Takeru-san.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Claramente, ainda não estamos nesse nível."
+  },
+  {
+    "message": "...Não que isso importe."
+  },
+  {
+    "message": "Às vezes, você só precisa ir com calma e deixar as coisas acontecerem naturalmente."
+  },
+  {
+    "name": "Miki",
+    "message": "「...Eheheh.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Que foi agora, Tama?\nVamos para casa?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Não, vamos treinar...」"
+  },
+  {
+    "message": "A Tama ainda não se recuperou completamente, mas já começou a se espreguiçar."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Calma aí. Você está bem...?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Um dos meus maiores desejos foi realizado...」"
+  },
+  {
+    "message": "Tama pega o seu arco."
+  },
+  {
+    "message": "...Quando ouço assim, soa como um instrumento musical."
+  },
+  {
+    "name": "Miki",
+    "message": "「Então agora, eu tenho que perseguir um dos meus maiores sonhos.」"
+  },
+  {
+    "message": "...É isso mesmo."
+  },
+  {
+    "message": "O sonho da Tama, hein..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Se é um dos seus sonhos, então...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, não... Não é nada.」"
+  },
+  {
+    "message": "Eu gostaria de compartilhar esse sonho com você... embora eu ainda não tenha o direito de te dizer isso."
+  },
+  {
+    "message": "Ainda há muitas coisas que preciso superar antes de poder te dizer isso."
+  },
+  {
+    "name": "Miki",
+    "message": "「Ei... Olha pra mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "message": "Tama posiciona outra flecha no arco."
+  },
+  {
+    "message": "Acho que depois de hoje... as flechas dela voarão com uma nova determinação. Mais retas e certeiras do que nunca..."
+  },
+  {
+    "message": "Sem sequer vacilar em sua trajetória."
+  }
+]

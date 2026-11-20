@@ -1,0 +1,1868 @@
+[
+  {
+    "message": "Extra 14/11 (Qua)"
+  },
+  {
+    "message": "Ah, qual é!?"
+  },
+  {
+    "message": "Eu finalmente tomei coragem pra vir até aqui, e ela nem sequer veio hoje!"
+  },
+  {
+    "message": "Você tem muita cara de pau..."
+  },
+  {
+    "message": "Sério, por que ela não dá as caras...?"
+  },
+  {
+    "message": "Então vou ter que continuar passando na casa dela!"
+  },
+  {
+    "message": "Eu vou, não importa o que ela me diga!"
+  },
+  {
+    "message": "...É por isso que estou cabulando a aula hoje."
+  },
+  {
+    "message": "Meio difícil criticar ela agora... Ugh, que hipocrisia a minha..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ah!」"
+  },
+  {
+    "message": "Ei! Aquela não é..."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ora! Shirogane-kun.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Boa tarde.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「O que você está fazendo por aqui a esta hora?\nAs aulas já acabaram?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Ah, bom, sobre isso...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ah, entendi.\nEntão você também está cabulando hoje, Shirogane-kun.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hahaha... É, dá para dizer que sim.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Inveja de você... Quem dera eu pudesse simplesmente fugir das minhas obrigações.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Não seria ótimo casar de novo com algum galã rico...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-E-Ummm...」"
+  },
+  {
+    "message": "I-Isso tá muito chato..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「B-Bem, acho melhor eu...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Falando nisso, me escuta um segundo. Já que você tá colando da aula hoje, deve ter um tempo livre, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ummm, bem, falando assim...\nAcho que tenho.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Hoje de manhã, quando a Chizuru saiu de casa, eu perguntei para onde ela ia.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Como você acha que ela me respondeu?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu não sei.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「──'Se for falar sozinha, pelo menos faça isso em silêncio'...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Eu... não tenho nada a dizer sobre isso..."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Bem, a culpa dela ter ficado assim é minha, então não posso reclamar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não pode reclamar? ...Espera um minuto.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu sei que não é da minha conta, mas... isso não é... meio irresponsável?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Por que diz isso?」"
+  },
+  {
+    "message": "Qual é a dela...?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「'Por que'... Cruzes, você não é a mãe dela?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ah... Me desculpe, Shirogane-kun. Eu achei que você fosse namorado da Chizuru ou algo assim. Então você não sabe de nada, né?」"
+  },
+  {
+    "message": "──N-Namorado?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eu sou apenas um colega de classe dela.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...É só isso mesmo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quer dizer, é... até onde eu sei...」"
+  },
+  {
+    "message": "Caramba, a mãe da Representante realmente me deixa desnorteado..."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「*suspiro*... Garota difícil, ela odeia homens... Eu criei certas expectativas quando você veio à nossa casa, mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Me desculpe por não corresponder às suas expectativas.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ahahah... Você é um garoto bem engraçado, sabia? Que tipo de resposta é essa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Er, desculpa...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Então, você realmente não sabe de nada, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, provavelmente não.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ela não te contou que não tem pai, contou?」"
+  },
+  {
+    "message": "...Uau... Que jeito de soltar uma bomba do nada.\nComo é suposto eu reagir a isso...?"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Bem, ela provavelmente também não sente que tem mãe. Ahahahah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Por que exato você está me contando isso, mesmo...?"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Quer dizer, para começar, ela foi o motivo do meu primeiro casamento...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein!? Como assim, o motivo?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Bem, não era tão incomum na época... Basicamente, foi um casamento às pressas.」"
+  },
+  {
+    "message": "Droga... Acho que eu busquei isso."
+  },
+  {
+    "message": "Mas sério, por que você está me contando tudo isso...?"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ele era um inútil bom para nada que me engravidou sem sequer pensar nas consequências. Mas acho que não cabe a mim criticá-lo, já que eu deixei... Enfim, tenho certeza de que você pode imaginar, as coisas não deram certo.」"
+  },
+  {
+    "message": "Isso é pesado... Pesado demais."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Quando ela estava no jardim de infância, o sujeito fugiu com outra mulher. Aí eu tive que ralar para criá-la sozinha... Bem, eu digo isso, mas não é como se eu realmente a tivesse criado sozinha...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Se eu dissesse que trabalhava no ramo do 'entretenimento', você entenderia?」"
+  },
+  {
+    "message": "Em outras palavras... Outros homens estavam envolvidos."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Aposto que isso parece bem escroto para um garoto inocente como você, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...N-Não... Isso não é verdade...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Eu sou a mãe dela, sabe...\nEu tenho que mantê-la alimentada...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Provavelmente soa como uma dessas desculpas de merda que os adultos inventam, né?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu... não sei dizer direito.」"
+  },
+  {
+    "message": "Estou tendo problemas para inventar respostas toda vez que ela se vira para mim pedindo minha opinião..."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Mas antes de mais nada, eu também sou mulher.\n...Sou muito mais fraca do que aparento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Quando as coisas ficavam difíceis, eu podia simplesmente fugir para os braços de algum homem... Nunca hesitei em fazer isso. Já fiz isso inúmeras vezes.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ela já teve que lidar com o sumiço do pai e, depois, com todos esses homens que ela não conhecia entrando na nossa casa e agindo como se fossem donos de tudo... Pensando bem, esses caras podem ter dado um trabalho infernal para ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Trabalho infernal?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Sabe, aquele tipo de coisa que é mais fácil fingir que não está vendo. Sabe, eu não queria perder a segurança que tinha com eles...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ela teve que ver quão horríveis os adultos podem ser em uma idade tão jovem... Isso só aprofundou as feridas no coração dela. E eu, como mãe dela, fiquei só assistindo... Esse é o tipo de pessoa que eu sou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Não é horrível?」"
+  },
+  {
+    "message": "...Eu não sei.\nEu nem consigo dizer se isso é horrível ou não."
+  },
+  {
+    "message": "Para de me fazer tantas perguntas!"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Naquela época, achei que podia inventar todo tipo de desculpa para a Chizuru depois, e que ela entenderia quando fosse mais velha... Na verdade, talvez eu tenha levado isso ainda menos a sério.」"
+  },
+  {
+    "message": "...Isso é absurdo.\nComo um pai ou mãe pode não entender o que o próprio filho sente?"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Bem estúpida, não é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Er... Bem, ahm... É, pois é.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Pois é... as pessoas são idiotas.\nQuando crescemos, nem conseguimos lembrar como é ser criança.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Mesmo se lembramos, não conseguimos pensar ou sentir do mesmo jeito... Pelo menos eu não consegui.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Eu era só uma garota — nem era uma mulher ainda — com uma criança. E você sabe que crianças só pensam nelas mesmas, né?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「É por isso que fui mais boazinha comigo mesma do que com a Chizuru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Mas, embora tenha demorado, até eu consegui perceber isso. Claro que agora já é tarde demais...」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「──Bem, é por isso que a culpa de a Chizuru ser assim é minha. Então não tenho o direito de reclamar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É bem injusto falar assim...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...É, é verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é algo que pode ser perdoado só porque você assume a responsabilidade. Reconhecer que não vai ser perdoada também não faz de você uma pessoa melhor.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...É.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas... eu também fui injusto... por só ficar ouvindo tudo isso em silêncio.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Por quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que a Representante... O que a Chizuru-san pensaria de eu saber de tudo isso...?」"
+  },
+  {
+    "message": "Apesar do que pensei enquanto ela falava, não posso dizer que não estava interessado."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ela se importa muito com o que os outros pensam dela... então provavelmente odiaria.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, imagino que sim... Tive o mesmo pensamento.」"
+  },
+  {
+    "message": "Quer dizer, parecia que ela nem queria que eu soubesse que ELA tinha uma mãe."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Mas olha, Shirogane-kun...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Mesmo que a culpa seja toda minha por causa das minhas próprias atitudes egoístas... Mesmo que ela seja só uma vítima nessa história — essas são as circunstâncias da Chizuru. As coisas são assim mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É... acho que sim...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Ela escondeu tudo isso de você e ainda assim te meteu nisso. Se quer saber, isso é muito mais injusto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Acho que sim, mas também não é como se eu tivesse sido arrastado para isso do nada, cuidando da minha vida...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Não acha injusto que ela não recompense os seus esforços se abrindo com você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... é que...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Tudo bem. Pode falar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu meio que acho que... você não tem muito o direito de dizer isso.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Todo mundo tem coisas que quer manter em privado, e se alguém for descobrir, prefere contar por conta própria... Acho que isso é especialmente verdade no caso da Chizuru-san.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──E, como eu disse antes, não é como se eu estivesse cuidando da minha vida...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Shirogane-kun.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Pois não?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Que tipo de pessoa ela é?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? O que quer dizer?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Como ela costuma parecer... aos seus olhos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ela é esforçada e inteligente.\nFaz as coisas acontecerem e todo mundo depende dela.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas ela é muito CDF das regras e está sempre pronta para reclamar de qualquer coisinha. Então, muitas vezes eu acho ela bem irritante também.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...A a cara dela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E... ela sempre parece tensa, por algum motivo.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela tenta fazer tudo sozinha e é muito teimosa...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E por causa disso, ela sempre acaba brigando com uma certa amiga minha...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas no geral, acho que ela é uma boa pessoa.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Fico feliz em ouvir você dizer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Eu não fiz nada por ela...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Mas mesmo que seja apenas a maneira dela de se rebelar contra mim... Fico contente em saber que ela cresceu bem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Shirogane-kun, você é um bom rapaz.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, eu não diria tanto...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Vou confessar uma última coisa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Eu te contei tudo isso... porque senti que poderia ajudar minha filha a ser feliz.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Bem injusto, não é? Justo eu vir agir como mãe depois de todo esse tempo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Eu não sei o que você é para a Chizuru, mas... eu queria que houvesse alguém capaz de entender de verdade a minha filha...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Assim como eu, no fundo ela é muito frágil. E tudo o que fiz foi tornar mais difícil para ela se abrir com os outros.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Desde pequena, ela sempre quis ser o oposto de mim.\n...Mas desse jeito, ela vai acabar virando exatamente igual...」"
+  },
+  {
+    "message": "──O quê?"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Acho que eu só queria que houvesse alguém ao lado dela... pelo menos uma pessoa... que saiba a verdade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Eu sei que isso é egoísta... Sei que sou uma tola. Não deveria colocar esse peso nos ombros do filho dos outros...\nMe desculpe por te causar problemas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「I-Imagina, de jeito nenhum...」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Não importa o que os outros pensem, ela é insubstituível para mim... É só isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Representante... Você disse que odiava essa pessoa mais do que tudo."
+  },
+  {
+    "message": "Mas ela não te odeia de jeito nenhum."
+  },
+  {
+    "message": "Esse sorriso de afeto materno que ela faz quando fala sobre você..."
+  },
+  {
+    "message": "...Ela te ama tanto quanto qualquer outra mãe."
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「...Desculpe por ter te prendido aqui por tanto tempo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, i-imagina... tudo bem... Já vou indo.」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Shirogane-kun.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim?」"
+  },
+  {
+    "name": "Mãe da Chizuru",
+    "message": "「Se... você não se importar...\nPor favor, cuide da Chizuru.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, com certeza.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "...De algum modo... de costas, ela parecia uma alma tão cansada e abatida..."
+  },
+  {
+    "message": "No fim das contas, não consegui ver a Representante..."
+  },
+  {
+    "message": "Ela deve ter adivinhado quando eu viria e foi matar o tempo em algum outro lugar."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim, você ligou para a residência Shirogane.」"
+  },
+  {
+    "message": "Droga. Se você vai pensar em tantas maneiras de fugir de mim, bem que poderia pensar em como vai lidar com a escola."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim, o Takeru-sama está aqui.\nUm momento, por favor.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein? Para mim?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「É da Sakaki-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, valeu.」"
+  },
+  {
+    "message": "Espera... A Representante?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Alô?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ei, aqui é a Sakaki. Tem um momento?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-...Claro, tenho.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Se possível, eu gostaria de me encontrar com você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Agora? Por que tão tarde?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Você pode sair agora mesmo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Primeiro de tudo, você não deveria voltar a frequentar a escola...?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Não diga isso.\nEnfim, você vai vir ou não?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bom.\nOnde a gente se encontra?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Que tal na estação?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fechado. Que horas? Quer que eu saia agora mesmo?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu agradeceria muito.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendido. Te vejo lá.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Exato.」"
+  },
+  {
+    "message": "Ah... Lá está ela."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei, desculpa a demora.\n...Por que você ainda tá com o uniforme?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Por que isso importa?\nEnfim, desculpa ter te chamado até aqui. Toma, isto é para você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Um saco de papel grande? Por que tá me dando isso?」"
+  },
+  {
+    "message": "Ah... É o meu uniforme."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Ela nem sequer trocou de roupa quando chegou em casa..."
+  },
+  {
+    "message": "Será que ela achava que era tão importante assim me devolver isso, ou será que ela só não queria ficar mais tempo em casa...?"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sua carteirinha de estudante também está aí... Tchau.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──Hã...? Ei, espera! É só isso!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem... Eu tava meio que imaginando o que diachos você queria.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu só estava guardando isso e precisava devolver.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É só isso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...É só isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já que estamos aqui, vamos dar um rolê rapidinho.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pode ser?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vamos, anda comigo um pouco.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Tá tentando me irritar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qualé. Já é noite, então não deve ter problema.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Eu acho que o problema não é esse.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então qual é o problema?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Descubra sozinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Olha, é só... Ah, esquece.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Então eu já posso ir para casa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ei, sério mesmo. Já ouviu aquela lenda urbana sobre essas cerejeiras?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O-O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora...? Tá com medo?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「N...N-N-Não, de jeito nenhum.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sabe quando dizem que há corpos enterrados debaixo dessas árvores?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ninguém diz isso!」"
+  },
+  {
+    "message": "...Como você pode ter tanta certeza disso?"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aparentemente costumava haver uma base militar por aqui.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Por que você ainda tá falando disso!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Calma...\nDe qualquer forma, aí eles foram bombardeados até virarem pó.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, sééério...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E muita gente morreu por aqui... Então essas cerejeiras foram plantadas em cima dos cadáveres...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eek!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi〜?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E-Eu só senti um ventinho frio, só isso!」"
+  },
+  {
+    "message": "Oho... Olha só você bancando a valente."
+  },
+  {
+    "message": "Essa teimosia só me dá mais vontade de te assustar."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Agora vem a melhor parte...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「J-Já chega!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Dizem que, até hoje... os cadáveres mutilados dos soldados às vezes aparecem à noite na forma de espíritos vingativos. Eles chamam isso de 'a hora das bruxas'...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Para com isso, chega!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cuidado, tá? Se você olhar diretamente para um deles, vão começar a te perseguir. E eles engatinham numa velocidade absurda.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Quem deveria tomar cuidado é você! Continua falando assim e eu não me responsabilizo pelo que te acontecer!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom, tá bom. Enfim, dá para me dar um pouco de espaço? É difícil andar assim.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Hã...? Ah!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Cara, tá uma verdadeira escuridão...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Obviamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei, quer entrar?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...E-Espere, você tá falando sério?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「N-N-Não temos motivo nenhum para...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E-Espere um minuto!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Como você sabia que só aquela saída de emergência estaria aberta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso é segredo.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não ando acreditando em você.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então, ei... Representante, você sabiaaaa...?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Qu... Qu-Qu-Que diabo é isso agora!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Dizem que quando o prédio da escola fica vazio, dá para ouvir passos ecoando na noite...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O quê? O quê!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Thump, thump, thump... São os passos do...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「P...P-P-Para com isso!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...vigia noturno.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não me assuste desse jeito!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Essa era mais ou menos a ideia... Vamos lá.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu já disse, é difícil andar assim.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Is-Isso não é verdade de jeito nenhum...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como você sabe?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Cala a boca! Foi você que me trouxe aqui!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você não está fazendo o menor sentido...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Só continua andando! Eu não sei para onde estamos indo, mas anda logo...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba, está Tão quieto aqui dentro...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Afinal, somos os únicos acordados por aqui.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E-Ei.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mm? O que foi?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não fica em silêncio...!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Diz alguma coisa. Não importa o quê.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo se for outra história de fantasma?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não! Chega dessas!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não tem ninguém aqui...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「S-Seria muito mais estranho se HOUVESSE alguém a esta hora da noite!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...*suspiro*... Por algum motivo... eu me sinto melhor por aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Como é que a sala de aula parece depois de tanto tempo?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Era aqui que você estava tentando me trazer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...E você tinha que invadir a essa hora...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, não tem jeito de alguém estar aqui a essa hora.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「E o vigia?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, o que tem ele?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Você já fez isso antes, não já?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu já tive minha cota de aventuras tarde da noite, é...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu não acredito em você...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vou tomar isso como um elogio.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...*suspiro*... Então?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Não há algo sobre o qual você queira falar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você está enrolando bastante para chegar ao ponto...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu quero que você vá à escola amanhã.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bom?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O que isso te importa, Shirogane-kun?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que você insiste tanto em não vir?\nNada vai melhorar até você voltar.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? Não consigo te ouvir.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「É porque você está me mandando ir.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Porque eu estou mandando?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Sim. Satisfeito agora?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nem um pouco.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Não há nenhum outro motivo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então o motivo de você não ir ao hospital, ou aparecer nas aulas... é porque eu venho te mandando fazer isso?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Isso mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「'Isso mesmo'? Qual é... Pelo menos diga algo que faça sentido.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Faz todo o sentido para mim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mas não para mim.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Mas isso realmente importa? Você não precisa saber.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá dizendo que isso não tem nada a ver comigo?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Isso mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas é claro que tem, droga!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Por que você tá tão irritado assim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo quando eu tô em casa, minha cabeça não para. Não consigo evitar me sentir inquieto o tempo todo.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Que diabos isso quer dizer?\nTá achando que a culpa é minha?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não foi isso que eu quis dizer.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Acho que não. Se não fosse, você não teria motivos para fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não fica tão na defensiva. Não tô aqui para brigar com você.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você é mesmo um idiota.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, qual é...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Eu te chamei de idiota porque você é um.\nTem algum problema com isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Dá para deixar isso pra lá?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que quer dizer com isso?\nEu já te disse antes. Não tente me dar lição de moral quando não faz ideia de nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Na verdade, eu sei de uma coisa.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O que você quer dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi agora... Tudo faz sentido.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que faz?」"
+  },
+  {
+    "message": "...A Suzumiya estava certa."
+  },
+  {
+    "message": "Ela tenta fazer tudo sozinha porque não consegue dizer aos outros o que realmente sente."
+  },
+  {
+    "message": "Ela não é tão forte quanto parece.\nEla tem uma fraqueza incrível."
+  },
+  {
+    "message": "É por isso que ela tá resistindo tanto a mim, não é?"
+  },
+  {
+    "message": "Se alguém obriga ela a fazer algo, significa que ela não fez por conta própria... É disso que se trata."
+  },
+  {
+    "message": "E ela tem um motivo extremamente profundo... para querer fazer tudo sozinha."
+  },
+  {
+    "message": "Não era tão simples quanto a Suzumiya pensava."
+  },
+  {
+    "message": "Mas ela talvez tivesse dito outra coisa se ouvisse o que a mãe da Representante me contou."
+  },
+  {
+    "message": "Talvez a Representante nunca nem tenha contado a ela o que realmente sentia."
+  },
+  {
+    "message": "Mas... isso não serve apenas para aumentar o sofrimento dela?"
+  },
+  {
+    "message": "Eu não sei por mais quantos anos ela planeja continuar assim..."
+  },
+  {
+    "message": "Mas ela não está só perdendo tempo?\nQue tipo de coisa boa poderia vir disso?"
+  },
+  {
+    "message": "...Então eu deveria fazer algo a respeito?"
+  },
+  {
+    "message": "Não é uma questão de ter o direito... ou de isso ter algo a ver comigo... Eu só acabei me metendo no meio disso."
+  },
+  {
+    "message": "E eu sinto que... não tem problema aceitar esse papel, mesmo que ele tenha sido imposto a mim por acaso..."
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Poderia não ficar em silêncio desse jeito?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu fui ver a Suzumiya.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Hã...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Conversamos bastante... e ela me pediu algumas coisas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Aí eu esbarrei na sua mãe, e ela me contou ainda mais coisas.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...O quê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu... não posso mais te deixar em paz, Representante.」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Por que você faria uma coisa dessas...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「...Bem?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Achou divertido... cavucar todos os meus segredos...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que não...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「O que vem depois? Vai vir com pena... e com conselhos vagos e gentilesas...? Deve ser bem satisfatório, né...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é nada disso!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Como você ousa...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Quem você pensa que é para enfiar o nariz intrometido na minha vida!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não...!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Cala a boca! ...Você é mesmo o pior!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera!」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Você é horrível! Você é a pior pessoa que eu já conheci na vida!! Eu não quero nem olhar na sua cara!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ai...!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Aiiii!!」"
+  },
+  {
+    "message": "Minha bochecha parece estar pegando fogo..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...M-Maldita...!」"
+  },
+  {
+    "message": "Por que você teve que me dar um tapa tão forte!?"
+  },
+  {
+    "message": "O que estou pensando...? Quem diabos chegaria do nada e contaria todos os seus segredos para alguém assim!?"
+  },
+  {
+    "message": "É claro que ia dar nisso!\nÉ claro que eu estava preparado para esse resultado!!"
+  },
+  {
+    "message": "Mas eu tinha que fazer isso, não importa o quê!"
+  },
+  {
+    "message": "Eu não posso fazer nada por ela... A não ser que eu faça isso primeiro!"
+  },
+  {
+    "message": "Como diabos eu ia mostrar a ela que sou alguém em quem ela pode confiar sem enfiar a minha bendita cabeça nos problemas dela!?"
+  },
+  {
+    "message": "Droga! Eu sou muito estúpido!"
+  },
+  {
+    "message": "Ai... Droga! Maldição!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Horrível... Péssimo... O pior... De quantas maneiras dá pra dizer a mesma droga de coisa!?」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Droga... Isso não está dando certo..."
+  },
+  {
+    "message": "Ugh..."
+  },
+  {
+    "message": "Aquilo não podia ter sido pior."
+  },
+  {
+    "message": "Tudo o que fiz foi afastar ainda mais a Representante de mim."
+  },
+  {
+    "message": "...Tem alguma coisa que eu possa fazer agora?"
+  },
+  {
+    "message": "Parece que... nada que eu faça vai importar..."
+  },
+  {
+    "message": "Parece que ela... que a Representante não vai mais nem olhar na minha cara."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「E aí, beleza, mano?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, qualé! Eu tava só brincando〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Poxa, qual é a sua?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá bom, tá bom. O que você quer?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não é você que tá precisando de uma ajuda, Takeru-chan?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê? Do que você tá falando?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Qualé, desembucha logo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Cara, isso realmente me irrita pra caramba.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Nossa. Olha quem fala de picuinha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Opa, ficou pistola?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「*suspiro*...Deve ser bom ser tão despreocupada.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ei, você tá rindo da minha cara agora, não tá!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você que tá imaginando coisas.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é só isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Cara, sério...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quêêê?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...*suspiro*... A nossa vida tem sido bem mansa até agora, né?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quer dizer eu também?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Estaria falando de quem mais?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Bem... É que eu tô surpresa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas pensa bem. A gente tem muita sorte, não tem? Em relação às nossas famílias e tudo mais?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hmm... É, acho que sim. Ajuda bastante o fato de as nossas famílias se derem tão bem também.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, tem razão.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Quer dizer, isso é obviamente um exagero, mas é quase como se a gente tivesse dois pares de pais.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Especialmente quando éramos pequenos...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「A gente se divertia tanto naquela época...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente nunca teve nenhum problema de família, né?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Acho que não.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas enquanto você e eu vivíamos correndo por aí curtindo a vida a rodo... tinha outras crianças que não tiveram tanta sorte.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tem gente que não teve uma infância feliz. Gente que nunca sentiu o amor dos pais.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quando me dei conta disso, eu pirei geral.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá ligado no que eu quero dizer?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mais ou menos, é. Pedaços e bocados, pelo menos...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu nunca passei por nada parecido na minha vida, então... por mais estúpido que pareça, isso me apavorou de verdade.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...A gente realmente tem uma vida bem mansa, né.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mas... mesmo agora, eu tô meio que me matando de preocupação com isso. Droga... o que eu faço, sério?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Pra que se forçar a fazer alguma coisa?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que você quer dizer com isso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Vai ver você não entende. Vai ver tá meio assustado. Vai ver fez alguma besteira. Mas isso não importa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Acha mesmo?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não se preocupe em parecer descolado.\nO que importa é... o quanto você tá falando sério sobre isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É, acho que sim.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tudo bem se você parecer um bobão. Só não se force tanto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É estranho, sabia? Não é como se eu ficasse preocupado em parecer idiota na sua frente.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ahahah. Pena que ela não sou eu, né...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Mas tenho certeza de que ela não se importa tanto.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aliás, eu meio que sei de quem você tá falando, viu.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu sei...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bom, de qualquer forma... eu entendi perfeitamente o que você tá dizendo, Sumika. Você tá bem inspirada hoje. Tô impressionado.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Tá se apaixonando por mim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nem a pau.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Qualééé〜!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Retiro o que disse.\nVocê não tem inspiração nenhuma.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ugh! Chato!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá ficando frio aqui, vou fechar a janela.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Boa ideia. Meu quarto virou um freezer por sua culpa, Takeru-chan... Até meu coração congelou.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A culpa não é minha.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Errado. A culpa é todinha sua, Takeru-chan.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, é. Boa noite, então.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ah, é. Boa noite.」"
+  },
+  {
+    "message": "Eu sou eu. Eu sou eu. Eu... sou eu."
+  },
+  {
+    "message": "Não posso ser mais ninguém, nem quero ser."
+  },
+  {
+    "message": "Então, no fim das contas, não me resta escolha a não ser dizer a ela exatamente o que sinto..."
+  },
+  {
+    "message": "Aparentemente vou ter que fazer isso mesmo... Representante."
+  }
+]

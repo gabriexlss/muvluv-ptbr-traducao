@@ -1,0 +1,1426 @@
+[
+  {
+    "message": "Extra 30/11 (Sex)"
+  },
+  {
+    "message": "──Takeru-chan! ...Takeru-chan!!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hm...? Mmgh...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mmm... Quê?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「'Quê' o qué.\nA aula já acabou. Vamos para casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, é verdade... Onde está a Meiya?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela disse que estaria ocupada hoje.\nJá foi embora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi? Ué...」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Ah, pelo amor de Deus. Se toca!\nNão percebeu que ela só está de saco cheio de você?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O-O que você está dizendo!?」"
+  },
+  {
+    "name": "Chizuru",
+    "message": "「Quero dizer, pareceu-me que ela mal conseguia olhar nos seus olhos. E quando se levantou para sair, parecia estar em transe ou algo assim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Ela não me disse nada, mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...Acho que mais cedo ou mais tarde isso ia acontecer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Enfim, vamos para casa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É.」"
+  },
+  {
+    "message": "...Hm?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama, Kagami-sama. Estive aguardando a vossa chegada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tsukuyomi-san... e as Três Patetas também?」"
+  },
+  {
+    "name": "Kamiyo, Tomoe e Ebisu",
+    "message": "「Como nos chamou!?!?」"
+  },
+  {
+    "message": "...Até a limusine do Takahashi-san está aqui."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por favor, entram.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hein? Tudo bem, eu tenho que fazer umas compras no caminho para casa.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Então podemos passar na loja no caminho.\nNão precisa se acanhar, venha conosco.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Não, sério, isso é...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Ora, ora. Não precisa ser Tão teimosa...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「...O que a gente faz?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que não? Se elas vão passar na loja,\nnão seria mais fácil deixar que nos levem de carro?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É... você tem razão...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sendo assim, Kagami-sama...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Eu nunca me cato de me surpreender com este carro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein!?」"
+  },
+  {
+    "message": "...E eu?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O gás lacrimogêneo! Agora!」"
+  },
+  {
+    "name": "Kamiyo",
+    "message": "「Sim, senhora!」"
+  },
+  {
+    "message": "Ai meu deus!! O interior do carro está ficando branco de fumaça... e a Sumika está desmaiando..."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takahashi!」"
+  },
+  {
+    "name": "Takahashi",
+    "message": "「Comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A gente não precisa mesmo do Takahashi-san para nos levar até lá.」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「É verdade.」"
+  },
+  {
+    "message": "Além disso, uma limusine de sessenta metros nunca caberia no distrito comercial."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Valeu, mas passo. A gente vai a pé mesmo.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Tem certeza? Nesse caso, Tomoe...」"
+  },
+  {
+    "name": "Tomoe",
+    "message": "「Sim, Mana-sama. Kagami-sama, tome isto...」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Hein? O que é isso?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「O qu-... Hein...? Q-Que diachos...?」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Qu-Qu-Qu-Quêêê〜?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meu Deus!! S-Sumika!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Kamiyo, Ebisu!」"
+  },
+  {
+    "name": "Kamiyo e Ebisu",
+    "message": "「Sim, Mana-sama! ...Ea-pú!」"
+  },
+  {
+    "name": "Takahashi",
+    "message": "「Apenas ponham-na para dentro.」"
+  },
+  {
+    "name": "Kamiyo e Ebisu",
+    "message": "「Pronto, acabouuuuu!!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takahashi, cuide do resto.」"
+  },
+  {
+    "name": "Takahashi",
+    "message": "「...Como desejar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Ei! O que vocês vão fazer com a Sumika!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Ei! Ei!!」"
+  },
+  {
+    "message": "Lá se vão eles..."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Não precisa se preocupar com a Kagami-sama.\nTemo que simplesmente não possamos permitir a presença dela neste dia em particular.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo assim, não acha que está exagerando um pouco!?!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Alugamos um resort em outro país para a Kagami-sama. Duvido que ela se importe.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...? Tá de brincadeira... Um resort inteiro só pra Sumika?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim. Mesmo no inverno, a temperatura do ar fica em torno de vinte e três graus Celsius.\nEla é livre para nadar no oceano e pode ficar por vários dias se desejar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Caramba... agora até fiquei com inveja... E quanto a mim?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Você deve voltar para casa.\nPor favor, venha comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sério!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por favor, não faça essa cara de insatisfação tão descarada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qualé... ela ganha uma ilha e eu vou direto pra casa...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Eu imploro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Alguma coisa vai acontecer lá?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Você verá assim que chegarmos.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ah, Takeru. Vejo que retornaste.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya... Eu fiquei sabendo que você saiu às pressas hoje... mas parece que você só queria chegar aqui primeiro.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Kagami-sama já foi devidamente cuidada.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ótimo. Certifique-se de que não haja erros.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim, compreendido.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Foi você quem mandou a Sumika para um parque de diversões aleatório?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não queria ter que recorrer a tais medidas... mas eu precisava ficar a sós contigo hoje, custe o que custar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Só isso já é um ato que até eu teria vergonha de cometer... se a Kagami estivesse presente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Q U Ê !?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama está resolvida a fazer isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-E-Espera um minuto!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não posso esperar mais... Minha decisão está tomada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──A minha não!!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não precisas fazer nada além de esperar até que acabe. Deixa tudo comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「──QUÊ!? Quer dizer que EU vou ser o peixe morto!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Peixe morto? Teria preferido assim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bom, digo — você acabou de me dizer para relaxar e aguentar...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Quem disse isso?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você disse, há cinco segundos!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama, parece haver uma pequena falha de comunicação, mas não deve ser um problema. Por favor, continue.」"
+  },
+  {
+    "message": "...Ei. Eu diria que é um problema gigantesco, na verdade."
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma —erei eu quem preparará o teu jantar esta noite.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Como é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nos últimos três dias, estive me dedicando a estudar a história, a teoria e a metodologia da arte culinária.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como é que é?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Estou bastante apreensiva quanto aos resultados, mas isso importa pouco.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera... Então aquelas explosões...?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ocorreram enquanto eu aprendia sozinha os fundamentos da culinária.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tá de sacanagem!? COZINHAR!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Hoje prepararei algo para você, Takeru! Espere aí.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Espera um minuto!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya, você realmente esteve praticando culinária nestes últimos dias? Nada mais?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Então que diachos foi todo aquele barulho?\nE aquela destruição?"
+  },
+  {
+    "message": "Como aquilo não seria você desenvolvendo alguma nova técnica do Mugen Kidou!?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma — apenas espere bem aí. Entendido!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...T-Tá bom.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Nem ouse olhar para a cozinha enquanto eu estiver cozinhando. Entendeu!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...S-Sim.」"
+  },
+  {
+    "message": "É, blza. Eurídice de Taubaté."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Qual seria o problema?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela tava mesmo só aprendendo a cozinhar?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Estava. Por que pergunta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E as explosões?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Conhece a técnica do 'flambado'?\nÉ um procedimento comum na culinária.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não pode ter sido isso.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por favor, tente entender o que a Meiya-sama sente...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bom, falando assim, acho que...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ainda é totalmente aceitável!!\nComo que aquilo causou todas aquelas explosões!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não está certo... Não está nada certo, eu te digo! O que quer que ela esteja fazendo lá embaixo, com certeza absoluta que não é cozinhar!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama, onde você vai?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu vou ver o que ela está fazendo de verdade!!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Eu não posso permitir isso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Me solta!! Meiyaaa!!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Ah! Takeru-sama, não é seguro!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hein!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Uaaaaa!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Oh? É apenas você. Achei que um rato tivesse entrado aqui.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hawawawa...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não disse que você não deve olhar?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「N-N-Não tem como eu ficar de braços cruzados numa situação dessas!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Se você está entediado, vá encarar a televisão.\nÉ bastante entretenimento.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Esse não é o problema!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você poderia jogar um daqueles videogames de que tanto gosta.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ainda não é o problema!」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「De qualquer forma, um homem deve esperar quietinho enquanto sua mulher cozinha para ele. Entendido?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mas não tem a menor condição de isso contar como cozinhar...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não vou te perdoar da próxima vez.」"
+  },
+  {
+    "message": "Não aponte essa faca para miiiiim!"
+  },
+  {
+    "name": "Takeru",
+    "message": "「E-Eu achei que ia morrer!」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Embora não pareça, Meiya-sama está bastante estressada. Seria perigoso se aproximar dela sem avisar.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A-Ah é... Entendi a lição... Não vou fazer isso de novo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Quantas vezes já foram?"
+  },
+  {
+    "message": "Estou sentindo uma aura estranha e indescritível atrás de mim."
+  },
+  {
+    "message": "E ela não quer que eu olhe... Será que ela tem noção de quão difícil vai ser com a planta desta casa?"
+  },
+  {
+    "message": "Meu Deus... Não dá nem para ir ao banheiro sem passar pela cozinha."
+  },
+  {
+    "message": "Queria poder esperar no meu quarto, mas... seria muita desfeita, considerando que a Meiya está ralando muito aqui embaixo."
+  },
+  {
+    "message": "Não achei que ia demorar tanto só para preparar o jantar..."
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Ora, Takeru-sama. Parece que consegui marcar alguns pontos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã...? Ah, que bom para você.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Videogames são deveras divertidos, de fato.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã? O-Oh, é. Com certeza são...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Agora entendo por que Kamiyo, Tomoe e Ebisu ficam tão imersas.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba. Aquelas três jogam videogames...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim... Mas, de qualquer forma... estes comandos são bem difíceis de dominar...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Hum... Poderia esperar um pouco mais?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama está se esforçando ao máximo... Então, por favor...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim, tudo bem.\nNão estou tentando apressá-la.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Muito obrigada... Ah!\n Takeru-sama, você não acha que isso foi meio desleal!?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A culpa é sua por ter desviado o olhar, Tsukuyomi-san.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama, tecnicamente eu sou uma mulher. Você deveria ser mais gentil comigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A cavalherismo já era, Tsukuyomi-san.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Grrr... Que barulheira...」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "Eu... peguei no sono...?"
+  },
+  {
+    "message": "Um cobertor...? Foi a Tsukuyomi-san quem colocou isso em cima de mim? Ela também guardou o Dreamcost."
+  },
+  {
+    "message": "Que horas são?"
+  },
+  {
+    "message": "...6h da manhã... Eu caí no sono antes de conseguir comer.\nNão vejo a Meiya em nenhum lugar... Provavelmente já deve estar dormindo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「*boooocheeeejo*...」"
+  },
+  {
+    "message": "Talvez devesse voltar a dormir também."
+  },
+  {
+    "message": "...Hm? O que é isso?"
+  },
+  {
+    "message": "Há alguns objetos estranhos em cima da mesa..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "Parece que há algumas borrachas aqui, arrumadas ordenadamente em um prato branco... O que são isso?"
+  },
+  {
+    "message": "...Espere. Olhando melhor... Seria isso...?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Takeru-sama...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah... Tsukuyomi-san.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "message": "Tsukuyomi-san está encarando o prato sem dizer uma palavra."
+  },
+  {
+    "message": "Será que isso deveria ser...?"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Meiya-sama os fez.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Imagino que sim...\nHum, isso são... bolinhos de arroz?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela passou esse tempo todo fazendo isso?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Eles não saíam como ela queria,\nentão ela teve que recomeçar várias vezes.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ela ficou fazendo isso a noite toda...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Até o raiar do dia... Na verdade, ela parou há poucos instantes...」"
+  },
+  {
+    "message": "Agora que penso nisso, me lembro vagamente de ter ouvido outra explosão mais cedo."
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama adquiriu muitas habilidades desde a infância, mas esta é a primeira vez que ela cozinha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo assim, eu esperaria—」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Tudo requer prática.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "message": "É, acho que olhando por esse lado..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas ela estava tão confiante...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Tornar o impossível possível é um princípio básico dos Mitsurugi, então mantemos uma fachada corajosa na presença dos outros... mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Para ser sincera... Eu achei que este empreendimento em específico era totalmente sem esperança desde o início.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você sabia que isso ia acontecer...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim. Não contamos com milagres para tornar o impossível possível. É necessária uma educação rigorosa para alcançá-lo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas a Meiya nunca cozinhou na vida...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Correto. Nada vem do nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Então... por que você não a impediu? E se ela tivesse se machucado em uma daquelas explosões...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「A Meiya-sama é igual a todas as outras.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ãhn?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「A Meiya-sama também é... uma jovem mulher, por assim dizer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por favor, tente entender os sentimentos dela.」"
+  },
+  {
+    "message": "..."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Onde ela está?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Ela está emburrada no quarto há algum tempo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Posso levar estes bolinhos de arroz?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O que está dizendo?\nEla os fez para você, Takeru-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Vou lá ver como ela está.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por favor.」"
+  },
+  {
+    "message": "Faz tempo que não abro esta porta."
+  },
+  {
+    "name": "Takeru",
+    "message": "「Meiya? Posso entrar?」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Vou abrir a porta.」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "É melhor eu só abrir logo."
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Por favor, me deixe sozinha.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não parece certo tomar café da manhã sozinho... Venha se juntar a mim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru, isso é...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, por fora não parecem muito bons. Mas o gosto pode ser bom.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Isso tá bem duro para um bolinho de arroz.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, mas não tá tão ruim assim.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「I-Isso não pode ser.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, fala sério. Quer que eu diga que tá fantástico? Porque aí já seria exagero demais.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não disse tal coisa!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, tá até bom para a sua primeira vez na cozinha.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Chega... Isso não deve fazer bem pra sua saúde.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu não tenho outro café da manhã.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Então uma refeição pode ser preparada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não tô a fim de esperar.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Argh!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*croc* *croc*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Q-Que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Por que tem casca de ovo nisso aqui?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「E-Eu saberia dizer.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tenho quase certeza que saberia! Por que diabos você precisa de ovos pra fazer bolinhos de arroz!?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não são necessários?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não. Não são.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Afinal, o que te deu pra cozinhar do nada?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E então?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por que a Kagami ficou tão chateada outro dia...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Outro dia...? Quando foi que ela ficou chateada...?」"
+  },
+  {
+    "message": "...Ah."
+  },
+  {
+    "name": "Meiya",
+    "message": "「Por que ela insistiu tanto em preparar suas refeições, a ponto de negligenciar seus deveres como estudante?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Eu perguntei à Tsukuyomi. Ela disse que há um significado profundo em ter aquilo que você preparou sendo comido por aqueles que você preza.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu não entendi o que ela quis dizer no início.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sabe agora?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...B-Bem, veja bem... Eu gostava de prepará-los... porque eu pensava em você os comendo...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Entendi.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...E também...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Também?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「P-Poder ver você comendo, foi... S-Sim, me deixou muito feliz.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O-O que foi? Eu disse algo estranho?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não fique em silêncio... Takeru?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...V-Você está zombando de mim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Claro que não... Você disse que te deixa feliz, então eu tô... Mgfh!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*croc* *croc*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-Não se force... Estou ciente de que deve estar intragável.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Afinal de contas, eu não consegui replicar os esforços da Kagami.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "　──*mastiga* *mastiga*"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Valeu. Caiu como uma luva.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Não acredito que você comeu tudo aquilo. Suaspapilas gustativas devem ser completamente disfuncionais...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Ei, não insulte sua própria comida.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu apenas disse a verdade...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Bem, é verdade... Você com certeza não consegue fazer o que a Sumika faz.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mesmo que você tenha estudado culinária, provavelmente nunca vai se acostumar com a ideia de fazer algo com as sobras da geladeira.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Fazer algo com as sobras?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É. Não existem receitas para esse tipo de culinária. É tudo original.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Existe esse tipo de culinária...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...A gente não consegue viver a vida se desperdiçar dinheiro demais. Os plebeus não podem gastar tanto assim com comida.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não há nada de errado em tentar aprender a cozinhar, mas se você está tentando me agradar, vai ser Difícil. Minha casa vai desabar antes de você conseguir isso.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você tem seu próprio jeito de fazer as coisas, Meiya.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Meu próprio... jeito de fazer as coisas?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é o sentido de tentar competir com a Sumika?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Mas...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ainda assim... Acho que eu também deveria pedir desculpas.\nQuando eu disse aquilo tudo sobre os plebeus...\nEu não quis dizer para você levar tão a sério.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Você... Você não fez nada de errado!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Nada disso... O seu jeito de agir não fazia sentido para mim, mas eu parei de tentar entender... Sinceramente, fiquei repetindo para mim mesmo 'Acho que apenas vivemos em mundos diferentes.'」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É por isso que você tem tentado se adaptar ao meu mundo, né?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Não foi... isso que eu quis dizer...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Caramba, eu sou muito burro! \nEu disse que seria legal te ver cozinhando...\nEu nunca nem pensei no seu ponto de vista...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Isso foi algo que eu lhe pedi.\nVocê não tem culpa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Fico feliz em ouvir isso.\nVocê me pedir aquilo realmente fez você parecer mais humana... então acho que no fim das contas foi uma coisa boa... Ahaha... Bem, talvez nem tanto.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas o que eu estou dizendo é, bem... Quando você fica preocupada assim, Meiya, simplesmente não parece você mesma. Você pode ser você mesma, tudo bem.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...É assim mesmo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pelo menos, não vou mais deixar que nossas diferenças de padrão de vida fiquem entre nós.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Certo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Obrigado.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...O-O quê...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Pelo jantar. Independentemente de como estava o gosto, os sentimentos que você colocou nele foram incríveis.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Qual é o problema?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...N-Não é nada.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sentindo-se cansada?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「S-Sim, é isso...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A Princesa Mitsurugi nunca virou a noite acordada, já virou?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Idiota... Fique em silêncio...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Já vai deitar. Ficar acordado até tarde não faz bem para o seu rosto. A Tsukuyomi-san não te ensinou isso?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ela disse... que eu podia compensar isso com a minha juventude.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tá... mas a sua juventude não vai curar todos esses cortes nas suas mãos, vai?」"
+  },
+  {
+    "message": "As mãos claras de Meiya estão cobertas de arranhões e cortes. Elas estão quase vermelhas agora."
+  },
+  {
+    "message": "...Por que eu não percebi o que estava acontecendo no momento em que vi isso pela primeira vez?"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Desculpa, doeu?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「N-Não...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Mas seus olhos estão marejados.\nDoeu tanto assim?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「──N-Não!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Tá bom, você venceu... Agora vá dormir, tá legal?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「Eu... Eu...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Você parece exausta... Vai lá, dorme um pouco.」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「...Sim, vou sim.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Boa noite...」"
+  },
+  {
+    "name": "Meiya",
+    "message": "「......」"
+  },
+  {
+    "message": "...Acho que é melhor eu dormir também."
+  },
+  {
+    "name": "Sumika",
+    "message": "「Aloha 'oeeeeeeee!!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan! Aloha 'oeeeeeeee!!!」"
+  },
+  {
+    "message": "......"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Takeru-chan, acorda-ooee!! Ooee〜!!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Sumika",
+    "message": "「Olha só isso! Eu trouxe um monte de lembranças! Chocolate! Castanhas! Aloha 'Oeeeee!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ai meu Deus, CALA A BOCA! É cedo demais para isso!!\nVocê parece um gato tentando tossir uma bola de pelo!!!」"
+  },
+  {
+    "message": "Entra no carro"
+  },
+  {
+    "message": "Ir para casa a pé"
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "message": "Unlimited 11/12 (Ter)"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Assumo total responsabilidade pelos meus atos.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É só isso que tem a dizer?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「A culpa é inteiramente minha. Não tenho desculpas.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você desobedeceu ordens, o que resultou na destruição de dois Fubuki.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim. E aceito a responsabilidade por isso.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por que ignorou a ordem de recuar imediatamente?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Porque não tínhamos cumprido nossa missão quando a ordem foi emitida.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Com base no que me disse até agora, parece improvável que simplesmente não tenha ouvido as ordens.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Por que cortou a comunicação comigo?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Porque eu estava desobedecendo ativamente às suas ordens e não tinha intenção de parar.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Queria tanto assim salvar aquela velha?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não podíamos deixá-la morrer.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Perdemos dois Fubuki. Está me dizendo que a vida dela valia esse sacrifício?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você parece ter muita certeza disso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu nunca teria levado isso adiante se não estivesse totalmente certo de que estava com a razão.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「E se fosse um camarada ferido no campo de batalha? O que faria então?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Eu o teria salvo.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Muito bem, o que acha que a Sakaki e os outros teriam feito?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Imagino que teriam feito o mesmo.\nAliás, já fizeram.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「É claro que fizeram. É isso que significa ser companheiros de esquadrão.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu entendo.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Durante as quatro horas em que o vulcão esteve ativo e as operações de resgate foram realizadas... Sakaki e os outros não foram os únicos envolvidos.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Suas ações egoístas colocaram inúmeras equipes de socorro em perigo!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Decisões tão egoístas assim podem exterminar seu esquadrão inteiro.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「No campo de batalha, os soldados não têm a missão de resgatar feridos. Eles devem concentrar todo o seu poder de fogo no ataque ao inimigo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Não Estávamos em um campo de batalha.\n...Embora eu não espere que você aceite isso como desculpa, é claro.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Já discutimos a importância da análise de custo-benefício extensivamente. Você se lembra disso, espero?」 "
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Eu me lembro.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「No exército, até as vidas humanas fazem parte dessa equação!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você tem algo para provar agora. Mesmo que leve sua vida inteira...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Prove que os sentimentos daquela velha... valem mais do que a sua segurança e a de Mitsurugi. Prove que eles superam os Fubukis, o dinheiro que gastamos treinando vocês, as despesas do governo japonês... e, o mais importante, a vida daquela velha!」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「De qualquer forma, todas as nossas ações foram de minha responsabilidade. Meiya... Mitsurugi não teve escolha a não ser cooperar comigo.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「.....」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Deixe-me contar uma coisa interessante.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...O que é?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Mitsurugi disse exatamente as mesmas coisas que você está dizendo agora. Ela afirmou que a culpa foi toda dela. Que ela o envolveu contra a sua vontade.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Embora eu admire o espírito de corpo de vocês, não tolero que ele seja usado para fins de insubordinação.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Peço desculpas.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Agora deixe-me contar outra coisa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hã?」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Os gravadores de voz que recuperamos das Fubukis e dos trajes fortificados tinham registros de todas as suas discussões. Inclusive as que usavam canais criptografados.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Entre o seu depoimento... o depoimento da Mitsurugi... e os registros que encontramos...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você sabe qual desses três é o mais confiável, não sabe?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「Você tem noção de que os Militares da ONU consideram um ato de traição contra a humanidade fornecer deliberadamente falsos relatórios como este, não é...?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Sim, senhora.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...E o que você acha que foi feito com esses dados que coletamos?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...E-Eu não sei.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「...Eu tenho uma última boa notícia para você.」"
+  },
+  {
+    "name": "Marimo",
+    "message": "「A professora Kouzuki agora tem a custódia total desses dados. Agora que estão com ela, é improvável que venham a ver a luz do dia novamente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "message": "──Vocês dois são uns idiotas mesmo. Acabaram se afundando ainda mais ao mentirem sobre isso..."
+  },
+  {
+    "message": "──Ainda bem para vocês que vamos manter este incidente em segredo."
+  },
+  {
+    "message": "──No entanto, para servir de exemplo para os outros, vocês precisarão ser punidos por isso, independentemente disso."
+  },
+  {
+    "message": "──Cadete Shirogane. Você passará nove dias no quartel disciplinar."
+  },
+  {
+    "message": "...Então este era o quartel disciplinar, hein...?h"
+  },
+  {
+    "message": "Nunca pensei que voltaria aqui... Estou até no mesmo quarto da última vez."
+  },
+  {
+    "message": "Parece até algum tipo de destino esquisito..."
+  },
+  {
+    "message": "──A civil que vocês arriscaram a vida para proteger evacuou por vontade própria."
+  },
+  {
+    "message": "──Os veículos de evacuação já haviam partido, então tivemos que mantê-la no posto de comando. Você percebeu? Ela estava chorando e prestando homenagens a vocês."
+  },
+  {
+    "message": "──Mesmo enquanto recuávamos, ela estava preocupada com a Mitsurugi e com o ferimento dela. Claro, ela também estava preocupada com você."
+  },
+  {
+    "message": "──Não importa a situação, há aqueles que protegem e aqueles que são protegidos. No mínimo, vocês dois conseguiram proteger o que queriam."
+  },
+  {
+    "message": "──Shirogane. Essa sua vontade forte fará de você um piloto de superfície excepcional algum dia."
+  },
+  {
+    "message": "──Mas um pequeno erro pode significar a ruína não apenas sua, mas de todo o seu esquadrão também. Nunca se esqueça disso."
+  },
+  {
+    "message": "──Haverá momentos em que você terá que descartar certas coisas para manter esse equilíbrio."
+  },
+  {
+    "message": "──Pense bem nisso enquanto estiver esfriando a cabeça..."
+  },
+  {
+    "message": "Eu tenho que aprender a... descartar certas coisas, hein...?"
+  },
+  {
+    "message": "Bem, eu não sei o que esperavam que eu fizesse naquela situação."
+  },
+  {
+    "message": "No começo, é claro que eu estava planejando forçá-la a evacuar."
+  },
+  {
+    "message": "Mas tenho quase certeza de que aquela velha não teria gostado disso."
+  },
+  {
+    "message": "Aquela terra e aquela casa estavam cheias de memórias dela. Era onde ela despachava os filhos para a guerra... Para aquela mulher, aquele pedaço do mundo era o único que tinha algum valor."
+  },
+  {
+    "message": "Para ela, o Japão inteiro... seu país inteiro... e seu mundo inteiro estavam confinados àquele pequeno pedaço de terra."
+  },
+  {
+    "message": "Ela não é como eu... Ela não foi jogada neste mundo louco, e ela não podia presumir que as coisas simplesmente se resolveriam sozinhas."
+  },
+  {
+    "message": "É por isso que ela não podia permitir que sua casa... seu mundo inteiro... fosse arrancado dela."
+  },
+  {
+    "message": "Teria sido melhor se nunca tivéssemos descoberto?"
+  },
+  {
+    "message": "Será que eu... me deixei levar demais pela emoção?"
+  },
+  {
+    "message": "Não é como se houvesse algo de errado com as ordens que recebemos."
+  },
+  {
+    "message": "Aquele povo não estava morando lá legalmente... mas ainda acho que foi certo os militares enviarem tropas para salvá-los."
+  },
+  {
+    "message": "Acho que tudo tem a ver com manter esse \"equilíbrio\", hein..."
+  },
+  {
+    "message": "A questão é a seguinte... Independentemente do que seja \"certo\", sinto que há uma diferença entre \"ajudar\" e \"se meter\"."
+  },
+  {
+    "message": "Quer dizer, será que nenhum dos responsáveis por esta operação considerou o fato de que a ajuda deles podia não ser bem-vinda?"
+  },
+  {
+    "message": "Claro, talvez a velha senhora fosse a única que pensava assim. Mas se uma das pessoas que o plano devia salvar realmente não desejava ser salva, você pode mesmo dizer que a \"ajudou\"?"
+  },
+  {
+    "message": "Tenho quase certeza... de que você chamaria isso de \"intrometer-se\"."
+  },
+  {
+    "message": "Mesmo que minha vida seja a coisa mais importante para mim, ela não é algo que posso proteger sozinho."
+  },
+  {
+    "message": "Essas palavras finalmente começaram a fazer sentido para mim e, como uma profecia autorrealizável, fui jogado em outra situação à qual elas se aplicavam. São palavras sérias demais. Elas praticamente fazem minha cabeça girar de vez em quando."
+  },
+  {
+    "message": "E ainda assim, agora estou começando a ver o outro lado dessa mentalidade militar. Para algumas pessoas, isso significa nem sempre poder tomar as decisões que quer sobre a própria vida..."
+  },
+  {
+    "message": "Acho que é isso que significa viver em uma sociedade onde todos dependem uns dos outros para sobreviver..."
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Hm?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Tsukuyomi-san...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Ora, ora. Você com certeza está com um aspecto mais refinado agora.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「O quê...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Shirogane Takeru...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sim...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Vim expressar minha gratidão pela sua participação no incidente recente envolvendo Meiya-sama.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Sua gratidão...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Agradeço por ter arriscado sua vida por ela.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Não é para tanto... Quer dizer, foi o que eu quis fazer.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Aquele seu plano foi bastante inteligente... Magnífico, até mesmo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「C-É... obrigado... mas...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim? ...Se há algo que deseja dizer, fique à vontade para falar o que pensa.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Bem, a-hã... Eu só achei que você estaria mais furiosa comigo... já que quase morremos lá fora...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Se Meiya-sama teve esse fim por seguir seus própriosdesejos, que assim seja.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Hã!? É mesmo tão simples assim!?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「A vida, em si mesma, nem sempre é preferível à morte. As pessoas não podem escolher os meios de seu nascimento... mas podem escolher como morrem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Como morrem...?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「A maneira como uma pessoa morre é indicativa da maneira como viveu... É o delimitador supremo da obra de uma vida.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Desde o nascimento, todos os parentes do Xogunato são instilados com o ideal de que a nobreza deve servir de modelo para seus cidadãos.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Portanto, todos aqueles que carregam sangue nobre devem ser os primeiros a derramá-lo na linha de frente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「......」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Então, o que vieram fazer aqui?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Meiya-sama me ordenou que viesse ver como você estava.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... Bem, veja com seus próprios olhos. Como a Meiya está se aguentando?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Muito bem... A torção e os hematomas dela são leves. Estão sarando direitinho.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ainda bem...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Há algo que deseja dizer à Meiya-sama?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Agora que você falou nisso... Bem...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「O que foi?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Diga a ela que estou 100%, então é para ela só focar em descansar e pegar leve...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Entendo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Quer dizer, é isso que eu quero dizer, mas será que tem problema?」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「...Por que pergunta?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ah, sabe... Se a Meiya já sabe o que aconteceu, não tem o menor sentido eu mentir para ela.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「De fato. Meiya-sama está atualmente confinada em um hospital militar... mas é provável que esteja ciente.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi... Devia ter imaginado... Droga...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Por que está tão decepcionado?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Ora, digo... Heróis de ação devem aguentar toda a culpa e as críticas por todo mundo, sabe? É isso que os torna tão legais.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Isso é absoluta e completamente ridículo.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É, eu sei... Bom, sendo assim...」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Sim?」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Apenas diga a ela para melhorar logo. É super clichê, mas já está bom por enquanto.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Compreendido. Irei transmitir a mensagem.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Muito obrigado.」"
+  },
+  {
+    "name": "Tsukuyomi",
+    "message": "「Então acho que já vou indo... Aproveite suas férias solitárias.」"
+  },
+  {
+    "message": "...Espera, aquilo foi tentativa de piada? Ou só uma última alfinetada?"
+  },
+  {
+    "message": "...Mas caramba... Mal posso acreditar que a Meiya mandou a Tsukuyomi-san até aqui só pra dar uma olhada em mim."
+  },
+  {
+    "message": "Não é muito a dela fazer uma coisa dessas."
+  },
+  {
+    "message": "Apesar de que é uma droga ter logo no primeiro dia. Que desperdício."
+  },
+  {
+    "message": "Estes próximos oito dias vão ser chatos pra caralho..."
+  },
+  {
+    "message": "........."
+  },
+  {
+    "message": "......"
+  },
+  {
+    "message": "..."
+  }
+]
