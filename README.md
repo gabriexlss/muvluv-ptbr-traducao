@@ -1,6 +1,6 @@
 # Muv-Luv: Tradução PT-BR (Steam 2016 + Director's Cut)
 
-Quando fui jogar **Muv-Luv** (*Extra* e *Unlimited*), me deparei com um problema: não existia nenhuma tradução do jogo para o português — nem oficial, nem feita por fãs. Como projetos gigantescos como esse costumam levar meses ou até anos para serem concluídos, decidi usar a IA para acelerar o processo e conseguir jogar o jogo, e como já estava feito e eu estava curtindo, ajudar também pessoas na mesma situação que a minha!
+Quando fui jogar **Muv-Luv** (*Extra* e *Unlimited*), me deparei com um problema: não existia nenhuma tradução do jogo para o português, nem oficial, nem feita por fãs. Como projetos gigantescos como esse costumam levar meses ou até anos para serem concluídos, decidi usar a IA para acelerar o processo e conseguir jogar o jogo, e como já estava feito e eu estava curtindo, ajudar também pessoas na mesma situação que a minha!
 
 Este é um projeto de tradução para **Português Brasileiro (PT-BR)** da visual novel **Muv-Luv** (**Extra** e **Unlimited**), com suporte ao patch **Director's Cut 18+**.
 
