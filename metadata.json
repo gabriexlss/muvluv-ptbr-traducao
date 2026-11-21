@@ -23,103 +23,103 @@
       "filename": "001_Extra_Prologue_ADBA7DB4.json",
       "entry_count": 64,
       "wait_tag_count": 2,
-      "sha256": "824daf8e658abe920be7140e259f8f026dfb2c17d55fca707b1e063db70c1cc7"
+      "sha256": "18843f7dd70ad0e15b63c63dce7d0c38722e42c143e5feb6baa8a504494f50cc"
     },
     {
       "filename": "002_Extra_10-21_Sun_AE2241E3.json",
       "entry_count": 406,
       "wait_tag_count": 0,
-      "sha256": "cb2a45e9734cb33d6568b0b06c14aa87b21525a5fbb2b378962de0fd75ab7dd4"
+      "sha256": "02f9b5de0572b90e9da1b99f6d01fbe30dd4731e7b53167f33288ffe7f6925ff"
     },
     {
       "filename": "003_Extra_10-22_Mon_BD86DE07.json",
       "entry_count": 681,
       "wait_tag_count": 0,
-      "sha256": "499f62fa5e654d808e70d343c23adf8abc858eec1214c1b1fd7fe9ed4c1ef8e5"
+      "sha256": "f1a2f5fbdcb73e956bb0fba45ea71ea19e295af9423f2df441b28858bbabe747"
     },
     {
       "filename": "004_Extra_10-22_Tue_C1162476.json",
       "entry_count": 1294,
       "wait_tag_count": 0,
-      "sha256": "332edd82030cfd07ba0c60a4296a29b5dff43c14fa67a57b061a571e66dfa5c9"
+      "sha256": "c27a165294812f2f557920a2ba658857f4c17b663fcdfb2f3bae72f427f99ace"
     },
     {
       "filename": "005_Extra_10-24_Wed_C7A90796.json",
       "entry_count": 1455,
       "wait_tag_count": 0,
-      "sha256": "26502a632725d8b3701c5351d7d79f89f128b08151f61ba6e1b4e2099372469b"
+      "sha256": "e56ecc5b4cb59b55821a3adba99aca59a2ad29b8ad5e207f3ab67e7da53683ea"
     },
     {
       "filename": "006_Extra_10-25_Thu_C9D09A7D.json",
       "entry_count": 2025,
       "wait_tag_count": 0,
-      "sha256": "b87abcee143b92feb07755ed05bbcb94e05a7a7ef8ea86d2fc0b180f7b5eda29"
+      "sha256": "84c5dd38ef095d0a2218c490dfa420b83a87ccaa58563f9a28dc28be87b3136d"
     },
     {
       "filename": "007_Extra_10-26_Fri_CB4D8762.json",
       "entry_count": 376,
       "wait_tag_count": 0,
-      "sha256": "455db6bad392783855a0476c9303371244a6dd7d75cf56492b244ef15d1009c5"
+      "sha256": "9db173892ba03907d53c02e1478a2edaca5091d42197438560169a09d75c6656"
     },
     {
       "filename": "008_Extra_10-27_Sat_CC202E9E.json",
       "entry_count": 739,
       "wait_tag_count": 0,
-      "sha256": "324ab273b6d9492f41b54163a98fdf521b1c4315b2dd86595a1e355d3485c65f"
+      "sha256": "3ffee76f03d33c8a8562d1201dba8350208a25a48e0bfc6a522f1978cb345d70"
     },
     {
       "filename": "009_Extra_10-28_Sun_CD3547FD.json",
       "entry_count": 1538,
       "wait_tag_count": 0,
-      "sha256": "67f969ea4236a7b8982eee1f5172ea577c0ddeb0539c1c6107032d6bb445dee6"
+      "sha256": "e0e868ef6c063b299694206cee79504cf226d764a8ce7306a76ba60c9017ccc6"
     },
     {
       "filename": "010_Extra_10-29_Mon_CEA13C20.json",
       "entry_count": 597,
       "wait_tag_count": 0,
-      "sha256": "dc8bc8d23bfcf6764c2cd11fe8bc563141ad9459511c1a4af5c0c37ef8f33f72"
+      "sha256": "3b7bb25d4c09b883f086dd483239f35d5122d6104be6e27ae656e6f9a7ab56fb"
     },
     {
       "filename": "011_Extra_10-30_Tue_CF61A1BF.json",
       "entry_count": 748,
       "wait_tag_count": 0,
-      "sha256": "ec2f9f174814f1796385b739ccbcbe6f57b2857be2aac41fdf0bcb7a9d0b9238"
+      "sha256": "2b7af90698a6fc00081ac0fe108f759d32916e8a8b1f5e01c45ee5dcb9285661"
     },
     {
       "filename": "012_Extra_10-31_Wed_CFFA5D54.json",
       "entry_count": 1154,
       "wait_tag_count": 0,
-      "sha256": "d48394246b295f648c33bfe5f904e3bfec7be8b61b1b8e66ae36702234816934"
+      "sha256": "7557146d00c892aaa6a4487bc658867ef4511ee7cc9ce5d522e3989c637301a7"
     },
     {
       "filename": "013_Extra_11-1_Thu_D08B80D5.json",
       "entry_count": 646,
       "wait_tag_count": 0,
-      "sha256": "d8005c4e5d2747ede17d18ab90801f8d2ad3deec970238f9628e0e7307a96f6d"
+      "sha256": "70080d77e3cb31d07e45cf661143515ba4e717ac4af0e7529ee8001ec98a15ae"
     },
     {
       "filename": "014_Extra_11-2_Fri_D19BECBC.json",
       "entry_count": 634,
       "wait_tag_count": 0,
-      "sha256": "1bffb771bfd151bc1a86d124cd8611a53f00d82e25d97a8e600e6a4c80a61f37"
+      "sha256": "d421470787326a62fa1b09230e5acf753968709342754ae0dade572e6ff2ff63"
     },
     {
       "filename": "015_Extra_11-3_Sat_D2A8B757.json",
       "entry_count": 589,
       "wait_tag_count": 0,
-      "sha256": "ffccce305d3483db99fb696c9e5eb5676e450ba4b21ed3c438cfd956f5b2f5d0"
+      "sha256": "460e14b59e21058f380c06acf383709e91a3b5f441592724f4130c7173c19b75"
     },
     {
       "filename": "016_Extra_11-4_Sun_D304ECCD.json",
       "entry_count": 641,
       "wait_tag_count": 0,
-      "sha256": "b267c4538f994974ee1b4d63688a53b07d35f6104d36f4f9f927d13f354968a7"
+      "sha256": "602318fd1552a1726d295118b4e15dc9d8aea48a3973b690c728623e7fade4c8"
     },
     {
       "filename": "017_Extra_11-5_Mon_D3C5A2D2.json",
       "entry_count": 202,
       "wait_tag_count": 0,
-      "sha256": "bc04634866815a6f1208cc7b4fa1b08fd20d0ea7b7caebe06105800ff88841e4"
+      "sha256": "ecf3fdcba6fdfaa2a76a3dbc394d05541ea794352d6562f2356d9d00a4856ce3"
     },
     {
       "filename": "018_Extra_11-9_Fri_D3C61C56.json",
@@ -131,247 +131,247 @@
       "filename": "019_Extra_11-7_Wed_D3C63873.json",
       "entry_count": 499,
       "wait_tag_count": 0,
-      "sha256": "7731d4bb6f31d2d2dd0cdb6113542ba01de78cdd86c32af74cc317e914c7e01c"
+      "sha256": "10765785e7555648968409efd4bcdcf54fe0e3f66f236f64b8810ebf90c6c2f5"
     },
     {
       "filename": "020_Extra_11-6_Tue_D4199BAF.json",
       "entry_count": 489,
       "wait_tag_count": 0,
-      "sha256": "95ee46a5cb1fe5281c5a194f87304c0891ad09c4d51255c9c7ebeec5910fabe8"
+      "sha256": "9d83ad137896b45a8c9c8b7c6469bbd4b5a6a26f2d35ba3e38acffc485b08d15"
     },
     {
       "filename": "021_Extra_11-8_Thu_D46812B0.json",
       "entry_count": 319,
       "wait_tag_count": 0,
-      "sha256": "bb8e3b921eeac63e53af524f3ee636673cdf6e72ad2ec9085ddc77206696fea8"
+      "sha256": "75167f570851c3c6530c829285ed6f50d7fc0400657e67fd7483ba0c0010c4c8"
     },
     {
       "filename": "022_Extra_11-7_Wed_D4B122DE.json",
       "entry_count": 238,
       "wait_tag_count": 0,
-      "sha256": "0ebb0b58807972556627706263a7418540e67c33634bbd81413cc75910018b6d"
+      "sha256": "9c98b0a0e05cea41d651bc7335df9242a05540bfed8c88cc41a94e0caa8d7dfc"
     },
     {
       "filename": "023_Extra_11-9_Fri_D519E9D9.json",
       "entry_count": 1329,
       "wait_tag_count": 0,
-      "sha256": "b81225f1eb67dccf6810d974456cc77f4405802dd87ae13a2cc98e5019b5f404"
+      "sha256": "9f1df0d6ee6af435edfd0eede8c5f207f9851fbf0c2f054f8d01721afb91b8d9"
     },
     {
       "filename": "024_Extra_11-9_Fri_D53CBD66.json",
       "entry_count": 623,
       "wait_tag_count": 0,
-      "sha256": "1709cd3a81ea2f09146ebe59b3c69f9806557d5fb495baecb6077a171f51ea5d"
+      "sha256": "84e53335fff1f7e07164f882991e80b68f584692c2a5e396a13132ddbfff8ecf"
     },
     {
       "filename": "025_Extra_11-10_Sat_D598AA4E.json",
       "entry_count": 655,
       "wait_tag_count": 0,
-      "sha256": "86f69befdb41b488ab3e7bed4e4165a988b6b06aaa4ec34e01315c6dd167378b"
+      "sha256": "438be6094f5b804b9882666b9a836892d80f75bec7d6028269f8a3f9c6533688"
     },
     {
       "filename": "026_Extra_11-10_Sat_D5C1BD57.json",
       "entry_count": 658,
       "wait_tag_count": 0,
-      "sha256": "cad71710b8f3c09ea3cc9dc2718caafb78475f3b6cfda2c1500b1e7d3b5122cf"
+      "sha256": "4df3523920c0648c6cd26dc2f11ad1f15e856f39e85b966e91b84ef418bb8d7d"
     },
     {
       "filename": "027_Extra_Epilogue_D5C363D7.json",
       "entry_count": 58,
       "wait_tag_count": 0,
-      "sha256": "f03d8145396c50892739ce8e32719b31746bf3f2c01412f91c6660f253b83fe6"
+      "sha256": "b939d5cd71549f66b4ecbe718a8b9c32e6eb50cd70c7b7eadf1312bf6877e459"
     },
     {
       "filename": "028_Extra_11-10_Sat_D5D04D5D.json",
       "entry_count": 380,
       "wait_tag_count": 0,
-      "sha256": "e389620fd8cf84492d681718e9f023ec5a3f5645393709036ac5ac17484df62d"
+      "sha256": "2d615561789c800cdad1d0ff808bc9e4717aa7ff66a119792fdf28b7158ed538"
     },
     {
       "filename": "029_Extra_11-12_Mon_D626B6B6.json",
       "entry_count": 270,
       "wait_tag_count": 0,
-      "sha256": "56366f4b9074397e1ace4f5d047dce5ee2a68573d3b1d8f0712776279ac43d46"
+      "sha256": "ac5565e840fe51490734b6a08ca5153de9c97503b7de50dff58b9f51fc78b61a"
     },
     {
       "filename": "030_Extra_11-12_Mon_D6806801.json",
       "entry_count": 567,
       "wait_tag_count": 0,
-      "sha256": "fe6aa02435db5df7dbe9dffe13ebc2662c135931891413ae4bcb916e1ec73e35"
+      "sha256": "f9dbc7af9bd822d0f54d5f1c80e40e71e151f200556a86cad13653e68d8c070e"
     },
     {
       "filename": "031_Extra_11-12_Mon_D6BA06A0.json",
       "entry_count": 183,
       "wait_tag_count": 0,
-      "sha256": "d0125f531216af0cfbe1e408f0332c3c64a74116bc29576ab0dfa7f3cc80dabe"
+      "sha256": "2131ede6dd5d75bc1baa7c632600d5d6fbee4eb1c75e87777d74bb35afcac254"
     },
     {
       "filename": "032_Extra_11-26_Mon_D747B416.json",
       "entry_count": 314,
       "wait_tag_count": 0,
-      "sha256": "1b0ee4d2b9b5787e39e5ee84c248966b1a71b2bac113be74873011e918c974a0"
+      "sha256": "e357a9ef795de12d58a4d1b71529d2bb7282953826aba6a9f7efbd60ecfd57f0"
     },
     {
       "filename": "033_Extra_11-13_Tue_D77C88FB.json",
       "entry_count": 283,
       "wait_tag_count": 0,
-      "sha256": "69f27d19c2d981575aa8d66f245a3644f32c7d673e0c16af068f1ff41fefd7de"
+      "sha256": "b41206d59fde00b9ed20a92c04b59893a50b9a7d51aea88b3a12d9e70800f53c"
     },
     {
       "filename": "034_Extra_11-13_Tue_D79EDD48.json",
       "entry_count": 787,
       "wait_tag_count": 0,
-      "sha256": "f72ff9bf783c3c1a78a0e2cadf668d9fb0f2761b17e498bec9ebed4444f172b9"
+      "sha256": "1602097c38408d84d81e00b8452ed009f3ec13f855916abcc96935ce28a3e29e"
     },
     {
       "filename": "035_Extra_11-13_Tue_D7BCAADE.json",
       "entry_count": 405,
       "wait_tag_count": 0,
-      "sha256": "8736892d96ae216a417d4e9b36764782628fd4ab434af97d24947ba9e76c1f47"
+      "sha256": "1234176e13711ddfab7731e55cda69de507b9eb1764d0ad0d3a96b575f8e129a"
     },
     {
       "filename": "036_Extra_11-27_Tue_D817BB8A.json",
       "entry_count": 149,
       "wait_tag_count": 0,
-      "sha256": "3651139afbd036ea64900273a0ef1fc82d95fc17d9269f55096c272a70a04e3c"
+      "sha256": "870d4d1daf96415b4f22eb4f817dd4e350414f6e61803e83a87474a356bf4e43"
     },
     {
       "filename": "037_Extra_11-14_Wed_D8525ADA.json",
       "entry_count": 142,
       "wait_tag_count": 0,
-      "sha256": "862703880a0b6ac6411e7b932c050b29d0ddb5c7f32011d554b6a717578e98b5"
+      "sha256": "c0aae487b45a7fc8bf75659ecae48feacc5f32caff654d2be5ec38603b911fa6"
     },
     {
       "filename": "038_Extra_11-14_Wed_D887F100.json",
       "entry_count": 609,
       "wait_tag_count": 0,
-      "sha256": "7df1fba2003c005ae906461eddd6880b1cb90678aca7c15fc47dff4124a92f07"
+      "sha256": "c04d6e101190b2d4d93d42c97007a662a9933b03e5ae9c466ed36377106e644f"
     },
     {
       "filename": "039_Extra_11-14_Wed_D8BF9161.json",
       "entry_count": 488,
       "wait_tag_count": 0,
-      "sha256": "fe33182ea8bf2403d41469b775add82917e43b72e647b8a5d5afcdbcd202975c"
+      "sha256": "01a928382e612237b2ed8a9821a0bccfbe530c7b3dbf5564d4c738819ec322c9"
     },
     {
       "filename": "040_Extra_11-28_Wed_D8F03E2D.json",
       "entry_count": 122,
       "wait_tag_count": 0,
-      "sha256": "cc80d38a452f0f9f574f4a7dd99c457ef283c26b26bc8526f0414e77762b45fc"
+      "sha256": "850790f59271772dd1bc63b6bc8786d824aa0a8dbd126e72b9c78cd7b1fa8949"
     },
     {
       "filename": "041_Extra_11-12_Mon_D90847ED.json",
       "entry_count": 331,
       "wait_tag_count": 0,
-      "sha256": "d19d8567e97b40534097d22fa225dabd7e17e50b658eade0a1d3c9d80b94ebd8"
+      "sha256": "538db25bb0a8e07cd31ef12900fe0e22040ee94028541627aeac51b5927305cb"
     },
     {
       "filename": "042_Extra_11-15_Thu_D934764A.json",
       "entry_count": 419,
       "wait_tag_count": 0,
-      "sha256": "8b1a38f27f6a0134cf5c49ae9fa4ee077fcc5e48236ad46f3e8df8bc5325cca0"
+      "sha256": "e6ccf7da48b54ca8d445c20356fcdc6b2ae4ba1d1f09cd54f9086aa6fc3e8343"
     },
     {
       "filename": "043_Extra_11-15_Thu_D96C1E41.json",
       "entry_count": 830,
       "wait_tag_count": 0,
-      "sha256": "cfc2dc9559b25158ca008d3315591319fe523071aea058fa540c39789c26e16a"
+      "sha256": "33d5fa48383c3aa5cb00f67cc4f6852002768349d2f477a2751522b80da10661"
     },
     {
       "filename": "044_Extra_11-29_Thu_D9A0422D.json",
       "entry_count": 294,
       "wait_tag_count": 0,
-      "sha256": "3a40a7df361f839ccd7c64a70ea5ce7a39ad58e73ab647f0e1754331da75519a"
+      "sha256": "247612fe1aab7d52b40dff5b67fbb17a839ef9d0b3ccd6198b871ab04718e939"
     },
     {
       "filename": "045_Extra_11-18_Sun_D9B242BD.json",
       "entry_count": 279,
       "wait_tag_count": 0,
-      "sha256": "109937c38dc913397d3cdcf092d5807ab0899895819d084aea2f7f99a67cb786"
+      "sha256": "31792ae03a39f8712fd6879a49618847ea70de655a855a86479be533cd879772"
     },
     {
       "filename": "046_Extra_11-16_Fri_D9D8DCF1.json",
       "entry_count": 1057,
       "wait_tag_count": 0,
-      "sha256": "662e015b9a992ad8a60deeda21098a80373267518d524dd285cdd0842e3d0e4e"
+      "sha256": "4e55fd13428485bdcfe60eb834739ef8b2efb146fb5387da26806ed7e68edf23"
     },
     {
       "filename": "047_Extra_11-16_Fri_DA227176.json",
       "entry_count": 335,
       "wait_tag_count": 0,
-      "sha256": "8a96ea259eb48348ea49fdf0b3ef144e1c8a62d4804232f6afcb03b1c2c9163c"
+      "sha256": "a303d443a554e5ead9ef18a72c9f5597cd80438668ec1f32ecb7edf5cd93312a"
     },
     {
       "filename": "048_Extra_11-30_Fri_DAA8CD45.json",
       "entry_count": 368,
       "wait_tag_count": 0,
-      "sha256": "eaae433ead70421da38f3de349513f7f74b0d3cca2e91b97d0b338aacc4a404f"
+      "sha256": "34443f9f88ac2e980a03ea20ef632f42417cb87c032dbfbf64a7be7815e57435"
     },
     {
       "filename": "049_Extra_11-19_Mon_DAC8C0DE.json",
       "entry_count": 461,
       "wait_tag_count": 0,
-      "sha256": "aeeb5e1c4a91f59fea5d28bf4d6cf14da3c9720eb61e1559976418bbde1953e0"
+      "sha256": "31ad8936cd69a83d180745580e9dd64cc756bfb0fa71f4405a5c0044bb8eb11e"
     },
     {
       "filename": "050_Extra_Epilogue_DB2B842F.json",
       "entry_count": 83,
       "wait_tag_count": 0,
-      "sha256": "ca93e479d1cd03ecf409a610ae48802add44407941a0ff734ac88305488bd246"
+      "sha256": "aeef02646d6940407e8aca51fe00109bad0ce282c540f035d6a8c54da0bfc308"
     },
     {
       "filename": "051_Extra_11-17_Sat_DB654C1C.json",
       "entry_count": 1416,
       "wait_tag_count": 0,
-      "sha256": "2544e370d9e11d6957bb32d88adf9e9ddf5af241ba9875e3f06848686ce5e6c5"
+      "sha256": "b3005fe95d5b230275a232bf820f22449ce044c9e4afcc88890f3cc630f7a435"
     },
     {
       "filename": "052_Extra_12-7_Fri_DBB62E8E.json",
       "entry_count": 319,
       "wait_tag_count": 0,
-      "sha256": "1f59e827c17b059af2d4a47b994d09f2a7acd7be9965dda98612e113bb0c7427"
+      "sha256": "9c46e700db0c77ff1ef337c81bffcb9798470d0e2f6674fddb4abf4477cd02fd"
     },
     {
       "filename": "053_Extra_Epilogue_DBF40EDA.json",
       "entry_count": 183,
       "wait_tag_count": 0,
-      "sha256": "f6dca354a5ae74e0b56c73987ba66ac0c6004d4fab6abe70119daa1cd44a217f"
+      "sha256": "03cfb9c628336afeea759d46694f358dd734dbd5218bd7b99d48e3c6ecf22627"
     },
     {
       "filename": "054_Extra_Epilogue_DC7A1696.json",
       "entry_count": 221,
       "wait_tag_count": 0,
-      "sha256": "76534c7d9441ff1af33fa7dd95680b79507f199cf50f390da95dba70d0a88e93"
+      "sha256": "81ae0bfbf36cd7b36b473cc753df78e0294da52731b8a9de4f0b62914bcecbbc"
     },
     {
       "filename": "055_Extra_12-10_Mon_DD2DDC7A.json",
       "entry_count": 496,
       "wait_tag_count": 0,
-      "sha256": "72fca16d2be7006fc9f9725dd65dad2330da19d85ae87ebe78c4ea452dbe5eba"
+      "sha256": "f2ca367c189e9d9596f96f0e9a64ff2183ee12cb7ca3b091d590203aee21e7ce"
     },
     {
       "filename": "056_Extra_12-15_Sat_DDF7B4B6.json",
       "entry_count": 303,
       "wait_tag_count": 0,
-      "sha256": "fddef0e7fe560165c969b7edb1f40f8c608d3426ed85094ccc95d1102ccc36f9"
+      "sha256": "3aa77c368a397457b59cb9e8198c9552518e14f8d1eb54286f116f2319f46bd2"
     },
     {
       "filename": "057_Extra_12-16_Sun_DE47C256.json",
       "entry_count": 355,
       "wait_tag_count": 0,
-      "sha256": "2144fce7da43bb0e83c938082b3ccaeead20df912693f30237876d62b2e41730"
+      "sha256": "8111272667459ea356e3bd57d632a4477dce586c4c4b0922e515105b42c64f22"
     },
     {
       "filename": "058_Extra_12-19_Wed_DE78A3AF.json",
       "entry_count": 1051,
       "wait_tag_count": 0,
-      "sha256": "178e971892c5dc3cc76718d1a8a3f8a9d86c1d5110a36275ca71a53915e58176"
+      "sha256": "0c63c8ad3903d62095200f2d84796705cd0b21fadc343839a26efd20abb77ba6"
     },
     {
       "filename": "059_Extra_12-20_Thu_DF335426.json",
       "entry_count": 489,
       "wait_tag_count": 0,
-      "sha256": "f8ae22bfdf3aecdaa513195bc1f5b1faccfae2b1c5d90aff35097960a040f8b6"
+      "sha256": "3c4b7ba25edd98db3ab22d9f14292bfd4161dbe91fdcf0cf39bef30edbb59528"
     },
     {
       "filename": "060_Extra_12-21_Fri_DFC99241.json",
