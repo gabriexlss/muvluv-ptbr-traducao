@@ -12,7 +12,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Não posso te culpá-lo por isso logo após o ocorrido, mas ficar miserável não resolverá nada.」"
+    "message": "「Não posso culpá-lo por isso logo após o ocorrido, mas ficar miserável não resolverá nada.」"
   },
   {
     "message": "Bem... elas têm razão, mas..."
@@ -37,7 +37,7 @@
     "message": "「...*suspiro*...」"
   },
   {
-    "message": "O que será que eu devo dizer a ela...? muito"
+    "message": "O que será que eu devo dizer a ela...?"
   },
   {
     "name": "Sumika",
@@ -56,7 +56,7 @@
     "message": "「É, ela deve voltar a qualquer momento.」"
   },
   {
-    "message": "...Hã? Ei, aquela não é a Representante!?ing"
+    "message": "...Hã? Ei, aquela não é a Representante!?"
   },
   {
     "name": "Takeru",
@@ -118,7 +118,7 @@
     "message": "Mas eu não consigo achar palavras para consolá-la... e quando eu penso no que ela deve ter sentido ontem... dói demais."
   },
   {
-    "message": "Eu nunca me senti... Tão mal assim antes... pelos problemas dos outros."
+    "message": "Eu nunca me senti... tão mal assim antes... pelos problemas dos outros."
   },
   {
     "name": "Sumika",
@@ -254,7 +254,7 @@
   },
   {
     "name": "Marimo",
-    "message": "「──Voltando ao ponto principal.\nA área de limpeza asignada para a Turma B é...」"
+    "message": "「──Voltando ao ponto principal.\nA área de limpeza designada para a Turma B é...」"
   },
   {
     "message": "...Tenho um mau pressentimento sobre isso."
@@ -359,7 +359,7 @@
     "message": "Por que o pátio tem que incluir todo o perímetro do prédio dos clubes!?"
   },
   {
-    "message": "Quem foi que divisão essas áreas!? Seja lá quem foi, deveria dar uma olhada no mapa e repensar isso!"
+    "message": "Quem foi que dividiu essas áreas!? Seja lá quem foi, deveria dar uma olhada no mapa e repensar isso!"
   },
   {
     "name": "Sumika",
@@ -433,13 +433,13 @@
     "message": "──É... Você tá falando da Sakaki da turma B?"
   },
   {
-    "message": "Elastão falando da Representante?"
+    "message": "Elas tão falando da Representante?"
   },
   {
     "message": "──Cê acha que ela fez aquilo de propósito mesmo?"
   },
   {
-    "message": "O quêês!?"
+    "message": "O quêêê!?"
   },
   {
     "message": "──Nããão! Impossível!"
@@ -448,7 +448,7 @@
     "message": "Ei, ainda BEM que uma delas não é burra."
   },
   {
-    "message": "──Quer dizer, se foi de propósito, Haja burrice."
+    "message": "──Quer dizer, se foi de propósito, haja burrice."
   },
   {
     "message": "Grgh... O raciocínio delas tá todo errado, mas... Tanto faz..."
@@ -618,7 +618,7 @@
     "message": "...Esse não é o problema."
   },
   {
-    "message": "Se fosse só sobre o que aconteceu ontem, a Representante ainda teria feito isso, mesmo que fosse só para bancar a tora. Ela é simplesmente assim."
+    "message": "Se fosse só sobre o que aconteceu ontem, a Representante ainda teria feito isso, mesmo que fosse só para bancar a durona. Ela é simplesmente assim."
   },
   {
     "message": "Mas..."
@@ -678,7 +678,7 @@
   },
   {
     "name": "Marimo",
-    "message": "「Eles não... acham que foi um acidente, acham?.」"
+    "message": "「Eles não... acham que foi um acidente, acham?」"
   },
   {
     "name": "Takeru",
@@ -688,7 +688,7 @@
     "message": "E em casos assim, as pessoas tendem a acreditar no que querem acreditar... ou no que é mais conveniente para elas."
   },
   {
-    "message": "Especialmente depois de ouvirquelas garotas conversando antes...\nEu sei bem disso."
+    "message": "Especialmente depois de ouvir aquelas garotas conversando antes...\nEu sei bem disso."
   },
   {
     "name": "Marimo",
@@ -795,7 +795,7 @@
   },
   {
     "name": "Marimo",
-    "message": "「É verdade. Ao contrário decerto alguém, isso não deve prejudicar as chances dela de passar nas finais.」"
+    "message": "「É verdade. Ao contrário de certo alguém, isso não deve prejudicar as chances dela de passar nas finais.」"
   },
   {
     "name": "Takeru",
@@ -909,7 +909,7 @@
     "message": "Depois de toda essa expectativa... Posso entender por que precisam culpar alguém."
   },
   {
-    "message": "Mas não é nela que vocês deberían colocar a culpa.\nVocês tratam todos os seus colegas assim?"
+    "message": "Mas não é nela que vocês deveriam colocar a culpa.\nVocês tratam todos os seus colegas assim?"
   },
   {
     "name": "Colega Feminina 1",
@@ -939,7 +939,7 @@
     "message": "「Takeru-chan!」"
   },
   {
-    "message": "...Eu sei.\nEu sei que não é meu papel comprar as brigar da Representante."
+    "message": "...Eu sei.\nEu sei que não é meu papel comprar as brigas da Representante."
   },
   {
     "message": "Mas mesmo assim!"
@@ -1034,7 +1034,7 @@
   },
   {
     "name": "Colega Feminina 3",
-    "message": "「Ah, pois é! Aliás, falando nisso...\nEla bem que devia ter passado a bola para a Ayamine-san, Sabe?」"
+    "message": "「Ah, pois é! Aliás, falando nisso...\nEla bem que devia ter passado a bola para a Ayamine-san, sabe?」"
   },
   {
     "name": "Colega Feminina 4",
@@ -1054,7 +1054,7 @@
   },
   {
     "name": "Colega Feminina 4",
-    "message": "「É, mas agora a casa caiu. Digo, o normal seria esperar que ela nem viesse pra escoladepois duma dessas, né?」"
+    "message": "「É, mas agora a casa caiu. Digo, o normal seria esperar que ela nem viesse pra escola depois duma dessas, né?」"
   },
   {
     "name": "Colega Feminina 3",
@@ -1066,7 +1066,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「...Já ouvi o bastante de vocês dois.」"
+    "message": "「...Já ouvi o bastante de vocês duas.」"
   },
   {
     "name": "Takeru",
@@ -1274,7 +1274,7 @@
     "message": "Dava para perceber que ela estava só blefando agorinha pouco!!"
   },
   {
-    "message": "Droga, aprende a dividir o peso das coisas de vez em quando... Se eu te achar chorando e deprimido por aí, vou ter umas poucas e boas para te dizer!"
+    "message": "Droga, aprende a dividir o peso das coisas de vez em quando... Se eu te achar chorando e deprimida por aí, vou ter umas poucas e boas para te dizer!"
   },
   {
     "message": "──Te achei!"
@@ -1393,7 +1393,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Precisas de ser tão grossa assim?」"
+    "message": "「Precisa ser tão grossa assim?」"
   },
   {
     "name": "Chizuru",
@@ -1457,7 +1457,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Espera! Que raio é que queres dizer com isso!?」"
+    "message": "「Espera! Que raio você quer dizer com isso!?」"
   },
   {
     "name": "Kei",
@@ -1631,7 +1631,7 @@
     "message": "──Vai morrer!"
   },
   {
-    "message": "──Não se achue tanto."
+    "message": "──Não se ache tanto."
   },
   {
     "name": "Takeru",
@@ -1667,7 +1667,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Sabía o quê?」"
+    "message": "「...Sabia o quê?」"
   },
   {
     "name": "Meiya",
@@ -2065,7 +2065,7 @@
     "message": "「......」"
   },
   {
-    "message": "Agei como amigo dela... para depois encurralá-la."
+    "message": "Agi como amigo dela... para depois encurralá-la."
   },
   {
     "message": "Eu sou horrível mesmo..."
@@ -2095,7 +2095,7 @@
     "message": "Será que eu devia ter só assistido e esperado, que nem a Meiya disse...?"
   },
   {
-    "message": "Se tivesse feito isso... talvez eu não precisasse ter ouvidoquelas palavras?"
+    "message": "Se tivesse feito isso... talvez eu não precisasse ter ouvido aquelas palavras?"
   },
   {
     "message": "...Provavelmente."
@@ -2276,7 +2276,7 @@
     "message": "É-É aqui...?"
   },
   {
-    "message": "Essa casa é surpreendentemente legal...\nDa sensação de ter ficado pra trás em meio a todo o desenvolvimento ao redor, mas eu não desgosto disso."
+    "message": "Essa casa é surpreendentemente legal...\nDá a sensação de ter ficado pra trás em meio a todo o desenvolvimento ao redor, mas eu não desgosto disso."
   },
   {
     "message": "...Beleza, não vou chegar a lugar nenhum elogiando a casa dos outros."

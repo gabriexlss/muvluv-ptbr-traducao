@@ -261,7 +261,7 @@
     "message": "...Talvez eu a tenha subestimado."
   },
   {
-    "message": "Eu estive a tratando como criança só porque ela é tão pequenininha..."
+    "message": "Eu a estive tratando como criança só porque ela é tão pequenininha..."
   },
   {
     "message": "Mas, vê-la assim... Ela está em um nível completamente diferente. Ela parece tão confiante também..."
@@ -309,7 +309,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Er... C-Certo!」"
+    "message": "「Hã... C-Certo!」"
   },
   {
     "message": "...Vejamos... Ponho a mão direita aqui, e a mão esquerda aqui..."
@@ -585,7 +585,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Eu não acredito que você ficou Tão bom em tão pouco tempo... Você realmente é incrível, Takeru-san!」"
+    "message": "「Eu não acredito que você ficou tão bom em tão pouco tempo... Você realmente é incrível, Takeru-san!」"
   },
   {
     "name": "Takeru",
@@ -673,7 +673,7 @@
   },
   {
     "name": "Miki",
-    "message": "「...É. Você estava igualzinha a mim.」"
+    "message": "「...É. Você estava igualzinho a mim.」"
   },
   {
     "name": "Takeru",
@@ -770,7 +770,7 @@
   },
   {
     "name": "Genjousai",
-    "message": "「Estou apenas a dar um passeio.」"
+    "message": "「Estou apenas dando um passeio.」"
   },
   {
     "name": "Takeru",
@@ -805,7 +805,7 @@
   },
   {
     "name": "Miki",
-    "message": "「E-Eu acho que vou ficar bem... S-Sim! Tô bem, tô bem! Tá tudo 10%. Ahahahaha...」"
+    "message": "「E-Eu acho que vou ficar bem... S-Sim! Tô bem, tô bem! Tá tudo 100%. Ahahahaha...」"
   },
   {
     "name": "Genjousai",
@@ -839,7 +839,7 @@
     "message": "「S-Sim... Eu sei.」"
   },
   {
-    "message": "Mas não foi você mesma que assinou essa placa com o SEU nome?"
+    "message": "Mas não foi você mesmo que assinou essa placa com o SEU nome?"
   },
   {
     "name": "Genjousai",
@@ -1194,14 +1194,14 @@
     "message": "...Posso sentir meio que isso agora... e eu não gosto."
   },
   {
-    "message": "Isso não acabou de jeito nenhum... Eu quero que continue...\nEu não entendo muito bem o porquê... mais eu sei que sinto isso."
+    "message": "Isso não acabou de jeito nenhum... Eu quero que continue...\nEu não entendo muito bem o porquê... mas eu sei que sinto isso."
   },
   {
     "message": "O que é isso...?"
   },
   {
     "name": "Miki",
-    "message": "「...E-E-Ermo... Ei... Takeru-san?」"
+    "message": "「...E-E-Ei... Hã... Takeru-san?」"
   },
   {
     "name": "Takeru",
@@ -1251,6 +1251,6 @@
     "message": "...Será que você precisava mesmo sair correndo de mim?"
   },
   {
-    "message": "E eu a pensar em comprar-lhe outro anman."
+    "message": "E eu pensando em comprar outro anman pra ela."
   }
 ]

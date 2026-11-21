@@ -68,15 +68,15 @@
   },
   {
     "name": "Takeru",
-    "message": "「Não consigo... respirar...*tosse*...\n*tosse*...*ofof*...」"
+    "message": "「Não consigo... respirar...*tosse*...\n*tosse*...*ofegante*...」"
   },
   {
     "name": "Sumika",
-    "message": "「Você levou um golpe bem forte na barriga.\nIsso é E-10...」"
+    "message": "「Você levou um golpe bem forte na barriga.\nIsso é ruim...」"
   },
   {
     "name": "Takeru",
-    "message": "「Foi você...*ofof*...que fez isso...」"
+    "message": "「Foi você...*ofegante*...que fez isso...」"
   },
   {
     "name": "Sumika",
@@ -116,7 +116,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「A gente tá brincando de Gorban agora!\nFaz isso de novo e eu não Brinco mais com você!」"
+    "message": "「A gente tá brincando de Gorban agora!\nFaz isso de novo e eu não brinco mais com você!」"
   },
   {
     "name": "Sumika",
@@ -180,7 +180,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Nao-na...」"
+    "message": "「Nã-não...」"
   },
   {
     "name": "Takeru",
@@ -376,7 +376,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「É, ta bom. Você só tá cavando sua própria cava nessa altura do campeonato. É melhor parar enquanto está inteira.」"
+    "message": "「É, tá bom. Você só tá cavando sua própria cova nessa altura do campeonato. É melhor parar enquanto está inteira.」"
   },
   {
     "name": "Meiya",
@@ -400,7 +400,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「E-...É...」"
+    "message": "「É... É...」"
   },
   {
     "name": "Sumika",
@@ -456,7 +456,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「K-É, ultimamente mais do que o normal.\nTive um outro dia desses também...」"
+    "message": "「É, ultimamente mais do que o normal.\nTive um outro dia desses também...」"
   },
   {
     "name": "Meiya",
@@ -518,7 +518,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Hrmm... Nél, não consigo pensar em nada...」"
+    "message": "「Hrmm... Não, não consigo pensar em nada...」"
   },
   {
     "name": "Meiya",
@@ -541,7 +541,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「5Ramo raro ver a Sakaki-san chegando tão tarde.」"
+    "message": "「É bem raro ver a Sakaki-san chegando tão tarde.」"
   },
   {
     "name": "Takeru",
@@ -702,7 +702,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Você só quer que eu convence a Ayamine a jogar lacrosse, né?」"
+    "message": "「Você só quer que eu convença a Ayamine a jogar lacrosse, né?」"
   },
   {
     "name": "Chizuru",
@@ -749,7 +749,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Ênf...」"
+    "message": "「Hã...?」"
   },
   {
     "name": "Takeru",
@@ -797,7 +797,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「K-Bem, tudo bem... Vou dar um jeito nisso de outro jeito. Até mais.」"
+    "message": "「Bem, tudo bem... Vou dar um jeito nisso de outro jeito. Até mais.」"
   },
   {
     "message": "...Será que estou fazendo a coisa certa...?"
@@ -914,7 +914,7 @@
     "message": "É melhor recuar por enquanto. Aguente firme e sorria!"
   },
   {
-    "message": "Se quer que eu convence a Ayamine a fazer qualquer coisa, não vá brigar com ela."
+    "message": "Se quer que eu convença a Ayamine a fazer qualquer coisa, não vá brigar com ela."
   },
   {
     "message": "Você só vai piorar as coisas!"
@@ -947,7 +947,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Quando é criação sua que você vai tomar jeito com essa atitude?」"
+    "message": "「Quando é que você vai tomar jeito com essa atitude?」"
   },
   {
     "name": "Kei",
@@ -1352,7 +1352,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「*munch* *munch*... Cara, como você é difícil de agradar...」"
+    "message": "「*nhac* *nhac*... Cara, como você é difícil de agradar...」"
   },
   {
     "name": "Kei",
@@ -1665,7 +1665,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Dá para ver sua calcinha, sabeeia...」"
+    "message": "「Dá para ver sua calcinha, sabiiia...」"
   },
   {
     "name": "Kei",
@@ -1916,7 +1916,7 @@
     "message": "「Hã?」"
   },
   {
-    "message": "──*vupiiii*〜"
+    "message": "──*girooo*〜"
   },
   {
     "name": "Takeru",
@@ -1973,7 +1973,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Veiralm... quer dizer, que horas são?」"
+    "message": "「Vejamos... que horas são?」"
   },
   {
     "name": "Kei",
@@ -1993,7 +1993,7 @@
   },
   {
     "name": "Kei",
-    "message": "「Verdade. Pude ter exagerado.」"
+    "message": "「Verdade. Posso ter exagerado.」"
   },
   {
     "name": "Takeru",
@@ -2021,7 +2021,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Eu juro que achei que isso animaria o festival... *siiigh*...」"
+    "message": "「Eu juro que achei que isso animaria o festival... *suspiro*...」"
   },
   {
     "name": "Kei",
@@ -2131,7 +2131,7 @@
   },
   {
     "name": "Mikoto",
-    "message": "「Esquece! Tenho que ir para a cantoria agora mesmo!!」"
+    "message": "「Esquece! Tenho que ir para a cantina agora mesmo!!」"
   },
   {
     "name": "Takeru",
@@ -2167,7 +2167,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Sentar... Curtir...」"
+    "message": "「Levantar... Cumprimentar...」"
   },
   {
     "name": "Voz",
@@ -2241,7 +2241,7 @@
     "message": "「Eu pareci com ela?」"
   },
   {
-    "message": "Qual é o problema dessa professora...? muito"
+    "message": "Qual é o problema dessa professora...?"
   },
   {
     "name": "Yuuko",
@@ -2643,7 +2643,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Isso aqui? Cartããããão na á área!!」"
+    "message": "「Isso aqui? Cartããããão na área!!」"
   },
   {
     "name": "Takeru",
@@ -2879,7 +2879,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Ei, atacar é tão importante quanto, sua boba. Se você errar o tempo, a gente nunca vai acerta nada.」"
+    "message": "「Ei, atacar é tão importante quanto, sua boba. Se você errar o tempo, a gente nunca vai acertar nada.」"
   },
   {
     "name": "Sumika",
@@ -2939,7 +2939,7 @@
   },
   {
     "name": "Mikoto",
-    "message": "「A-Tem alguma coisa estranha com os seus tiros...」"
+    "message": "「T-Tem alguma coisa estranha com os seus tiros...」"
   },
   {
     "message": "Pior que é verdade. O tempo tá um pouquinho mais rápido que o normal."
@@ -3168,7 +3168,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Você só pode estar de brincadeira comigo a porra toda!!」"
+    "message": "「Você só pode estar de brincadeira com a minha cara!!」"
   },
   {
     "name": "Sumika",
@@ -3225,7 +3225,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Muito obrigado por me receberem.」"
+    "message": "「Muito obrigada por me receberem.」"
   },
   {
     "name": "Takeru",
@@ -3304,7 +3304,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Você vai colocar isso na ranhurar do cartão assim que sentar no cockpit.」"
+    "message": "「Você vai colocar isso na ranhura do cartão assim que sentar no cockpit.」"
   },
   {
     "name": "Mikoto",
@@ -3428,7 +3428,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Amadores não deberían falar besteira.\nMikoto, como vocês estão divididos aí?」"
+    "message": "「Amadores não deveriam falar besteira.\nMikoto, como vocês estão divididos aí?」"
   },
   {
     "name": "Mikoto",
@@ -3478,7 +3478,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Naõ consigo encontrar o inimigo.」"
+    "message": "「Não consigo encontrar o inimigo.」"
   },
   {
     "name": "Takeru",
@@ -3505,7 +3505,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Essa por pouco.」"
+    "message": "「Essa foi por pouco.」"
   },
   {
     "name": "Takeru",
@@ -3574,7 +3574,7 @@
     "message": "「Apenas pensei em tirá-lo da linha de fogo deles.\n...Isso não funcionará de novo.」"
   },
   {
-    "message": "Mas você está aprendendo Tão rápido que já está me dando instruções. Isso é incrível!"
+    "message": "Mas você está aprendendo tão rápido que já está me dando instruções. Isso é incrível!"
   },
   {
     "name": "Mikoto",
@@ -3654,7 +3654,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Firing!」"
+    "message": "「Fogo!」"
   },
   {
     "name": "Takeru",
@@ -3693,7 +3693,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Gah! Nossos escudos estão baixo demais!!」"
+    "message": "「Gah! Nossos escudos estão baixos demais!!」"
   },
   {
     "name": "Meiya",
@@ -3748,7 +3748,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Mas no mano a mano, tudo se decide em um golpe só. Se eles retiarem o nosso ataque, a gente perde.」"
+    "message": "「...Mas no mano a mano, tudo se decide em um golpe só. Se eles contra-atacarem o nosso golpe, a gente perde.」"
   },
   {
     "name": "Meiya",
@@ -3820,7 +3820,7 @@
     "message": "──Vamos lá, Meiya!!"
   },
   {
-    "message": "──Por que isso não acaba!?preparing"
+    "message": "──Por que isso não acaba!?"
   },
   {
     "name": "Meiya",
@@ -3848,7 +3848,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Drogaaa aaaaa!!! Você não vai escapar dessa!!!」"
+    "message": "「Drogaaaaaaaa!!! Você não vai escapar dessa!!!」"
   },
   {
     "name": "Meiya",
@@ -3980,7 +3980,7 @@
     "message": "「Ugh!!」"
   },
   {
-    "message": "──D EMPATE"
+    "message": "──EMPATE"
   },
   {
     "name": "Takeru",
@@ -4048,7 +4048,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「*giggle*... Isto é tão empolgante... Quando começa a próxima rodada?」"
+    "message": "「*risadinha*... Isto é tão empolgante... Quando começa a próxima rodada?」"
   },
   {
     "name": "Takeru",
@@ -4276,7 +4276,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Ah, você percebeu isso? Com a música de fundo e os outros sons, achei que ia deixar pasar.」"
+    "message": "「Ah, você percebeu isso? Com a música de fundo e os outros sons, achei que ia deixar passar.」"
   },
   {
     "name": "Sumika",

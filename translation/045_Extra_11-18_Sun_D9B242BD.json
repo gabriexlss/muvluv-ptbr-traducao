@@ -74,7 +74,7 @@
   },
   {
     "name": "Suiko",
-    "message": "「Pelos jeito, isso dificilmente será uma partida equilibrada. Pode se render agora se quiser.」"
+    "message": "「Pelo jeito, isso dificilmente será uma partida equilibrada. Pode se render agora se quiser.」"
   },
   {
     "name": "Miki",
@@ -88,7 +88,7 @@
     "message": "...Isso está desequilibrado."
   },
   {
-    "message": "Quero dizer, se a Suiko não tivesse pego o arco agora pouco, nós teríamos esmagado ela."
+    "message": "Quero dizer, se a Suiko não tivesse pego o arco agora há pouco, nós teríamos esmagado ela."
   },
   {
     "message": "...Obviamente.\nAfinal, isto É uma competição de arco e flecha."
@@ -113,7 +113,7 @@
   },
   {
     "name": "Genjousai",
-    "message": "「Em caso de empate, as desempates serão de uma flecha cada até que alguém saia vitorioso. Há alguma objeção?」"
+    "message": "「Em caso de empate, os desempates serão de uma flecha cada até que alguém saia vitorioso. Há alguma objeção?」"
   },
   {
     "name": "Jingorou",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Kei",
-    "message": "「...Ela não vai acerta nada se não conseguir relaxar.」"
+    "message": "「...Ela não vai acertar nada se não conseguir relaxar.」"
   },
   {
     "name": "Takeru",
@@ -224,7 +224,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Whoa...」"
+    "message": "「Uau...」"
   },
   {
     "name": "Takeru",
@@ -291,7 +291,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Ooh... Wowie...」"
+    "message": "「Ooh... Uau...」"
   },
   {
     "message": "...T-Tama, não deixa ela te intimidar."
@@ -309,7 +309,7 @@
   },
   {
     "name": "Miki",
-    "message": "「...Whew...」"
+    "message": "「...Ufa...」"
   },
   {
     "message": "...Ótimo, a Tama está tentando se acalmar...\nEla não é mais a Tama desesperada de antes..."
@@ -506,7 +506,7 @@
     "message": "...Não há hesitação nenhuma no Yugamae dela."
   },
   {
-    "message": "*whoooooosh*...!!"
+    "message": "*vuuuuush*...!!"
   },
   {
     "message": "...Ela acertou."
@@ -547,11 +547,11 @@
   },
   {
     "name": "Meiya",
-    "message": "「Esta é uma batalha que cabe à Tamase lutar.\nA sua intrusão só faria desecrar o evento!」"
+    "message": "「Esta é uma batalha que cabe à Tamase lutar.\nA sua intrusão só faria profanar o evento!」"
   },
   {
     "name": "Sumika",
-    "message": "「...E não significaria nada se a Miki-chan ganha-se porque você a acalmou, Takeru-chan.」"
+    "message": "「...E não significaria nada se a Miki-chan ganhasse porque você a acalmou, Takeru-chan.」"
   },
   {
     "name": "Takeru",
@@ -584,7 +584,7 @@
     "message": "「......」"
   },
   {
-    "message": "Hm...? Ela sussurrou algo agora pouco?"
+    "message": "Hm...? Ela sussurrou algo agora há pouco?"
   },
   {
     "message": "Ah... As mãos da Tama pararam de tremer...?"
@@ -656,7 +656,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Êê...?」"
+    "message": "「Hãã...?」"
   },
   {
     "name": "Meiya",
@@ -672,7 +672,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「...Acredito que... seja melhor nos absterrmos.」"
+    "message": "「...Acredito que... seja melhor nos abstermos.」"
   },
   {
     "name": "Takeru",
@@ -735,7 +735,7 @@
     "message": "「Boa sorte... Takeru-chan...」"
   },
   {
-    "message": "Estão todos... andados."
+    "message": "Foram todos... embora."
   },
   {
     "message": "Está quieto... Aquela atmosfera tensa de antes sumiu... Tudo está calmo."
@@ -898,7 +898,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Eu tô com uma Raiva do caralho agora, sabia?」"
+    "message": "「Eu tô com uma raiva do caralho agora, sabia?」"
   },
   {
     "name": "Miki",

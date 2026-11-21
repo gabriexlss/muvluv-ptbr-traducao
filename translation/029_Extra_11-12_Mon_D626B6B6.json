@@ -155,27 +155,27 @@
     "message": "「──Tama, espera aí!」"
   },
   {
-    "message": "Como diabos você é tão rápida!? lhe"
+    "message": "Como diabos você é tão rápida!?"
   },
   {
     "message": "Ah, não! Não vou deixar você escapar!!"
   },
   {
     "name": "Takeru",
-    "message": "「*ofjo*...*ofjo*...」"
+    "message": "「*ofega*...*ofega*...」"
   },
   {
     "message": "...É o que acontece com quem não participa de clube nenhum."
   },
   {
     "name": "Takeru",
-    "message": "「*ofjo*...*ofjo*...」"
+    "message": "「*ofega*...*ofega*...」"
   },
   {
     "message": "*suspiro*... Eu vou morrer..."
   },
   {
-    "message": "Oxigênio insuficientee... Minha cabeça tá rodando..."
+    "message": "Oxigênio insuficiente... Minha cabeça tá rodando..."
   },
   {
     "message": "Como é que ela ainda consegue correr!?"
@@ -229,14 +229,14 @@
   },
   {
     "name": "Takeru",
-    "message": "「...*tosse*...*ofjo*...」"
+    "message": "「...*tosse*...*ofega*...」"
   },
   {
     "message": "Não... adianta... Com o corpinho pequeno da Tama, a multidão no corredor dá vantagem a ela."
   },
   {
     "name": "Takeru",
-    "message": "「*ofjo*...*ofjo*...」"
+    "message": "「*ofega*...*ofega*...」"
   },
   {
     "message": "Ela é humana mesmo?"
@@ -292,7 +292,7 @@
   },
   {
     "name": "Takeru",
-    "message": "　──*munch* *munch*"
+    "message": "　──*nhac* *nhac*"
   },
   {
     "name": "Kei",
@@ -323,7 +323,7 @@
   },
   {
     "name": "Takeru",
-    "message": "　──*munch* *munch*"
+    "message": "　──*nhac* *nhac*"
   },
   {
     "name": "Takeru",
@@ -359,7 +359,7 @@
   },
   {
     "name": "Takeru",
-    "message": "　──*munch* *munch*"
+    "message": "　──*nhac* *nhac*"
   },
   {
     "name": "Takeru",
@@ -408,7 +408,7 @@
   },
   {
     "name": "Kei",
-    "message": "「...O sacrifício dele salvou as vidas dezenas de milhares.」"
+    "message": "「...O sacrifício dele salvou as vidas de dezenas de milhares.」"
   },
   {
     "name": "Takeru",
@@ -419,7 +419,7 @@
     "message": "「...Olha. Tem alguma coisa presa nele.」"
   },
   {
-    "message": "...Ê? Ah, na flecha."
+    "message": "...Hã? Ah, na flecha."
   },
   {
     "message": "Uma carta? A-Alguém me mandou uma carta usando uma flecha!?"
@@ -484,7 +484,7 @@
   },
   {
     "name": "Takeru",
-    "message": "　──*twitch*"
+    "message": "　──*tremor*"
   },
   {
     "message": "N-Não dá... Minhas mãos não param de tremer!"
@@ -501,7 +501,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...pera. Ê?」"
+    "message": "「...Pera. Hã?」"
   },
   {
     "message": "S-Será que isso... é da Tama?"
@@ -573,7 +573,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「... *fungada*... Mmwhuh? ... Representante?」"
+    "message": "「... *fungada*... Mmhã? ... Representante?」"
   },
   {
     "message": "... Hm? Não tem mais ninguém aqui."
@@ -740,7 +740,7 @@
     "message": "「Ah... Você também.」"
   },
   {
-    "message": "...Agora, comoé que eu vou alcançar a Tama...?"
+    "message": "...Agora, como é que eu vou alcançar a Tama...?"
   },
   {
     "message": "Não consigo vencer ela correndo... Nunca vou alcançar ela."
@@ -799,7 +799,7 @@
     "message": "...Uhm, vejamos..."
   },
   {
-    "message": "Para defugir."
+    "message": "Para de fugir."
   },
   {
     "message": "Eu quero conversar."
@@ -880,7 +880,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Um curto.\nAcho que só preciso de cerca de uma frase.」"
+    "message": "「Uma curta.\nAcho que só preciso de cerca de uma frase.」"
   },
   {
     "name": "Meiya",
@@ -959,7 +959,7 @@
     "message": "Eu só devo escrever o que sinto."
   },
   {
-    "message": "Isso deve bastar...."
+    "message": "Isso deve bastar..."
   },
   {
     "message": "──\"Vamos tentar de novo.\""

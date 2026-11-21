@@ -146,7 +146,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Achas que temos alguma hipótese de vencer?」"
+    "message": "「Acha que temos alguma chance de vencer?」"
   },
   {
     "name": "Chizuru",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Eu estava a falar a sério.」"
+    "message": "「...Eu estava falando sério.」"
   },
   {
     "name": "Chizuru",
@@ -162,11 +162,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「Ora, vamos lá! Não fiques com essa cara de quem já desistiu!\nDeixa de estar com a cabeça nas nuvens e levanta esse ânimo!」"
+    "message": "「Ora, vamos lá! Não fica com essa cara de quem já desistiu!\nPara de ficar com a cabeça nas nuvens e levanta esse ânimo!」"
   },
   {
     "name": "Chizuru",
-    "message": "「...Porque é que está tudo assim agora? Onde é que foi parar aquela exibição fantástica de ontem...?」"
+    "message": "「...Por que está tudo assim agora? Onde é que foi parar aquela exibição fantástica de ontem...?」"
   },
   {
     "name": "Takeru",
@@ -178,7 +178,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Esquecem-se completamente do básico quando chega a hora de jogar e passam-se da tola.」"
+    "message": "「Elas esquecem completamente do básico quando chega a hora de jogar e ficam perdidinhas.」"
   },
   {
     "name": "Chizuru",
@@ -190,11 +190,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「Mas vocês são burros ou quê!?!?」"
+    "message": "「Mas vocês são burras ou o quê!?!?」"
   },
   {
     "name": "Sumika",
-    "message": "「Só os totós é que chamam os outros de totós!」"
+    "message": "「Só os bobos é que chamam os outros de bobos!」"
   },
   {
     "name": "Takeru",
@@ -202,7 +202,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Foste tu que começaste, Takeru-chan.」"
+    "message": "「Foi você que começou, Takeru-chan.」"
   },
   {
     "name": "Sumika",
@@ -245,7 +245,7 @@
   },
   {
     "name": "Kei",
-    "message": "「...Isso souu pervertido.」"
+    "message": "「...Isso soou pervertido.」"
   },
   {
     "name": "Takeru",
@@ -353,7 +353,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Sim, eu sei. Deixei me empolgar um pouco demais.」"
+    "message": "「Sim, eu sei. Deixei-me empolgar um pouco demais.」"
   },
   {
     "name": "Takeru",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Miki",
-    "message": "「O quêês!? Mas isso dá mais de trinta metros!」"
+    "message": "「O quêêê!? Mas isso dá mais de trinta metros!」"
   },
   {
     "name": "Takeru",
@@ -685,7 +685,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「O arremesso por baixo me lembrou uma certa postura de iaido, então achei que podia tentar... Como eu me sai?」"
+    "message": "「O arremesso por baixo me lembrou uma certa postura de iaido, então achei que podia tentar... Como eu me saí?」"
   },
   {
     "name": "Takeru",
@@ -792,7 +792,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Você é uma garota muito com muita sorte, Tama.」"
+    "message": "「Você é uma garota com muita sorte, Tama.」"
   },
   {
     "name": "Miki",
@@ -911,7 +911,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Umm...」"
+    "message": "「Hã...」"
   },
   {
     "name": "Takeru",
@@ -1160,7 +1160,7 @@
     "message": "...Que dor de cabeça. O jogo de verdade também vai ser assim?"
   },
   {
-    "message": "Acho é melhor eu assistir a isso por mais um tempo..."
+    "message": "Acho que é melhor eu assistir a isso por mais um tempo..."
   },
   {
     "name": "Takeru",
@@ -1188,7 +1188,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Como é suposto a gente fazer isso? Não estamos chegando nem perto de jogar uma partida de lacrosse de verdade.」"
+    "message": "「Como é que a gente vai fazer isso? Não estamos chegando nem perto de jogar uma partida de lacrosse de verdade.」"
   },
   {
     "name": "Chizuru",
@@ -1281,7 +1281,7 @@
     "message": "Não é à toa que cabe um campo de tiro com arco aqui dentro..."
   },
   {
-    "message": "E essas paredes brancas... É gesso?\nHoje em día só se vê isso em drama histórico."
+    "message": "E essas paredes brancas... É gesso?\nHoje em dia só se vê isso em drama histórico."
   },
   {
     "name": "Miki",
@@ -1443,7 +1443,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「*suspiro*...Pronto. Agora a gente pode conversar calmamente, como seres humanos racionais?」"
+    "message": "「*suspiro*... Pronto. Agora a gente pode conversar calmamente, como seres humanos racionais?」"
   },
   {
     "name": "Suiko",
@@ -1495,7 +1495,7 @@
   },
   {
     "name": "Miki",
-    "message": "「«Eu os encontrei no chão logo ali.»」"
+    "message": "「Eu os encontrei no chão logo ali.」"
   },
   {
     "message": "...É melhor a gente tentar devolver pra ela."
@@ -1554,7 +1554,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Zueira, tô brincando.」"
+    "message": "「...Zoeira, tô brincando.」"
   },
   {
     "name": "Miki",
@@ -1641,7 +1641,7 @@
   },
   {
     "name": "Voz",
-    "message": "「Que toda essa confusão é essa...?」"
+    "message": "「Que confusão toda é essa...?」"
   },
   {
     "name": "Miki",
@@ -1685,7 +1685,7 @@
   },
   {
     "name": "Genjousai",
-    "message": "「Quuuêêê─!? O meu cartaz! Eu acabei de reescrevilo outro dia!! Levei a noite inteira para fazer aquilo!\nE eu me esforçara tanto nele também...」"
+    "message": "「Quuuêêê─!? O meu cartaz! Eu acabei de reescrevê-lo outro dia!! Levei a noite inteira para fazer aquilo!\nE eu me esforçara tanto nele também...」"
   },
   {
     "name": "Miki",
@@ -1693,7 +1693,7 @@
   },
   {
     "name": "Genjousai",
-    "message": "「*soluço*...*soluço*...」"
+    "message": "「*soluço*... *soluço*...」"
   },
   {
     "name": "Miki",
@@ -1701,7 +1701,7 @@
   },
   {
     "name": "Genjousai",
-    "message": "「*soluço*...Tama, você é tão boa...」"
+    "message": "「*soluço*... Tama, você é tão boa...」"
   },
   {
     "name": "Jingorou",
@@ -1737,7 +1737,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Zueira, tô brincando.」"
+    "message": "「...Zoeira, tô brincando.」"
   },
   {
     "name": "Suiko",
@@ -2314,7 +2314,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Exato! Além disso, a Yuuko-sensei tem podres de quase todos os professores desta escola.\n...E então, o me dizem?」"
+    "message": "「Exato! Além disso, a Yuuko-sensei tem podres de quase todos os professores desta escola.\n...E então, o que me dizem?」"
   },
   {
     "name": "Chizuru",
@@ -2378,7 +2378,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Estou Tão cansada...」"
+    "message": "「Estou tão cansada...」"
   },
   {
     "message": "É, eu também..."

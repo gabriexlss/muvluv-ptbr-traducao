@@ -11,7 +11,7 @@
   },
   {
     "name": "Voz",
-    "message": "「Acordaaa! Takeru-chan, acordaaa!!\nE abre essa porra de portaaa!!!」"
+    "message": "「Acordaaa! Takeru-chan, acordaaa!!\nE abre logo essa portaaa!!!」"
   },
   {
     "message": "...Droga, Sumika. Para de gritar aí fora..."
@@ -44,16 +44,16 @@
     "message": "...Uf. De volta pra cama."
   },
   {
-    "message": "*bang* *bang* *bang* *bang*..."
+    "message": "*pam* *pam* *pam* *pam*..."
   },
   {
-    "message": "*bang* *bang* *bang* *bang* *bang*..."
+    "message": "*pam* *pam* *pam* *pam* *pam*..."
   },
   {
-    "message": "*bang* *bang* *bang* *bang* *bang* *bang*..."
+    "message": "*pam* *pam* *pam* *pam* *pam* *pam*..."
   },
   {
-    "message": "*bang* *bang* *bang* *bang* *bang* *bang* *bang*..."
+    "message": "*pam* *pam* *pam* *pam* *pam* *pam* *pam*..."
   },
   {
     "name": "Takeru",
@@ -114,14 +114,14 @@
     "message": "「*risadinha*... Qual é o problema? Você parece até que viu um fantasma.」"
   },
   {
-    "message": "É exatamente essa a sensação porra!!"
+    "message": "É exatamente essa a sensação, porra!!"
   },
   {
     "message": "Isso é mal! Consigo ouvir a Sumika subindo as escadas correndo!!"
   },
   {
     "name": "Sumika",
-    "message": "「Takeru-chan, vamos se atrasar!!」"
+    "message": "「Takeru-chan, vamos nos atrasar!!」"
   },
   {
     "message": "Nããão!!! Não entra! Fica longe!!"
@@ -147,7 +147,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Agh! N-Não, e-espera, espera um minuto! Não, por favor, não caia, porfaaaavor〜!」"
+    "message": "「Agh! N-Não, e-espera, espera um minuto! Não, por favor, não caia, por faaaavor〜!」"
   },
   {
     "name": "Sumika",
@@ -236,7 +236,7 @@
     "message": "「Takeru-chan!?」"
   },
   {
-    "message": "Gyaaaaaaaaaaaah! Alguém, por favor, volta o tempôôô!"
+    "message": "Gyaaaaaaaaaaaah! Alguém, por favor, volta o tempooo!"
   },
   {
     "name": "Sumika",
@@ -307,7 +307,7 @@
     "message": "「SEU GRANDE IDIOTA ESTÚPIDO!!!」"
   },
   {
-    "message": "*whoooosh*..."
+    "message": "*vuuush*..."
   },
   {
     "message": "──*bum!*"
@@ -346,7 +346,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Quêquêêê!?」"
+    "message": "「Quê-quêêê!?」"
   },
   {
     "name": "Sumika",
@@ -354,7 +354,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Aiain!!」"
+    "message": "「Aiaiai!!」"
   },
   {
     "name": "Takeru",
@@ -390,7 +390,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Aiainnnnn!!」"
+    "message": "「Aiaiaiii!!」"
   },
   {
     "name": "Takeru",
@@ -402,7 +402,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Nada disso. O teu cérebro já está tão intocado que nem porrada nenhuma o conseguia piorar.」"
+    "message": "「Nada disso. O seu cérebro já está tão intocado que porrada nenhuma conseguiria piorar.」"
   },
   {
     "name": "Sumika",
@@ -414,34 +414,34 @@
   },
   {
     "name": "Sumika",
-    "message": "「Ora, não te preocupes com isso.」"
+    "message": "「Ora, não se preocupe com isso.」"
   },
   {
     "name": "Takeru",
-    "message": "「Como é que consegues sequer cortar uma coisaquelas?」"
+    "message": "「Como é que você consegue sequer cortar uma coisa daquelas?」"
   },
   {
     "name": "Sumika",
-    "message": "「Nunca ouvi falar de assaltos na nossa vizinhança. Não há de que temer.」"
+    "message": "「Nunca ouvi falar de assaltos na nossa vizinhança. Não há o que temer.」"
   },
   {
     "name": "Takeru",
-    "message": "「A minha mãe vai ficar uma fera contigo quando voltar.」"
+    "message": "「Minha mãe vai ficar uma fera com você quando voltar.」"
   },
   {
     "name": "Sumika",
-    "message": "「Assim já posso vir acordar-te todas as manhãs.」"
+    "message": "「Assim já posso vir te acordar todas as manhãs.」"
   },
   {
     "message": "..."
   },
   {
     "name": "Sumika",
-    "message": "「...? O que é que se passa? Vamos chegar tarde.」"
+    "message": "「...? O que foi? Vamos nos atrasar.」"
   },
   {
     "name": "Takeru",
-    "message": "「Sabe lá... Isto anda a chatear-me a cabeça há algum tempo...」"
+    "message": "「Sei lá... Isso anda me incomodando há algum tempo...」"
   },
   {
     "name": "Sumika",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Aposto que nem consegues ter uma conversa decente com mais ninguém a não ser comigo, Takeru-chan.」"
+    "message": "「Aposto que você nem consegue ter uma conversa decente com mais ninguém a não ser comigo, Takeru-chan.」"
   },
   {
     "name": "Takeru",
@@ -481,29 +481,29 @@
   },
   {
     "name": "Takeru",
-    "message": "「Bom, seja como for. Por agora... porque não me devolves essa chave?」"
+    "message": "「Bom, seja como for. Por agora... por que você não me devolve essa chave?」"
   },
   {
     "name": "Sumika",
-    "message": "「Nem penses.」"
+    "message": "「Nem pensar.」"
   },
   {
     "message": "Pelo menos finge que está considerando."
   },
   {
     "name": "Takeru",
-    "message": "「Devolve-ma já enquanto ainda estou com boa disposição.\nDe certeza que percebes a minha dica.」"
+    "message": "「Me devolve logo enquanto ainda estou de bom humor.\nTenho certeza de que você entendeu a dica.」"
   },
   {
     "name": "Sumika",
-    "message": "「De todo.」"
+    "message": "「De jeito nenhum.」"
   },
   {
     "message": "...*suspiro*..."
   },
   {
     "name": "Takeru",
-    "message": "「Sumika... Eu só vou pedir de boas mais uuma veez...」"
+    "message": "「Sumika... Eu só vou pedir de boas mais uma veez...」"
   },
   {
     "name": "Sumika",
@@ -511,7 +511,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Aiainnnnn!!」"
+    "message": "「Aiaiaiii!!」"
   },
   {
     "name": "Takeru",
@@ -572,7 +572,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Para de me intrometer nos meus pensamentos!」"
+    "message": "「Para de se intrometer nos meus pensamentos!」"
   },
   {
     "name": "Sumika",
@@ -628,7 +628,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Ei, que porcaria imunda é suposto ser isso mesmo? Um cachorro? Um gato?」"
+    "message": "「Ei, que porcaria imunda é pra ser isso mesmo? Um cachorro? Um gato?」"
   },
   {
     "name": "Sumika",
@@ -690,7 +690,7 @@
     "message": "Maldita seja, Sumika... Me dar um soco logo no plexo solar..."
   },
   {
-    "message": "Subir a famigerada \"Colina do Inferno\" da Hakuryo depois de uma dessas... É mais do que o corpo humano aguenta. Meus joelhos estão bambas..."
+    "message": "Subir a famigerada \"Colina do Inferno\" da Hakuryo depois de uma dessas... É mais do que o corpo humano aguenta. Meus joelhos estão bambos..."
   },
   {
     "message": "E eu não acredito que ela realmente foi na frente sem mim!"
@@ -745,11 +745,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「*arquejando*... Te-Ten quase certeza que você quis dizer ' tropeçando '.」"
+    "message": "「*arquejando*... Te-Tenho quase certeza de que você quis dizer \"tropeçando\".」"
   },
   {
     "name": "Sumika",
-    "message": "「Não! Eu quis dizer lerdo — que nem uma preguiça!\nMais rápido... Preguiçora.」"
+    "message": "「Não! Eu quis dizer lerdo — que nem uma preguiça!\nMais rápido... Preguiçoso.」"
   },
   {
     "name": "Takeru",
@@ -998,7 +998,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Eu vô ded atrasada〜! ...Ah! Ai...」"
+    "message": "「Eu vô me atrasar〜! ...Ah! Ai...」"
   },
   {
     "name": "Takeru",
@@ -1042,7 +1042,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Belo dois pesos e duas medidas que você tem aí.」"
+    "message": "「...Bela incoerência a sua, hein.」"
   },
   {
     "name": "Miki",
@@ -1117,7 +1117,7 @@
     "message": "Ela tem razão. O Mikoto não está aqui.\nSerá que ele foi arrastado para mais uma das aventuras malucas do pai de novo?"
   },
   {
-    "message": "...É, frouxou a ida ao fliperama com ele mais tarde.\nComo é que eu vou conseguir minha dose de Valgern-On agora?"
+    "message": "...É, melou a ida ao fliperama com ele mais tarde.\nComo é que eu vou conseguir minha dose de Valgern-On agora?"
   },
   {
     "message": "Que desânimo. Eu pratiquei a noite inteira ontem para me redimir de ter perdido para ele nos meus sonhos!!"
@@ -1277,7 +1277,7 @@
     "message": "──Hã?"
   },
   {
-    "message": "Tem alguém idiota o suficiente para transferir bem no segundo termo do último ano?"
+    "message": "Tem alguém idiota o suficiente para transferir bem no segundo trimestre do último ano?"
   },
   {
     "name": "Marimo",
@@ -1338,14 +1338,14 @@
   },
   {
     "name": "Takeru",
-    "message": "「Quêquêêê!?」"
+    "message": "「Quê-quêêê!?」"
   },
   {
     "name": "Meiya",
     "message": "「......」"
   },
   {
-    "message": "Q-O que você quer? Pare de me encarar assim."
+    "message": "O-O que você quer? Pare de me encarar assim."
   },
   {
     "name": "Meiya",
@@ -1467,11 +1467,11 @@
   },
   {
     "name": "Sumika",
-    "message": "「Aiain!!」"
+    "message": "「Aiaiai!!」"
   },
   {
     "name": "Takeru",
-    "message": "「GrrNNNGH!!! QUE MERDA HÁ DE ERRADO COM VOCÊ!?!?!?\nSerá que dá para não espalhar for a classe inteira que nós dormimos juntos!?」"
+    "message": "「GrrNNNGH!!! QUE MERDA HÁ DE ERRADO COM VOCÊ!?!?!?\nSerá que dá para não espalhar pra classe inteira que nós dormimos juntos!?」"
   },
   {
     "message": "......Eita."
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "Colega Feminina 1",
-    "message": "「Não pode sêêêr... E a Kagami-san?」"
+    "message": "「Não pode seeeer... E a Kagami-san?」"
   },
   {
     "name": "Takeru",
@@ -1560,7 +1560,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Takeru, que toda essa confusão?」"
+    "message": "「Takeru, o que é toda essa confusão?」"
   },
   {
     "message": "...*silêncio*..."
@@ -1756,7 +1756,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「E-Essa não é o tipo de coisa que as pessoas costumam dizer quando estão bravas. Além disso, eu não trouxe marmita hoje.\nEu não te falei?」"
+    "message": "「E-Esse não é o tipo de coisa que as pessoas costumam dizer quando estão bravas. Além disso, eu não trouxe marmita hoje.\nEu não te falei?」"
   },
   {
     "name": "Sumika",
@@ -1820,11 +1820,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「É, tá parecendo uma zona de guerra.\nPor isso que eu tenho que apressar.」"
+    "message": "「É, tá parecendo uma zona de guerra.\nPor isso que eu tenho que me apressar.」"
   },
   {
     "name": "Meiya",
-    "message": "「Zona de guerra!? Você ousaria entrar num lugar Tão perigoso só por uma refeição!?」"
+    "message": "「Zona de guerra!? Você ousaria entrar num lugar TÃO perigoso só por uma refeição!?」"
   },
   {
     "name": "Takeru",
@@ -1852,7 +1852,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Não me pergunte... Pra caralho que eu sei.」"
+    "message": "「Não me pergunte... Como caralho eu vou saber.」"
   },
   {
     "name": "Takeru",
@@ -1898,7 +1898,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Eles parecem precisar de mais tempo que o normal hoje.\nPerdoem-os. Este não é o ambiente de trabalho habitual deles.」"
+    "message": "「Eles parecem precisar de mais tempo que o normal hoje.\nPerdoem-nos. Este não é o ambiente de trabalho habitual deles.」"
   },
   {
     "message": "O quê?"
@@ -1917,7 +1917,7 @@
   },
   {
     "name": "Chef Principal",
-    "message": "「Minha lady, nós chegamos!!」"
+    "message": "「Minha senhora, nós chegamos!!」"
   },
   {
     "name": "Miki",
@@ -2116,7 +2116,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「...Perdão. Minhas ações foram extremamente inconsideradas.」"
+    "message": "「...Perdão. Minhas ações foram extremamente impensadas.」"
   },
   {
     "name": "Takeru",
@@ -2124,7 +2124,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Chefe de cozinha, prepare um banquete. Para comemorar meu primeiro día como membro do corpo discente, a família Mitsurugi pagará o almoço de todos hoje.」"
+    "message": "「Chefe de cozinha, prepare um banquete. Para comemorar meu primeiro dia como membro do corpo discente, a família Mitsurugi pagará o almoço de todos hoje.」"
   },
   {
     "name": "Toda a Turma",
@@ -2132,11 +2132,11 @@
   },
   {
     "name": "Sumika",
-    "message": "「Aiainnnnn!!」"
+    "message": "「Aiaiaiii!!」"
   },
   {
     "name": "Takeru",
-    "message": "「Ela não entendeu nadaaaa deeeenaaaada!!」"
+    "message": "「Ela não entendeu nadaaaa de naaaada!!」"
   },
   {
     "name": "Sumika",
@@ -2263,7 +2263,7 @@
   },
   {
     "name": "Takeru",
-    "message": "H-Hm. Essa é mesmo uma coincidência aleatória bem inesperada.」"
+    "message": "「H-Hm. Essa é mesmo uma coincidência aleatória bem inesperada.」"
   },
   {
     "name": "Meiya",
@@ -2301,7 +2301,7 @@
     "message": "É o parque onde eu e a Sumika costumávamos brincar quando éramos crianças.\nPassamos por aqui todo santo dia, mas quase nem olhamos mais para ele."
   },
   {
-    "message": "Algumas crianças mais novas estão sentadas em um banco, totalmente cativadas por suas cartas colecionables."
+    "message": "Algumas crianças mais novas estão sentadas em um banco, totalmente cativadas por suas cartas colecionáveis."
   },
   {
     "message": "Elas nem sequer olham para o escorregador praticamente novinho em folha, ou para a caixa de areia provavelmente sanitizada a esta altura."
@@ -2367,7 +2367,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Caramba... Então vão derrubar este lugar, hein... O será que vão construir no lugar...?」"
+    "message": "「Caramba... Então vão derrubar este lugar, hein... O que será que vão construir no lugar...?」"
   },
   {
     "name": "Meiya",
@@ -2456,7 +2456,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Como eu fiquei sabendo!?\n Não se faça de desentendida!!」"
+    "message": "「Como eu fiquei sabendo!?\nNão se faça de desentendido!!」"
   },
   {
     "name": "Takeru",
@@ -2468,7 +2468,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「QUÊêêêêêê!?!?\nEla MORA aqui!?!?」"
+    "message": "「QUÊÊÊÊÊÊ!?!?\nEla MORA aqui!?!?」"
   },
   {
     "name": "Sumika",
@@ -2492,7 +2492,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Por que você tá mandando eu calar a boca!?\nE o que você tem estado andando a fazer desde que seus pais viajaram de férias, hein!?!?」"
+    "message": "「Por que você tá mandando eu calar a boca!?\nE o que você anda fazendo desde que seus pais viajaram de férias, hein!?!?」"
   },
   {
     "name": "Takeru",
@@ -2520,7 +2520,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Ma-Mas o que você disoooeeeu!? O que pretende fazer com ela assim que ficarem a sós!?」"
+    "message": "「Ma-Mas o que você disseeee!? O que pretende fazer com ela assim que ficarem a sós!?」"
   },
   {
     "name": "Takeru",
@@ -2564,7 +2564,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Waaaaaah! Mamaaaaaãe...!」"
+    "message": "「Waaaaaah! Mamããããe...!」"
   },
   {
     "name": "Meiya",

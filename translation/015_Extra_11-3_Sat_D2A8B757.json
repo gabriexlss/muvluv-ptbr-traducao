@@ -35,7 +35,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「... tirando sortes como essa, você parece estar progredindo nos fundamentos...」"
+    "message": "「...Tirando lances como esse, você parece estar progredindo nos fundamentos...」"
   },
   {
     "name": "Chizuru",
@@ -106,7 +106,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「...N-Não pense que pode apelativo para o meu emocional, não vai funcionar!」"
+    "message": "「...N-Não pense que pode apelar para o meu emocional, não vai funcionar!」"
   },
   {
     "name": "Takeru",
@@ -153,11 +153,11 @@
     "message": "「Ora, ora...? Que foi, Takeru-chan?」"
   },
   {
-    "message": "...Ora! (Oho!)"
+    "message": "...Ora!"
   },
   {
     "name": "Sumika",
-    "message": "「Achou a bola? ...Calha, isso é...? Ah!」"
+    "message": "「Achou a bola? ...Espera, isso é...? Ah!」"
   },
   {
     "name": "Takeru",
@@ -205,7 +205,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Além do mais, fiquei sabendo que o zelador odia gatos.」"
+    "message": "「Além do mais, fiquei sabendo que o zelador odeia gatos.」"
   },
   {
     "name": "Takeru",
@@ -232,7 +232,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Eiíi! Sumika〜!」"
+    "message": "「Eiii! Sumika〜!」"
   },
   {
     "name": "Sumika",
@@ -243,7 +243,7 @@
     "message": "「...Uau!!」"
   },
   {
-    "message": "P-Por que você tá trazendof todo esse pão!?"
+    "message": "P-Por que você tá trazendo todo esse pão!?"
   },
   {
     "name": "Sumika",
@@ -293,11 +293,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「É, andava meio óbvio.」"
+    "message": "「É, tava meio óbvio.」"
   },
   {
     "name": "Sumika",
-    "message": "「O queé que eu supposed fazer com tudo isso?」"
+    "message": "「O que é que eu vou fazer com tudo isso?」"
   },
   {
     "name": "Takeru",
@@ -373,7 +373,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「É. Embora eu ache um absurdo alguém abandonar um bichinho nos grounds da escola.」"
+    "message": "「É. Embora eu ache um absurdo alguém abandonar um bichinho no pátio da escola.」"
   },
   {
     "name": "Meiya",
@@ -452,13 +452,13 @@
   },
   {
     "name": "Meiya",
-    "message": "「Devemos aguardar uminstante. Pedirei a Tsukuyomi que faça os arranjos.」"
+    "message": "「Devemos aguardar um instante. Pedirei a Tsukuyomi que faça os arranjos.」"
   },
   {
     "message": "Deve ser bom ter recursos financeiros absurdos à mão nesse tipo de situação..."
   },
   {
-    "message": "Parece que acabei de pulhar de uma balsa para um transatlântico de luxo."
+    "message": "Parece que acabei de pular de uma balsa para um transatlântico de luxo."
   },
   {
     "name": "Meiya",
@@ -470,7 +470,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Uau, Meiya, você é demais!\n É seu dia de sorte, gatinha!」"
+    "message": "「Uau, Meiya, você é demais!\nÉ seu dia de sorte, gatinha!」"
   },
   {
     "name": "Takeru",
@@ -637,7 +637,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Eu não sei o que eu fazzzou.」"
+    "message": "「Eu não sei o que eu fazzzço.」"
   },
   {
     "message": "...Agora ela me fez falar assim também."
@@ -656,7 +656,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Acho melhor começar a procurar um dono em potencia depois disso...」"
+    "message": "「Acho melhor começar a procurar um dono em potencial depois disso...」"
   },
   {
     "name": "Miki",
@@ -914,7 +914,7 @@
   },
   {
     "name": "Marimo",
-    "message": "「H-Huh? Huh!?」"
+    "message": "「H-Hã? Hã!?」"
   },
   {
     "name": "Takeru",
@@ -1017,7 +1017,7 @@
   },
   {
     "name": "Meiya",
-    "message": "「Demos-nos ao trabalho de nos reunirmos em um só quarto. Não fique tão estressada com isso.」"
+    "message": "「Nos demos ao trabalho de nos reunirmos em um só quarto. Não fique tão estressada com isso.」"
   },
   {
     "name": "Miki",
@@ -1411,7 +1411,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Ê? Disse alguma coisa?」"
+    "message": "「Hã? Disse alguma coisa?」"
   },
   {
     "name": "Takeru",
@@ -1511,7 +1511,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Beleza! Deixa Comigo!!」"
+    "message": "「Beleza! Deixa comigo!!」"
   },
   {
     "name": "Takeru",
@@ -1759,7 +1759,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Enfim! Eu não posso cuidar de um gato de rua!\n Eu não posso assumir essa responsabilidade!」"
+    "message": "「Enfim! Eu não posso cuidar de um gato de rua!\nEu não posso assumir essa responsabilidade!」"
   },
   {
     "message": "...Encontrei uma resistência teimosa."
@@ -1825,7 +1825,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Beleza, chega, vocês dois... Parem de brigar...\nEscuta, Ayamine, você se importaria de cuidar dela?」"
+    "message": "「Beleza, chega, vocês duas... Parem de brigar...\nEscuta, Ayamine, você se importaria de cuidar dela?」"
   },
   {
     "name": "Kei",
@@ -1904,7 +1904,7 @@
     "message": "「Qu-Que barulho foi esse?」"
   },
   {
-    "message": "Houve um som alto de freada bem na frente da minha casa agora pouco... Qu-Qué que tá acontecendo?"
+    "message": "Houve um som alto de freada bem na frente da minha casa agora há pouco... O-O que tá acontecendo?"
   },
   {
     "name": "Yuuko",
@@ -2128,7 +2128,7 @@
   },
   {
     "name": "Yuuko",
-    "message": "「Então o que aconteceria se eu o favasse retornar ao que era antes de convergir como um humano?\nVocê não seria nada mais do que uma possibilidade ainda indeterminada.」"
+    "message": "「Então o que aconteceria se eu o fizesse retornar ao que era antes de convergir como um humano?\nVocê não seria nada mais do que uma possibilidade ainda indeterminada.」"
   },
   {
     "name": "Takeru",

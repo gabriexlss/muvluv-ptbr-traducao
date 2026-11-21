@@ -126,7 +126,7 @@
     "message": "Caramba..."
   },
   {
-    "message": "E essa tela de \"GAME OVER\" só está jogando sal na ferida.\nCom certeza absoluta que eu não vou perder na próxima!"
+    "message": "E essa tela de \"GAME OVER\" só está jogando sal na ferida.\nCom certeza absoluta eu não vou perder na próxima!"
   },
   {
     "message": "Coloco minhas mãos de volta no controle e aperto o gatilho para sair da tela de resultados..."
@@ -180,7 +180,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Grrrrr...\nMAS QUE PORRA VOCÊ PENS QUE TÁ FAZENDO!?!?」"
+    "message": "「Grrrrr...\nMAS QUE PORRA VOCÊ PENSA QUE TÁ FAZENDO!?!?」"
   },
   {
     "name": "Takeru",
@@ -252,7 +252,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Foi você quem me deu um soco na cara!\nEu achei mesmo que ia bateras botas!\nIsso é só o troco.」"
+    "message": "「Foi você quem me deu um soco na cara!\nEu achei mesmo que ia bater as botas!\nIsso é só o troco.」"
   },
   {
     "name": "Sumika",
@@ -497,7 +497,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Nossa, são só cogumelos. Não é pra tanto a ponto de dar de cara num postes telefônico.\nTakeru-chan, você se estressa demais por qualquer coisa.」"
+    "message": "「Nossa, são só cogumelos. Não é pra tanto a ponto de dar de cara num poste telefônico.\nTakeru-chan, você se estressa demais por qualquer coisa.」"
   },
   {
     "message": "Só... cogumelos...!? Ela disse \"SÓ\" cogumelos!?"
@@ -667,7 +667,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Takeru-quiiiiin?」"
+    "message": "「Takeru-chaaaaan?」"
   },
   {
     "name": "Sumika",
@@ -682,7 +682,7 @@
     "message": "「Isso tá meio vergonhoso, então...\nEu vou indo pra casa, tá?」"
   },
   {
-    "message": "Ah, ah ou não vai!"
+    "message": "Ah, não vai mesmo!"
   },
   {
     "name": "Sumika",
@@ -755,7 +755,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Nan-ni-ca.」"
+    "message": "「Na-na-ni-na-não.」"
   },
   {
     "name": "Takeru",
@@ -815,7 +815,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Whaaat!? Por que você não disse antes!? Anda, vamos logo!!」"
+    "message": "「Quêêê!? Por que você não disse antes!? Anda, vamos logo!!」"
   },
   {
     "name": "Sumika",
@@ -894,7 +894,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Eu se recuso a aceitar isso!!」"
+    "message": "「Eu me recuso a aceitar isso!!」"
   },
   {
     "name": "Sumika",
@@ -909,7 +909,7 @@
   },
   {
     "name": "Takeru",
-    "message": "　──*chomp* *chomp* *chomp*..."
+    "message": "　──*nhac* *nhac* *nhac*..."
   },
   {
     "name": "Sumika",
@@ -917,7 +917,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Cala a boka! Mfgh...*glup*...*engasgo*...」"
+    "message": "「Cala a boca! Mfgh...*glup*...*engasgo*...」"
   },
   {
     "name": "Sumika",
@@ -974,7 +974,7 @@
     "message": "Não!! As minhas batatas fritas, não!!"
   },
   {
-    "message": "Primeiro, a minha refeição Matsutake — o ápice do cardápio de outono do Templo Celeste (com arroz frito de acompanhamento) — foi rebaixada a um simples e velho hambúrguer, e agora..."
+    "message": "Primeiro, a minha refeição Matsutake — o ápice do cardápio de outono do Templo do Céu (com arroz frito de acompanhamento) — foi rebaixada a um simples e velho hambúrguer, e agora..."
   },
   {
     "message": "Até as minhas pobres batatas fritas foram roubadas de mim... e aquele cachorro idiota tá só mastigando elas todo feliz..."
@@ -1093,7 +1093,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Hmm? Ah. É, aquelas pobre crianças.」"
+    "message": "「Hmm? Ah. É, aquelas pobres crianças.」"
   },
   {
     "name": "Sumika",
@@ -1120,7 +1120,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「E eu aqui, tentando relembrar os velho tempos...」"
+    "message": "「E eu aqui, tentando relembrar os velhos tempos...」"
   },
   {
     "name": "Sumika",
@@ -1147,7 +1147,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Mmf? Qq foi?」"
+    "message": "「Mmf? O que foi?」"
   },
   {
     "name": "Takeru",
@@ -1301,7 +1301,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「...Suspiro...」"
+    "message": "「...*suspiro*...」"
   },
   {
     "name": "Takeru",
@@ -1329,7 +1329,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Você não parece ter se divertindo.」"
+    "message": "「Você não parece ter se divertido.」"
   },
   {
     "name": "Takeru",
@@ -1462,7 +1462,7 @@
     "message": "「O-Quê-... Ei...!」"
   },
   {
-    "message": "...Como diabos ela pode estar Tão confiante disso? Tenho quase certeza de que vai ser impossível sem minha mãe estar lá para deixar ela entrar."
+    "message": "...Como diabos ela pode estar tão confiante disso? Tenho quase certeza de que vai ser impossível sem minha mãe estar lá para deixar ela entrar."
   },
   {
     "message": "..."

@@ -232,7 +232,7 @@
     "message": "「N-Não...」"
   },
   {
-    "message": "*suspiro*... Droga, é foda ser acordado com um velho gritar com você..."
+    "message": "*suspiro*... Droga, é foda ser acordado com um velho gritando com você..."
   },
   {
     "name": "Meiya",
@@ -240,7 +240,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「N-Nah, nada disso...」"
+    "message": "「N-Não, nada disso...」"
   },
   {
     "name": "Meiya",
@@ -270,7 +270,7 @@
     "message": "As portas e paredes voltaram ao normal há pouco tempo."
   },
   {
-    "message": "A Sumika costuma tropeçar para dentro toda manhã reclamando das últimas tentativas de interferência da Meiya... O será que houve com ela hoje?"
+    "message": "A Sumika costuma tropeçar para dentro toda manhã reclamando das últimas tentativas de interferência da Meiya... O que será que houve com ela hoje?"
   },
   {
     "name": "Meiya",
@@ -578,7 +578,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「An, lá está ela... Ei, Sumika!」"
+    "message": "「Ah, lá está ela... Ei, Sumika!」"
   },
   {
     "name": "Sumika",
@@ -772,7 +772,7 @@
     "message": "Além disso, ela nem tem um console."
   },
   {
-    "message": "O que eu faço...? O que eu faço...I?"
+    "message": "O que eu faço...? O que eu faço...!?"
   },
   {
     "message": "......"
@@ -832,7 +832,7 @@
     "message": "──Gaaaaaaaaaaaahhhh!!"
   },
   {
-    "message": "──Vai ooooooooooonnnnntem!!!"
+    "message": "──Vaaaaaaaai loooooooogoooo!!!"
   },
   {
     "message": "──Waaaaaaaaahhhh!!!"
@@ -990,70 +990,70 @@
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Bem-vindo de volta.»」"
+    "message": "「Bem-vindo de volta.」"
   },
   {
     "message": "...A Tsukuyomi-san tá aqui."
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Em que posso ajudar?»」"
+    "message": "「Em que posso ajudar?」"
   },
   {
     "name": "Takeru",
-    "message": "「«Ei, você não tava andando naquela limousine pelo distrito de Tachibana agorinha pouco?»」"
+    "message": "「Ei, você não tava andando naquela limousine pelo distrito de Tachibana agorinha pouco?」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Oh, você percebeu isso?»」"
+    "message": "「Oh, você percebeu isso?」"
   },
   {
     "name": "Takeru",
-    "message": "「«A Sumika não tava com você?»」"
+    "message": "「A Sumika não tava com você?」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Kagami-sama? Não, ela não estava.»」"
+    "message": "「Kagami-sama? Não, ela não estava.」"
   },
   {
     "name": "Takeru",
-    "message": "「«Que estranho... Então ela ainda não voltou?»」"
+    "message": "「Que estranho... Então ela ainda não voltou?」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Kagami-sama me informou que iria se retirar para os aposentos dela por esta noite.»」"
+    "message": "「Kagami-sama me informou que iria se retirar para os aposentos dela por esta noite.」"
   },
   {
     "name": "Takeru",
-    "message": "「«O quê!? São só 20h!!»」"
+    "message": "「O quê!? São só 20h!!」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Cedo para deitar, cedo para levantar, como costumam dizer.»」"
+    "message": "「Cedo para deitar, cedo para levantar, como costumam dizer.」"
   },
   {
     "name": "Takeru",
-    "message": "「«Tem caroço nesse angu.\nVai ver ela não tá se sentindo bem... Vou lá dar uma olhada.»」"
+    "message": "「Tem caroço nesse angu.\nVai ver ela não tá se sentindo bem... Vou lá dar uma olhada.」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Ela não me pareceu indisposta. E além disso — se ela realmente estivesse doente, não seria melhor deixá-la em paz?»」"
+    "message": "「Ela não me pareceu indisposta. E além disso — se ela realmente estivesse doente, não seria melhor deixá-la em paz?」"
   },
   {
     "name": "Takeru",
-    "message": "「«Grr...»」"
+    "message": "「Grr...」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Nesse caso, irei me infiltrar e dar uma olhada nela mais tarde.»」"
+    "message": "「Nesse caso, irei me infiltrar e dar uma olhada nela mais tarde.」"
   },
   {
     "name": "Takeru",
-    "message": "「«Beleza... É, talvez seja o melhor... Por favor, faça isso.»」"
+    "message": "「Beleza... É, talvez seja o melhor... Por favor, faça isso.」"
   },
   {
     "name": "Tsukuyomi",
-    "message": "「«Compreendido.»」"
+    "message": "「Compreendido.」"
   },
   {
     "name": "Takeru",

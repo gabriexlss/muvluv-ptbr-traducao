@@ -113,11 +113,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「*pant*...*wheeze*...*pant*...*wheeze*...」"
+    "message": "「*arf*...*cof*...*arf*...*cof*...」"
   },
   {
     "name": "Sumika",
-    "message": "「*pant*...*wheeze*...*pant*...*wheeze*...」"
+    "message": "「*arf*...*cof*...*arf*...*cof*...」"
   },
   {
     "name": "Takeru",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Takeru e Sumika",
-    "message": "「*pant*...*wheeze*...*pant*...*wheeze*...」"
+    "message": "「*arf*...*cof*...*arf*...*cof*...」"
   },
   {
     "name": "Meiya",
@@ -185,7 +185,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Fala por você...*pant*...*wheeze*...」"
+    "message": "「Fala por você...*arf*...*cof*...」"
   },
   {
     "name": "Meiya",
@@ -209,7 +209,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Ahana... ahaha... Tô bem, obrigada.」"
+    "message": "「Ahaha... ahaha... Tô bem, obrigada.」"
   },
   {
     "name": "Meiya",
@@ -229,7 +229,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Huh!?」"
+    "message": "「Hã!?」"
   },
   {
     "name": "Takeru",
@@ -272,7 +272,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「──Oof!!」"
+    "message": "「──Uff!!」"
   },
   {
     "name": "Sumika",
@@ -338,7 +338,7 @@
     "message": "「Se não reconhecesse, eu provavelmente recomendaria que fosse ver um médico.」"
   },
   {
-    "message": "Quer dizer — você EXATAMENTE invadiu a Turma D e tentou derrotá-la, afinal de contas."
+    "message": "Quer dizer — você LITERALMENTE invadiu a Turma D e tentou derrotá-la, afinal de contas."
   },
   {
     "name": "Meiya",
@@ -433,7 +433,7 @@
     "message": "「......」"
   },
   {
-    "message": "...Sei não... Dizem que essas duas são rivales ferozes e tal, mas... pelo que dá para perceber, elas se dão insanamente bem..."
+    "message": "...Sei não... Dizem que essas duas são rivais ferozes e tal, mas... pelo que dá para perceber, elas se dão insanamente bem..."
   },
   {
     "message": "Os métodos delas podem diferir um pouco, mas ambas sentem prazer em usar as palavras para fazer um homem ajoelhar──as bruxas!!"
@@ -632,7 +632,7 @@
   },
   {
     "name": "Mikoto",
-    "message": "「Não, no softball!」"
+    "message": "「Não, no softbol!」"
   },
   {
     "name": "Sumika",
@@ -828,7 +828,7 @@
     "message": "「......」"
   },
   {
-    "message": "O que á com a Representante...?"
+    "message": "O que há com a Representante...?"
   },
   {
     "name": "Chizuru",
@@ -856,7 +856,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Q-O que você está dizendo!?」"
+    "message": "「O-O que você está dizendo!?」"
   },
   {
     "name": "Yuuko",
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「...Quero que você a persuade.」"
+    "message": "「...Quero que você a persuada.」"
   },
   {
     "name": "Takeru",
@@ -1155,7 +1155,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Eu faço. Você só quer que eu convence a Ayamine a jogar lacrosse, né?」"
+    "message": "「Eu faço. Você só quer que eu convença a Ayamine a jogar lacrosse, né?」"
   },
   {
     "name": "Chizuru",
@@ -1163,7 +1163,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Sendo sincero, acho meio difícil dar certo... Mas vou ver o que posso fazer..」"
+    "message": "「Sendo sincero, acho meio difícil dar certo... Mas vou ver o que posso fazer...」"
   },
   {
     "name": "Chizuru",
@@ -1230,7 +1230,7 @@
     "message": "A Ayamine já foi embora...\nAcho que vou ter que ir atrás dela antes de fazer qualquer outra coisa."
   },
   {
-    "message": "Pensando bem, quando ela falta à aula, ela FALTAS mesmo... É melhor eu me mexer logo..."
+    "message": "Pensando bem, quando ela falta à aula, ela FALTA mesmo... É melhor eu me mexer logo..."
   },
   {
     "name": "Sumika",
@@ -1314,7 +1314,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Hã? Urum... Deixa ver...」"
+    "message": "「Hã? Hmm... Deixa ver...」"
   },
   {
     "name": "Takeru",
@@ -1378,7 +1378,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「Essaeu doeu, droga!! Sendo assim, que se dane! Tchau para você!」"
+    "message": "「Essa doeu, droga!! Sendo assim, que se dane! Tchau para você!」"
   },
   {
     "message": "Os seus... socos... estão rápidos... demais... hoje em dia..."
@@ -1558,7 +1558,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Tem gu-ninguém em casa...?」"
+    "message": "「Tem a-alguém aí...?」"
   },
   {
     "name": "Miki",
@@ -1566,7 +1566,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Aha! Te achei. Tá sozinha hoje? Que calhar! Preciso falar com você sobre uma coisa.」"
+    "message": "「Aha! Te achei. Tá sozinha hoje? Que sorte! Preciso falar com você sobre uma coisa.」"
   },
   {
     "name": "Miki",
@@ -1622,14 +1622,14 @@
   },
   {
     "name": "Takeru",
-    "message": "「Rooooaaaaaaar!!!」"
+    "message": "「Uaaaaaarrr!!!」"
   },
   {
     "name": "Miki",
-    "message": "「R-Roooooooooaaaarr!!!」"
+    "message": "「U-Uaaaaaaaarrr!!!」"
   },
   {
-    "message": "*pat!*"
+    "message": "*tap!*"
   },
   {
     "name": "Takeru",
@@ -2000,7 +2000,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Cala a boca. Não zomba de mim.\n...Ahem.」"
+    "message": "「Cala a boca. Não zomba de mim.\n...Cof, cof.」"
   },
   {
     "name": "Takeru",
@@ -2055,7 +2055,7 @@
     "message": "「Nngh...」"
   },
   {
-    "message": "Ela provavelmente está certa... Normalmentes elas batem cabeça por qualquer coisinha."
+    "message": "Ela provavelmente está certa... Normalmente elas batem cabeça por qualquer coisinha."
   },
   {
     "name": "Chizuru",
@@ -2094,7 +2094,7 @@
     "message": "「Kei!」"
   },
   {
-    "message": "──*kiss*"
+    "message": "──*chu*"
   },
   {
     "name": "Takeru",
@@ -2126,7 +2126,7 @@
     "message": "Droga... Ela me deu um fora monumental.\nO que eu faço agora...? ehm..."
   },
   {
-    "message": "Hm...? Ei, aquilo é...? muito"
+    "message": "Hm...? Ei, aquilo é...?"
   },
   {
     "name": "Takeru",
@@ -2289,7 +2289,7 @@
   },
   {
     "name": "Yuuko",
-    "message": "「Apressem-se!!」"
+    "message": "「Apresse-se!!」"
   },
   {
     "name": "Takeru",
@@ -2364,7 +2364,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Kyaariiiiiii............」"
+    "message": "「Gyaaaaaaaah............」"
   },
   {
     "message": "...Essa aceleração é insana!!"
@@ -2463,7 +2463,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Oquêêê──!?」"
+    "message": "「O quêêê──!?」"
   },
   {
     "name": "Yuuko",
@@ -2471,7 +2471,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「E-Ele pegou um atalhooo pa-ra-ra-ra!?」"
+    "message": "「E-Ele pegou um atalhooo!?」"
   },
   {
     "message": "Isso é mesmo possível...!?"
@@ -2484,7 +2484,7 @@
     "message": "...A vitória que tínhamos tanta certeza de ter alcançado escorreu facilmente por entre nossos dedos, como se zombasse da nossa certeza."
   },
   {
-    "message": "Nos sobra apenas memórias dolorosas... e a melancolia em nossos corações."
+    "message": "Nos sobram apenas memórias dolorosas... e a melancolia em nossos corações."
   },
   {
     "message": "Só baixamos a guarda pelo mais breve dos momentos.\nMas isso foi mais do que suficiente para causar a nossa derrota."
@@ -2499,7 +2499,7 @@
     "message": "Enquanto a Sensei contemplava a limusine dele, vi um brilho de profundo orgulho em seu rosto."
   },
   {
-    "message": "A última coisa que ela sussurrouquele dia... marcou o início de uma bela amizade, forjada nas profundezas da derrota."
+    "message": "A última coisa que ela sussurrou naquele dia... marcou o início de uma bela amizade, forjada nas profundezas da derrota."
   },
   {
     "message": "──Eu perdi."
@@ -2661,7 +2661,7 @@
   },
   {
     "name": "Tomoe",
-    "message": "「Nós entendemos mal a Mana-sama e mandamos o Takahashi para a escola.」"
+    "message": "「Nós entendemos mal a Meiya-sama e mandamos o Takahashi para a escola.」"
   },
   {
     "name": "Takeru",
@@ -2676,7 +2676,7 @@
   },
   {
     "name": "Tomoe",
-    "message": "「Eek! Desculpaaão!」"
+    "message": "「Aii! Desculpaaa!!」"
   },
   {
     "message": "...Entendi. A Tsukuyomi-san tá atrás da porta, né."
@@ -2742,7 +2742,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Ah, tá bom... Beleza, beleza — eu entendi!\nEscrevam isso pra lá e caiam fora.」"
+    "message": "「Ah, tá bom... Beleza, beleza — eu entendi!\nEsqueçam isso e caiam fora.」"
   },
   {
     "name": "Takeru",
@@ -2805,7 +2805,7 @@
   },
   {
     "name": "Kamiyo",
-    "message": "「Mana-sama! Ele nos perdoou!!」"
+    "message": "「Meiya-sama! Ele nos perdoou!!」"
   },
   {
     "name": "Tomoe",
@@ -2828,7 +2828,7 @@
     "message": "Ir para casa com ela"
   },
   {
-    "message": "Tem uma coisa em preciso pensar sozinho"
+    "message": "Tem uma coisa em que preciso pensar sozinho"
   },
   {
     "message": "Sim"

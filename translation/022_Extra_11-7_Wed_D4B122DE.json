@@ -28,7 +28,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Levantar o arco, encaixar a flecha e soltá-la... Para fazer isso direito, seguimos uma sequência de movimentos chamada 'Shaho-Hassetsu', ou 'As Oito Stages do Tiro'!」"
+    "message": "「Levantar o arco, encaixar a flecha e soltá-la... Para fazer isso direito, seguimos uma sequência de movimentos chamada 'Shaho-Hassetsu', ou 'Os Oito Estágios do Tiro'!」"
   },
   {
     "name": "Takeru",
@@ -52,7 +52,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Um, na verdade, é só um arco de treino. Você não pode usar uma flecha logo de cara, então...」"
+    "message": "「Hã, na verdade, é só um arco de treino. Você não pode usar uma flecha logo de cara, então...」"
   },
   {
     "name": "Takeru",
@@ -99,7 +99,7 @@
   },
   {
     "name": "Takeru",
-    "message": "　──*freeze*"
+    "message": "　──*estático*"
   },
   {
     "name": "Takeru",
@@ -410,7 +410,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Ênfase...? Ah! C-Claro!!」"
+    "message": "「Hã...? Ah! C-Claro!!」"
   },
   {
     "name": "Miki",
@@ -470,7 +470,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Waaaaaaaaaahhh!!」"
+    "message": "「Uaaaaaaaaaahhh!!」"
   },
   {
     "name": "Takeru",
@@ -557,7 +557,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Umm... Bom, os samurais naquela época eram muito, mas muito formais.」"
+    "message": "「Hã... Bom, os samurais naquela época eram muito, mas muito formais.」"
   },
   {
     "name": "Takeru",
@@ -840,7 +840,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Wahahaha... Foi mal.\nMas acho faz sentido você saber toda a história sobre o que faz.」"
+    "message": "「Wahahaha... Foi mal.\nMas acho que faz sentido você saber toda a história sobre o que faz.」"
   },
   {
     "name": "Miki",
@@ -894,7 +894,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Pode deixar! Obrigada! Me divirtiti muito hoje!」"
+    "message": "「Pode deixar! Obrigada! Me diverti muito hoje!」"
   },
   {
     "name": "Takeru",

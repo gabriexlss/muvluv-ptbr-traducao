@@ -283,7 +283,7 @@
     "message": "「Vamos lá, Kei-chan.」"
   },
   {
-    "message": "...*catch!*"
+    "message": "...*ploc!*"
   },
   {
     "name": "Takeru",
@@ -298,7 +298,7 @@
     "message": "「Quando você estiver!」"
   },
   {
-    "message": "...*slap!!*"
+    "message": "...*pá!!*"
   },
   {
     "name": "Takeru",
@@ -564,7 +564,7 @@
   },
   {
     "name": "Sumika",
-    "message": "「\"Isso aí!\"」"
+    "message": "「Isso aí!」"
   },
   {
     "name": "Takeru",
@@ -727,7 +727,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Quêêê? Eu ir andando pra casa com você te acha estranho, Representante?」"
+    "message": "「Quêêê? Eu ir andando pra casa com você parece estranho pra você, Representante?」"
   },
   {
     "name": "Chizuru",
@@ -751,7 +751,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Por que você tá vindo até Tão longe?」"
+    "message": "「Por que você tá vindo até tão longe?」"
   },
   {
     "name": "Takeru",
@@ -846,7 +846,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「Lixe as mãos antes de tirá-lo da bolsa. Não coma com as mãos ainda sujas.」"
+    "message": "「Limpe as mãos antes de tirá-lo da bolsa. Não coma com as mãos ainda sujas.」"
   },
   {
     "name": "Takeru",
@@ -882,7 +882,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Nem fudendo que eu faria isso! Toma, pega um pouco de pão.」"
+    "message": "「Nem fodendo que eu faria isso! Toma, pega um pouco de pão.」"
   },
   {
     "name": "Chizuru",
@@ -890,7 +890,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Compre isso no lugar do meu lixo. Anda, come.」"
+    "message": "「Pega isso no lugar do meu lixo. Anda, come.」"
   },
   {
     "name": "Chizuru",
@@ -1118,7 +1118,7 @@
   },
   {
     "name": "Chizuru",
-    "message": "「...Vou para casa. Obrigado por isso.\nNão vou contar a ninguém sobre a sua falta de educação.」"
+    "message": "「...Vou para casa. Obrigada por isso.\nNão vou contar a ninguém sobre a sua falta de educação.」"
   },
   {
     "name": "Takeru",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Falando nisso, como vai o seu arqueria? Já parou de entrar em pânico?」"
+    "message": "「Falando nisso, como vai a sua arqueria? Já parou de entrar em pânico?」"
   },
   {
     "name": "Miki",
@@ -1408,7 +1408,7 @@
   },
   {
     "name": "Miki",
-    "message": "「É, mas é bem Difícil...」"
+    "message": "「É, mas é bem difícil...」"
   },
   {
     "name": "Takeru",
@@ -1448,7 +1448,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Não, eu sou! Você só está dizendo isso!! Você me ajuda o tempo todo, mas eu quase nunca te ajudo do jeito nenhum!!!!」"
+    "message": "「Não, eu sou! Você só está dizendo isso!! Você me ajuda o tempo todo, mas eu quase nunca te ajudo de jeito nenhum!!!!」"
   },
   {
     "name": "Takeru",
@@ -1488,7 +1488,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Certoooki!」"
+    "message": "「Certooo!」"
   },
   {
     "name": "Takeru",
@@ -1811,7 +1811,7 @@
   },
   {
     "name": "Miki",
-    "message": "「É, mas é bem Difícil...」"
+    "message": "「É, mas é bem difícil...」"
   },
   {
     "name": "Takeru",
@@ -1920,7 +1920,7 @@
     "message": "...Hã? A Ayamine está subindo o morro atrás da escola?"
   },
   {
-    "message": "O que será que ela vai fazer lá...?J"
+    "message": "O que será que ela vai fazer lá...?"
   },
   {
     "name": "Kei",
@@ -2381,7 +2381,7 @@
   },
   {
     "name": "Tsukuyomi",
-    "message": "「Trairei uma para você imediatamente.」"
+    "message": "「Trarei uma para você imediatamente.」"
   },
   {
     "message": "..."
@@ -2417,7 +2417,7 @@
     "message": "「Kamiyo, Tomoe e Ebisu compraram isto como substituto.」"
   },
   {
-    "message": "Droga...quelas... três......"
+    "message": "Droga... aquelas... três......"
   },
   {
     "name": "Meiya",
@@ -2448,7 +2448,7 @@
     "message": "「Enfim, voltando ao assunto...」"
   },
   {
-    "message": "...É impressão minha, or estou ficando cada vez mais irrelevante nessa conversa?"
+    "message": "...É impressão minha, ou estou ficando cada vez mais irrelevante nessa conversa?"
   },
   {
     "name": "Takeru",

@@ -214,7 +214,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Boa, Tama! Sua delinqüentezinha, hein〜! Mas não tá preocupada em ser pega?」"
+    "message": "「Boa, Tama! Sua delinquentezinha, hein〜! Mas não tá preocupada em ser pega?」"
   },
   {
     "name": "Miki",
@@ -578,43 +578,19 @@
   },
   {
     "name": "Takeru",
-    "message": "「Por que eu? Não fui eu quem fui desafiado para um duelo.」"
+    "message": "「Por que eu? Não fui eu quem foi desafiado para um duelo.」"
   },
   {
     "name": "Miki",
-    "message": "「«É verdade.»」"
+    "message": "「É verdade.」"
   },
   {
     "name": "Takeru",
-    "message": "「«Você não parece preocupada com isso de jeito nenhum.»」"
+    "message": "「Você não parece preocupada com isso de jeito nenhum.」"
   },
   {
     "name": "Miki",
-    "message": "「«Bem, eu nunca serei feliz se continuar fugindo a vida toda.»」"
-  },
-  {
-    "name": "Takeru",
-    "message": "「......」"
-  },
-  {
-    "name": "Miki",
-    "message": "「«...Naquela época, quando você perguntou se eu estava bem vivendo assim, eu sinceramente queria dizer que não...»」"
-  },
-  {
-    "name": "Takeru",
-    "message": "「«...No dia em que nós brigamos?»」"
-  },
-  {
-    "name": "Miki",
-    "message": "「«Mas eu pensei... se eu entrasse nisso assumindo que ia perder... então não doeria tanto se eu perdesse mesmo.»」"
-  },
-  {
-    "name": "Takeru",
-    "message": "「«...Entendi.»」"
-  },
-  {
-    "name": "Miki",
-    "message": "「«Até durante o último torneio, eu estraguei tudo logo de cara... e fiquei repetindo para mim mesma que não havia nada que eu pudesse fazer...»」"
+    "message": "「Bem, eu nunca serei feliz se continuar fugindo a vida toda.」"
   },
   {
     "name": "Takeru",
@@ -622,47 +598,23 @@
   },
   {
     "name": "Miki",
-    "message": "「«No começo, eu detestava a ideia de perder... e por isso queria treinar, para poder fazer isso sem entrar em pânico...»」"
+    "message": "「...Naquela época, quando você perguntou se eu estava bem vivendo assim, eu sinceramente queria dizer que não...」"
   },
   {
     "name": "Takeru",
-    "message": "「«É.»」"
+    "message": "「...No dia em que nós brigamos?」"
   },
   {
     "name": "Miki",
-    "message": "「«...Eu sabia que era isso o que eu tinha que fazer, mas...»」"
+    "message": "「Mas eu pensei... se eu entrasse nisso assumindo que ia perder... então não doeria tanto se eu perdesse mesmo.」"
   },
   {
     "name": "Takeru",
-    "message": "「«Você desistiu porque era difícil?»」"
+    "message": "「...Entendi.」"
   },
   {
     "name": "Miki",
-    "message": "「«Quando eu dizia a mim mesma que ia falhar de qualquer jeito mais cedo ou mais tarde, parava de ser tão doloroso.»」"
-  },
-  {
-    "name": "Takeru",
-    "message": "「......」"
-  },
-  {
-    "name": "Miki",
-    "message": "「«Então eu fui esquecendo aos poucos o quanto aquilo me frustrava...»」"
-  },
-  {
-    "name": "Takeru",
-    "message": "「«...Mas aí a frustração voltou, e por isso você sentiu vontade de tentar de novo?»」"
-  },
-  {
-    "name": "Miki",
-    "message": "「«Com certeza, o que aconteceu outro dia doeu muito. Mas depois, eu me senti frustrada... Pensei: 'Por que foi que eu apenas fugi...?'»」"
-  },
-  {
-    "name": "Takeru",
-    "message": "「«Entendi. Parece que aquele treino acabou servindo para alguma coisa, afinal.»」"
-  },
-  {
-    "name": "Miki",
-    "message": "「«Eu pensei comigo mesma... 'Quando foi que eu comecei a achar que fugir resolveria todos os meus problemas...?'»」"
+    "message": "「Até durante o último torneio, eu estraguei tudo logo de cara... e fiquei repetindo para mim mesma que não havia nada que eu pudesse fazer...」"
   },
   {
     "name": "Takeru",
@@ -670,23 +622,71 @@
   },
   {
     "name": "Miki",
-    "message": "「«Então eu acabei fugindo de verdade, literalmente... o que me fez perceber isso, pela primeira vez...»」"
+    "message": "「No começo, eu detestava a ideia de perder... e por isso queria treinar, para poder fazer isso sem entrar em pânico...」"
   },
   {
     "name": "Takeru",
-    "message": "「«...É mesmo.»」"
+    "message": "「É.」"
   },
   {
     "name": "Miki",
-    "message": "「«Isso me fez perceber... que eu sempre estive fugindo, no meu coração...»」"
+    "message": "「...Eu sabia que era isso o que eu tinha que fazer, mas...」"
   },
   {
     "name": "Takeru",
-    "message": "「«É...»」"
+    "message": "「Você desistiu porque era difícil?」"
   },
   {
     "name": "Miki",
-    "message": "「«Se você desiste de si mesma desde o começo... é claro que não vai se divertir com nada...»」"
+    "message": "「Quando eu dizia a mim mesma que ia falhar de qualquer jeito mais cedo ou mais tarde, parava de ser tão doloroso.」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Então eu fui esquecendo aos poucos o quanto aquilo me frustrava...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...Mas aí a frustração voltou, e por isso você sentiu vontade de tentar de novo?」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Com certeza, o que aconteceu outro dia doeu muito. Mas depois, eu me senti frustrada... Pensei: 'Por que foi que eu apenas fugi...?'」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「Entendi. Parece que aquele treino acabou servindo para alguma coisa, afinal.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Eu pensei comigo mesma... 'Quando foi que eu comecei a achar que fugir resolveria todos os meus problemas...?'」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「......」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Então eu acabei fugindo de verdade, literalmente... o que me fez perceber isso, pela primeira vez...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「...É mesmo.」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Isso me fez perceber... que eu sempre estive fugindo, no meu coração...」"
+  },
+  {
+    "name": "Takeru",
+    "message": "「É...」"
+  },
+  {
+    "name": "Miki",
+    "message": "「Se você desiste de si mesma desde o começo... é claro que não vai se divertir com nada...」"
   },
   {
     "message": "Você tem tanta razão..."
@@ -703,11 +703,11 @@
   },
   {
     "name": "Takeru",
-    "message": "「...Entendi.\n Que bom saber disso.」"
+    "message": "「...Entendi.\nQue bom saber disso.」"
   },
   {
     "name": "Miki",
-    "message": "「E eu sou muito mais feliz agora que finalmente me lembrei disso... Agora que fiz as pazes com esse sentimento」"
+    "message": "「E eu sou muito mais feliz agora que finalmente me lembrei disso... Agora que fiz as pazes com esse sentimento.」"
   },
   {
     "name": "Takeru",
@@ -741,7 +741,7 @@
     "message": "「Bom, tanto faz...」"
   },
   {
-    "message": "────Hã!? schist"
+    "message": "────Hã!?"
   },
   {
     "message": "──Calma... Do que é que eu tô rindo!?"
@@ -842,7 +842,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Huf... Fuf... É um anman tão bon...」"
+    "message": "「Huf... Fuf... É um anman tão bom...」"
   },
   {
     "name": "Takeru",
@@ -922,7 +922,7 @@
   },
   {
     "name": "Miki",
-    "message": "「Nãoóó! Eu nunca faria uma coisa dessas.」"
+    "message": "「Nããão! Eu nunca faria uma coisa dessas.」"
   },
   {
     "name": "Takeru",
@@ -937,7 +937,7 @@
   },
   {
     "name": "Takeru",
-    "message": "「Opa,espera aí.」"
+    "message": "「Opa, espera aí.」"
   },
   {
     "name": "Miki",
